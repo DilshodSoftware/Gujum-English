@@ -1,0 +1,807 @@
+# unit_2 — inglizcha lug'at (darslar bo'yicha)
+# dars	so'z / gap / ibora
+19, 20	I read books
+19	Ali plays football
+19	The dog likes milk
+19	My sister reads
+19	I read a book
+19, 20, 21	She likes music
+19	They see the teacher
+19, 22, 23, 27	I
+19, 21, 22, 27	eat
+19	apples
+19, 20	Subject
+19, 20	Verb
+19, 20	Object
+19, 20	Birds fly
+19, 21	The baby sleeps
+19	Birds eat seeds
+19	I know him
+19	She helps me
+19	We see them
+19	a book
+19	I am a student
+19	She is happy
+19, 22, 23	She likes tea
+19	He likes me
+19	Subject + Verb + Object
+19	she likes
+19, 20, 21, 24, 27	read
+19	read a book
+19	eat an apple
+19, 20, 21, 28	like
+19	like music
+19, 20, 21, 24, 27, 28	play
+19	play football
+19	see
+19	see a bird
+19	I see Ali
+19	Tom reads a book
+19	Tom
+19, 20, 21, 28	reads
+19	My sister likes chocolate
+19	My sister
+19, 20, 21	likes
+19	chocolate
+19, 20	Subject + Verb (+ Object)
+19	me
+19, 21, 23, 27	you
+19, 21, 23	he
+19	him
+19, 21, 23	she
+19	her
+19, 21, 23, 25	it
+19, 23	we
+19	us
+19, 23	they
+19	them
+19	Sam plays football
+19	We like apples
+19	They watch a film
+19	My mother reads a book
+19	Subject Sam
+19	Verb plays
+19	Object football
+19	We
+19	The baby
+19, 20, 21	sleeps
+19, 22	They
+19, 20, 21, 27	watch
+19	a film
+19	My mother
+19	reads / Amina / books
+19	the dog / likes / water
+19	football / play / We
+19	sleeps / My brother
+19	music / They / like
+19	Amina reads books
+19	The dog likes water
+19, 26	We play football
+19	My brother sleeps
+19	They like music
+19	I, she, reads, likes, books, tea
+19	I read a book / I read books
+19	SUBJECT
+19	VERB
+19	OBJECT
+19	The boy eats an apple
+19	My mother reads a story
+19	the boy
+19, 21	eats
+19	an apple
+19	football
+19	Birds
+19	fly
+19	a story
+19	the teacher
+19	apples / eat / I
+19	a book / reads / Sara
+19	the dog / they / see
+19	music / likes / my brother
+19	sleep / the babies
+19	helps / us / our teacher
+19	I eat apples
+19	Sara reads a book
+19	They see the dog
+19	My brother likes music
+19	The babies sleep
+19	Our teacher helps us
+19	She knows me
+19	They help us
+19	My father calls Ali
+19	Sara likes her
+19, 22	She
+19	I read ___
+19	(a magazine)
+19	We like ___
+19	our school
+19	a magazine
+19	The children
+19	My friend
+19	Cats
+19, 21	sleep
+19	visit
+19	our grandmother
+19	The children watch a film
+19	My friend likes chocolate
+19	Cats sleep
+19	We visit our grandmother
+19	My sister reads a book
+19	I know her
+20	I go to school every day
+20	She reads before bed
+20, 21	The sun rises in the east
+20	My father drives a car
+20, 21	I work
+20	You work
+20	We work
+20	They work
+20, 21	He works
+20	We read
+20, 21	She reads
+20, 23	They live here
+20	Ali lives here
+20	The cat sleeps
+20, 21	study
+20, 21, 28	studies
+20, 21	cry
+20, 21	cries
+20, 21	carry
+20, 21	carries
+20, 22	She studies English
+20, 21	plays
+20, 21	enjoy
+20, 21	enjoys
+20, 21	buy
+20, 21	buys
+20	He plays on Sundays
+20	I brush my teeth every morning
+20	He plays football on Sundays
+20	We visit our grandmother every week
+20	Birds have wings
+20	I play football
+20, 21	He studies
+20, 21	They go
+20, 21	Tom has a bike
+20, 28	Present Simple
+20, 26	I read every day
+20	work, play
+20	to read
+20	to work
+20, 21, 24, 27	work
+20	to play
+20	to live
+20, 21	live
+20	to like
+20, 21	he / she / it + verb-s
+20	Tom works , Anna reads , the dog sleeps
+20, 21	pass
+20, 21	passes
+20	The car passes
+20, 21	wash
+20, 21, 28	washes
+20	He washes his hands
+20, 21	watches
+20	She watches TV
+20, 21	fix
+20, 21	fixes
+20	Tom fixes the bike
+20, 21, 22, 24	go
+20, 21, 28	goes
+20	He goes to school
+20, 21, 23, 25	do
+20, 21, 23, 24	does
+20, 21	She does her homework
+20, 21	have
+20, 21	has
+20	She has a sister
+20, 21	be
+20, 21, 23, 24, 27	is
+20	He is a teacher
+20	It does the job
+20	Tom goes home
+20	I am, you/we/they are, he/she/it is
+20	Every day
+20, 21	She plays
+20, 21	He ___ to school every day
+20, 21	(go)
+20, 21	I ___ my room on Saturdays
+20, 21	(clean)
+20, 21	Anna ___ English at home
+20, 21	(study)
+20, 21	My father ___ a car
+20, 21	(have)
+20, 21	You ___ very fast
+20, 21	(run)
+20, 21	The teacher ___ the lesson
+20, 21	(teach)
+20, 21	My friends ___ music
+20, 21	clean
+20, 21, 27	run
+20, 21	teaches
+20, 21	every day / I / English / study
+20, 21	watches / my father / TV / in the evening
+20, 21	football / play / they / on Sundays
+20, 21	the east / in / rises / the sun
+20, 21	I study English every day
+20, 21	My father watches TV in the evening
+20, 21, 28	They play football on Sundays
+20, 21	They play
+20, 21	he watches
+20, 21	Anna studies
+20	has , be
+20, 22, 23, 24	I / you / we / they
+20	I walk to school every day
+20, 27	She is cooking now
+20	We visit Grandma on Sundays
+20, 28	They are playing at the moment
+20, 28	Present Continuous
+20	stops
+20	opens
+20	We ___ English at school
+20	(drive)
+20	(live)
+20	A baby ___ a lot
+20	(sleep)
+20	I ___ my room every Saturday
+20, 28	drives
+20	every morning / tea / drink / I
+20	English / studies / Sara / at home
+20	play / on Sundays / they / football
+20	water / plants / need
+20, 28	I drink tea every morning
+20	Sara studies English at home
+20, 28	Plants need water
+20	I read a book every day
+20	My brother plays football on Sundays
+20	We live near the school
+20	Cats drink milk
+21	You read
+21	They sleep
+21	Ali
+21	Ali works
+21	Madina
+21	Madina reads
+21	The dog
+21	The dog sleeps
+21	My father works at home
+21	The cat eats fish
+21	He watches TV
+21	She goes to school
+21	Tom does his homework
+21	Anna studies English
+21	The baby cries at night
+21	My boy enjoys music
+21	He plays football
+21	He plays
+21	Ali and Madina work
+21, 28	works
+21	lives
+21	She has a dog
+21	He is happy
+21	I am , you/we/they are , he/she/it is
+21	he is
+21	read, watch, study, play, wash, go, enjoy, fix, cry, have
+21	A
+21	reads, plays, enjoys
+21	watches, washes, goes, fixes
+21	studies, cries
+21	he ___
+21	she ___
+21	my brother ___
+21	the girl ___
+21	Tom ___
+21	it ___
+21	Anna ___
+21	my uncle
+21	the children
+21	the bus
+21	Ali and Sara
+21	flies
+21	My brother fixes bicycles
+21	The cat sleeps on the sofa
+22	My friends ___ eat meat
+22	My uncle ___ work on Sundays
+22	I ___ watch TV in the morning
+22	The shop ___ open at night
+22	You ___ need a ticket
+22	A cat ___ usually like water
+22	We ___ live near the airport
+22, 25	don’t
+22, 25	doesn’t
+22	I drink coffee
+22	She speaks Spanish
+22	They play basketball
+22	The bus stops here
+22	My brother studies at night
+22	I don’t drink coffee
+22	She doesn’t speak Spanish
+22	They don’t play basketball
+22	The bus doesn’t stop here
+22	My brother doesn’t study at night
+22	He doesn’t drive a car
+22	We don’t eat fish
+22	Anna doesn’t go to school by bus
+22	drive
+22	I ___ like cold tea
+22	She ___ at home today
+22	(to be)
+22	They ___ work on Fridays
+22	He ___ a teacher
+22	My dog ___ sleep in the kitchen
+22, 25	isn’t
+22	He doesn’t work on Sundays
+22	We don’t live in this city
+22	Cats don’t eat carrots
+22	You don’t work here
+22	We don’t play tennis
+22	They don’t live in London
+22	He doesn’t drink coffee
+22	She doesn’t work on Sundays
+22	The shop doesn’t open at night
+22	Ali doesn’t play tennis
+22, 23	She doesn’t like tea
+22	She is not tired
+22	She doesn’t work
+22	He doesn’t work
+22	Anna doesn’t study French
+22	He is not at home
+22	He doesn’t live here
+22	They don’t work
+22	He doesn’t play
+22	I don’t like coffee
+22	Don’t
+22	Doesn’t
+22, 23, 27	he / she / it
+22	I / you / we / they + don’t + verb he / she / it + doesn’t + verb
+22	She works
+22	do not
+22	does not
+22	I like tea
+22	I don’t like tea
+22	They play football
+22	They don’t play football
+22	He
+22	He likes tea
+22	He doesn’t like tea
+22	She doesn’t study English
+22	I ___ eat meat
+22	She ___ work here
+22	They ___ study at night
+22	My brother ___ watch TV
+22	You ___ need a car
+22	The dog ___ like milk
+22	I play tennis
+22	He likes coffee
+22	Anna studies Spanish
+22	I don’t play tennis
+22	He doesn’t like coffee
+22	Anna doesn’t study Spanish
+22	He / she / it
+23	___ you speak English?
+23	___ your sister work here?
+23	___ the children need help?
+23	___ the bus stop near the school?
+23	___ we have enough time?
+23	___ Ali and Sam play tennis?
+23, 24	Do
+23, 24	Does
+23	___ he ___ (like) pizza?
+23	___ they ___ (watch) films?
+23	___ Sara ___ (study) English?
+23	___ your parents ___ (work) here?
+23	Does he like pizza?
+23	Do they watch films?
+23	Does Sara study English?
+23	Do your parents work here?
+23, 24, 25	Do you like music?
+23	I do my homework after school
+23	Does he do the dishes?
+23	They do exercise every morning
+23	___ you play chess?
+23	He ___ not like tea
+23	___ she happy?
+23	They ___ not work here
+23	My brother ___ a doctor
+23, 24	Is
+23	He plays tennis
+23	You need a pen
+23	Sara reads at night
+23	They don’t live here
+23	He doesn’t play tennis
+23	Do you need a pen?
+23	Does Sara read at night?
+23, 24	You like tea
+23	You don’t like tea
+23, 24, 25	Do you like tea?
+23	Does he do his homework?
+23, 25	Does she like tea?
+23	Is she happy?
+23	She is not happy
+23	they, my friends
+23	he, Ali, my brother
+23	she, Sara, my mother
+23	it, the dog, the bus
+23	do he / she / it
+23	I do my homework
+23, 25	Do you work?
+23	do / don’t
+23	does / doesn’t
+23	___ you play football?
+23	___ they live in Tashkent?
+23	___ the dog like milk?
+23	___ we need a book?
+23	___ Ali speak English?
+23	Does he like apples?
+23, 25	Do they work here?
+23	She doesn’t play tennis
+23	Does your teacher speak English?
+24	___ your friends speak English?
+24	___ your mother drive?
+24	___ we start now?
+24	___ this bus go to the station?
+24	___ I need a coat?
+24	you / do / live / where / ?
+24	does / what / she / cook / ?
+24	they / when / do / study / ?
+24	why / he / does / run / ?
+24	do / your friends / music / like / ?
+24	Where do you live?
+24	What does she cook?
+24	When do they study?
+24	Why does he run?
+24	Do your friends like music?
+24	___ do you live?
+24	___ does he have for breakfast?
+24	___ do you go to bed?
+24	___ does Sara walk to school?
+24	___ do they travel?
+24	Where
+24	What
+24	When
+24	Why
+24	How
+24	___ you tired?
+24	___ you like apples?
+24	Where ___ she?
+24	Where ___ she work?
+24	___ Ali a student?
+24	Are
+24	They play chess
+24	He works at a bank
+24	You eat lunch at twelve
+24	She likes this song
+24	Do they play chess?
+24	Where does he work?
+24	When do you eat lunch?
+24	Does she like this song?
+24	Who is your teacher?
+24	Why does he study?
+24	Do I need a pen?
+24	Do you speak English?
+24	Do we start now?
+24, 25	Do they live here?
+24, 25	Does he work here?
+24	Does Sara like music?
+24	Does the bus stop here?
+24	She reads books
+24	Does she read books?
+24	Does Tom play tennis?
+24	Does your sister read?
+24	Do Ali and Sam work here?
+24	she + like + tea
+24	they + work + here
+24	What do you eat?
+24	Where does she live?
+24, 25	Are you happy?
+24	Is she a teacher?
+24	Does she teach English?
+24, 25	Does he play football?
+24	Does she like music?
+24	Does Ali work here?
+24	Do they play?
+24	Do he / she / it
+24	Question word + do/does + subject + verb?
+24	___ you read every day?
+24	___ he speak English?
+24	___ the children play here?
+24	___ your mother work?
+24	___ it rain here?
+24	___ we need a ticket?
+24	you / do / coffee / like / ?
+24	does / where / he / work / ?
+24	she / does / books / read / ?
+24	do / they / when / study / ?
+24, 25	Do you like coffee?
+25	Are you…?
+25	Do you like apples?
+25	Yes, ___ ___
+25	No, ___ ___
+25	Do they study English?
+25	Does your sister drive?
+25	Are you tired?
+25	Is the shop open?
+25	I do
+25	he doesn’t
+25	they do
+25	she doesn’t
+25	I am
+25	it isn’t
+25	Do you live here?
+25	Does Ali play football?
+25	Do Ali and Sam work together?
+25	Does the cat sleep outside?
+25	Yes, I do
+25	Yes, he does
+25	Yes, they do
+25	Yes, it does
+25	No, she doesn’t work at night
+25	Yes, they are
+25	No, he doesn’t
+25	Do you play chess?
+25	Yes, I ___
+25	Are you a student?
+25	No, she ___
+25	Is he at school?
+25	No, he ___
+25	No, they ___
+25, 27	am
+25	Does Mina read?
+25	(Yes, she does
+25	/ Yes, she do.)
+25	Do you eat meat?
+25	(No, I don’t
+25	/ No, you don’t.)
+25	Is Tom ready?
+25	(Yes, he is
+25	/ Yes, he does.)
+25	Are they at home?
+25	(No, they aren’t
+25	/ No, they don’t.)
+25	Yes, she does
+25	No, I don’t
+25	Yes, he is
+25	No, they aren’t
+25	Do you read every day?
+25	Are you at home now?
+25	/ No, I don’t
+25	Yes, I am
+25	/ No, I’m not
+25	Do we need a ticket?
+25	Does Sara speak English?
+25	Does the shop open early?
+25	Do you work here?
+25	Does Ali study English?
+25	Does Madina work here?
+25	Do Ali and Sam play?
+25	Do you read books?
+25	Does she work?
+25	Is she at home?
+25	Does she read?
+25	Do they work?
+25	No, they don’t
+25	Yes, + subject + do
+25	No, + subject + don’t
+25	Yes, + he / she / it + does
+25	No, + he / she / it + doesn’t
+25	Sara
+25	she , the shop
+25	Don’t/doesn’t
+25	Does he play tennis?
+25	Does Sara work here?
+25	Are you ready?
+25	Does your brother read?
+25	(Yes, he do
+25	Do you play tennis?
+25	(Yes, they are
+25	/ Yes, they do.)
+25	Does the cat sleep?
+25	(No, it doesn’t
+25	/ No, it don’t.)
+25	No, it doesn’t
+26	I sometimes read
+26	I always drink water
+26	We usually walk to school
+26	They often play football
+26	She sometimes reads at night
+26	He rarely watches TV
+26	I never eat meat
+26	I am always busy
+26	She is usually happy
+26	They are often at home
+26	every day
+26, 28	every morning
+26	once a week
+26	twice a month
+26, 28	on Sundays
+26	I call my grandmother every week
+26	He plays tennis on Sundays
+26	I always drink tea
+26	She often reads books
+26	He is always late
+26	always
+26, 28	usually
+26	often
+26	sometimes
+26	rarely
+26	never
+26	She often reads
+26	To be
+26	She is often tired
+26	I / drink / always / tea
+26	She / is / usually / happy
+26	They / often / play / football
+26	He / late / is / never
+26	He is never late
+26	I usually work at home
+26	She never drinks coffee
+26	We sometimes play football
+26	I often read
+26	She is often busy
+26	I / drink / always / water
+26	They / are / often / late
+26	My sister / usually / walks / to school
+26	He / is / never / angry
+26	We / sometimes / watch / films
+26	They are often late
+26	My sister usually walks to school
+26	He is never angry
+26	We sometimes watch films
+26	I always eat breakfast
+26	She always is kind
+26	He is usually at home
+26	They play often football
+26	We never are tired
+26	Sara sometimes reads at night
+26	She is always kind
+26	We are never tired
+26	I call my aunt
+26	(once a week)
+26	(on Fridays)
+26	He visits the library
+26	every month
+26	I call my aunt once a week
+26, 28	We play football on Fridays
+26	He visits the library every month
+26	I usually drink tea in the morning
+26	She sometimes reads books
+26	We are never late
+26	They are often in the park
+27, 28	I am reading now
+27, 28	She is cooking
+27	They are playing football
+27	I am + reading
+27	He is + sleeping
+27	They are + working
+27	We are watching a film
+27	The baby is eating
+27	make
+27	making
+27	write
+27	writing
+27	come
+27	coming
+27	She is making dinner
+27	running
+27	sit
+27	sitting
+27	swim
+27	swimming
+27	The boy is running
+27	now
+27, 28	right now
+27, 28	at the moment
+27	today
+27	I am studying English now
+27	He is working at the moment
+27	I am reading
+27	They are playing
+27	Subject + am / is / are + Verb-ing
+27	Subject + am/is/are
+27	I am working
+27	are
+27	You are working
+27	She is working
+27	we / they
+27	They are working
+27	he/she/it
+27	you/we/they
+27	reading
+27	playing
+27	working
+27	watching
+27	eating
+27	I ___ reading
+27	He ___ running
+27	We ___ eating
+27	The cat ___ sleeping
+27	You ___ working
+27	They ___ playing
+27	She ___ (cook) now
+27	They ___ (play) football
+27	I ___ (write) a message
+27	The boy ___ (run) at the moment
+27	I am writing a message
+27	The boy is running at the moment
+27	She is reading now
+27	I ___ writing a message
+27	The children ___ playing outside
+27	My mother ___ cooking dinner
+27	You ___ listening to music
+27	The dog ___ running in the garden
+27	We ___ learning English
+27	dance
+27	dancing
+27	She ___ (read) a story now
+27	They ___ (swim) at the moment
+27	I ___ (make) breakfast
+27	Tom ___ (sit) by the window
+27	We ___ (watch) a film right now
+27	She is reading a story now
+27	They are swimming at the moment
+27	I am making breakfast
+27	Tom is sitting by the window
+27	We are watching a film right now
+27, 28	Look!
+27	Listen!
+27, 28	is sleeping
+27	are singing
+27	is driving
+27	are having
+27	I am studying now
+27	The boys are running in the park
+27	Mina is writing a letter at the moment
+28	I walk to work every day
+28	It is raining
+28	My sister is staying with us this week
+28	They play tennis on Saturdays
+28	We are having dinner now
+28	He likes orange juice
+28	Be quiet!
+28	am working
+28	are eating
+28	know
+28	Sara ___ (study) now
+28	The children ___ (play) outside at the moment
+28	My uncle ___ (visit) us once a month
+28	We ___ (stay) at a hotel this week
+28	is studying
+28	don’t like
+28	are playing
+28	visits
+28	are staying
+28	/ I am reading now
+28	She works every day
+28	She is working now
+28	I am staying with my aunt this week
+28	every day, usually, often
+28	now, right now, at the moment
+28	on Sundays, every morning
+28	He usually walks to work
+28	He is walking to work now
+28	I like this song
+28	She knows my name
+28	They want some water
+28	I work every day
+28	I am working now
+28	They are playing now
+28	He goes to work every day
+28	I / you / we / they + verb he / she / it + verb-s / -es / -ies
+28	Subject + am / is / are + verb-ing
+28	I am drinking tea now
+28	He reads before bed
+28	He is reading now
+28	We are playing football now
+28	She works at a school
+28	She is working at home today
+28	She cooks
+28	drink
+28	walks
+28	She ___ (read) every night
+28	She ___ (read) a book now
+28	They ___ (play) tennis on Sundays
+28	They ___ (play) tennis at the moment
+28	I ___ (write) a message right now
+28	My brother ___ (go) to work every day
+28	is reading
+28	am writing

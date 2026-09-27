@@ -1,0 +1,445 @@
+# unit_5 — inglizcha lug'at (darslar bo'yicha)
+# dars	so'z / gap / ibora
+49, 55	was
+49, 53	were
+49	I ___ at home last night
+49	My friends ___ tired yesterday
+49	The weather ___ cold
+49	You ___ very kind
+49	Ali and Sara ___ at the park
+49	The book ___ on the desk
+49	She was busy yesterday
+49	We were at school
+49	The film was interesting
+49	They were late
+49	She wasn’t busy yesterday
+49	The film wasn’t interesting
+49	He was at work
+49	You were happy
+49	The children were hungry
+49	It was sunny yesterday
+49	Was he at work?
+49	Were you happy?
+49	Were the children hungry?
+49	Was it sunny yesterday?
+49, 55	Were you at home?
+49	Was Sara tired?
+49	Were they friends?
+49	Was the shop open?
+49, 55	Yes, I was
+49	No, she wasn’t
+49, 55	Yes, they were
+49, 55	No, it wasn’t
+49	I was at the cinema ___ night
+49	They were in Bukhara ___ week
+49	He was sick two days ___
+49	We were busy ___
+49	last
+49	ago
+49, 50, 51	yesterday
+49	I was a student
+49	He was a doctor
+49	She was happy
+49	The weather was cold
+49	We were tired
+49	I was at home yesterday
+49	They were at school
+49, 50, 51	last night
+49, 51	last week
+49	last year
+49, 50, 51	two days ago
+49	We were at the park last Sunday
+49	I was not tired
+49	He was not at school
+49	They were not ready
+49	Was she at home?
+49, 54, 55	Were you tired?
+49	Was he sick?
+49, 55	Were they late?
+49, 55	Was he at home?
+49	She wasn’t tired
+49	I was tired
+49, 52, 55	I
+49, 52	he / she / it
+49	She was at home
+49	Ali was happy
+49	you / we / they
+49	They were friends
+49	The books were new
+49	Subject + was / were + not + ..
+49	was not
+49, 52	wasn’t
+49	were not
+49	Was / Were + subject + ...?
+49, 52	I ___ at home yesterday
+49	The children ___ happy
+49	Ali ___ tired last night
+49	You ___ late
+49	The books ___ on the desk
+49	My mother ___ at work
+49, 54	She was at school
+49	I was busy yesterday
+49	She was not at school
+49	We were not tired
+49	I was not busy yesterday
+49	He was a student
+49	They were at the park
+49	You were ready
+49	Was he a student?
+49	Were they at the park?
+49	Were you ready?
+50, 51	work
+50, 51	worked
+50, 52, 53	play
+50	played
+50	clean
+50, 51	cleaned
+50	watch
+50	watched
+50	I worked yesterday
+50	She worked yesterday
+50	They worked yesterday
+50	We visited our grandmother
+50	He opened the window
+50	live
+50	lived
+50	like
+50	liked
+50	use
+50	used
+50	We lived in Tashkent
+50, 52	study
+50	studied
+50	try
+50	tried
+50	cry
+50	cried
+50	enjoy
+50	enjoyed
+50	stay
+50	stayed
+50	stop
+50	stopped
+50	plan
+50	planned
+50	The bus stopped here
+50	last night / last week
+50	in 2024
+50	She visited her friend
+50	They played football last week
+50	I, you, he, she, we, they
+50	help
+50	helped
+50	open
+50	opened
+50	visit
+50, 51	visited
+50	start
+50	started
+50	finish
+50	finished
+50	ask
+50	asked
+50, 51	wanted
+50	I ___ my room yesterday
+50	(clean)
+50	Sara ___ English last year
+50	(study)
+50	We ___ at home last night
+50	(stay)
+50	The bus ___ near the school
+50	(stop)
+50	They ___ their grandmother last week
+50	I worked, she worked, they worked
+50	carry
+50	We ___ the room yesterday
+50	He ___ his aunt last week
+50	(visit)
+50	I ___ the door an hour ago
+50	(open)
+50	Sara ___ English yesterday
+50	every day
+50	We watched a film ___
+50	I visit my grandmother ___
+50	She called me ___
+51, 52, 53	go
+51	went
+51, 52, 53	eat
+51	ate
+51	I went home
+51	She went home
+51, 54	They went home
+51	We ate breakfast at home
+51	He saw his friend yesterday
+51	They bought a new book
+51	I wrote a message last night
+51	Sara made a cake
+51	in 2023
+51	I went to the park yesterday
+51	We saw Anna last week
+51	I was at home
+51	They were happy
+51	I + went + to school
+51	She + ate + an apple
+51	They + saw + a film
+51	come
+51	came
+51, 52, 53	see
+51	saw
+51	drink
+51	drank
+51	have
+51	had
+51, 53	do
+51, 53, 55	did
+51	get
+51	got
+51	make
+51	made
+51	take
+51	took
+51	give
+51	gave
+51, 53	buy
+51	bought
+51	say
+51	said
+51	tell
+51	told
+51	find
+51	found
+51	think
+51	thought
+51	sleep
+51	slept
+51	meet
+51	met
+51	run
+51	ran
+51	write
+51	wrote
+51	read
+51	He goes
+51	I went, he went, they went
+51	was/were
+51	We ___ home late
+51	(come)
+51, 53	I ___ my homework yesterday
+51	(do)
+51	He ___ a sandwich
+51	(eat)
+51	They ___ their keys
+51	(find)
+51	My friend ___ me a story
+51	5–A
+51	We ___ to the park yesterday
+51	(go)
+51	She ___ a sandwich for lunch
+51	I ___ my friend at the shop
+51	(see)
+51	They ___ a new table last month
+51	(buy)
+51	wanted, cleaned, visited
+51	went, bought, saw
+51	I went to the market yesterday
+51	My sister made a cake last night
+51	We saw our teacher two days ago
+52	I ___ watch TV yesterday
+52	He ___ visit his uncle
+52	We ___ go to the park
+52	Sara ___ eat breakfast
+52	They ___ play tennis last week
+52	He worked last night
+52	We went to school by bus
+52	Anna bought a new bag
+52	They watched the match
+52	We didn’t go to school by bus
+52	Anna didn’t buy a new bag
+52	She ___ call me
+52	They ___ tired last night
+52	We ___ see the teacher
+52	We didn’t come here last week
+52	They did not play football
+52	I worked
+52	She went
+52	I wasn’t at home
+52	They didn’t visit us last week
+52	I didn’t see him two days ago
+52	She wasn’t happy
+52	I wasn’t tired
+52	you
+52	we / they
+52	did not work
+52	did not go
+52	did not eat
+52	He ___ go to work
+52	We ___ eat breakfast early
+52	They ___ see the film
+52	Sara ___ study last night
+52, 54	She played tennis
+52	We went to the park
+52	Ali ate lunch
+52	They visited their friends
+52	We didn’t go to the park
+53	I do my homework every day
+53	I did my homework yesterday
+53	She did the dishes last night
+53, 54, 55	Did you work yesterday?
+53	Did you do your homework?
+53	Do you play?
+53	Did you play?
+53	Does he work?
+53	Did he work?
+53	She doesn’t go
+53, 54	Was she tired?
+53, 55	Did she work?
+53	He wasn’t at home
+53, 55	Did she go?
+53	Did they work?
+53	Did you do homework?
+53	I did homework
+53, 54	Did
+53	Was/were
+53	Did you see Ali?
+53	They did the work last week
+53, 54, 55	Did you work?
+53	I did my homework
+53, 55	Did you call your friend?
+53	She did her homework yesterday
+53	They did the exercise last night
+53	___ you ___ your homework last night?
+53	He ___ the work yesterday
+53	Did, do
+53	Do you play football?
+53	Does she work here?
+53	He doesn’t eat meat
+53	Did you play football?
+53	Did she work here?
+53	___ he at home yesterday?
+53	___ he go home yesterday?
+53	They ___ not ready
+53	They ___ not finish the work
+53, 54	Was
+54	You worked yesterday
+54	Did I call you?
+54	Did he call you?
+54	Did they call you?
+54	Did Sara call you?
+54	Did she play tennis?
+54	Did they go home?
+54	Where did you go?
+54	What did she eat?
+54	When did they arrive?
+54	Why did he leave?
+54	Were they at home?
+54	Did he see the film?
+54	Did they visit you?
+54	Did you go to school yesterday?
+54	played, went, saw
+54	Question word + did + subject + base verb?
+54	You watched TV
+54	He went to work
+54	They ate breakfast
+54	Did you watch TV?
+54	Did he go to work?
+54	Did they eat breakfast?
+54	___ you see the film?
+54	___ she at home?
+54	___ they play tennis?
+54	___ Ali tired?
+54	To be
+54	Where did they go?
+54	___ you see the movie?
+54	___ they at the station?
+54	___ Sara call you?
+54	___ he tired last night?
+54	___ your parents travel last year?
+54	Were
+54	You cleaned your room
+54	He bought a new phone
+54	They visited their cousins
+54	Did you clean your room?
+54	Did he buy a new phone?
+54	Did they visit their cousins?
+54	Was she at school?
+54	___ did you go?
+54	___ did they arrive?
+54	___ did he eat?
+54	___ did she stay home?
+54	Where
+54	When
+54	What
+54	Why
+54	did / what / you / buy / ?
+54	where / they / did / stay / ?
+54	she / did / when / call / ?
+54	was / why / he / late / ?
+54	What did you buy?
+54	Where did they stay?
+54	When did she call?
+54	Why was he late?
+54	___ he work here now?
+54	___ he work here last year?
+54	___ she at home yesterday?
+54	___ they play tennis last Sunday?
+54	Does
+55	Did she call?
+55	Did they arrive on time?
+55	Did you go home?
+55	Did she eat?
+55	When did you arrive?
+55	Where did she go?
+55	Was he tired?
+55	Did you see him?
+55	Yes, I did
+55	Ali
+55	he
+55	Sara
+55	she
+55	Yes, she did
+55	the dog / it
+55	it
+55	Yes, it did
+55	we
+55	they
+55	Yes, they did
+55	Do you...?
+55	Do you work?
+55	Yes, I do
+55	Did you study?
+55	Yes, I ___
+55	Did Ali go?
+55	No, he ___
+55	Did they eat?
+55	Yes, they ___
+55	Did Sara call?
+55	No, she ___
+55	(Yes, she did
+55	/ Yes, she was.)
+55	/ No, he wasn’t.)
+55	Did you see the film?
+55	/ No, I wasn’t.)
+55	No, he wasn’t
+55	/ No, I wasn’t
+55	Did he play football?
+55	Did they come early?
+55	Did Sara buy a new bag?
+55	Did we finish the work?
+55	Yes, we did
+55	Was Ali at home?
+55	Were the children happy?
+55	Was it cold yesterday?
+55	Was she busy?
+55	Did he see you?
+55	Did you…?
+55	Yes, ___ did
+55	Did Anna…?
+55	Did the boys…?
+55	Was your father…?
+55	Yes, ___ was
+55	Did you watch the film?
+55	Yes, I watched the film
+55	Did she go to work?
+55	No, she didn’t go to work
+55	Were they at school?
+55	Yes, they were at school

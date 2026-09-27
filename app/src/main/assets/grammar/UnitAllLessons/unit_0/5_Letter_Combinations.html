@@ -1,0 +1,169 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+  <meta name="theme-color" content="#f5f7fa">
+  <title>5-dars. Letter Combinations — Harf birikmalari</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #f5f7fa; color: #1e2b3c; font-family: 'Segoe UI', Roboto, system-ui, -apple-system, sans-serif; line-height: 1.7; padding: 14px 10px 40px; }
+    .lesson { max-width: 590px; margin: 0 auto; padding: 22px 18px 30px; background: #fff; border-radius: 24px; box-shadow: 0 6px 20px rgba(0,0,0,.05); }
+    h1 { color: #0f2b3d; font-size: 1.5rem; line-height: 1.25; margin-bottom: 6px; }
+    .subhead { color: #4a6a85; font-size: .98rem; margin-bottom: 22px; padding-bottom: 14px; border-bottom: 2px solid #e6edf5; }
+    h2 { color: #174a6b; font-size: 1.17rem; margin: 25px 0 10px; padding-bottom: 5px; border-bottom: 1px solid #dbe4ed; }
+    h3 { color: #1d4d6b; font-size: 1.02rem; margin: 17px 0 8px; }
+    p { margin: 10px 0; font-size: .98rem; }
+    strong { color: #0f3b4f; }
+    .card, .example, .rule, .exercise, .answers, .pronunciation { margin: 12px 0; padding: 12px 14px; border-radius: 12px; }
+    .card { background: #f9fcff; border-left: 4px solid #2e7ea3; }
+    .blue { background: #eef6fe; border-left-color: #2a7faa; }
+    .green { background: #edf7f0; border-left-color: #2e8b57; }
+    .amber { background: #fff6e5; border-left-color: #d9822b; }
+    .rose { background: #ffeef0; border-left-color: #c43e4c; }
+    .rule { background: #eef2f8; color: #103c55; text-align: center; font-weight: 650; }
+    .rule span { display: inline-block; padding: 2px 10px; color: #0c2d42; background: #cbe0f0; border-radius: 20px; }
+    .example { background: #fff; border: 1px solid #e3ecf3; padding: 8px 14px; }
+    .row { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 8px; padding: 7px 0; border-bottom: 1px dashed #e0ebf3; }
+    .row:last-child { border-bottom: none; }
+    .en { color: #1f4e6b; font-weight: 600; }
+    .uz { color: #3a6077; text-align: right; }
+    table { width: 100%; border-collapse: collapse; margin: 12px 0; background: #fff; font-size: .9rem; }
+    th, td { padding: 8px 9px; border: 1px solid #e3ebf2; text-align: left; vertical-align: top; }
+    th { background: #d9e7f2; color: #0b2e42; }
+    .pronunciation { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 12px; align-items: center; background: #f2f8fc; border: 1px solid #dceaf4; }
+    .pronunciation img { display: block; width: 100%; height: auto; border-radius: 10px; }
+    .exercise { background: #f0f6fd; border: 1px solid #d0e2f0; }
+    .exercise p { margin: 7px 0; }
+    .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
+    .correct { color: #1e7a3e; font-weight: 700; }
+    .incorrect { color: #b33a3a; font-weight: 600; }
+    .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
+    @media (max-width: 400px) {
+      body { padding: 10px 8px 28px; }
+      .lesson { padding: 17px 13px 24px; border-radius: 18px; }
+      h1 { font-size: 1.3rem; } h2 { font-size: 1.08rem; }
+      .row, .pronunciation { grid-template-columns: 1fr; gap: 2px; }
+      .uz { text-align: left; font-size: .91rem; }
+      th, td { padding: 7px 5px; font-size: .82rem; }
+    }
+  </style>
+</head>
+<body>
+  <main class="lesson">
+    <h1>5-DARS. LETTER COMBINATIONS</h1>
+    <div class="subhead">Harf birikmalari · Ikki harf birgalikda qanday o‘qiladi?</div>
+
+    <div class="card blue"><strong>Oldingi darslar bilan bog‘laymiz:</strong> harf yozuv belgisi, tovush esa aytiladigan ovoz. Endi ikki harf yonma-yon kelib, ko‘pincha bir tovush beradigan holatlarni o‘rganamiz.</div>
+
+    <h2>1. Harf birikmasi nima?</h2>
+    <p>Ikki harf birga kelib, alohida-alohida aytilmasdan bitta tovushni bildirishi mumkin. Bunday ikki harfli birikmaga <strong>digraph</strong> deyiladi.</p>
+    <div class="card green"><strong>s + h</strong> ni alohida “s” va “h” deb aytmaymiz. <strong>Sh</strong> bir butun tovush bo‘lib talaffuz qilinadi.<br>Masalan: <strong>ship</strong> — kema.</div>
+    <p>So‘zga qaraganda harflarni ko‘ramiz, talaffuz qilganda esa birikmani birga aytamiz.</p>
+
+    <h2>2. Ko‘p uchraydigan harf birikmalari</h2>
+    <table>
+      <thead><tr><th>Birikma</th><th>Ko‘p uchraydigan o‘qilishi</th><th>Misol</th><th>Ma’nosi</th></tr></thead>
+      <tbody>
+        <tr><td><strong>sh</strong></td><td>“sh”</td><td>ship, fish</td><td>kema, baliq</td></tr>
+        <tr><td><strong>ch</strong></td><td>ko‘pincha “ch”</td><td>chair, child</td><td>stul, bola</td></tr>
+        <tr><td><strong>th</strong></td><td>ingliz tiliga xos ikki xil tovush</td><td>think, this</td><td>o‘ylamoq, bu</td></tr>
+        <tr><td><strong>ph</strong></td><td>“f”</td><td>phone, photo</td><td>telefon, surat</td></tr>
+        <tr><td><strong>wh</strong></td><td>ko‘pincha “w”</td><td>what, white</td><td>nima, oq</td></tr>
+        <tr><td><strong>ck</strong></td><td>“k”</td><td>black, clock</td><td>qora, soat</td></tr>
+        <tr><td><strong>ng</strong></td><td>burun orqali chiqadigan bir tovush</td><td>sing, long</td><td>kuylamoq, uzun</td></tr>
+      </tbody>
+    </table>
+    <div class="card amber"><strong>“Ko‘pincha”</strong> degani — odatda shunday, lekin istisnolari bor. Ingliz tilida yozilishi bir xil bo‘lsa ham, ayrim so‘zlarning talaffuzi boshqacha bo‘lishi mumkin.</div>
+
+    <h2>3. SH birikmasi</h2>
+    <p><strong>Sh</strong> ni o‘zbekchadagi “sh”ga yaqin qilib, bitta tovushdek ayting. Harflarni “s” va “h” deb ajratib yubormang.</p>
+    <div class="example">
+      <div class="row"><span class="en"><strong>ship</strong></span><span class="uz">kema</span></div>
+      <div class="row"><span class="en"><strong>fish</strong></span><span class="uz">baliq</span></div>
+      <div class="row"><span class="en"><strong>she</strong></span><span class="uz">u (ayol)</span></div>
+      <div class="row"><span class="en"><strong>shop</strong></span><span class="uz">do‘kon</span></div>
+    </div>
+
+    <h2>4. CH birikmasi va istisnolar</h2>
+    <p><strong>Ch</strong> ko‘p so‘zlarda o‘zbekchadagi “ch”ga yaqin.</p>
+    <div class="example">
+      <div class="row"><span class="en"><strong>chair</strong></span><span class="uz">stul</span></div>
+      <div class="row"><span class="en"><strong>child</strong></span><span class="uz">bola</span></div>
+      <div class="row"><span class="en"><strong>teacher</strong></span><span class="uz">o‘qituvchi</span></div>
+      <div class="row"><span class="en"><strong>much</strong></span><span class="uz">ko‘p</span></div>
+    </div>
+    <p>Lekin har doim ham “ch” deb o‘qilmaydi. Ba’zi so‘zlarda boshqa tovush beradi:</p>
+    <div class="example">
+      <div class="row"><span class="en"><strong>chef</strong> — “sh”ga yaqin</span><span class="uz">oshpaz</span></div>
+      <div class="row"><span class="en"><strong>chorus</strong> — “k”ga yaqin</span><span class="uz">xor</span></div>
+    </div>
+    <div class="card blue">Yangi so‘zda <strong>ch</strong> ni ko‘rsangiz, avval odatdagi “ch” tovushida o‘qib ko‘ring. Agar talaffuz tanish eshitilmasa, lug‘at yoki audio orqali tekshiring.</div>
+
+    <h2>5. PH, WH, CK va NG</h2>
+    <h3>PH ko‘pincha F tovushini beradi</h3>
+    <div class="example">
+      <div class="row"><span class="en"><strong>phone</strong></span><span class="uz">telefon</span></div>
+      <div class="row"><span class="en"><strong>photo</strong></span><span class="uz">surat</span></div>
+      <div class="row"><span class="en"><strong>elephant</strong></span><span class="uz">fil</span></div>
+    </div>
+    <h3>WH ko‘p so‘zda W ga yaqin o‘qiladi</h3>
+    <div class="example">
+      <div class="row"><span class="en"><strong>what</strong></span><span class="uz">nima</span></div>
+      <div class="row"><span class="en"><strong>white</strong></span><span class="uz">oq</span></div>
+      <div class="row"><span class="en"><strong>where</strong></span><span class="uz">qayerda</span></div>
+    </div>
+    <h3>CK K tovushiga yaqin</h3>
+    <div class="example">
+      <div class="row"><span class="en"><strong>black</strong></span><span class="uz">qora</span></div>
+      <div class="row"><span class="en"><strong>clock</strong></span><span class="uz">soat</span></div>
+      <div class="row"><span class="en"><strong>duck</strong></span><span class="uz">o‘rdak</span></div>
+    </div>
+    <h3>NG bitta burun tovushidek aytiladi</h3>
+    <p><strong>Sing</strong> so‘zining oxiridagi <strong>ng</strong> ni “n” va “g” deb aniq ikki bo‘lakka ajratmasdan, birga mashq qiling.</p>
+    <div class="example">
+      <div class="row"><span class="en"><strong>sing</strong></span><span class="uz">kuylamoq</span></div>
+      <div class="row"><span class="en"><strong>long</strong></span><span class="uz">uzun</span></div>
+      <div class="row"><span class="en"><strong>song</strong></span><span class="uz">qo‘shiq</span></div>
+    </div>
+
+    <h2>6. TH tovushini qanday aytamiz?</h2>
+    <p><strong>Th</strong> o‘zbek tilida aynan bir xil tovushga ega emas. Til uchini yuqori va pastki tishlar orasiga ozgina chiqaring, so‘ng havo chiqaring. Tishlarni qattiq tishlamang.</p>
+    <div class="pronunciation">
+      <div>
+        <p><strong>Tilning uchi</strong> tishlar orasiga biroz chiqadi.</p>
+        <p>Havoni sekin chiqarib, tovushni bir necha marta mashq qiling.</p>
+        <p><strong>think</strong> va <strong>this</strong> so‘zlaridagi th bir xil emas.</p>
+      </div>
+      <img src="unit_0_images/5_img1.png" alt="th tovushini aytishda til uchi tishlar orasida turadi">
+    </div>
+    <h3>Jarangsiz TH: tomoq titramaydi</h3>
+    <p>Tilning holati deyarli o‘zgarmaydi; faqat ovoz qo‘shmasdan havoni chiqaring.</p>
+    <div class="example">
+      <div class="row"><span class="en"><strong>think</strong></span><span class="uz">o‘ylamoq</span></div>
+      <div class="row"><span class="en"><strong>think</strong> so‘zidagi th</span><span class="uz">Tomoqqa qo‘l qo‘ying: jarang sezilmasligi kerak.</span></div>
+    </div>
+    <h3>Jarangli TH: tomoq titraydi</h3>
+    <p>Til deyarli shu holatda turadi, lekin tovush qo‘shing. Tomoqqa qo‘l qo‘ysangiz, yengil titrashni sezishingiz mumkin.</p>
+    <div class="example">
+      <div class="row"><span class="en"><strong>this</strong></span><span class="uz">bu</span></div>
+      <div class="row"><span class="en"><strong>mother</strong></span><span class="uz">ona</span></div>
+      <div class="row"><span class="en"><strong>brother</strong></span><span class="uz">aka / uka / birodar</span></div>
+    </div>
+    <div class="card amber">O‘zbekcha yozilgan talaffuzlar faqat yordamchi eslatma. Imkon bo‘lsa, so‘zlarni audio orqali tinglang.</div>
+
+    <h2>7. Mashqlar</h2>
+    <div class="exercise">
+      <p><strong>1.</strong> <em>phone</em> so‘zida qaysi ikki harf F tovushiga yaqin tovush beradi?</p>
+      <p><strong>2.</strong> Moslashtiring: <em>ship, chair, think</em> — <em>sh, ch, th</em>.</p>
+      <p><strong>3.</strong> <em>chef</em> so‘zidagi ch “ch”, “sh” yoki “k” tovushidan qaysisiga yaqin?</p>
+      <p><strong>4.</strong> <em>clock</em> so‘zining oxiridagi ck qaysi tovushga yaqin?</p>
+      <p><strong>5.</strong> <em>think</em> so‘zidagi th jaranglimi yoki jarangsizmi?</p>
+      <p><strong>6.</strong> <em>this</em> so‘zidagi th jaranglimi yoki jarangsizmi?</p>
+    </div>
+    <div class="answers"><strong>Javoblar:</strong><br>1. ph. &nbsp; 2. ship—sh, chair—ch, think—th.<br>3. “sh”ga yaqin. &nbsp; 4. “k”ga yaqin.<br>5. Jarangsiz. &nbsp; 6. Jarangli.</div>
+    <div class="card green"><strong>Uyda mashq:</strong> <em>ship—sheep</em>, <em>think—this</em>, <em>phone—photo</em> so‘zlarini audio bilan eshitib, taqlid qilib ayting. Avval sekin, keyin odatiy tezlikda takrorlang.</div>
+    <div class="footer">5-dars · Letter Combinations</div>
+  </main>
+</body>
+</html>

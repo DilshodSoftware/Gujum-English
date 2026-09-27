@@ -1,0 +1,679 @@
+# unit_4 — inglizcha lug'at (darslar bo'yicha)
+# dars	so'z / gap / ibora
+38	There is
+38	There are
+38	There ___ a lamp on the desk
+38	There ___ two windows in the room
+38	There ___ some water in the bottle
+38	___ there a bank near here?
+38	___ there any students in the classroom?
+38, 42, 48	is
+38, 42, 48	are
+38	Is
+38	Are
+38	There is a cat in the garden
+38	There are chairs in the kitchen
+38	There is milk in the fridge
+38	There are two parks near my house
+38	There isn’t a cat in the garden
+38	There aren’t chairs in the kitchen
+38	There isn’t milk in the fridge
+38	There aren’t two parks near my house
+38	There is a library near here
+38	There are three apples in the bag
+38	There is any juice in the glass
+38	Is there a library near here?
+38	Are there three apples in the bag?
+38	Is there any juice in the glass?
+38	Is there a bus stop nearby?
+38	Yes, there ___
+38	Are there any eggs?
+38	No, there ___
+38	Is there water in the jug?
+38	aren’t
+38	isn’t
+38	___ a book on the table
+38	___ my book
+38	___ two dogs in the yard
+38	___ very small
+38	It is
+38	There is a table in the room
+38	There are two chairs
+38, 45	There isn’t any water
+38	There is a book on the table
+38	There is an apple in the bag
+38	There is a student in the room
+38	There are two books on the table
+38	There are students in the room
+38	There is water in the glass
+38	There is rice on the plate
+38	There isn’t a book on the desk
+38	There aren’t any chairs in the room
+38	There isn’t any milk
+38	Is there a bank near here?
+38	Are there two windows in the room?
+38	Is there water in the bottle?
+38	Is there a shop nearby?
+38	Are there any apples?
+38	It is my book
+38	There is a chair
+38	There are chairs
+38	There is a book
+38	Are there books?
+38	Is not
+38	isn’t , are not
+38	There ___ a pen on the desk
+38	There ___ three students here
+38	There ___ milk in the cup
+38	___ there a park near your home?
+38	___ there two doors in the room?
+38	There are four chairs in the room
+38	There is water in the bottle
+38	Are there four chairs in the room?
+39	She can swim
+39	A bird ___ fly
+39	A fish ___ climb a tree
+39	A baby ___ speak three languages
+39	A horse ___ run
+39	A person with no wings ___ fly like a bird
+39, 40	can
+39	He can ___ (swim)
+39	They can ___ (speak) English
+39	My sister can ___ (cook)
+39	I can ___ (ride) a bike
+39	A cat can ___ (climb) a tree
+39	swim
+39	speak
+39	cook
+39	ride
+39	climb
+39	I can drive
+39	She can sing
+39	They can come today
+39	A baby can read
+39, 44	a
+39	I can draw
+39, 45	A
+39	He can swim
+39	We can speak English
+39	2–A
+39	I can cook
+39	I can swim
+39	She can cook
+39	He can drive a car
+39	Birds can fly
+39	I can read
+39	You can read
+39	She can read
+39	They can read
+39	He can speak English
+39	We can help
+39	We cannot come today
+39	A fish can swim
+39	A baby can’t drive a car
+39	An adult can drive a car
+39	She can dance
+39	He can cook
+39	They can swim
+39	Subject + can + verb
+39	I ___ read English
+39	My sister ___ cook
+39	We ___ help you
+39	They ___ play football
+40	You can swim
+40	Can you swim?
+40	Can she drive?
+40	Can birds fly?
+40	Can you speak English?
+40	Can your brother cook?
+40	Can the baby walk?
+40	Can he drive?
+40	Can they help?
+40	Can you open the window, please?
+40	Can you help me?
+40	Can you repeat that, please?
+40	Can I come in?
+40	Can I use your pen?
+40	Can I sit here?
+40	Yes, you can
+40	Can she cook?
+40	Can he swim?
+40	Can + subject + verb?
+40	Can you...?
+40	Yes, I can
+40	Can I...?
+40	you / can / swim / ?
+40	can / he / drive / ?
+40	I / can / come in / ?
+40	she / can / help me / ?
+40	Can she help me?
+40	Can a bird fly?
+40	Can a fish drive a car?
+40	Can you read?
+40	Yes, it can
+40	you / can / cook / ?
+40	can / your sister / swim / ?
+40	I / can / use your phone / ?
+40	help / can / they / us / ?
+40	Can you cook?
+40	Can your sister swim?
+40	Can I use your phone?
+40	Can they help us?
+40	Can your brother drive?
+40	Yes, ___ ___
+40	Can he cook?
+40	No, ___ ___
+40	Can your friends come?
+40	Yes, you ___
+40	I can
+40	they can
+40	(Can you help me?
+40	/ You can help me?)
+40	Can you ___ that, please?
+40	please
+40	repeat
+40	___ I come in?
+40	Can you lend me a pencil?
+40	___ you repeat the answer, please?
+40	Can
+41	Open the book
+41	Close the door
+41	Sit down
+41	Stand up
+41	Listen carefully
+41	Please open the window
+41	Please help me
+41	Come here, please
+41	Look at the board
+41	Read the sentence
+41	Write your name
+41	Repeat the word
+41	Raise your hand
+41	Turn to page ten
+41	Don’t run
+41	Don’t open the door
+41	Don’t be late
+41	Don’t touch that
+41	Don’t sit here
+41	Open the book!
+41	Imperative
+41	Please sit down
+41	/ Sit down, please
+41	Don’t + verb
+41	You open the book
+41	Please open the book
+41	Don’t open the book
+41	close
+41	the window
+41	Please close the window
+41	Sit down, please
+41	Don’t touch the screen
+41	Close the door, please
+41	Please wait here
+41, 47	you
+41	___ the door, please
+41	(open)
+41	___ down
+41	(sit)
+41	___ carefully
+41	(listen)
+41	___ your name here
+41	(write)
+41	___ at the board
+41	look
+41	Open
+41	Sit
+41	Listen
+41	Write
+41	Look
+41	Close the window, please
+41	Please repeat the word
+41	run
+41	open the door
+41	touch the screen
+41	be late
+41	sit here
+41	Please stand up
+41	You stand up every morning
+41	Don’t talk
+41	She reads the sentence
+41	Please read
+41	Don’t hurry
+41	Don’t close the window
+42	The book is on the table
+42	The cat is under the chair
+42	The keys are in the bag
+42	The children are in the room
+42	My family lives in Tashkent
+42	The cup is on the table
+42	The shoes are under the bed
+42	The picture is on the wall
+42	The bank is next to the shop
+42	The garden is behind the house
+42	The car is in front of the house
+42	The bank is between the shop and the café
+42	The school is near my home
+42	Where is the phone?
+42	It is on the desk
+42	Where are the children?
+42	They are in the park
+42	Preposition
+42	The book + is + on + the table
+42, 43	in
+42, 43	on
+42	under
+42	next to
+42	behind
+42	in front of
+42	between
+42	near
+42	On
+42	The book is in the bag
+42	The cat is under the table
+42	The school is next to my house
+42	between A and B
+42	The book ___ on the desk
+42	The shoes ___ under the bed
+42	My school ___ near the park
+42	The café ___ between the bank and the shop
+42	The cat is behind the door
+42	The garden is next to the house
+42	The pharmacy is between the bank and the café
+42	(on the desk) Where are the children?
+42	in the park
+43	At
+43	___ Friday
+43	___ April
+43	___ the morning
+43	___ night
+43	___ 12 June
+43	___ winter
+43	at
+43	noon, Monday, September, 8 o’clock, 2030, Saturday morning, the afternoon, night
+43	noon, 8 o’clock, night
+43	Monday, Saturday morning
+43	September, 2030, the afternoon
+43	The film starts ___ 7:15
+43	My birthday is ___ December
+43	I do my homework ___ the evening
+43	They visit us ___ summer
+43	___ Monday (on /
+43	___ next Monday (on /
+43	___ every Friday (on /
+43	___ this weekend (on /
+43	I wake up ___
+43	I study English ___ Monday
+43	I wake up at
+43	I study English on Monday
+43	My birthday is in May
+43	at 7 o’clock
+43	at 9:30
+43	at noon
+43	at night
+43	I get up at seven
+43	The film starts at 8:30
+43	on Monday
+43	on Fridays
+43	on 5 May
+43	on Monday morning
+43	We have English on Tuesday
+43	Her birthday is on 5 May
+43	in May
+43	in 2026
+43	in summer
+43	in the morning
+43	in the afternoon
+43	I was born in May
+43	We travel in summer
+43	this Monday
+43	next Friday
+43	every Tuesday
+43	in July
+43	at 6, at night
+43	on Friday, on 5 May
+43	in June, in 2026, in the morning
+43	AT
+43	ON
+43	IN
+43	___ 8 o’clock
+43	___ Wednesday
+43	___ October
+43	___ Saturday morning
+43	___ 1 June
+43	every
+44	one book
+44	two books
+44	one apple
+44	three apples
+44	one chair
+44	four chairs
+44	one student
+44	ten students
+44	water
+44	milk
+44	rice
+44	bread
+44	money
+44	time
+44	a glass of water
+44	two bottles of milk
+44	a piece of bread
+44	three cups of tea
+44	some chicken
+44	a chicken
+44	some paper
+44	a paper
+44	an apple
+44, 48	apples
+44	I have a book
+44	the book
+44	my book
+44	a book / two books
+44, 45	some water
+44	a pen
+44	a box
+44	boxes
+44	a baby
+44	babies
+44	books, two books, some books
+44	one apple, two apples
+44	water, milk, rice
+44	apple
+44	chair
+44	student
+44	box
+44	apple, chair, student, box
+44	water, rice, milk, bread
+44, 48	a book
+44	two apples
+44	water, rice, money
+44	orange
+44	orange, chair, student, box
+44	bread, milk, time, rice
+44	I have ___ pen
+44	She has two ___
+44	We need ___ rice
+44	He eats ___ apple
+44	They have three ___
+44	books
+44, 45	some
+44	an
+44	children
+44	one glass ___ water
+44	two bottles ___ milk
+44	a piece ___ bread
+44	three cups ___ tea
+44	of
+44	a glass of water, two bottles of milk, a piece of bread, three cups of tea
+45	There are ___ apples in the bowl
+45	I don’t have ___ brothers
+45	Is there ___ milk?
+45	She has ___ books in her bag
+45	We need ___ bread
+45	They don’t have ___ water
+45	any
+45	___ you have ___ questions?
+45	Would you like ___ tea?
+45	Can I have ___ water, please?
+45	Are there ___ chairs?
+45	Do, any
+45	some oranges/any oranges
+45	some juice/any juice
+45	some students/any students
+45	some rice/any rice
+45	I like ___ dogs
+45	I have ___ dogs
+45	I don’t have ___ dog
+45	___ water is important
+45	Do you have ___ apples?
+45	Yes, I have ___ apples
+45	Would you like ___?
+45	Yes, please
+45	Can I have ___ water too?
+45	any, some, some, some
+45	I have some apples
+45	We have some books
+45	There is some water
+45	She wants some rice
+45	I don’t have any apples
+45	They don’t have any books
+45	He doesn’t have any money
+45	Do you have any brothers?
+45	Does she have any questions?
+45	Is there any milk?
+45	Are there any chairs?
+45	There are some books
+45	There aren’t any books
+45	Are there any books?
+45	Would you like some tea?
+45	Can I have some water, please?
+45	some apples
+45	I don’t have any milk
+45	Do you have any water?
+45	some students
+45	some bread
+45	I have some tea
+45	I don’t have any tea
+45	Do you have any tea?
+45	Would you like ...?
+45	I have ___ friends
+45	We don’t have ___ bread
+45	Do you have ___ questions?
+45	There is ___ juice in the fridge
+45	She doesn’t have ___ sisters
+46	How ___ people are there?
+46	How ___ coffee do you drink?
+46	We don’t have ___ time
+46	How ___ bags does she have?
+46	There isn’t ___ sugar in the jar
+46	How ___ money do they need?
+46	many
+46	much
+46	We have ___ books
+46	He drinks ___ water
+46	They have ___ friends
+46	There is ___ traffic today
+46	a lot of
+46	How many
+46	How much
+46	many / how / books / do / you / have / ?
+46	much / how / water / is / there / ?
+46	has / a lot of / my brother / toys
+46	How many books do you have?
+46	How much water is there?
+46	My brother has a lot of toys
+46	I have a lot of books
+46	There is a lot of water
+46	many books
+46	many students
+46	many apples
+46	There aren’t many chairs
+46	much water
+46	much time
+46	much money
+46	How much water do you drink?
+46	We don’t have much time
+46	She has a lot of books
+46	They drink a lot of water
+46	I have a lot of friends
+46	Do you have many friends?
+46	I don’t have much free time
+46	How many eggs?
+46	How much milk?
+46	A lot of eggs / a lot of milk
+46	a lot of apples / a lot of water
+46	books, apples, students, chairs
+46	water, milk, rice, time, money
+46	a lot of books
+46	a lot of friends
+46	a lot of water
+46	a lot of money
+46	We have a lot of work
+46	How ___ chairs are there?
+46	How ___ water do you need?
+46	She has ___ friends
+46	He eats ___ apples
+46	How ___ money is in your bag?
+47	I know Ali
+47	Ali helps me
+47	She likes me
+47	I see him
+47	We help her
+47	They know us
+47	Tom calls them
+47	Come with me
+47	This is for you
+47	Give it to him
+47	She sits next to us
+47	I see Ali
+47	We know Sara
+47	We know her
+47	He likes the dog
+47	He likes it
+47	The teacher helps the students
+47	The teacher helps them
+47	I see her
+47	I see her bag
+47	He likes me
+47	They help us
+47	This is for him
+47	Subject + Verb + Object
+47	subject
+47	object
+47	I
+47	me
+47	he
+47	him
+47	she
+47	her
+47	it
+47	we
+47	us
+47	they
+47	them
+47	me , he
+47	him , they
+47	her book
+47	I know her
+47	We see the girls
+47	I call Sara
+47	I call ___
+47	Ali sees the cat
+47	Ali sees ___
+47	We visit our friends
+47	We visit ___
+47	The teacher helps you and me
+47	The teacher helps ___
+47	She sees Ali
+47	She sees him
+47	___ you
+47	___ he
+47	___ she
+47	___ it
+47	___ we
+47	___ they
+47	me, you, him, her, it, us, them
+47	I see Sara
+47	I see ___
+47	He knows Ali
+47	He knows ___
+47	They help my sister and me
+47	They help ___
+47	We visit the children
+47	I call my parents
+47	She listens to the teacher
+47	He sits next to Sara
+47	They look at the picture
+47	I call them
+47	She listens to him/her
+47	He sits next to her
+47	They look at it
+47	They help her
+47	We see them
+47	She knows us
+47	He subject, me object
+47	They subject, her object
+47	We subject, them object
+47	She subject, us object
+48	a big house
+48	The house is big
+48	a good book
+48	The book is good
+48	a red apple
+48	a small black cat
+48	The sky is blue
+48	an old car
+48	a happy child
+48	I am tired
+48	You are kind
+48	He is tall
+48	The rooms are clean
+48	a small dog
+48	two small dogs
+48	a red apple / red apples
+48	an old book
+48	an old red book
+48	The old red book is interesting
+48	big
+48	red
+48	long
+48	old
+48	good
+48	happy
+48	hot
+48	fast
+48	clean
+48	easy
+48	young
+48	blue
+48	green
+48	black
+48	white
+48	yellow
+48	beautiful
+48	dirty
+48	The houses are big
+48	small
+48	cold
+48	a / house / big
+48	cat / black / a
+48	is / the room / clean
+48	are / the apples / green
+48	a black cat
+48	The room is clean
+48	The apples are green
+48	A red car
+48	a red car
+48	The car is red
+48	red cars
+48	big ↔ ___
+48	hot ↔ ___
+48	good ↔ ___
+48	happy ↔ ___
+48	clean ↔ ___
+48	fast ↔ ___
+48	slow
+48	a ___ house (big)
+48	a ___ apple (green)
+48	an ___ car (old)
+48	a ___ child (happy)
+48	a green apple
+48	clean shoes
+48	I ___ tired
+48	My brothers ___ tall
+48	The soup ___ hot
+48	You ___ very kind
+48	This room ___ clean
+48	am
+48	one small cat
+48	new
+48	a / dog / black
+48	is / the weather / cold
+48	cars / fast / are / these
+48	an / old / house
+48	a black dog
+48	The weather is cold
+48	These cars are fast
+48	an old house
+48	an old phone
+48	a long road

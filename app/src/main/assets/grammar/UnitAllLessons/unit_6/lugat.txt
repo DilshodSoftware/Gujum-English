@@ -1,0 +1,546 @@
+# unit_6 — inglizcha lug'at (darslar bo'yicha)
+# dars	so'z / gap / ibora
+56	am/is/are not going to
+56	I ___ going to read tonight
+56	My friends ___ going to travel
+56	She ___ going to make a cake
+56	You ___ going to see the doctor
+56	The dog ___ going to eat
+56	am
+56, 58	are
+56, 58	is
+56, 58	visit
+56	buy
+56	study
+56	play
+56	I am going to work tomorrow
+56	She is going to cook tonight
+56	They are going to travel
+56	I am not going to work tomorrow
+56	She isn’t going to cook tonight
+56	They aren’t going to travel
+56	You are going to study tonight
+56	Ali is going to buy a bike
+56	They are going to move next year
+56	Are you going to study tonight?
+56	Is Ali going to buy a bike?
+56	Are they going to move next year?
+56	I am going to visit my friend tomorrow
+56	We are going to travel next week
+56	She is going to study tonight
+56	I am going to visit my grandmother tomorrow
+56	They are going to play football
+56	We are going to travel
+56	He is going to buy a phone
+56	I am going to cook dinner
+56	tomorrow
+56	tonight
+56	next week
+56	next year
+56	this weekend
+56	We are going to move next year
+56	He is going to call me tonight
+56	She isn’t going to come
+56	Is Ali going to buy a car?
+56	What are they going to do?
+56	She is going to cook
+56	He is going to play
+56, 58	I am going to study
+56	She is going to study
+56, 58	They are going to play
+56	Subject
+56	I
+56	I am going to read
+56	you / we / they
+56	They are going to read
+56	he / she / it
+56	She is going to read
+56	Ali
+56	Ali is going to read
+56	Subject + am/is/are + not + going to + verb
+56	Am / Is / Are + subject + going to + verb?
+56	She is not going to cook
+56	Is she going to cook?
+56	He ___ going to work tomorrow
+56	We ___ going to visit our aunt
+56	Sara ___ going to cook dinner
+56	They ___ going to play football
+56	going / I / am / to / study
+56	she / going / is / to / travel
+56	they / are / what / going / to / do / ?
+56	She is going to travel
+57	will not / won’t
+57	I ___ (call) you tomorrow
+57	He ___ (be) happy
+57	We ___ (visit) our friends next week
+57	They ___ (go) home later
+57	Sara ___ (help) her mother
+57	will call
+57	will be
+57	will visit
+57, 58	will go
+57	will help
+57	come
+57	help
+57	travel
+57	be
+57	We will go tomorrow
+57	She will call me
+57	They will be late
+57	You will help us
+57	We won’t go tomorrow
+57	Will she call me?
+57	They won’t be late
+57	Will you help us?
+57	I will
+57	you will
+57	she will
+57	they will
+57	I’ll
+57	you’ll
+57	she’ll
+57	they’ll
+57, 58	I will help you
+57	I’m tired
+57	I’ll rest now
+57	I think it will rain tomorrow
+57	I will call you tomorrow
+57	She will help her friend
+57	They will travel next month
+57	It will be cold tonight
+57	I will work
+57	He will work
+57	We will work
+57	They will work
+57	will eat
+57	will study
+57	She will be a good teacher
+57	I will rest now
+57	he/she will
+57	he’ll/she’ll
+57	we/they will
+57	we’ll/they’ll
+57	I’ll call you later
+57	I will not go
+57	/ I won’t go
+57	Will you come?
+57	I worked yesterday
+57	I will work tomorrow
+57	She will come
+57	I, you, he, she, it, we, they
+57	he will, they will
+57	I ___ (call) you tonight
+57	She ___ (visit) her aunt tomorrow
+57	They ___ (go) to the park next week
+58	I am going to visit my aunt on Saturday
+58	She is going to study medicine
+58	We are going to buy a new table
+58	The phone is ringing
+58	I’ll answer it
+58	This bag is heavy
+58	I will help you tomorrow
+58	I think our team will win
+58	Maybe it will snow tonight
+58	Look at those dark clouds
+58	It is going to rain
+58	Be careful!
+58	You are going to fall
+58	I’m going to call Mum tonight
+58	I’ll call Mum now
+58	She will go
+58	I am going to travel
+58	I will travel
+58	I am not going to travel
+58	I will not travel
+58	Are you going to travel?
+58	Will you travel?
+58	She is going to go
+58	am going to
+58	will
+58	is going to
+58	She ___ going to cook tonight
+58	We ___ visit them tomorrow
+58	I am going to ___ a book
+58	He will ___ at home
+58	read
+58	stay
+58	Going to
+58	Will
+58	She ___ going to study
+58	They ___ going to move
+58	I ___ call you later
+58	He is going to ___ dinner
+58	We will ___ them
+58	cook
+58	She ___ going to travel
+58	They ___ come tonight
+58	I ___ going to buy a car
+58	isn’t
+58	won’t
+58	am not
+58	Are you going to travel next week?
+58	Will she call tonight?
+58	I’m going to study tomorrow
+59, 60	good
+59, 60	worse
+59, 60	tall
+59, 60	nice
+59, 60	happy
+59, 60, 61	big
+59, 60	expensive
+59, 60	easy
+59	taller
+59	nicer
+59	happier
+59	bigger
+59	more expensive
+59, 60	better
+59	easier
+59	A train is ___ (fast) than a bicycle
+59	This box is ___ (heavy) than that box
+59	My room is ___ (small) than yours
+59	This story is ___ (interesting) than the film
+59	Today is ___ (good) than yesterday
+59, 60	faster
+59	heavier
+59	more interesting
+59, 60	large
+59, 60	busy
+59, 60	hot
+59, 60	beautiful
+59	more
+59	than / A car / faster / a bicycle / is
+59	is / this bag / than / heavier / mine
+59	than / more beautiful / this flower / that one / is
+59	A car is faster than a bicycle
+59	This bag is heavier than mine
+59	This flower is more beautiful than that one
+59	A bus is bigger than a car
+59	This book is more interesting than that book
+59	My bag is heavier than your bag
+59	This road is longer than that road
+59	larger
+59, 60	safe
+59	safer
+59	busier
+59	hotter
+59, 60	thin
+59	thinner
+59	more beautiful
+59, 60	interesting
+59	This restaurant is better than that one
+59	Today’s weather is worse
+59	bigger than
+59	more beautiful than
+59	Than
+59, 60, 61	small
+59, 60	fast
+59, 60	old
+59	older
+59	cheap
+59	cheaper
+59, 60	far
+59, 60	farther
+59	A bus is ___ (big) than a car
+59	My room is ___ (small) than your room
+59	This phone is ___ (expensive) than my old phone
+59	This book is ___ (good) than that book
+60	the tallest, the most interesting, the best
+60	the tallest
+60	the nicest
+60	the easiest
+60	the biggest
+60	the most beautiful
+60	the best
+60	the worst
+60	the farthest
+60	happiest (y
+60	the most
+60	This is ___ (small) room in the house
+60	She is ___ (young) person in her family
+60	It is ___ (expensive) restaurant in town
+60	That was ___ (good) day of my holiday
+60	the smallest
+60	the youngest
+60	the most expensive
+60	the cheapest
+60	colder
+60	Everest is ___ mountain in the group
+60	(high)
+60	Of the three bags, this one is ___
+60	heavy
+60	the highest
+60	the heaviest
+60	Ali is tall
+60	Ali is taller than Sam
+60	Ali is the tallest boy in the class
+60	This is the smallest room
+60	He is the fastest runner
+60	the largest
+60	the safest
+60	the happiest
+60	the busiest
+60	the hottest
+60	the thinnest
+60	the most interesting
+60	This is the most interesting book
+60	This is the best day
+60	That is the worst answer
+60	the biggest house
+60	the most beautiful flower
+60	the fastest
+60	the oldest
+60	the kindest
+61	a big house
+61	a red car
+61	a kind teacher
+61	an old book
+61	a red apple
+61	an old house
+61	a small orange
+61	an interesting book
+61	the big house
+61	my new phone
+61	this red car
+61	those small cats
+61	The house is big
+61	The car is red
+61	My teachers are kind
+61	I am tired
+61	a small dog
+61	small dogs
+61	red apples
+61	a big red car
+61	a small black cat
+61	an old blue bag
+61	the old book
+61	my new bag
+61	The houses are big
+61	a / house / big
+61	car / red / a
+61	is / the room / clean
+61	my / new / phone
+61	are / the apples / green
+61	The room is clean
+61	The apples are green
+61	an
+61	a
+61	Big
+61	houses
+61	a red car, my new phone
+61	house / a / big
+61	my / phone / new
+61	red / the / car
+61	is / the book / interesting
+61	are / the flowers / beautiful
+61	the red car
+61	The book is interesting
+61	The flowers are beautiful
+61	___ old house
+61	___ small orange
+61	___ red apple
+61	___ interesting film
+61	My
+61	This
+61	The garden is beautiful
+61	my old shoes
+61	The shoes are old
+61	one small dog
+61	two ___ dogs
+61	three ___ apples
+61	red
+61	new
+62	I like tea ___ coffee
+62	The bag is small ___ heavy
+62	Would you like milk ___ juice?
+62	My brother can sing ___ dance
+62	It is cold ___ sunny today
+62	and
+62	but
+62	or
+62	She is young but very wise
+62	We can walk or take a bus
+62	Ali and Sara are classmates
+62	I like apples
+62	I like bananas
+62	(and)
+62	The room is small
+62	It is clean
+62	(but)
+62	We can eat at home
+62	We can eat at a café
+62	(or)
+62	Tom can swim
+62	Tom can ride a bike
+62	I like apples and bananas
+62	The room is small but clean
+62	We can eat at home or at a café
+62	Tom can swim and ride a bike
+62	I have a sister ___ a brother
+62	He is tired, ___ he is not sleepy
+62	Do you want the red pen ___ the blue pen?
+62	I like apples and oranges
+62	It is old but comfortable
+62	Do you want tea or coffee?
+62	tea and coffee
+62	a red and blue bag
+62	Ali and Sara are friends
+62	I read and write
+62	The bag is small but heavy
+62	I like tea, but I don’t like coffee
+62	He is tired, but he is happy
+62	It is cold but sunny
+62	Tea or coffee?
+62	You can call or text me
+62	Do you want an apple or a banana?
+62	We can go today or tomorrow
+62	I have a pen ___ a book
+62	The room is small ___ clean
+62	Do you want water ___ juice?
+62	Conjunction
+62	Ali and Sara are..
+62	I like tea
+62	I like coffee
+62	I like tea and coffee
+62	It is small
+62	It is strong
+62	It is small but strong
+62	We can walk
+62	We can take a bus
+62	And
+62	But
+62	Or
+62	I like apples ___ bananas
+62	The car is old ___ it is reliable
+62	Do you want tea ___ coffee?
+62	She is kind ___ helpful
+62	He is tired ___ he is not sleepy
+62	I have a sister
+62	I have a brother
+62	The phone is cheap
+62	The phone is good
+62	I have a sister and a brother
+62	The phone is cheap but good
+63	I stayed home because I was sick
+63	She is happy because it is her birthday
+63	We are late because the bus is slow
+63	Because I was sick, I stayed home
+63	I was sick, so I stayed home
+63	It is raining, so we are at home
+63	He was hungry, so he made a sandwich
+63	I took a taxi because I was late
+63	I was late, so I took a taxi
+63	It was cold, so I wore a coat
+63	I wore a coat because it was cold
+63	I was tired, so I went to bed
+63	I went to bed because I was tired
+63	Because it was late, we left
+63	Because
+63	So
+63	I wore a coat ___ it was cold
+63	It was cold, ___ I wore a coat
+63	She was hungry, ___ she made lunch
+63	We stayed inside ___ it was raining
+63	because
+63	so
+63	He was tired
+63	He went to bed early
+63	(so)
+63	I like this café
+63	The food is good
+63	(because)
+63	They missed the bus
+63	They walked home
+63	He was tired, so he went to bed early
+63	I like this café because the food is good
+63	They missed the bus, so they walked home
+63	I took a taxi ___ I was late
+63	It was cold, ___ we stayed inside
+63	She is smiling ___ she is happy
+63	He missed the bus, ___ he walked to work
+63	They went to bed early ___ they were tired
+63	I was hungry, so I made a sandwich
+63	We stayed home because it was raining
+63	Because she was sick, she didn’t go to work
+63	It was cold
+63	I wore a coat
+63	I stayed home
+63	I was tired
+63	The road was wet
+63	We drove slowly
+63	He is happy
+63	It is his birthday
+63	I stayed home because I was tired
+63	The road was wet, so we drove slowly
+63	He is happy because it is his birthday
+63	I took an umbrella because it was raining
+63	Because…
+63	She went to bed because she was tired
+63	Because it was raining, I took an umbrella
+63	Because she was tired, she went to bed
+63	Because I was late, so I ran
+63	Because it was hot, so we drank water
+63	Because I was late, I ran
+63	/ I was late, so I ran
+63	Because it was hot, we drank water
+63	/ It was hot, so we drank water
+63	I am happy because it is sunny
+63	It is sunny, so we are going to the park
+64	I would like some tea
+64	She would like a sandwich
+64	They would like a table by the window
+64	I would like to drink some water
+64	He would like to learn English
+64	We would like to sit here
+64	I would like a coffee
+64	She would like a coffee
+64	They would like a coffee
+64	I would like a menu
+64	She would like to order
+64	They would like some water
+64	Would you like some tea?
+64	Would you like a sandwich?
+64	Would you like to sit down?
+64	Would you like a coffee?
+64	Would you like to come with us?
+64	I want water
+64	She would like tea
+64	Subject + would like + to + verb
+64	would like to go , would like to eat
+64	he would
+64	Would + subject + like + noun / to + verb?
+64	I would like ___ (a book)
+64	She would like ___ (learn English)
+64	They would like ___ (some juice)
+64	He would like ___ (order a taxi)
+64	a book
+64	to learn English
+64	some juice
+64	to order a taxi
+64	He/She would like to sit down
+64	Would like
+64	Would you like…?
+64	I would like ___ (a glass of water)
+64	She would like ___ (order dinner)
+64	They would like ___ (some tea)
+64	He would like ___ (learn English)
+64	We would like ___ (a table by the window)
+64	a glass of water
+64	to order dinner
+64	some tea
+64	a table by the window
+64	would like
+64	I would like
+64	You would like
+64	He would like
+64	They would like
+64	Would you like some water?
+64	Yes, please
+64	No, thank you
+64	Server
+64	___ you like some tea?
+64	Guest
+64	I’d also like ___ order a sandwich
+64	Would
+64	like
+64	to

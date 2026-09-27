@@ -1,0 +1,322 @@
+# unit_7 — inglizcha lug'at (darslar bo'yicha)
+# dars	so'z / gap / ibora
+65	I walk to school every day
+65	My sister is cooking now
+65	They were at home yesterday
+65	He is going to buy a new phone
+65	I think it will rain tonight
+65, 66	Present Simple
+65, 66	Present Continuous
+65, 66	going to
+65, 66	will
+65, 66	Look!
+65	works
+65	are playing
+65	am reading
+65	walks
+65	are staying
+65	I ___ tired today
+65	The students ___ in the classroom now
+65	We ___ at the museum yesterday
+65	My father ___ busy last night
+65	She was at work
+65, 66	They are ready
+65, 66	am
+65, 66	are
+65, 66	were
+65, 66	was
+65	She wasn’t at work
+65, 66	Are they ready?
+65	My mother ___ (watch) TV in the evening
+65	The boys ___ (study) English after school
+65, 66	He likes coffee
+65	Sara reads every night
+65	___ your friends live nearby?
+65, 66	watches
+65	study
+65, 66	He doesn’t like coffee
+65	Does Sara read every night?
+65	Do
+65	go
+65	clean
+65, 66	buy
+65	They ___ (go) to the park yesterday
+65	She saw the film
+65	You worked last night
+65, 66	cleaned
+65, 66	bought
+65, 66	went
+65	Did you work last night?
+65	eat
+65	We ___ going to visit our cousins
+65	I ___ help you
+65	It ___ going to rain
+65, 66	is
+65	I have breakfast every day
+65	They are watching a film now
+65	I am going to call you tomorrow
+65	I work every day
+65	I worked yesterday
+65	I will work tomorrow
+65	I drink tea every morning
+65	She works in a school
+65	The sun rises in the east
+65	I don’t work
+65	/ She doesn’t work
+65	Do you work?
+65	/ Does she work?
+65	I am reading now
+65	He is cooking
+65	They are playing at the moment
+65, 66	She isn’t sleeping
+65	Are they working?
+65	I was at home yesterday
+65	They were happy
+65	He wasn’t tired
+65	Were you at school?
+65	work
+65	worked
+65, 66	play
+65	played
+65, 66	studied
+65	see
+65	saw
+65	ate
+65	have
+65	had
+65	Did you work?
+65, 66	Yes, I did
+65	I am going to visit my aunt tomorrow
+65	She is going to study tonight
+65	I will help you
+65	I think it will rain
+65	Present
+65	I work
+65	/ I am working
+65	I worked
+65	/ I was tired
+65	I am going to work
+65	/ I will work
+65	plays , watch
+65	watches , study
+65, 66	studies
+65	Does she work?
+65	She doesn’t work
+65	Subject + am / is / are + verb-ing
+65	read
+65	reading , make
+65	making , run
+65, 66	running
+65	She works at a bank
+65	She is working at home today
+65	They play on Sundays
+65	They are playing now
+65	Every day / usually / often
+65	Now / right now / at the moment
+65	I / he / she / it
+65	was you / we / they
+65	Did she go?
+65	Going to
+65	Will
+65	I am working now
+65	I am going to work tomorrow
+65	I will work later
+65	She goes to school every day
+65	I visited my friend yesterday
+65	We are going to travel next week
+65	He will call you later
+65	They were at home last night
+65	is working
+65	will visit
+65	are going to
+66	i live in tashkent
+66	I see him
+66	reads / Ali / books
+66	There ___ a lamp on the table
+66	There ___ three windows in the room
+66	___ are my keys
+66	The cat is ___ the table
+66	The school is ___ my house
+66	I like ___ cats
+66	the /
+66	___ book is mine
+66	This is ___ pen
+66	This pen is ___
+66	Ali___ bicycle is new
+66	She has ___ apples
+66	We don’t have ___ milk
+66	How ___ students are in the class?
+66	How ___ water do you drink?
+66	I ___ a student
+66	My parents ___ at home
+66	He is tired
+66	Are you at school?
+66	I ___ at home yesterday
+66	My friends ___ tired last night
+66	She was busy
+66	You were at the park
+66	My brother ___ to work every day
+66	Anna ___ English
+66	They ___ football on Sundays
+66	She reads every day
+66	Does he work here?
+66	I / usually / get up / at seven
+66	I ___ reading now
+66	She is sleeping
+66	They are watching TV
+66	He went to school
+66	They saw the film
+66	Did you call your friend?
+66	She ___ going to study tonight
+66	They are going to ___ a new house
+66	You are going to travel
+66	I think it ___ rain tomorrow
+66	___ is your name?
+66	___ do you live?
+66	___ is your English teacher?
+66	___ do you wake up?
+66	___ are you happy?
+66	___ do you go to work?
+66	___ old is your brother?
+66	___ books do you have?
+66	___ water is in the bottle?
+66	He ___ swim
+66	Can you help me?
+66	___ the book, please
+66	___ run
+66	The keys are ___ the bag
+66	The lesson starts ___ 9 o’clock
+66	My birthday is ___ May
+66	We have English ___ Monday
+66	I was tired, ___ I went to bed early
+66	I stayed home ___ I was ill
+66	I like tea ___ coffee
+66	a / red / car
+66	I live in Tashkent
+66	Subject
+66	I
+66	Object
+66	him
+66	Ali reads books
+66	children
+66	These
+66	under
+66	next to
+66	an
+66	This
+66	my
+66	mine
+66	Ali’s
+66	some
+66	any
+66	many
+66	much
+66	To Be
+66	He isn’t tired
+66	Yes, I am
+66	She wasn’t busy
+66	Were you at the park?
+66	goes
+66	Does she read every day?
+66	No, he doesn’t
+66	I usually get up at seven
+66	making
+66	Are they watching TV?
+66	Did they see the film?
+66	visited
+66	Are you going to travel?
+66	What
+66	Where
+66	Who
+66	When
+66	Why
+66	How
+66	How many
+66	How much
+66	can
+66	Yes, I can
+66	Open
+66	Don’t
+66	in
+66	at
+66	on
+66	so
+66	because
+66	and
+66	faster
+66	best
+66	a red car
+66	I would like some water
+66	every day / I / English / study
+66	We visit Ali and Sara
+66	We visit ___
+66	the girl
+66	verb
+66	reads
+66	object
+66	a book
+66	I study English every day
+66	them
+66	I ___ tired now
+66	She is busy
+66	You are at home
+66	Are you ready?
+66	My parents ___ at the park yesterday
+66	There ___ two apples on the plate
+66	She isn’t busy
+66	Are you at home?
+66	the girl’s bag
+66	We drink coffee
+66	Where ___ Anna live?
+66	I / get up / at seven
+66	Does your brother work here?
+66	He ___ a new bicycle
+66	We don’t drink coffee
+66	does
+66	has
+66	They ___ watching TV now
+66	He is sleeping
+66	You are listening
+66	He isn’t sleeping
+66	Are you listening?
+66	walk
+66	is running
+66	She knows my name
+66	We ___ at home yesterday
+66	stopped
+66	Did she go home?
+66	I ___ going to study tonight
+66	I think they ___ win tomorrow
+66	He will come later
+66	cook
+66	Will he come later?
+66	Don’t run!
+66	___ is the library?
+66	___ lives next door?
+66	___ old is your sister?
+66	How ___ books do you have?
+66	___ ___ is this ticket?
+66	When ___ you study English?
+66	Who lives next door?
+66	do
+66	I have ___ umbrella
+66	There is ___ milk in the fridge
+66	We don’t have ___ eggs
+66	How ___ money do you need?
+66	rice?
+66	The lesson starts ___ 8 o’clock
+66	tall
+66	happy
+66	I was tired, ___ I went to bed
+66	I stayed home ___ I was sick
+66	the tallest
+66	happier
+66	small
+66	the
+66	yesterday / my friends / a film / watched
+66	because / I / stayed home / was tired
+66	Would you like some tea?
+66	My friends watched a film yesterday
+66	I stayed home because I was tired
+66	She would like coffee
+66	We are going to visit our grandmother tomorrow

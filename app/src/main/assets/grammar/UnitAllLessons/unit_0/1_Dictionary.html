@@ -1,0 +1,246 @@
+<!DOCTYPE html>
+<html lang="uz">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, user-scalable=yes">
+  <meta name="theme-color" content="#f5f7fa">
+  <title>1-dars. Boshlang‘ich lug‘at</title>
+  <style>
+    * { margin: 0; padding: 0; box-sizing: border-box; }
+    body { background: #f5f7fa; color: #1e2b3c; font-family: 'Segoe UI', Roboto, system-ui, -apple-system, sans-serif; line-height: 1.65; padding: 14px 10px 40px; }
+    .lesson { max-width: 590px; margin: 0 auto; padding: 22px 18px 30px; background: #fff; border-radius: 24px; box-shadow: 0 6px 20px rgba(0,0,0,.05); }
+    h1 { color: #0f2b3d; font-size: 1.5rem; line-height: 1.25; margin-bottom: 7px; }
+    .subhead { color: #4a6a85; font-size: .98rem; margin-bottom: 22px; padding-bottom: 14px; border-bottom: 2px solid #e6edf5; }
+    h2 { color: #174a6b; font-size: 1.17rem; margin: 25px 0 10px; padding-bottom: 5px; border-bottom: 1px solid #dbe4ed; }
+    h3 { color: #1d4d6b; font-size: 1.02rem; margin: 17px 0 8px; }
+    p { margin: 9px 0; font-size: .98rem; }
+    strong { color: #0f3b4f; }
+    .card, .note, .example, .exercise, .answers { margin: 12px 0; padding: 12px 14px; border-radius: 12px; }
+    .card { background: #f9fcff; border-left: 4px solid #2e7ea3; }
+    .blue { background: #eef6fe; border-left-color: #2a7faa; }
+    .green { background: #edf7f0; border-left-color: #2e8b57; }
+    .amber { background: #fff6e5; border-left-color: #d9822b; }
+    .example { background: #fff; border: 1px solid #e3ecf3; padding: 8px 13px; }
+    .row { display: grid; grid-template-columns: minmax(0,1fr) minmax(0,1fr); gap: 8px; padding: 7px 0; border-bottom: 1px dashed #e0ebf3; }
+    .row:last-child { border-bottom: none; }
+    .example.stacked .row { grid-template-columns: 1fr; gap: 1px; }
+    .example.stacked .uz { text-align: left; font-size: .91rem; }
+    .example.stacked .en { display: flex; align-items: center; gap: 8px; }
+    .example.stacked .en .speak { flex: 0 0 auto; margin-left: auto; }
+    .en { color: #1f4e6b; font-weight: 600; }
+    .uz { color: #3a6077; text-align: right; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    table { width: 100%; border-collapse: collapse; margin: 12px 0; background: #fff; font-size: .92rem; }
+    th, td { padding: 8px 9px; border: 1px solid #e3ebf2; text-align: left; vertical-align: top; }
+    th { background: #d9e7f2; color: #0b2e42; }
+    .exercise { background: #f0f6fd; border: 1px solid #d0e2f0; }
+    .exercise p { margin: 6px 0; }
+    .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
+    .footer { margin-top: 27px; color: #93aec2; font-size: .8rem; text-align: center; }
+    audio { width: 100%; margin: 8px 0; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
+    .alphabet-audio { margin: 12px 0; padding: 12px 14px; border-radius: 12px; background: #eef6fe; border-left: 4px solid #2a7faa; }
+    .alphabet-audio audio { width: 100%; margin-top: 8px; }
+    @media (max-width: 400px) {
+      body { padding: 10px 8px 28px; }
+      .lesson { padding: 17px 13px 24px; border-radius: 18px; }
+      h1 { font-size: 1.34rem; } h2 { font-size: 1.08rem; }
+      .row { grid-template-columns: 1fr; gap: 1px; }
+      .uz { text-align: left; font-size: .91rem; }
+      th, td { padding: 7px; font-size: .84rem; }
+    }
+  </style>
+</head>
+<body>
+  <main class="lesson">
+    <h1>1-DARS. BOSHLANG‘ICH LUG‘AT</h1>
+    <div class="subhead">Keyingi darslarda uchraydigan inglizcha so‘zlar · English—Uzbek</div>
+
+    <div class="card blue"><strong>Bu sahifadan qanday foydalanamiz?</strong><br>Inglizcha so‘z yonidagi 🔊 tugmasini bosib talaffuzini eshiting.<br>Lug‘atlarni imkon qadar yodlab oling.</div>
+
+    <h2>1. Alifbo misollarida uchraydigan so‘zlar</h2>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>apple</strong> — olma</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_apple.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>book</strong> — kitob</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_book.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>box</strong> — quti</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_box.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cat</strong> — mushuk</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-4-6_cat.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>dog</strong> — it</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_dog.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>egg</strong> — tuxum</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_egg.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>fish</strong> — baliq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-5_fish.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>girl</strong> — qiz</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_girl.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>hand</strong> — qo‘l</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_hand.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>ice</strong> — muz</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_ice.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>juice</strong> — sharbat</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_juice.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>key</strong> — kalit</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_key.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>lion</strong> — sher</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_lion.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>moon</strong> — oy</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_moon.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>nose</strong> — burun</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_nose.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>orange</strong> — apelsin</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_orange.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>pen</strong> — ruchka</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_pen.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>queen</strong> — malika</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_queen.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>rain</strong> — yomg‘ir</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_rain.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sun</strong> — quyosh</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_sun.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>tree</strong> — daraxt</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_tree.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>umbrella</strong> — soyabon</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_umbrella.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>van</strong> — furgon</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_van.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>water</strong> — suv</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_water.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>yellow</strong> — sariq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_yellow.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>zebra</strong> — zebra</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_zebra.opus')" aria-label="Tinglash">🔊</button></div>
+    </div>
+
+    <h2>2. Odamlar, hayvonlar, narsalar va joylar</h2>
+    <p>So‘zlarni mavzu bo‘yicha guruhlasak, yodlash osonroq bo‘ladi.</p>
+    <h3>Odamlar</h3>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>boy</strong> — o‘g‘il bola</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_boy.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>girl</strong> — qiz</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_girl.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>teacher</strong> — o‘qituvchi</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-5_teacher.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>student</strong> — o‘quvchi / talaba</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_student.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>mother</strong> — ona</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-5_mother.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>father</strong> — ota</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_father.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>friend</strong> — do‘st</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_friend.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>child</strong> — bola</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-5_child.opus')" aria-label="Tinglash">🔊</button></div>
+    </div>
+    <h3>Hayvonlar</h3>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>cat</strong> — mushuk</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-4-6_cat.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>dog</strong> — it</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_dog.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>bird</strong> — qush</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_bird.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>fish</strong> — baliq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-5_fish.opus')" aria-label="Tinglash">🔊</button></div>
+    </div>
+    <h3>Narsalar va joylar</h3>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>book</strong> — kitob</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_book.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>pen</strong> — ruchka</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_pen.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>table</strong> — stol</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_table.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>phone</strong> — telefon</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-5_phone.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>house</strong> — uy</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_house.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>school</strong> — maktab</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_school.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>park</strong> — bog‘</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_park.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>room</strong> — xona</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_room.opus')" aria-label="Tinglash">🔊</button></div>
+    </div>
+
+    <h2>3. Katta harf bilan yoziladigan so‘zlar</h2>
+    <p>Ingliz tilida gapning birinchi so‘zi katta harf bilan boshlanadi. Odam ismlari, shahar va davlat nomlari, hafta kunlari, oylar hamda til nomlari ham katta harf bilan boshlanadi. Oddiy narsa nomlari odatda kichik harf bilan yoziladi.</p>
+    <div class="example stacked">
+      <div class="row"><span class="en"><strong>I</strong> am a student.<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_i_am_a_student.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">Men o‘quvchiman. (I har doim katta yoziladi)</span></div>
+      <div class="row"><span class="en"><strong>Ali</strong> lives in <strong>Tashkent</strong>.<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_ali_lives_in_tashkent.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">Ali Toshkentda yashaydi. (ism va shahar)</span></div>
+      <div class="row"><span class="en"><strong>Monday</strong> is a school day.<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_monday_is_a_school_day.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">Dushanba — maktab kuni. (hafta kuni)</span></div>
+      <div class="row"><span class="en">I study <strong>English</strong>.<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_i_study_english.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">Men ingliz tilini o‘rganaman. (til nomi)</span></div>
+      <div class="row"><span class="en">I have a <strong>book</strong>.<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_i_have_a_book.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">Menda kitob bor. (oddiy ot kichik harfda)</span></div>
+    </div>
+    <div class="card amber"><strong>Eslab qoling:</strong> ingliz tilidagi <strong>I</strong> (“men”) gap boshida ham, o‘rtasida ham doimo katta harf bilan yoziladi: <em>Ali and I</em>. <button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_ali_and_i.opus')" aria-label="Tinglash">🔊</button></div>
+    <table>
+      <thead><tr><th>Tur</th><th>Misol</th><th>Ma’nosi</th></tr></thead>
+      <tbody>
+        <tr><td>Odam ismi</td><td>Ali, Madina</td><td>ism</td></tr>
+        <tr><td>Shahar</td><td>Tashkent</td><td>Toshkent</td></tr>
+        <tr><td>Davlat</td><td>Uzbekistan</td><td>O‘zbekiston</td></tr>
+        <tr><td>Hafta kuni</td><td>Monday, Tuesday</td><td>dushanba, seshanba</td></tr>
+        <tr><td>Oy</td><td>January, May</td><td>yanvar, may</td></tr>
+        <tr><td>Til</td><td>English, Uzbek</td><td>ingliz tili, o‘zbek tili</td></tr>
+      </tbody>
+    </table>
+
+    <h2>4. Vowels va Consonants — unlilar va undoshlar</h2>
+    <div class="card"><strong>Vowel</strong> — unli <button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-3_vowel.opus')" aria-label="Tinglash">🔊</button><br><strong>Consonant</strong> — undosh <button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_consonant.opus')" aria-label="Tinglash">🔊</button><br>Asosiy unli harflar: <strong>A, E, I, O, U</strong>. Qolgan harflarning ko‘pi undosh harflardir.</div>
+        <div class="alphabet-audio"><strong>Alifboni tinglang</strong><br>Avval to‘liq alifboni eshiting, keyin harflarni o‘zingiz takrorlang.<audio controls preload="metadata"><source src="unit_0_dictionary_opus/alphabet_all.opus" type="audio/ogg; codecs=opus">Brauzeringiz audio formatini qo‘llab-quvvatlamaydi.</audio></div>
+    <div class="grid">
+      <div class="word"><strong>A</strong> — “ey”</div><div class="word"><strong>B</strong> — “bi”</div>
+      <div class="word"><strong>C</strong> — “si”</div><div class="word"><strong>D</strong> — “di”</div>
+      <div class="word"><strong>E</strong> — “i”</div><div class="word"><strong>F</strong> — “ef”</div>
+      <div class="word"><strong>G</strong> — “ji”</div><div class="word"><strong>H</strong> — “eych”</div>
+      <div class="word"><strong>I</strong> — “ay”</div><div class="word"><strong>J</strong> — “jey”</div>
+      <div class="word"><strong>K</strong> — “key”</div><div class="word"><strong>L</strong> — “el”</div>
+      <div class="word"><strong>M</strong> — “em”</div><div class="word"><strong>N</strong> — “en”</div>
+      <div class="word"><strong>O</strong> — “ou”</div><div class="word"><strong>P</strong> — “pi”</div>
+      <div class="word"><strong>Q</strong> — “kyu”</div><div class="word"><strong>R</strong> — “ar”</div>
+      <div class="word"><strong>S</strong> — “es”</div><div class="word"><strong>T</strong> — “ti”</div>
+      <div class="word"><strong>U</strong> — “yu”</div><div class="word"><strong>V</strong> — “vi”</div>
+      <div class="word"><strong>W</strong> — “dabl-yu”</div><div class="word"><strong>X</strong> — “eks”</div>
+      <div class="word"><strong>Y</strong> — “way”</div><div class="word"><strong>Z</strong> — “zed” yoki “zi”</div>
+    </div>
+    <h2>5. Y harfi bilan misollar</h2>
+    <div class="card">Asosiy unli harflar beshta: <strong>A, E, I, O, U</strong>. Qolgan harflarning ko‘pi undosh harflardir.</div>
+    <div class="card">Harf bor, tovush bor.<br>Harf — yoziladi va o‘qiladi.<br>Tovush — talaffuz qilinadi.</div>
+    <p><strong>Y</strong> harfi o‘zi undosh hisoblanadi, lekin ba’zi so‘zlarda unli tovush beradi. Hozircha so‘zlarni eshitib va misol bilan yodlang.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>gym</strong> — sport zali</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-3-4_gym.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>myth</strong> — afsona</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-3_myth.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>system</strong> — tizim</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-3_system.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>symbol</strong> — belgi</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_symbol.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>happy</strong> — xursand</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-3_happy.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>baby</strong> — chaqaloq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-3_baby.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>city</strong> — shahar</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-3-4_city.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>easy</strong> — oson</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_easy.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>my</strong> — mening</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-3_my.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>fly</strong> — uchmoq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-3_fly.opus')" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sky</strong> — osmon</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-3_sky.opus')" aria-label="Tinglash">🔊</button></div><div class="word word--audio"><span class="pair"><strong>try</strong> — urinmoq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_try.opus')" aria-label="Tinglash">🔊</button></div>
+    </div>
+
+    <h2>6. Harf va tovush darslari uchun so‘zlar</h2>
+    <div class="example">
+      <div class="row"><span class="en"><strong>cat</strong><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-4-6_cat.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">mushuk</span></div>
+      <div class="row"><span class="en"><strong>city</strong><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-3-4_city.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">shahar</span></div>
+      <div class="row"><span class="en"><strong>chair</strong><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-5_chair.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">stul</span></div>
+      <div class="row"><span class="en"><strong>listen</strong><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-6_listen.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">tinglamoq</span></div>
+      <div class="row"><span class="en"><strong>cake</strong><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_cake.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">tort</span></div>
+      <div class="row"><span class="en"><strong>phone</strong><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-5_phone.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">telefon</span></div>
+    </div>
+
+    <h2>7. Harf birikmalari — digraphs</h2>
+    <p>Ba’zan ikki harf birga kelib bitta tovushni bildiradi. Ikki harfli bunday birikma <strong>digraph</strong> deyiladi.</p>
+    <table>
+      <thead><tr><th>Birikma</th><th>Odatdagi tovush</th><th>Misollar</th></tr></thead>
+      <tbody>
+        <tr><td><strong>sh</strong></td><td>“sh”</td><td>ship, fish, she</td></tr>
+        <tr><td><strong>ch</strong></td><td>ko‘pincha “ch”</td><td>chair, teacher, much</td></tr>
+        <tr><td><strong>th</strong></td><td>inglizchaga xos ikki tovush</td><td>think, this, mother</td></tr>
+        <tr><td><strong>ph</strong></td><td>“f”</td><td>phone, photo</td></tr>
+        <tr><td><strong>wh</strong></td><td>ko‘pincha “w”</td><td>what, white, where</td></tr>
+        <tr><td><strong>ck</strong></td><td>“k”</td><td>black, clock, duck</td></tr>
+        <tr><td><strong>ng</strong></td><td>bitta burun tovushi</td><td>sing, long, song</td></tr>
+      </tbody>
+    </table>
+    <div class="example">
+      <div class="row"><span class="en">ship<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-5_ship.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">kema</span></div>
+      <div class="row"><span class="en">chair<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-5_chair.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">stul</span></div>
+      <div class="row"><span class="en">think<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-5_think.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">o‘ylamoq</span></div>
+      <div class="row"><span class="en">phone<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-5_phone.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">telefon</span></div>
+      <div class="row"><span class="en">black<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-5_black.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">qora</span></div>
+      <div class="row"><span class="en">sing<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-5_sing.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">kuylamoq</span></div>
+    </div>
+    <div class="card amber"><strong>Eslatma:</strong> birikma ko‘pincha bitta tovush bersa ham, ayrim so‘zlarda boshqacha o‘qilishi mumkin. <em>chef</em> so‘zidagi <strong>ch</strong> “sh”ga, <em>chorus</em> dagisi “k”ga o‘xshaydi.</div>
+
+    <h2>8. Silent letters — o‘qilmaydigan harflar</h2>
+    <p>Ba’zi harflar so‘zda yoziladi, lekin aytilmaydi. Bunday harflar <strong>silent letters</strong> deyiladi.</p>
+    <div class="example stacked">
+      <div class="row"><span class="en"><strong>know</strong> — k aytilmaydi<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-6_know.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">bilmoq</span></div>
+      <div class="row"><span class="en"><strong>listen</strong> — t aytilmaydi<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-6_listen.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">tinglamoq</span></div>
+      <div class="row"><span class="en"><strong>lamb</strong> — b aytilmaydi<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-6_lamb.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">qo‘zi</span></div>
+      <div class="row"><span class="en"><strong>name</strong> — oxiridagi e alohida aytilmaydi<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-6_name.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">ism</span></div>
+      <div class="row"><span class="en"><strong>night</strong> — gh alohida aytilmaydi<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-6_night.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">tun</span></div>
+    </div>
+    <p>Talaffuzni taxmin qilishda yozilgan harflarning hammasini birma-bir o‘qimang. So‘zni eshiting va talaffuzini so‘zi bilan birga o‘rganing.</p>
+
+    <h2>9. Gaplarda ishlatiladigan so‘zlar</h2>
+    <p>Quyidagi oddiy gaplarni avval sekin o‘qing. Gap oxiridagi nuqta va boshidagi katta harfga e’tibor bering.</p>
+    <div class="example stacked">
+      <div class="row"><span class="en">I am a student.<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_i_am_a_student.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">Men o‘quvchiman.</span></div>
+      <div class="row"><span class="en">She lives in Tashkent, Uzbekistan.<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_she_lives_in_tashkent_uzbekistan.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">U O‘zbekistonning Toshkent shahrida yashaydi.</span></div>
+      <div class="row"><span class="en">Monday is my favorite day.<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_monday_is_my_favorite_day.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">Dushanba — mening sevimli kunim.</span></div>
+      <div class="row"><span class="en">Navruz is in March.<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_navruz_is_in_march.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">Navro‘z mart oyida bo‘ladi.</span></div>
+      <div class="row"><span class="en">My teacher speaks English.<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_my_teacher_speaks_english.opus')" aria-label="Tinglash">🔊</button></span><span class="uz">O‘qituvchim ingliz tilida gapiradi.</span></div>
+    </div>
+    <div class="card green"><strong>Birga o‘rganiladigan iboralar:</strong><br><em>favorite day</em> — sevimli kun <button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_favorite_day.opus')" aria-label="Tinglash">🔊</button><br><em>live in</em> — ...da yashamoq <button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_live_in.opus')" aria-label="Tinglash">🔊</button><br><em>speak English</em> — ingliz tilida gapirmoq <button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_speak_english.opus')" aria-label="Tinglash">🔊</button></div>
+
+    <h2>10. O‘zingizni tekshiring</h2>
+    <div class="exercise">
+      <p>1. <strong>book</strong> so‘zining ma’nosi nima?</p>
+      <p>2. <strong>Monday</strong> nega katta harf bilan boshlanadi?</p>
+      <p>3. <strong>Vowel</strong> o‘zbekchada nima?</p>
+      <p>4. <strong>ph</strong> qaysi tovushga o‘xshab o‘qiladi?</p>
+      <p>5. <strong>listen</strong> so‘zida qaysi harf aytilmaydi?</p>
+    </div>
+    <div class="answers"><strong>Javoblar:</strong><br>1. Kitob. &nbsp; 2. Hafta kuni nomi bo‘lgani uchun.<br>3. Unli. &nbsp; 4. “f” tovushiga. &nbsp; 5. “t” harfi.</div>
+
+    <div class="footer">1-dars · Boshlang‘ich lug‘at</div>
+  </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src) {
+      document.querySelectorAll('audio').forEach(function(a){ try { a.pause(); } catch(e){} });
+      try { if (currentAudio) { currentAudio.pause(); } } catch(e){}
+      currentAudio = new Audio(src);
+      try {
+        var p = currentAudio.play();
+        if (p && p.catch) { p.catch(function(){}); }
+      } catch(e){}
+    }
+    document.querySelectorAll('audio').forEach(function(a){
+      a.addEventListener('play', function(){
+        try { if (currentAudio) { currentAudio.pause(); } } catch(e){}
+        document.querySelectorAll('audio').forEach(function(o){ if (o !== a) { try { o.pause(); } catch(e){} } });
+      });
+    });
+  </script>
+</body>
+</html>

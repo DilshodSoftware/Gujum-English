@@ -1,0 +1,1030 @@
+# unit_1 — inglizcha lug'at (darslar bo'yicha)
+# dars	so'z / gap / ibora
+7, 8	teacher
+7, 9, 10, 11, 15, 18	she
+7	Tashkent
+7, 9, 10, 11, 15, 18	they
+7, 8, 12, 13, 16	book
+7, 9, 10, 11, 15, 18	we
+7, 8	cat
+7, 9, 10, 11, 15, 17, 18	I
+7, 13	school
+7, 16, 17	Ali
+7, 9	Madina
+7, 8, 12	a book
+7, 9	Ali and I
+7	Ali and Sam
+7	you and your friends
+7, 9, 10, 11, 15, 18	he
+7, 8, 9, 10, 11, 15	it
+7, 9, 10, 11, 15, 18	you
+7, 9, 10, 11	Ali is a student
+7, 9	Ali is happy
+7	Sara is at home
+7	Sara is tired
+7, 9	The book is new
+7, 13	The book is red
+7	Ali and Madina are friends
+7, 9	Ali and Madina are students
+7	My sister and I are here
+7	My sister and I are ready
+7, 9, 10, 11	He is happy
+7, 9	She is tired
+7	It is red
+7, 9, 15	They are students
+7, 9	We are ready
+7, 10, 11, 12	She is a teacher
+7, 9	The dog is small
+7, 10	They are at school
+7	My brother and I are friends
+7, 9, 17	She
+7	The dog
+7, 9, 17	They
+7	My brother and I
+7	ali, madina, tashkent, uzbekistan
+7	Ali, Madina, Tashkent, Uzbekistan
+7	a boy
+7	a city
+7, 12	an animal
+7, 12	a cat
+7, 13	the book
+7	Ali and Madina
+7, 9, 10	It is new
+7	They live in Tashkent
+7, 9	Madina is a teacher
+7, 9, 10	She is kind
+7, 9	Ali and I are friends
+7, 10	We are happy
+7, 9, 10, 12	I am a student
+7	boy, girl, cat, phone, park, Tashkent
+7	Ali , Tashkent
+7	boy, book, school
+7	Ali has a book
+7	He has a book
+7, 9, 10	I am Ali
+7, 9, 10	You are my friend
+7	He is Sam
+7, 9	She is Sara
+7, 9	It is a book
+7, 9, 10	We are friends
+7, 9	Sara is my friend
+7	Sara is kind
+7, 9, 10	The phone is new
+7	The phone is black
+7, 9	Ali and I are students
+7, 9	Ali and I are here
+7, 9, 11	Ali and Sara are friends
+7	Ali and Sara are happy
+7, 10	It is black
+7, 9	We are here
+7, 10	They are happy
+7, 9	Tom is a boy
+7	My mother is kind
+7	My brother and I are here
+7	The cats are small
+7	You and your friend are students
+7, 9, 10, 17	He
+7, 9, 17	It
+7, 9, 10, 17	We
+7, 9, 17	You
+7	Ali, cat, book, school
+7	I, you, he, she, it, we, they
+7	Sara
+7	Ali and Sara
+8, 12	books
+8	child
+8, 16	children
+8	buses
+8	baby
+8	cities
+8, 16	women
+8	book, child, baby
+8	books, children, buses, cities, women
+8	pen
+8	car
+8, 13	dog
+8	bus
+8	box
+8	dish
+8	watch
+8	buses, boxes, dishes, watches
+8	city
+8, 16	boy
+8	toy
+8	babies, cities, boys, toys
+8	woman
+8	person
+8	foot
+8	tooth
+8	boxes
+8	apple
+8	students
+8, 12	___ apple
+8	___ apples
+8, 12	an apple
+8	two cars
+8, 12	apples
+8	I have one pen and two ___ (book)
+8	She has three ___ (box)
+8	We see one ___ and four ___ (child)
+8	He has a ___ (baby) and two ___ (toy)
+8	child, children
+8	baby, toys
+8, 12	one book
+8, 12	one student
+8	one dog
+8	one apple
+8	one cat
+8, 12	two cats
+8, 12	three books
+8	one car / four cars
+8	one teacher / five teachers
+8	one orange / two oranges
+8	one bus
+8	two buses
+8	one box
+8	three boxes
+8	babies
+8	country
+8	countries
+8	family
+8	families
+8, 16	boys
+8	toys
+8	day
+8	days
+8	leaf
+8	leaves
+8	wife
+8	wives
+8	life
+8	lives
+8	roof
+8	roofs
+8, 12	two books
+8	book s
+8	pen s
+8	student
+8	student s
+8	dog s
+8	apple s
+8	One
+8	class
+8	classes
+8	dishes
+8	watches
+8	people
+8	feet
+8	teeth
+8	mouse
+8	mice
+8	goose
+8	geese
+8, 12	cats
+9, 10	You are students
+9	Ali is a boy
+9	He is a student
+9	Sara is a girl
+9, 11	She is a student
+9, 11	They are friends
+9	The books are new
+9	They are new
+9, 10	I am happy
+9, 10	She is at home
+9	We are students
+9	I am Sara
+9	Subject
+9	You are kind
+9	He is Ali
+9	Tom
+9, 13	the bag
+9	Tom and Sam
+9	my sister and I
+9	My mother is at home
+9	Ali and Sam are brothers
+9	I am speaking to you and your friend
+9	Madina is kind
+9	Ali and Madina are here
+9, 10	They are here
+9	My parents are at home
+9	You and I are classmates
+9	I am talking to you and your sister
+9, 10	The book is on the table
+9	The boys are friends
+9	The boys are here
+9	My brother and I are students
+9	My brother and I are ready
+9	It is on the table
+9	My friends and I
+9	my sister and i are friends
+9	i am from uzbekistan
+9	ali and i are students
+9	My sister and I are friends
+9	I am from Uzbekistan
+10	I am at home
+10	He is a teacher
+10	She is a doctor
+10	It is a cat
+10, 13	The bag is black
+10	Madina is happy
+10	Ali and Sam are friends
+10, 11, 12	He is a doctor
+10	They are tired
+10	We are at home
+10	I work
+10	She is happy
+10	She reads
+10	am, is, are
+10, 11	am
+10, 11, 14	are
+10	You are happy
+10, 14, 16	is
+10	am he / she / it
+10	is you / we / they
+10	I + am + ..
+10	he / she / it + is
+10	I am
+10	I’m
+10	I’m Ali
+10	you are
+10	he is
+10	she is
+10, 15	it is
+10	it’s
+10	It’s a book
+10	we are
+10	they are
+10	I ___ a student
+10	He ___ happy
+10	You ___ my friend
+10	We ___ at home
+10	The cat ___ small
+10	Ali and Sara ___ students
+10	My books ___ on the table
+10	Madina ___ a teacher
+10	am , he/she/it
+10	is , you/we/they
+10	I ___ from Uzbekistan
+10	My brother ___ twelve years old
+10	You ___ a good friend
+10	The books ___ on the desk
+10	It ___ a small dog
+10	Sara and I ___ classmates
+10	The weather ___ nice today
+10	Ali ___ at home
+10	We ___ ready for the lesson
+10	My parents ___ teachers
+10, 16	the cat
+10	am / is / are
+10	happy / am / I
+10	a doctor / is / She
+10	at school / are / They
+10	new / The phone / is
+10	friends / We / are
+10	my teacher / You / are
+10	You are my teacher
+10	The soup is hot
+10	They are in the garden
+10	He is a driver
+10	We are tired
+10	The cat is small
+10, 11	You are ready
+11	I am not tired
+11	She is not at home
+11	They are not students
+11	He is not happy
+11	Are you ready?
+11	Am I late?
+11	Are you a student?
+11	Is he your brother?
+11	Is she at home?
+11	Is it new?
+11	Are we ready?
+11	Are they friends?
+11	Is he at home?
+11	Is she happy?
+11	Are they ready?
+11	Ali is not a teacher
+11	Is Ali at school?
+11	Are Ali and Sara at home?
+11	She is not a teacher
+11	They are not friends
+11	She is not happy
+11	Are they students?
+11	No, I’m not
+11	I am, you are, he/she/it is, we/they are
+11	Subject + am / is / are + not + ..
+11	am not
+11	are not
+11	You are not late
+11	is not
+11	He is not a doctor
+11	She is not tired
+11	It is not cold
+11	We are not at school
+11	am not he / she / it
+11	is not you / we / they
+11	isn’t
+11	He isn’t ready
+11	aren’t
+11	They aren’t here
+11	I am not
+11	I’m not
+11	I’m not tired
+11	Am / Is / Are + subject + ..
+11, 17	Yes
+11	Are you…?
+11	Is she a teacher?
+11	I am tired
+11	We are at school
+11	The cat is black
+11	The cat is not black
+11	It is cold
+11	They are at home
+11	Is she a student?
+11	Is it cold?
+11	Are they at home?
+11	Are you tired?
+11, 17	Yes, I ___
+11	Is he a teacher?
+11, 17	No, he ___
+11	Yes, they ___
+11	Is she at school?
+11	No, she ___
+11	isn’t / is not
+11	I am cold
+11	I ___ cold
+11	He ___ a doctor
+11	You are late
+11	You ___ late
+11	The room is clean
+11	The room ___ clean
+11	We are at work
+11	We ___ at work
+11	They are hungry
+11	They ___ hungry
+11	is not / isn’t
+11	are not / aren’t
+11	You are a student
+11	It is your bag
+11	Sam is at school
+11	The children are happy
+11	I am early
+11	Is it your bag?
+11	Is Sam at school?
+11	Are the children happy?
+11	Am I early?
+11	Is Anna a teacher?
+11	Are the boys at home?
+11	Is it cold today?
+11	Yes, I am
+11	No, she isn’t
+11	Yes, they are
+11	No, it isn’t
+11	Yes, we are
+11, 14	Is
+11	Am
+11, 14	Are
+11, 12, 17, 18	A
+11	___ you new here?
+11	___ your friends here too?
+11	No, they ___
+11	___ your teacher kind?
+11	Yes, she ___
+11	Are, am, Are, aren’t, Is, is
+11	They aren’t busy
+11	My brother isn’t a doctor
+12	___ banana
+12	___ orange
+12	___ egg
+12	___ teacher
+12	___ umbrella
+12	___ house
+12, 13, 14	a
+12, 13	an
+12	___ old car
+12	___ red apple
+12	___ interesting book
+12	___ small elephant
+12	___ beautiful flower
+12	an old car
+12	a red apple
+12	an interesting book
+12	a small elephant
+12	a beautiful flower
+12	I have ___ pencil
+12	She likes ___ cats
+12	We drink ___ water
+12	He is ___ actor
+12	They are ___ students
+12	This is ___ apple
+12	___ milk is in the fridge
+12	I see ___ bird
+12, 13	I see ___ dog
+12	She has ___ umbrella
+12	___ umbrella is blue
+12	We find ___ old key
+12	___ key is under the book
+12, 13	I see a dog
+12	She has an umbrella
+12	The umbrella is blue
+12	We find an old key
+12	The key is under the book
+12	an hour
+12	a university
+12	a book, a green bag
+12	an egg, an old house
+12	I drink milk
+12	a / an
+12, 13	the
+12	a student
+12	one pen
+12	five students
+12	a car
+12, 13	a dog
+12	a teacher
+12	a house
+12	an egg
+12	an orange
+12	an umbrella
+12	an old book
+12	a small orange
+12	an interesting story
+12	He is an actor
+12, 13	Water is important
+12	Rice is good
+12, 13	The dog is big
+12	___ book
+12	___ water
+12, 13, 17	I have a book
+12, 13	water
+12	Subject + am/is/are + a/an + kasb They are teachers
+12	___ old house
+12	___ small cat
+12	She has ___ pen
+12	I see ___ dogs
+12	He is ___ student
+12	___ water is cold
+12	They have ___ books
+12	It is ___ orange
+12	An
+13	a/an
+13	I see ___ cat
+13	___ cat is black
+13	Please open ___ door
+13	___ dogs are friendly
+13	___ water in this glass is cold
+13	Ali is ___ student
+13	___ Tashkent is a big city
+13	She has ___ orange
+13	___ orange is sweet
+13	I like ___ music
+13	a, the
+13	an, the
+13	There is ___ book on the table
+13	___ book is red
+13	Next to it, I see ___ apple
+13	___ apple is green
+13	___ books on the shelf are old
+13	There is a book on the table
+13	Next to it, I see an apple
+13	The apple is green
+13	The books on the shelf are old
+13	I like books
+13	I like the books on this table
+13	Milk is good for children
+13	The milk in my cup is warm
+13	Birds can fly
+13	The birds in that tree are noisy
+13	She likes (the /
+13	) cats
+13	He lives in (the /
+13	) Uzbekistan
+13	The
+13	I see ___ ball
+13	___ ball is blue
+13	___ book beside the ball is mine
+13	I like ___ balls
+13	I see a bird
+13	The bird is yellow
+13	I like birds
+13	girl
+13, 16	the girl
+13	the water
+13, 17	I have a bag
+13	I see a cat
+13	The cat is white
+13	The cat is on a chair
+13	The chair is old
+13	Open the door, please
+13	Close the window
+13	Where is the teacher?
+13	The phone is on the table
+13	the red bag
+13	the small dog
+13	the old book
+13	The red bag is mine
+13	The apple is on the plate
+13	The apples are on the plate
+13	The milk in the cup is cold
+13	I see a book
+13	I see the book
+13	I see book
+13	I like dogs
+13	Dogs are friendly
+13	Children need sleep
+13	The dogs in our yard are friendly
+13	The water in this bottle is cold
+13	The children in my class are kind
+13	Ali is my friend
+13	Madina is a student
+13	I see Ali
+13	The book is good
+13	The teacher is here
+13	The sun is bright
+13	the dog
+13	dogs
+13	the + red + bag
+13	I have the book
+13	Ali is here
+13	A / an
+13	a dog , a book
+13	an apple , an egg
+13	a bag
+13	the apple
+13	the apples
+13	the milk
+13	I like the dogs
+13	Tashkent , London , Uzbekistan
+13	___ dog is black
+13	___ moon is bright tonight
+13	I like ___ cats
+13	She has ___ apple
+13	___ Ali is my brother
+13	I drink (the /
+13	) water every day
+13	(The /
+13	) bird is in the tree
+13	) Tashkent is a big city
+13	the book, the books, the water
+13	Ali, Madina
+14	This is a book
+14, 15, 18	This is my pen
+14	This apple is red
+14	That is a house
+14	That is my teacher
+14	That car is blue
+14	These are books
+14	These are my keys
+14	These apples are red
+14	Those are birds
+14	Those are tall trees
+14	Those houses are new
+14	This book is new
+14	This is new
+14	Those dogs are big
+14	Those are big
+14	Is this your bag?
+14	Is that a bus?
+14	Are these your books?
+14	Are those birds?
+14	These are my books
+14	These books are new
+14	This is a pen
+14	This pen is new
+14	this
+14	that
+14	these
+14	those
+14	this / these
+14	that / those
+14	This is a bag
+14	That is a bag
+14	These are bags
+14	Those are bags
+14	Is this / that ...?
+14	This
+14	Those
+14	These
+14	That
+14	This ___ my book
+14	Those ___ tall buildings
+14	___ these your keys?
+14	___ that your brother?
+14	These ___ red apples
+14	That house is big
+14	Those birds are small
+14	This is a cup
+14	That is a cup
+14	These are cups
+14	Those are cups
+14	This / That + is
+14	These / Those + are
+14	This ___ a new phone
+14	Those ___ my cousins
+14	That ___ an old house
+14	These ___ red flowers
+14	This book ___ interesting
+14	Those shoes ___ clean
+14	That is a chair
+14	These are apples
+14	Those are dogs
+14	Those are chairs
+14	This is an apple
+14	That is a dog
+14	This is my cup
+14	That is a door
+14	Those are cars
+15	my book , her bag , their house
+15	I am Lola
+15	Tom has a bike
+15	Anna has a cat
+15	We live here
+15	The boys have books
+15	You have a nice bag
+15, 18	my
+15	His
+15, 18	Her
+15, 18	our
+15	Their
+15, 18	your
+15, 18	his
+15, 18	her
+15	its
+15, 18	their
+15	my, his, her, its, our, their
+15	I am Ben
+15	___ family is small
+15	My sister is Mia
+15	___ room is pink
+15	My brother is Leo
+15	___ room is blue
+15	We have a dog
+15	___ name is Max
+15, 17	My parents have a car
+15	___ car is white
+15, 18	My
+15	Its
+15	The cat is eating ___ food
+15	___ a very small kitten
+15	(It is)
+15	The tree is old
+15	___ leaves are green
+15	___ my new pencil
+15	It is
+15	It’s
+15	My name is Sara
+15	His phone is new
+15	Our teacher is kind
+15	Their house is big
+15	Its tail is long
+15	My name… / My family… / Our home…
+15	My name is Ali
+15	My family is kind
+15	Our home is small
+15, 18	This is my book
+15	My friends are here
+15	What is your name?
+15	Your bag is nice
+15	You and your friends are here
+15	He is Tom
+15	His car is red
+15	She is Anna
+15	Her bike is new
+15	His sister is a student
+15	Her brother is at home
+15	Tom has a sister
+15	His sister is kind
+15	Anna has a brother
+15	Her brother is kind
+15	The dog is eating its food
+15	The tree is big
+15	Its leaves are green
+15	The cat has a ball
+15	Its ball is blue
+15	Our house is small
+15	Their books are new
+15	Their mother is a doctor
+15	my pencil
+15	your pencils
+15	their house
+15	their houses
+15	The dog likes its food
+15	It’s a dog
+15	It is a dog
+15, 18	my book
+15	her bag
+15	our teacher
+15	He is my friend
+15	His name is Tom
+15	She is my sister
+15	Her name is Sara
+15, 16	It’s a cat
+15	= It is a cat.
+15	your pen
+15	his car
+15, 18	its name
+15	our home
+15	their teacher
+15	his bag
+15	Our
+15	my / your / his / her / its / our / their + noun
+15	my book , my books
+15	___ name is Lola
+15	He is Ben
+15	___ bike is black
+15	This is ___ house
+15	The bird is small
+15	___ wings are blue
+15	You have a pencil
+15	Is this ___ pencil?
+15	They are my friends
+15	___ names are Ali and Sam
+15	I have a ruler
+15	This is ___ ruler
+15	She has a lunch box
+15	This is ___ lunch box
+15	The dog has a tail
+15	___ tail is long
+15	We have a classroom
+15	This is ___ classroom
+15	They have a teacher
+15	___ teacher is kind
+15, 18	his she
+15	my book, their house
+15	my pen
+16	This is Ali’s book
+16	The girl’s bag is pink
+16	My brother’s name is Sam
+16	the students’ classroom
+16	my parents’ house
+16	the teachers’ books
+16	children’s toys
+16	men’s shoes
+16	women’s bags
+16	Sara’s phone
+16	the boy’s bicycle
+16	the boys’ bicycles
+16	Ali’s book
+16	His book
+16	Sara’s bag
+16	Her bag
+16	Ali’s book is new
+16	Ali’s happy
+16	The cat’s tail is long
+16	the teacher’s desk
+16	the students’ room
+16	The cat’s sleeping
+16	The cat is sleeping
+16	Ali’s pen
+16	the girl’s bag
+16	my mother
+16	the cat’s tail
+16	Ali’s book Ali
+16	boy’s
+16	boys’
+16	Ali’s / Sara’s
+16	His / her
+16	(Ali) ___ book
+16	(the girl) ___ bicycle
+16	(the students) ___ classroom
+16	(the children) ___ toys
+16	(my parents) ___ car
+16	(the cat) ___ tail
+16	the girl’s bicycle
+16	the children’s toys
+16	my parents’ car
+16	It’s a dog.
+16	Sara’s
+16	children’s
+16	is (It’s
+16	It is)
+16	the boy’s bag
+16	the girls’ books
+16	Ali + ’s
+16	students + ’
+16	students’ books
+16	children + ’s
+16	Ali’s book / Ali’s happy
+16	is)
+16	students’ room
+16	the book / Ali
+16	the bag / the girl
+16	the car / my father
+16	the tail / the cat
+16	the room / the teacher
+16	the teacher’s room
+16	students’
+16	women’s
+16	the boy’s book
+16	the boys’ book
+16	the teachers’ room
+16	2–A
+16	phone / Sara / the
+16	toys / children / the
+16	house / my parents / the
+16	classroom / students / the
+16	the students’ books
+16	my brother’s phone
+16	my friends’ classroom
+17	I/you/we/they have
+17	he/she/it has
+17	Does she have…?
+17	She doesn’t have…
+17	My friends ___ a new teacher
+17	My sister ___ a red bicycle
+17	I ___ two brothers
+17	The house ___ three windows
+17	You ___ a good idea
+17	Ali and I ___ English books
+17	The baby ___ blue eyes
+17	Our parents ___ a small garden
+17	have
+17	has
+17	I have a computer
+17	He has a sister
+17	They have a car
+17	The dog has a long tail
+17	We have a lot of time
+17	I don’t have a computer
+17	He doesn’t have a sister
+17	They don’t have a car
+17	The dog doesn’t have a long tail
+17	We don’t have a lot of time
+17	you / have / a pencil?
+17	Sara / have / a phone?
+17	your friends / have / bikes?
+17	the cat / have / green eyes?
+17	we / have / homework?
+17	Do you have a pencil?
+17	Does Sara have a phone?
+17	Do your friends have bikes?
+17	Does the cat have green eyes?
+17	Do we have homework?
+17	Do you have a pet?
+17	Does Tom have a sister?
+17	Do they have a garden?
+17	Does your phone have a camera?
+17	Yes, I do
+17	No, he doesn’t
+17	Yes, they do
+17	No, it doesn’t
+17	Does
+17	don’t have
+17	___ you have any brothers?
+17	I have one brother
+17	___ he have a bike?
+17	But he ___ a skateboard
+17	Do, do, Does, doesn’t, has
+17	She has a cat
+17	We have a small house
+17	He has two sisters
+17	He has a brother
+17	She has two sisters
+17	Ali has a new bag
+17	Ali and Sam have a ball
+17	The students have books
+17	I don’t have a car
+17	They don’t have a dog
+17	He doesn’t have a bike
+17	She doesn’t have a phone
+17	Do you have a pen?
+17	Do they have a car?
+17	Does he have a brother?
+17	Does Sara have a cat?
+17	Do you have a sister?
+17	Does he have a bike?
+17	He doesn’t have a car
+17	She doesn’t have a cat
+17	He doesn’t have a pen
+17	Does she have a book?
+17	I have a pen
+17	You have a pen
+17	We have a pen
+17	They have a pen
+17	He has a pen
+17	She has a pen
+17	It has a tail
+17	I / you / we / they + have he / she / it + has
+17	I / you / we / they + don’t have he / she / it + doesn’t have
+17	Do + I / you / we / they + have ...?
+17	Does + he / she / it + have ...?
+17	Do you...?
+17	She has a bag
+17	I don’t have a bag
+17	She doesn’t have a bag
+17	Do I have a bag?
+17	Does she have a bag?
+17	I ___ a blue pen
+17	She ___ a little brother
+17	They ___ a big house
+17	The cat ___ green eyes
+17	You ___ a nice bag
+17	Ali and Sara ___ two books
+17	I have a car
+17	He has a dog
+17	We have a garden
+17	My sister has a bike
+17	He doesn’t have a dog
+17	We don’t have a garden
+17	My sister doesn’t have a bike
+17	___ you have a pencil?
+17	___ she have a sister?
+17	___ they have a teacher?
+17	___ Tom have a computer?
+17	Do
+17	Does Ali have a dog?
+17	Does she have a sister?
+17	No, she doesn’t
+17	I / you / we / they
+17	have He / she / it
+18	The book is mine
+18	mine
+18	yours
+18	theirs
+18	hers
+18	I own this book
+18	It is ___
+18	You own this seat
+18	He owns this bicycle
+18	She owns this phone
+18	We own this classroom
+18	They own these bags
+18	They are ___
+18	ours
+18	That is your pen
+18	This is her bag
+18	That is his bag
+18	These are our books
+18	Those are their books
+18	That is yours
+18	That is his
+18	Those are theirs
+18	Whose book is this?
+18	(I)
+18	Whose phone is that?
+18	(she)
+18	Whose bags are these?
+18	(they)
+18	Whose classroom is this?
+18	It is mine
+18	It is hers
+18	They are theirs
+18	It is ours
+18	Is this your notebook?
+18	No, it isn’t ___
+18	It’s Sara’s
+18	It’s ___
+18	And is that our classroom?
+18	Yes, it’s ___
+18	mine, hers, ours
+18	It is my book
+18	They are her bags
+18	They are hers
+18	This book is mine
+18	This pen is mine
+18	My bag is black
+18	Yours is blue
+18	Is this your phone?
+18	Is this phone yours?
+18	Your room is big
+18	Ours is small
+18	This is his coat
+18	This coat is his
+18	That is her bag
+18	That bag is hers
+18	This is our classroom
+18	This classroom is ours
+18	Those books are theirs
+18	This is my pencil
+18	That is your pencil
+18	This seat is yours
+18	The house is theirs
+18	your book
+18	his book
+18	her book
+18	our book
+18	their book
+18	my pen mine
+18	The pen is mine
+18	his coat / The coat is his
+18	her bag / The bag is hers
+18	Is it your bag ?
+18	Is the bag yours ?
+18	That is her pen
+18	That pen is hers
+18	These are their shoes
+18	These shoes are theirs
+18	Yours
+18	The dog has a ball
+18	Its ball is red
+18	This is ___ book
+18	This book is ___
+18	___ bag is on the chair
+18	The blue bag is ___
+18	This is her pencil
+18	The pencil is ___
+18	The classroom is ___
+18	The books are ___
+18	The coat is ___
+18	Is this phone ___?

@@ -1,0 +1,594 @@
+# unit_3 — inglizcha lug'at (darslar bo'yicha)
+# dars	so'z / gap / ibora
+29, 30, 32	What is this?
+29, 31	Where are you?
+29, 32	Who is she?
+29, 33	When is the lesson?
+29, 34	Why are you here?
+29, 35	How do you go to school?
+29, 31	Where are they?
+29, 32	Who is your teacher?
+29, 30	What do you eat?
+29	Where does he work?
+29, 30, 32, 34, 35	What
+29, 30, 31, 33	Where
+29, 32	Who
+29, 31, 33	When
+29, 34	Why
+29, 35	How
+29	How old / How long
+29	How many / How much
+29, 30	What?
+29	Where?
+29	Who?
+29	When?
+29	Why?
+29	How?
+29	Question word + am / is / are + subject?
+29	Question word + do / does + subject + verb?
+29, 30, 35	___ is your name?
+29	___ are my keys?
+29	___ is your English teacher?
+29	___ is your birthday?
+29	___ are you happy?
+29, 35	___ do you travel?
+29	Question word + do/does + subject + verb?
+29	Question word + am/is/are + subject?
+29	3–A
+29, 31	___ are my shoes?
+29	___ is your best friend?
+29	___ do you get up?
+29	___ are you laughing?
+29	___ do you go to work?
+29	Where do you…?
+29	What does she…?
+29	When do they…?
+29	Why does he…?
+29, 35	How do you…?
+29, 31	live
+29	cook
+29	study
+29	run
+29	travel
+29	at home
+29	food
+29	because he is late
+29	by bus
+29	where / your parents / do / work / ?
+29	when / the lesson / is / ?
+29	what / you / do / eat / for breakfast / ?
+29	how / she / does / come to school / ?
+29, 31	Where do your parents work?
+29, 30	What do you eat for breakfast?
+29	How does she come to school?
+29	Where ___ your sister?
+29	Where ___ your sister work?
+29	Who ___ your teacher?
+29	What ___ you like?
+29	Why ___ they at home?
+29, 30, 31, 32, 33, 35, 36	is
+29, 30, 31, 32, 33, 34, 35, 36, 37	does
+29, 30, 31, 32, 33, 35, 36, 37	do
+29, 30, 31, 32, 33, 34, 35, 36	are
+29, 33	When do you study?
+29	Why is she happy?
+29	Who is your doctor?
+29, 35	How do you travel?
+29, 31	Where do you live?
+29, 30	What do you like?
+29	When do you study English?
+29, 35	How do you come to school or work?
+29	I live in Tashkent
+29, 30	I like music
+29	I study English in the evening
+29, 35	I come by bus
+30, 35	What is your name?
+30	What color is the bag?
+30	rang
+30	What ___ these?
+30	What ___ your favorite food?
+30	What ___ you do after school?
+30	What ___ Sara read?
+30	What ___ in the box?
+30	your name / what / is / ?
+30	do / what / they / study / ?
+30	she / what / does / want / ?
+30	is / what / in the bag / ?
+30	What do they study?
+30	What does she want?
+30	What is in the bag?
+30	___ is your phone?
+30	On the table
+30	It is a new model
+30, 34	___ do you eat for breakfast?
+30, 34	Eggs
+30, 31	___ do you study?
+30	At home
+30	(a pencil)
+30	(music)
+30	What does Ali eat?
+30, 37	rice
+30	It is a pencil
+30	Ali eats rice
+30	What is that?
+30	What are these?
+30	It is a pen
+30	They are books
+30	What is your favorite color?
+30	What are your favorite foods?
+30	What does he like?
+30	What does Sara read?
+30	What time is it?
+30	What day is it today?
+30	What color is your bag?
+30	What do you do after school?
+30	It is a phone
+30	What does he eat?
+30	He eats rice
+30	What does she like?
+30	What + am/is/are + subject?
+30	My name is Ali
+30	What time
+30, 32	___ do you eat for lunch?
+30	___ color is the car?
+30	___ does she study?
+30	you / what / do / like / ?
+30	is / this / what / ?
+30	does / what / he / want / ?
+30	What does he want?
+30, 32	Does
+30	What does he likes?
+31	Where is my phone?
+31	Where is Ali?
+31	Where are the children?
+31	I am at home
+31	Where is the book?
+31	It is on the table
+31	They are at school
+31	Where do they study?
+31	Where does your father work?
+31	Where does this bus stop?
+31	Where do you go after school?
+31	Where does he go on Sundays?
+31	I go to the park
+31	Where does Sara work?
+31	She works at a school
+31	Where is the cat?
+31	It is under the table
+31	Where does she live?
+31	Where does Ali work?
+31	Where does she work?
+31	Where + am / is / are + subject?
+31	at
+31	at home / at school
+31	in
+31	in the room / in Tashkent
+31	on
+31	on the table
+31	at home , at school , in Tashkent , on the table
+31	___ does your mother work?
+31	___ do they live?
+31, 33	___ is the bus stop?
+31	Where ___ you study?
+31	Where ___ he play?
+31	Where ___ the children live?
+31	Where ___ Anna work?
+31	Where ___ your keys?
+31	Where ___ she work?
+31	Where ___ the children?
+31	Where ___ you go after school?
+31	Where ___ the bus stop?
+31	The students are ___ school
+31	My phone is ___ the table
+31	We live ___ Tashkent
+31	The children are ___ the room
+31	My father is ___ home
+31	you / where / live / do / ?
+31	the cat / where / is / ?
+31	your parents / where / work / do / ?
+31	where / the children / are / ?
+31	Where is your book?
+31	(in my bag)
+31	(in Bukhara)
+31	Where does your mother work?
+31	(at a hospital)
+31	at school
+31	It is in my bag
+31	I live in Bukhara
+31	She works at a hospital
+31	At the library
+31	___ does the lesson start?
+31, 36	At nine
+31	___ is your bag?
+31	Under the chair
+31	___ do they visit their aunt?
+31	On Sundays
+32	Who is…?
+32	Who lives here?
+32	___ is that woman?
+32	___ is in the box?
+32	___ is your doctor?
+32	Who ___ your English teacher?
+32	Who ___ those people?
+32	Who ___ she?
+32	Who ___ your friends?
+32	Who calls you?
+32	Who do you call?
+32	Who works at the shop?
+32	Who does Anna visit?
+32	Who object
+32	Who ___ you help?
+32	Who ___ lives next door?
+32	Who ___ he visit?
+32	Who ___ wants some tea?
+32	Who ___ they call?
+32	your teacher / who / is / ?
+32	who / here / works / ?
+32	does / who / she / call / ?
+32	who / they / visit / do / ?
+32	Who works here?
+32	Who does she call?
+32	Who do they visit?
+32	He is my brother
+32	___ is he?
+32	I visit my grandmother
+32	___ do you visit?
+32	Sara works here
+32	___ works here?
+32	Who is he?
+32	Who are they?
+32	Who is that woman?
+32	She is my sister
+32	They are my friends
+32	Who do you visit?
+32	Who do they help?
+32	Who does he call?
+32	Who works at this school?
+32	Who wants tea?
+32	Who is your English teacher?
+32	Who do you visit on Sundays?
+32	Who is this?
+32	Who is your friend?
+32	What is your favorite food?
+32	Who does he visit?
+32	Who + am / is / are + ...?
+32	Who + do / does + subject + verb?
+32	Who + verb ...?
+32	Who calls Ali?
+32	(Who
+32	(Ali
+32	subject, who
+32	object)
+32	She is my teacher
+32	___ is your teacher?
+32	Ali works here
+32	He calls his mother
+32	___ does he call?
+32	Who ___ she visit?
+32	Who lives next door?
+32	call
+32	calls
+32	subject)
+33	When is your birthday?
+33	When are your holidays?
+33	When are they free?
+33	When do you wake up?
+33	When do they study?
+33	When does she go to work?
+33	When does the bus arrive?
+33	When does the film start?
+33	in the morning
+33	at seven
+33	on Monday
+33	Where do you study?
+33	When is the meeting?
+33	Where is the meeting?
+33	When do you work?
+33	When does he arrive?
+33	When + am / is / are + subject?
+33	When + do / does + subject + verb?
+33	When does she go?
+33	When ___ you eat breakfast?
+33	When ___ she finish work?
+33	When ___ the shops open?
+33	When ___ Ali go home?
+33	When ___ your birthday?
+33	When ___ the children go to bed?
+33	When ___ Sara finish work?
+33	When ___ your holidays?
+33	When ___ the bus arrive?
+33	you / when / get up / do / ?
+33	when / is / the meeting / ?
+33	does / when / the shop / open / ?
+33	are / when / they / free / ?
+33	When do you get up?
+33	When does the shop open?
+33	When does school start?
+33	(At eight
+33	/ At the library.)
+33	(In July
+33	/ In the kitchen.)
+33	/ By bus.)
+33	When are your classes?
+33	(On Monday
+33	/ Near my house.)
+33	At eight
+33	In July
+33	On Monday
+33	Near the bank
+33	___ does the film begin?
+33	___ are my glasses?
+33	On the desk
+33	___ do you visit your aunt?
+33	Every weekend
+33	(at seven)
+33	When is the English lesson?
+33	(on Tuesday)
+33	When does your father come home?
+33	I wake up at seven
+33	It is on Tuesday
+33	He comes home in the evening
+34	Why are you tired?
+34	Why do you study?
+34	Why ___ you happy?
+34	Why ___ he walk to school?
+34	Why ___ the children at home?
+34	Why ___ Sara learn English?
+34	Why ___ I late?
+34	am
+34	she / why / does / work / at night / ?
+34	they / why / are / late / ?
+34	does / why / he / study / English / ?
+34	Why does she work at night?
+34	Why are they late?
+34	Why does he study English?
+34	Why are you happy?
+34	(it is my birthday)
+34	Why does he walk?
+34	(he likes walking)
+34	Why are they at home?
+34	(they are sick)
+34	Why do you study English?
+34	I need it for work
+34	Because it is my birthday
+34	Because he likes walking
+34	Because they are sick
+34	Because I need it for work
+34	___ do you eat breakfast early?
+34	Because I go to work
+34	___ is in the bag?
+34	My book
+34	___ is she at home?
+34	Because she is sick
+34	Why does he likes tea?
+34	Why they are tired?
+34	Why does Sara studies at night?
+34	Why do you are here?
+34	Why does he like tea?
+34	Why are they tired?
+34	Why does Sara study at night?
+34	Why are you learning English?
+34	Why do you get up in the morning?
+34	Because I like English
+34	/ Because I go to school
+34	Why is she at home?
+34	Why does he walk to work?
+34	Why is the baby crying?
+34	Why am I here?
+34	Why do you get up early?
+34	Why do they learn English?
+34	Why is the child crying?
+34	Because he is tired
+34	What do you study?
+34	Why is he at home?
+34	Why does he run?
+34	Why do you work?
+34	Why does she study?
+34	Why + am / is / are + subject?
+34	Why + do / does + subject + verb?
+34	because I like it
+34	because it is cold
+34	Why ___ you tired?
+34	Why ___ he study at night?
+34	Why ___ they at school?
+34	Why ___ Sara walk to work?
+34	(It is my birthday.)
+34	Why does she study English?
+34	(She needs it for work.)
+34	They are sick.
+34	Because she needs it for work
+35	How are you?
+35	I’m fine, thank you
+35	I’m good
+35	I’m tired today
+35	How is your mother?
+35	How are the children?
+35	How is the food?
+35	How are you today?
+35	How does he cook rice?
+35	How do they learn English?
+35	By bus
+35	How does she travel?
+35	How do you spell your name?
+35	A-L-I
+35	How do you go to work?
+35, 36	How old?
+35, 36	How long?
+35, 37	How many?
+35, 37	How much?
+35	How does she cook?
+35	I am fine
+35	How + am / is / are + subject?
+35	How + do / does + subject + verb?
+35	How ___ you?
+35	How ___ you go to work?
+35	How ___ your sister?
+35	How ___ he make tea?
+35	(By bus
+35	/ At seven.)
+35	(I’m fine
+35	/ I’m Ali.)
+35	How do you spell “Sam”?
+35	(S-A-M
+35	/ In Tashkent.)
+35	I’m fine
+35	S-A-M
+35	How ___ you today?
+35	How ___ your father travel to work?
+35	How ___ the food?
+35	How ___ your mother?
+35	/ At 8:00.)
+35	/ I’m a doctor.)
+35	How do you spell “Mina”?
+35	(M-I-N-A
+35	/ At school.)
+35	M-I-N-A
+35	are / how / you / ?
+35	how / go / do / they / to school / ?
+35	your sister / how / is / ?
+35	does / how / he / cook / rice / ?
+35	How do they go to school?
+35	How is your sister?
+35	My name is Lola
+35, 36	___ are you?
+35	By car
+35	___ is your favorite color?
+35	Blue
+35	How do you spell your first name?
+35	My name is spelled A-L-I
+36	___ is your brother?
+36	___ is the film?
+36	___ is this rope?
+36	___ do you wait for the bus?
+36	___ are the twins?
+36	How old
+36	How long
+36	How old ___ your sister?
+36	How long ___ the bridge?
+36	How long ___ you study every evening?
+36	How old ___ the children?
+36	How long ___ the lesson last?
+36	your father / how old / is / ?
+36	does / how long / the trip / take / ?
+36	the table / how long / is / ?
+36	study / how long / do / you / ?
+36	How old is your father?
+36	How long does the trip take?
+36	How long is the table?
+36	How long do you study?
+36	I / 14 years old
+36	My brother /
+36	The twins / 7 years old
+36	I am 14 years old
+36	My brother is 9 years old
+36	The twins are 7 years old
+36	How old is Mina?
+36	(She is
+36	/ For two hours.)
+36	How long is the lesson?
+36	(It is 45 minutes
+36	/ She is 12.)
+36	How long is the road?
+36	(It is 3 km long
+36	/ At five.)
+36	When does the lesson start?
+36	(At nine
+36	/ For one hour.)
+36	She is
+36	It is 45 minutes
+36	It is 3 km long
+36	(How old are you?
+36	/ How old have you?)
+36	How old are you?
+36	How old is your brother?
+36	How old is Sara?
+36	How old are they?
+36	I am 12 years old
+36	He is 8 years old
+36	My sister is
+36	How long do you study every day?
+36	How long does the film last?
+36	For 30 minutes
+36	For two hours
+36	For three days
+36	How long is this table?
+36	It is two metres long
+36	How long is the river?
+36	She is 15 years old
+36	How old + am / is / are + subject?
+36	How long does he work?
+36	___ do you study each day?
+36	___ is your sister?
+36	___ is the bridge?
+36	___ does the bus ride take?
+36	How old ___ your brother?
+36	How long ___ you wait?
+36	be
+37	how many books?
+37	how much water?
+37	How ___ pencils are in your bag?
+37	How ___ juice do you want?
+37	How ___ money is in your wallet?
+37	How ___ students are in the room?
+37	How ___ time do we have?
+37	How ___ eggs do we need?
+37	many
+37	much
+37	apple, rice, chair, water, money, book, milk, student, time
+37	apple, chair, book, student
+37	rice, water, money, milk, time
+37	How many books ___ you read?
+37	How much milk ___ the baby drink?
+37	How many sisters ___ Ali have?
+37	How much rice ___ they eat?
+37	___ ___ is this sandwich?
+37	___ ___ are these shoes?
+37	___ ___ is the ticket?
+37	How much
+37	How many books do you have?
+37	A
+37	Two litres
+37	How much water do you need?
+37	Five
+37	How much is the pen?
+37	Three dollars
+37	2–A
+37	one book
+37	three books
+37	one apple
+37	five apples
+37	one student
+37	ten students
+37	water
+37	milk
+37	money
+37	time
+37	How many apples does she eat?
+37	How many students are in the class?
+37	How many brothers do they have?
+37	How much water do you drink?
+37	How much rice do we need?
+37	How much money does he have?
+37	How much time do you need?
+37	How much is this book?
+37	How much are these shoes?
+37	How much is the ticket?
+37	How many books do they read?
+37	How much milk does the baby drink?
+37	How many books?
+37	How much water?
+37	How many chairs?
+37	How much money?
+37	two bottles of water
+37	How many apples?
+37	How much is it?
+37	How many/much + noun + do/does + subject + verb?
+37	How much milk does he drink?
+37	How ___ chairs are there?
+37	How ___ milk do you drink?
+37	How ___ money do you need?
+37	How ___ students are in your class?
+37	How ___ oranges do they buy?
+37	How much water ___ she drink?
+37	How many brothers ___ he have?
+37	How many
