@@ -16,7 +16,7 @@ grammatika darslari, interaktiv testlar, audio talaffuz va gapirish mashqlari.
 ## Texnologiyalar
 
 Kotlin, Jetpack Compose, WebView (darslar), Room (lug'at),
-Coil (rasmlar), Moonshine STT, Piper TTS.
+Coil (rasmlar), Moonshine STT. Gap audiolari oldindan tayyorlangan `.opus` fayllar.
 
 ## Loyiha tuzilishi
 
