@@ -13,3 +13,7 @@
 .externalNativeBuild
 .cxx
 local.properties
+
+# ish jurnallari va IDE xatolik loglari
+session-*.md
+.kotlin/
