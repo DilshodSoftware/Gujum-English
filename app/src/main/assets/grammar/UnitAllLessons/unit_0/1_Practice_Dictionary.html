@@ -22,9 +22,17 @@
     .exercise { background: #f0f6fd; border: 1px solid #d0e2f0; }
     .exercise p { margin: 7px 0; }
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
-    .bank { display: flex; flex-wrap: wrap; gap: 7px; margin: 8px 0; }
-    .chip { padding: 4px 10px; color: #174a6b; background: #eaf3fb; border: 1px solid #d5e6f2; border-radius: 18px; font-size: .88rem; }
-    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .bank { display: flex; flex-wrap: wrap; gap: 8px; margin: 8px 0; }
+    .chip { display: inline-flex; align-items: center; gap: 6px; padding: 4px 6px 4px 12px; color: #174a6b; background: #eaf3fb; border: 1px solid #d5e6f2; border-radius: 20px; font-size: .88rem; font-weight: 600; white-space: nowrap; }
+    .vocab { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 8px 0; }
+    .vocab.cols1 { grid-template-columns: 1fr; }
+    .vocab-item { display: flex; align-items: center; gap: 8px; min-width: 0; padding: 6px 8px 6px 12px; background: #f7fbff; border: 1px solid #d5e6f2; border-radius: 14px; }
+    .vocab-item .num { color: #5b7a90; font-weight: 700; font-size: .9rem; flex: 0 0 auto; }
+    .vocab-item .w { font-weight: 700; color: #0f3b4f; min-width: 0; overflow: hidden; text-overflow: ellipsis; white-space: nowrap; }
+    .vocab-item .blank { color: #8aa2b5; font-size: .9rem; white-space: nowrap; }
+    .vocab-item .speak { margin-left: auto; }
+    .w { display: inline-flex; align-items: center; gap: 6px; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; flex: 0 0 auto; width:38px; height:38px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:17px; line-height:1; vertical-align:middle; }
     .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) { body { padding: 10px 8px 28px; } .lesson { padding: 17px 13px 24px; } h1 { font-size: 1.22rem; } h2 { font-size: 1.06rem; } }
@@ -38,9 +46,18 @@
 
     <h2>1-mashq — Inglizcha so‘zni ma’nosi bilan moslang</h2>
     <div class="exercise">
-      <p><strong>1.</strong> apple<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_apple.opus')">🔊</button> &nbsp; <strong>2.</strong> book<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_book.opus')">🔊</button> &nbsp; <strong>3.</strong> cat<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-4-6_cat.opus')">🔊</button> &nbsp; <strong>4.</strong> dog<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_dog.opus')">🔊</button></p>
-      <p><strong>5.</strong> teacher<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-5_teacher.opus')">🔊</button> &nbsp; <strong>6.</strong> school<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_school.opus')">🔊</button> &nbsp; <strong>7.</strong> water<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_water.opus')">🔊</button> &nbsp; <strong>8.</strong> friend<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_friend.opus')">🔊</button></p>
-      <p><strong>9.</strong> chair<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-5_chair.opus')">🔊</button> &nbsp; <strong>10.</strong> phone<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-5_phone.opus')">🔊</button></p>
+      <div class="vocab">
+        <div class="vocab-item"><span class="num">1.</span><span class="w">apple</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_apple.opus')">🔊</button></div>
+        <div class="vocab-item"><span class="num">2.</span><span class="w">book</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_book.opus')">🔊</button></div>
+        <div class="vocab-item"><span class="num">3.</span><span class="w">cat</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-4-6_cat.opus')">🔊</button></div>
+        <div class="vocab-item"><span class="num">4.</span><span class="w">dog</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_dog.opus')">🔊</button></div>
+        <div class="vocab-item"><span class="num">5.</span><span class="w">teacher</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-5_teacher.opus')">🔊</button></div>
+        <div class="vocab-item"><span class="num">6.</span><span class="w">school</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_school.opus')">🔊</button></div>
+        <div class="vocab-item"><span class="num">7.</span><span class="w">water</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_water.opus')">🔊</button></div>
+        <div class="vocab-item"><span class="num">8.</span><span class="w">friend</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_friend.opus')">🔊</button></div>
+        <div class="vocab-item"><span class="num">9.</span><span class="w">chair</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-5_chair.opus')">🔊</button></div>
+        <div class="vocab-item"><span class="num">10.</span><span class="w">phone</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-5_phone.opus')">🔊</button></div>
+      </div>
       <p>Ma’nolari: do‘st · suv · telefon · mushuk · stul · maktab · olma · o‘qituvchi · it · kitob</p>
     </div>
     <div class="answers"><strong>Javoblar:</strong><br>1. olma. 2. kitob. 3. mushuk. 4. it. 5. o‘qituvchi.<br>6. maktab. 7. suv. 8. do‘st. 9. stul. 10. telefon.</div>
@@ -55,20 +72,26 @@
 
     <h2>3-mashq — O‘zbekchasini yozing</h2>
     <div class="exercise">
-      <p><strong>1.</strong> sun<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_sun.opus')">🔊</button> = ______</p><p><strong>2.</strong> tree<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_tree.opus')">🔊</button> = ______</p>
-      <p><strong>3.</strong> rain<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_rain.opus')">🔊</button> = ______</p><p><strong>4.</strong> umbrella<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_umbrella.opus')">🔊</button> = ______</p>
-      <p><strong>5.</strong> yellow<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_yellow.opus')">🔊</button> = ______</p><p><strong>6.</strong> key<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_key.opus')">🔊</button> = ______</p>
-      <p><strong>7.</strong> queen<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_queen.opus')">🔊</button> = ______</p><p><strong>8.</strong> house<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_house.opus')">🔊</button> = ______</p>
+      <div class="vocab cols1">
+        <div class="vocab-item"><span class="num">1.</span><span class="w">sun</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_sun.opus')">🔊</button><span class="blank">= ______</span></div>
+        <div class="vocab-item"><span class="num">2.</span><span class="w">tree</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_tree.opus')">🔊</button><span class="blank">= ______</span></div>
+        <div class="vocab-item"><span class="num">3.</span><span class="w">rain</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_rain.opus')">🔊</button><span class="blank">= ______</span></div>
+        <div class="vocab-item"><span class="num">4.</span><span class="w">umbrella</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_umbrella.opus')">🔊</button><span class="blank">= ______</span></div>
+        <div class="vocab-item"><span class="num">5.</span><span class="w">yellow</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_yellow.opus')">🔊</button><span class="blank">= ______</span></div>
+        <div class="vocab-item"><span class="num">6.</span><span class="w">key</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_key.opus')">🔊</button><span class="blank">= ______</span></div>
+        <div class="vocab-item"><span class="num">7.</span><span class="w">queen</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_queen.opus')">🔊</button><span class="blank">= ______</span></div>
+        <div class="vocab-item"><span class="num">8.</span><span class="w">house</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_house.opus')">🔊</button><span class="blank">= ______</span></div>
+      </div>
     </div>
     <div class="answers"><strong>Javoblar:</strong><br>1. quyosh. 2. daraxt. 3. yomg‘ir. 4. soyabon.<br>5. sariq. 6. kalit. 7. malika. 8. uy.</div>
 
     <h2>4-mashq — Ta’rifga mos so‘zni tanlang</h2>
     <div class="exercise">
-      <p><strong>1.</strong> “Suv” qaysi so‘z? (water<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_water.opus')">🔊</button> / rain<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_rain.opus')">🔊</button> / juice<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_juice.opus')">🔊</button>)</p>
-      <p><strong>2.</strong> “Qiz” qaysi so‘z? (girl<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_girl.opus')">🔊</button> / boy<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_boy.opus')">🔊</button> / teacher<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-5_teacher.opus')">🔊</button>)</p>
-      <p><strong>3.</strong> “Kitob” qaysi so‘z? (book<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_book.opus')">🔊</button> / box<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_box.opus')">🔊</button> / pen<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_pen.opus')">🔊</button>)</p>
-      <p><strong>4.</strong> “Maktab” qaysi so‘z? (school<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_school.opus')">🔊</button> / chair<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-5_chair.opus')">🔊</button> / park<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_park.opus')">🔊</button>)</p>
-      <p><strong>5.</strong> “Oy” qaysi so‘z? (moon<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_moon.opus')">🔊</button> / sun<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_sun.opus')">🔊</button> / tree<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_tree.opus')">🔊</button>)</p>
+      <p><strong>1.</strong> “Suv” qaysi so‘z? (<span class="w">water<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_water.opus')">🔊</button></span> / <span class="w">rain<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_rain.opus')">🔊</button></span> / <span class="w">juice<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_juice.opus')">🔊</button></span>)</p>
+      <p><strong>2.</strong> “Qiz” qaysi so‘z? (<span class="w">girl<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_girl.opus')">🔊</button></span> / <span class="w">boy<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_boy.opus')">🔊</button></span> / <span class="w">teacher<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-5_teacher.opus')">🔊</button></span>)</p>
+      <p><strong>3.</strong> “Kitob” qaysi so‘z? (<span class="w">book<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_book.opus')">🔊</button></span> / <span class="w">box<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_box.opus')">🔊</button></span> / <span class="w">pen<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_pen.opus')">🔊</button></span>)</p>
+      <p><strong>4.</strong> “Maktab” qaysi so‘z? (<span class="w">school<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_school.opus')">🔊</button></span> / <span class="w">chair<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-5_chair.opus')">🔊</button></span> / <span class="w">park<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_park.opus')">🔊</button></span>)</p>
+      <p><strong>5.</strong> “Oy” qaysi so‘z? (<span class="w">moon<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_moon.opus')">🔊</button></span> / <span class="w">sun<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_sun.opus')">🔊</button></span> / <span class="w">tree<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_tree.opus')">🔊</button></span>)</p>
     </div>
     <div class="answers"><strong>Javoblar:</strong><br>1. water. 2. girl. 3. book. 4. school. 5. moon.</div>
 
@@ -83,7 +106,11 @@
 
     <h2>6-mashq — So‘zlarni harflab ayting</h2>
     <p>Har bir so‘zning yozilishidagi harf nomlarini ketma-ket ayting. Harf nomi so‘z ichidagi tovush bilan bir xil bo‘lmasligi mumkin.</p>
-    <div class="exercise"><p><strong>1.</strong> CAT<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-4-6_cat.opus')">🔊</button> &nbsp; <strong>2.</strong> PEN<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_pen.opus')">🔊</button> &nbsp; <strong>3.</strong> BOX<button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_box.opus')">🔊</button></p></div>
+    <div class="exercise"><div class="vocab">
+      <div class="vocab-item"><span class="num">1.</span><span class="w">CAT</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-4-6_cat.opus')">🔊</button></div>
+      <div class="vocab-item"><span class="num">2.</span><span class="w">PEN</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_pen.opus')">🔊</button></div>
+      <div class="vocab-item"><span class="num">3.</span><span class="w">BOX</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_box.opus')">🔊</button></div>
+    </div></div>
     <div class="answers"><strong>Namuna:</strong><br>CAT = C — A — T. PEN = P — E — N. BOX = B — O — X.</div>
 
     <h2>7-mashq — O‘rgangan iboralarni tushuning</h2>

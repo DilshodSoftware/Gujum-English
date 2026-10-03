@@ -5,10 +5,10 @@
 -->
 <data-extraction-rules>
     <cloud-backup>
-        <!-- TODO: Use <include> and <exclude> to control what is backed up.
-        <include .../>
-        <exclude .../>
-        -->
+        <!-- Lug'at bazasi assetdan olinadi — eski nusxa qayta tiklanmasin -->
+        <exclude domain="database" path="dictionary.db"/>
+        <exclude domain="database" path="dictionary.db-journal"/>
+        <exclude domain="database" path="dictionary.db-wal"/>
     </cloud-backup>
     <!--
     <device-transfer>

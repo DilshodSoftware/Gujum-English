@@ -32,6 +32,13 @@
     .exercise { background: #f0f6fd; border: 1px solid #d0e2f0; }
     .exercise p { margin: 7px 0; }
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -48,6 +55,46 @@
   <main class="lesson">
     <h1>2-DARS. ENGLISH ALPHABET</h1>
     <div class="subhead">Ingliz alifbosi · 26 ta harfni tanish va nomini aytish</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>apple</strong> — olma</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_apple.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>book</strong> — kitob</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_book.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cat</strong> — mushuk</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-4-6_cat.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>dog</strong> — it</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_dog.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>egg</strong> — tuxum</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_egg.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>fish</strong> — baliq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-5_fish.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>girl</strong> — qiz</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_girl.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>hand</strong> — qo‘l</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_hand.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>ice</strong> — muz</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_ice.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>juice</strong> — sharbat</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_juice.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>key</strong> — kalit</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_key.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>lion</strong> — sher</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_lion.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>moon</strong> — oy</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_moon.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>nose</strong> — burun</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_nose.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>orange</strong> — apelsin</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_orange.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>pen</strong> — ruchka</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_pen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>queen</strong> — malika</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_queen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>rain</strong> — yomg‘ir</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_rain.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sun</strong> — quyosh</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_sun.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tree</strong> — daraxt</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_tree.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>umbrella</strong> — soyabon</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_umbrella.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>van</strong> — furgon</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_van.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>water</strong> — suv</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_water.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>box</strong> — quti</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_box.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>yellow</strong> — sariq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3_yellow.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>zebra</strong> — zebra</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_zebra.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>Ali</strong> — ism</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_ali.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>Tashkent</strong> — Toshkent</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_tashkent.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>Uzbekistan</strong> — O‘zbekiston</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_uzbekistan.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>Monday</strong> — dushanba</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_monday.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>March</strong> — mart</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d2_march.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>English</strong> — ingliz tili</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_english.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>school</strong> — maktab</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2_school.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>I</strong> — men</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-2-3-4_i.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>My name is Ali.</strong> — Mening ismim Ali.</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d2_my_name_is_ali.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>Bu darsda nima o‘rganamiz?</strong><br>Ingliz tilidagi 26 ta harfni, ularning katta-kichik yozilishini va alifbodagi nomini o‘rganamiz. Hozircha harf nomini yodlaymiz. Harf so‘z ichida qanday tovush berishi keyingi darslarda tushuntiriladi.</div>
 
@@ -142,5 +189,23 @@
     <div class="card green"><strong>Uyda mashq:</strong> jadvalga qaramasdan A dan Z gacha ayting. Keyin Z dan A gacha qaytarishga urinib ko‘ring. Adashsangiz, to‘xtamasdan davom eting va keyin tekshiring.</div>
     <div class="footer">2-dars · English Alphabet</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

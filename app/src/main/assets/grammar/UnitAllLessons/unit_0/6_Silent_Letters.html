@@ -30,6 +30,14 @@
     .exercise { background: #f0f6fd; border: 1px solid #d0e2f0; }
     .exercise p { margin: 7px 0; }
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -44,6 +52,44 @@
   <main class="lesson">
     <h1>6-DARS. SILENT LETTERS</h1>
     <div class="subhead">O‘qilmaydigan harflar · So‘zda yoziladi, lekin aytilmaydi</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>listen</strong> — tinglamoq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-6_listen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>know</strong> — bilmoq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-6_know.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>name</strong> — ism</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-6_name.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>make</strong> — yasamoq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_make.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>time</strong> — vaqt</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_time.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>home</strong> — uy</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_home.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>five</strong> — besh</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_five.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cap</strong> — kepka</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_cap.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cape</strong> — yomg‘irpo‘sh</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_cape.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>lamb</strong> — qo‘zi</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-4-6_lamb.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>thumb</strong> — bosh barmoq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_thumb.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>climb</strong> — tirmashib chiqmoq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_climb.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>comb</strong> — taroq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_comb.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>high</strong> — baland</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_high.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>light</strong> — yorug‘lik</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_light.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>night</strong> — tun</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1-6_night.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>right</strong> — to‘g‘ri</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_right.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>though</strong> — garchi</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_though.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>laugh</strong> — kulmoq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_laugh.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cough</strong> — yo‘talmoq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_cough.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>knee</strong> — tizza</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_knee.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>write</strong> — yozmoq</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_write.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>wrong</strong> — noto‘g‘ri</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_wrong.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>could</strong> — qila olardi</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_could.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>would</strong> — bo‘lardi</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_would.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>should</strong> — kerak</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_should.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>autumn</strong> — kuz</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_autumn.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>column</strong> — ustun</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_column.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>hymn</strong> — madhiya</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_hymn.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>ballet</strong> — balet</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_ballet.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>buffet</strong> — bufet</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_buffet.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>debut</strong> — debyut</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d6_debut.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>silent letters</strong> — o‘qilmaydigan harflar</span><button class="speak" onclick="playOpus('unit_0_dictionary_opus/d1_silent_letters.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>Oldingi darsni eslaymiz:</strong> harf — yozuv belgisi, tovush — aytiladigan va eshitiladigan ovoz. Ingliz tilida ayrim harflar so‘zda yoziladi, ammo ularni talaffuz qilmaymiz. Bunday harf <strong>silent letter</strong> deyiladi.</div>
 
@@ -142,5 +188,23 @@
     <div class="card green"><strong>Yakuniy eslatma:</strong> qoidalar talaffuzni taxmin qilishga yordam beradi, ammo istisnolar bor. Yangi so‘zni imkon qadar talaffuzi bilan birga yodlang.</div>
     <div class="footer">6-dars · Silent Letters</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

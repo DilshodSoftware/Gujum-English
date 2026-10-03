@@ -243,6 +243,14 @@ private val grammarUnits = listOf(
             GrammarTopic("66.2", "66-amaliyot. A1 Grammar Final Practice", "UnitAllLessons/unit_7/66_Practice_A1_Grammar_Final.html"),
         )
     ),
+    GrammarUnit(
+        "UNIT 8",
+        "Survival Vocabulary",
+        listOf(
+            GrammarTopic("67.1", "67-dars. Numbers 1-100 — Sonlar", "UnitAllLessons/unit_8/67_Numbers_1_100.html"),
+            GrammarTopic("67.2", "67-amaliyot. Numbers 1-100", "UnitAllLessons/unit_8/67_Practice_Numbers_1_100.html"),
+        )
+    ),
 )
 
 internal fun groupedGrammarUnits(): List<GrammarUnit> {
@@ -315,9 +323,10 @@ internal fun groupedGrammarUnits(): List<GrammarUnit> {
         63 to "Because / So",
         64 to "Would Like — I’d Like",
         65 to "A1 Grammar Review — Present, Past, Future",
-        66 to "A1 Grammar Final Practice — Questions, Negatives and Sentences"
+        66 to "A1 Grammar Final Practice — Questions, Negatives and Sentences",
+        67 to "Numbers 1-100 — Sonlar"
     )
-    return (1..66).mapNotNull { lesson ->
+    return (1..67).mapNotNull { lesson ->
         val topics = allTopics.filter { it.number.substringBefore(".") == lesson.toString() }
         if (topics.isEmpty()) {
             null
@@ -342,6 +351,7 @@ internal fun grammarSectionFor(unitLabel: String): GrammarListItem.SectionHeader
         unitLabel == "UNIT 5" -> GrammarListItem.SectionHeader("UNIT 5", "Past")
         unitLabel == "UNIT 6" -> GrammarListItem.SectionHeader("UNIT 6", "Future & Description")
         unitLabel == "UNIT 7" -> GrammarListItem.SectionHeader("UNIT 7", "A1 Review & Integration")
+        unitLabel == "UNIT 8" -> GrammarListItem.SectionHeader("UNIT 8", "Survival Vocabulary")
         topicNumber in 1..6 -> GrammarListItem.SectionHeader("UNIT 0", "English Basics")
         topicNumber in 7..18 -> GrammarListItem.SectionHeader("UNIT 1", "Foundation")
         topicNumber in 19..28 -> GrammarListItem.SectionHeader("UNIT 2", "Present")
@@ -350,6 +360,7 @@ internal fun grammarSectionFor(unitLabel: String): GrammarListItem.SectionHeader
         topicNumber in 49..55 -> GrammarListItem.SectionHeader("UNIT 5", "Past")
         topicNumber in 56..64 -> GrammarListItem.SectionHeader("UNIT 6", "Future & Description")
         topicNumber in 65..66 -> GrammarListItem.SectionHeader("UNIT 7", "A1 Review & Integration")
+        topicNumber in 67..78 -> GrammarListItem.SectionHeader("UNIT 8", "Survival Vocabulary")
         else -> null
     }
 }

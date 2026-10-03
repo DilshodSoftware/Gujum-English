@@ -1,0 +1,164 @@
+
+I am a student.|Men o'quvchiman.
+Ali lives in Tashkent.|Ali Toshkentda yashaydi.
+Monday is a school day.|Dushanba maktab kuni.
+I study English.|Men ingliz tilini o'rganaman.
+I have a book.|Menda kitob bor.
+I see a cat.|Men mushuk ko'ryapman.
+The city is big.|Shahar katta.
+The chair is new.|Stul yangi.
+Listen to me.|Meni tingla.
+I like cake.|Menga tort yoqadi.
+The phone is black.|Telefon qora.
+The ship is big.|Kema katta.
+I think so.|Menimcha, shunday.
+The cat is black.|Mushuk qora.
+I sing a song.|Men qo'shiq kuylayman.
+I know Ali.|Men Alini taniyman.
+The lamb is small.|Qo'zi kichkina.
+My name is Ali.|Mening ismim Ali.
+The night is dark.|Tun qorong'u.
+She lives in Tashkent, Uzbekistan.|U O'zbekistonda, Toshkentda yashaydi.
+Monday is my favorite day.|Dushanba mening sevimli kunim.
+Navruz is in March.|Navro'z martda.
+My teacher speaks English.|Mening o'qituvchim ingliz tilida gapiradi.
+The apple is red.|Olma qizil.
+This book is new.|Bu kitob yangi.
+The dog is big.|It katta.
+It is a pen.|Bu ruchka.
+I eat an egg.|Men tuxum yeyman.
+The fish is small.|Baliq kichkina.
+The girl is happy.|Qiz xursand.
+This is my hand.|Bu mening qo'lim.
+The ice is cold.|Muz sovuq.
+I drink juice.|Men sharbat ichaman.
+This is my key.|Bu mening kalitim.
+The lion is big.|Sher katta.
+The moon is white.|Oy oppoq.
+This is my nose.|Bu mening burnim.
+The orange is sweet.|Apelsin shirin.
+This is a pen.|Bu ruchka.
+The queen is kind.|Malika mehribon.
+I like rain.|Menga yomg'ir yoqadi.
+The sun is hot.|Quyosh issiq.
+The tree is tall.|Daraxt baland. (bo'yiga nisbatan).
+My umbrella is red.|Mening soyabonim qizil.
+The van is white.|Furgon oq rangda.
+I drink water.|Men suv ichaman.
+The box is big.|Quti katta.
+The sun is yellow.|Quyosh sariq.
+The zebra is black and white.|Zebra qora va oq.
+The boy is happy.|Bola xursand.
+My teacher is kind.|Mening o'qituvchim mehribon.
+Ali is a student.|Ali o'quvchi.
+My mother is kind.|Mening onam mehribon.
+My father is tall.|Mening otam baland bo'yli.
+Ali is my friend.|Ali mening do'stim.
+The child is small.|Bola kichkina.
+The bird can fly.|Qush ucha oladi.
+The table is big.|Stol katta.
+My house is small.|Mening uyim kichkina.
+My school is big.|Mening maktabim katta.
+The park is green.|Park yashil.
+My room is clean.|Mening xonam toza.
+I am happy.|Men xursandman.
+The gym is big.|Sport zal katta.
+This myth is old.|Bu afsona qadimiy.
+The system is new.|Tizim yangi.
+This symbol is a star.|Bu belgi yulduz. / Bu belgi yulduz shaklida.
+She is happy.|U xursand.
+The baby is small.|Chaqaloq kichkina.
+English is easy.|Ingliz tili oson.
+This is my book.|Bu mening kitobim.
+Birds can fly.|Qushlar ucha oladi.
+The sky is blue.|Osmon ko'k.
+Try again.|Yana urinib ko'r.
+Ali and I are friends.|Ali va men do'stmiz.
+Ali is my friend.|Ali mening do'stim.
+Madina is my friend.|Madina mening do'stim.
+I live in Tashkent.|Men Toshkentda yashayman.
+I live in Uzbekistan.|Men O'zbekistonda yashayman.
+I like Monday.|Menga dushanba yoqadi.
+I like Tuesday.|Menga seshanba yoqadi.
+January is cold.|Yanvar sovuq.
+May is warm.|May iliq.
+A vowel is a speech sound.|Unli — nutq tovushidir.
+B is a consonant.|B — undosh harf.
+She is my friend.|U mening do'stim.
+I like it very much.|Menga u juda yoqadi.
+This is a pen.|Bu ruchka.
+This photo is nice.|Bu surat chiroyli.
+What is this?|Bu nima?
+Where is my book?|Mening kitobim qayerda?
+The clock is white.|Soat oq.
+The duck is yellow.|O'rdak sariq.
+The song is long.|Qo'shiq uzun.
+The song is nice.|Qo'shiq chiroyli.
+Monday is my favorite day.|Dushanba mening sevimli kunim.
+I live in Tashkent.|Men Toshkentda yashayman.
+I speak English.|Men ingliz tilida gapiraman.
+The paper is white.|Qog'oz oq.
+The word "night" has silent letters.|"night" so'zida o'qilmaydigan harflar bor.
+The chef is happy.|Oshpaz xursand.
+A, E, I, O, U are vowels.|A, E, I, O, U unlilardir.
+I like English.|Menga ingliz tili yoqadi.
+I am Uzbek.|Men o'zbekman.
+My friend is from Uzbekistan.|Mening do'stim O'zbekistondan.
+I am Ali.|Men Aliman.
+She lives in Tashkent.|U Toshkentda yashaydi.
+We study English on Monday.|Biz dushanba kuni ingliz tilini o'rganamiz.
+My friend is from Uzbekistan.|Mening do'stim O'zbekistondan.
+I see a CAT.|Men mushukni ko'ryapman.
+This is a PEN.|Bu ruchka.
+The BOX is big.|Quti katta.
+My friend lives in Tashkent.|Mening do'stim Toshkentda yashaydi.
+I can read A, B, C, D, E.|Men A, B, C, D, E ni o'qiy olaman.
+I can read F, G, H, I, J.|Men F, G, H, I, J ni o'qiy olaman.
+ALI is a name.|ALI — ism.
+March is a spring month.|Mart bahor oyi.
+I can read A, B, C.|Men A, B, C ni o'qiy olaman.
+I can say a, b, c, d!|Men a, b, c, d ni ayta olaman!
+The letter "a" is in "cat".|"a" harfi "cat" so'zida bor.
+My name is Ali.|Mening ismim Ali.
+The letter "A" is first.|"A" harfi birinchi.
+Yes, I can.|Ha, qila olaman.
+The letter "O" is in "box".|"O" harfi "box" so'zida bor.
+The letter "E" is in "pen".|"E" harfi "pen" so'zida bor.
+A is a vowel.|A — unli tovush.
+The letter "s" is in "sun".|"s" harfi "sun" so'zida bor.
+The letter "h" is in "house".|"h" harfi "house" so'zida bor.
+The letter "i" is in "fish".|"i" harfi "fish" so'zida bor.
+The letter "p" is in "pen".|"p" harfi "pen" so'zida bor.
+The shop is big.|Do'kon katta.
+The chorus is loud.|Xor baland yangramoqda. / Xorning ovozi baland.
+The elephant is big.|Fil katta.
+He is my brother.|U mening akam.
+The sound "sh" is in "ship".|"sh" tovushi "ship" so'zida bor.
+The sound "ch" is in "chair".|"ch" tovushi "chair" so'zida bor.
+The sheep is white.|Qo'y oq.
+I take a bath.|Men cho'milaman.
+I make a cake.|Men tort pishiraman.
+What time is it?|Soat necha?
+I go home.|Men uyga boraman.
+I have five books.|Menda beshta kitob bor.
+This is my thumb.|Bu mening bosh barmog'im.
+I can climb a tree.|Men daraxtga chiqa olaman.
+The comb is black.|Taroq qora.
+The tree is high.|Daraxt baland joyda.
+The light is on.|Chiroq yoqilgan.
+This is right.|Bu to'g'ri.
+I like it, though it is cold.|Menga yoqadi, garchi sovuq bo'lsa ham.
+This is my knee.|Bu mening tizzam.
+I write my name.|Men ismimni yozaman.
+This is wrong.|Bu noto'g'ri.
+I could swim.|Men suza olardim.
+I would like tea.|Men choy xohlardim.
+I should go home.|Men uyga borishim kerak.
+Autumn is cool.|Kuz salqin.
+The column is tall.|Ustun baland.
+The hymn is slow.|Madhiya sekin yangraydi.
+The ballet is nice.|Balet yaxshi (yoqimli).
+The buffet is big.|Bufet katta.
+The debut is new.|Debyut yangi.
+I can read "name lamb listen knee write".|Men "name lamb listen knee write" ni o'qiy olaman.
+I cough in winter.|Men qishda yo'talaman.

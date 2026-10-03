@@ -18,7 +18,6 @@ import android.widget.RadioButton
 import android.widget.RadioGroup
 import android.widget.ScrollView
 import android.widget.Space
-import android.widget.Spinner
 import android.widget.TextView
 import androidx.activity.ComponentActivity
 import com.example.gujumenglish.ui.grammar.practice.Question
@@ -36,6 +35,7 @@ class GrammarPracticeActivity : ComponentActivity() {
     private var questions: List<Question> = emptyList()
     private var index = 0
     private var answered = false
+    private val verdicts = mutableMapOf<Int, Boolean>()
     private lateinit var content: LinearLayout
     private lateinit var progressLabel: TextView
     private lateinit var progressBar: ProgressBar
@@ -107,7 +107,7 @@ class GrammarPracticeActivity : ComponentActivity() {
         isAllCaps = false
         setTextColor(INK)
         background = rounded(Color.WHITE, 14, 1, BORDER)
-        setPadding(dp(14), dp(10), dp(14), dp(10))
+        setPadding(dp(14), dp(14), dp(14), dp(14))
     }
 
     private fun optionBackground(): GradientDrawable =
@@ -153,8 +153,10 @@ class GrammarPracticeActivity : ComponentActivity() {
             Space(this),
             LinearLayout.LayoutParams(0, dp(48), 1f)
         )
-        toolbar.addView(fontButton("A-", -FONT_SIZE_STEP))
-        toolbar.addView(fontButton("A+", FONT_SIZE_STEP))
+        toolbar.addView(fontButton("A-", -FONT_SIZE_STEP),
+            LinearLayout.LayoutParams(dp(52), dp(48)).apply { rightMargin = dp(4) })
+        toolbar.addView(fontButton("A+", FONT_SIZE_STEP),
+            LinearLayout.LayoutParams(dp(52), dp(48)).apply { rightMargin = dp(8) })
         progressLabel = TextView(this).apply {
             textSize = sp(14)
             setTypeface(typeface, android.graphics.Typeface.BOLD)
@@ -219,6 +221,7 @@ class GrammarPracticeActivity : ComponentActivity() {
 
     private fun renderCurrentQuestion() {
         content.removeAllViews()
+        progressLabel.visibility = View.VISIBLE
         progressLabel.text = "Savol ${index + 1}/${questions.size}"
         progressBar.progress = index + 1
         val question = questions[index]
@@ -253,7 +256,10 @@ class GrammarPracticeActivity : ComponentActivity() {
         }
     }
 
-    private fun optionsCard(): LinearLayout = card()
+    private fun optionsCard(): LinearLayout = card().apply {
+        clipToPadding = false
+        clipChildren = false
+    }
 
     private fun renderChoice(question: Question.Choice) {
         val box = optionsCard()
@@ -288,16 +294,29 @@ class GrammarPracticeActivity : ComponentActivity() {
         val box = optionsCard()
         val selected = mutableSetOf<String>()
         question.options.forEachIndexed { i, option ->
-            box.addView(CheckBox(this).apply {
+            val row = LinearLayout(this).apply {
+                orientation = LinearLayout.HORIZONTAL
+                gravity = Gravity.CENTER_VERTICAL
+                background = optionBackground()
+                setPadding(dp(8), dp(12), dp(14), dp(12))
+            }
+            row.addView(Space(this),
+                LinearLayout.LayoutParams(dp(8), ViewGroup.LayoutParams.WRAP_CONTENT))
+            row.addView(CheckBox(this).apply {
                 text = option
                 textSize = sp(17)
                 setTextColor(INK)
-                background = optionBackground()
-                setPadding(dp(14), dp(12), dp(14), dp(12))
+                background = null
+                setPadding(0, 0, 0, 0)
                 setOnCheckedChangeListener { _, checked ->
                     if (checked) selected.add(option) else selected.remove(option)
                 }
             }, LinearLayout.LayoutParams(
+                0,
+                ViewGroup.LayoutParams.WRAP_CONTENT,
+                1f
+            ))
+            box.addView(row, LinearLayout.LayoutParams(
                 ViewGroup.LayoutParams.MATCH_PARENT,
                 ViewGroup.LayoutParams.WRAP_CONTENT
             ).apply {
@@ -456,6 +475,8 @@ class GrammarPracticeActivity : ComponentActivity() {
         box.addView(
             HorizontalScrollView(this).apply {
                 isHorizontalScrollBarEnabled = false
+                clipToPadding = false
+                clipChildren = false
                 addView(
                     poolRow,
                     LinearLayout.LayoutParams(
@@ -463,12 +484,16 @@ class GrammarPracticeActivity : ComponentActivity() {
                         ViewGroup.LayoutParams.WRAP_CONTENT
                     )
                 )
-            }
+            },
+            LinearLayout.LayoutParams(
+                ViewGroup.LayoutParams.MATCH_PARENT,
+                ViewGroup.LayoutParams.WRAP_CONTENT
+            ).apply { bottomMargin = dp(4) }
         )
 
         val controls = LinearLayout(this).apply {
             orientation = LinearLayout.HORIZONTAL
-            setPadding(0, dp(10), 0, 0)
+            setPadding(dp(2), dp(10), dp(2), dp(2))
         }
 
         fun refresh() {
@@ -476,13 +501,17 @@ class GrammarPracticeActivity : ComponentActivity() {
             poolRow.removeAllViews()
             pool.forEachIndexed { poolIndex, word ->
                 poolRow.addView(
-                    Button(this).apply {
+                    TextView(this).apply {
                         text = word
                         textSize = sp(16)
-                        isAllCaps = false
+                        setTypeface(typeface, android.graphics.Typeface.BOLD)
                         setTextColor(SECTION_BLUE)
+                        gravity = Gravity.CENTER
                         background = rounded(CHIP_BG, 18, 1, BORDER)
-                        setPadding(dp(14), dp(8), dp(14), dp(8))
+                        setPadding(dp(18), dp(12), dp(18), dp(12))
+                        minHeight = dp(48)
+                        isClickable = true
+                        isFocusable = true
                         setOnClickListener {
                             chosen.add(word)
                             pool.removeAt(poolIndex)
@@ -505,7 +534,7 @@ class GrammarPracticeActivity : ComponentActivity() {
                 }
             }
         }, LinearLayout.LayoutParams(0, ViewGroup.LayoutParams.WRAP_CONTENT, 1f).apply {
-            rightMargin = dp(8)
+            rightMargin = dp(10)
         })
         controls.addView(secondaryButton("Tozalash").apply {
             setOnClickListener {
@@ -546,14 +575,16 @@ class GrammarPracticeActivity : ComponentActivity() {
                 ViewGroup.LayoutParams.WRAP_CONTENT
             ).apply { bottomMargin = dp(10) }
         )
-        val button = primaryButton("Javobni tekshirish").apply {
+        val button = primaryButton(
+            if (index == questions.lastIndex) "Natijani ko‘rish" else "Keyingi savol →"
+        ).apply {
             setOnClickListener {
                 if (answered) return@setOnClickListener
                 if (isEmpty()) {
                     warning.visibility = View.VISIBLE
                 } else {
                     warning.visibility = View.GONE
-                    checkAnswer(check(), this)
+                    checkAnswer(check())
                 }
             }
         }
@@ -570,65 +601,22 @@ class GrammarPracticeActivity : ComponentActivity() {
     private fun sectionTitle(section: String): String =
         section.substringAfter("•", section).trim().ifEmpty { section }
 
-    private fun checkAnswer(correct: Boolean, button: Button) {
+    private fun checkAnswer(correct: Boolean) {
         answered = true
-        lockInputs(content, button)
-        val question = questions[index]
-        val feedback = LinearLayout(this).apply {
-            orientation = LinearLayout.VERTICAL
-            background = rounded(
-                if (correct) FEEDBACK_OK_BG else FEEDBACK_BAD_BG,
-                16,
-                1,
-                if (correct) FEEDBACK_OK_BORDER else FEEDBACK_BAD_BORDER
-            )
-            setPadding(dp(16), dp(14), dp(16), dp(14))
-        }
-        feedback.addView(TextView(this).apply {
-            text = if (correct) "✓ To‘g‘ri!" else "✗ Noto‘g‘ri."
-            textSize = sp(18)
-            setTypeface(typeface, android.graphics.Typeface.BOLD)
-            setTextColor(if (correct) FEEDBACK_OK_TEXT else FEEDBACK_BAD_TEXT)
-        })
-        feedback.addView(TextView(this).apply {
-            text = question.explanation
-            textSize = sp(16)
-            setTextColor(INK)
-            setPadding(0, dp(4), 0, 0)
-        })
-        addCard(feedback)
-        button.text = if (index == questions.lastIndex) "Natijani ko‘rish" else "Keyingi savol →"
-        button.setOnClickListener {
-            if (index == questions.lastIndex) showResult()
-            else {
-                index++
-                showQuestion()
-            }
-        }
-    }
-
-    /**
-     * Tekshiruvdan keyin javobni o'zgartirib bo'lmasligi uchun barcha kiritish
-     * elementlarini qulflaydi ("Keyingi savol" tugmasidan tashqari).
-     */
-    private fun lockInputs(view: View, except: View) {
-        if (view !== except) {
-            when (view) {
-                is RadioButton, is CheckBox, is EditText, is Spinner, is Button ->
-                    view.isEnabled = false
-            }
-        }
-        if (view is ViewGroup) {
-            for (i in 0 until view.childCount) {
-                lockInputs(view.getChildAt(i), except)
-            }
+        verdicts[index] = correct
+        if (index == questions.lastIndex) showResult()
+        else {
+            index++
+            showQuestion()
         }
     }
 
     private fun showResult() {
         content.removeAllViews()
-        progressLabel.text = "Yakunlandi"
+        progressLabel.visibility = View.GONE
         progressBar.progress = questions.size
+        val correctCount = questions.indices.count { verdicts[it] == true }
+        val wrongCount = questions.size - correctCount
         val box = card()
         box.addView(TextView(this).apply {
             text = "🎉"
@@ -637,24 +625,74 @@ class GrammarPracticeActivity : ComponentActivity() {
             setPadding(0, dp(8), 0, dp(8))
         })
         box.addView(TextView(this).apply {
-            text = "Amaliyotni bajardingiz!"
+            text = "Natijangiz"
             textSize = sp(24)
             setTypeface(typeface, android.graphics.Typeface.BOLD)
             setTextColor(INK)
             gravity = Gravity.CENTER
         })
-        box.addView(TextView(this).apply {
-            text = "Xatolaringiz bo‘lsa, nazariyani takrorlab, testni qayta ishlang."
-            textSize = sp(16)
-            setTextColor(MUTED)
+        val summary = LinearLayout(this).apply {
+            orientation = LinearLayout.HORIZONTAL
             gravity = Gravity.CENTER
-            setPadding(dp(8), dp(10), dp(8), 0)
-            setLineSpacing(dp(4).toFloat(), 1f)
+            setPadding(0, dp(12), 0, 0)
+        }
+        summary.addView(TextView(this).apply {
+            text = "✓ $correctCount to‘g‘ri"
+            textSize = sp(17)
+            setTypeface(typeface, android.graphics.Typeface.BOLD)
+            setTextColor(FEEDBACK_OK_TEXT)
+            background = rounded(FEEDBACK_OK_BG, 12)
+            setPadding(dp(14), dp(8), dp(14), dp(8))
+        }, LinearLayout.LayoutParams(
+            ViewGroup.LayoutParams.WRAP_CONTENT,
+            ViewGroup.LayoutParams.WRAP_CONTENT
+        ).apply { rightMargin = dp(8) })
+        summary.addView(TextView(this).apply {
+            text = "✗ $wrongCount noto‘g‘ri"
+            textSize = sp(17)
+            setTypeface(typeface, android.graphics.Typeface.BOLD)
+            setTextColor(FEEDBACK_BAD_TEXT)
+            background = rounded(FEEDBACK_BAD_BG, 12)
+            setPadding(dp(14), dp(8), dp(14), dp(8))
         })
+        box.addView(summary)
         addCard(box)
+        questions.forEachIndexed { i, question ->
+            val ok = verdicts[i] == true
+            val row = LinearLayout(this).apply {
+                orientation = LinearLayout.VERTICAL
+                background = rounded(
+                    if (ok) FEEDBACK_OK_BG else FEEDBACK_BAD_BG,
+                    16,
+                    1,
+                    if (ok) FEEDBACK_OK_BORDER else FEEDBACK_BAD_BORDER
+                )
+                setPadding(dp(16), dp(12), dp(16), dp(12))
+            }
+            row.addView(TextView(this).apply {
+                text = (if (ok) "✓ " else "✗ ") + sectionTitle(question.section)
+                textSize = sp(16)
+                setTypeface(typeface, android.graphics.Typeface.BOLD)
+                setTextColor(if (ok) FEEDBACK_OK_TEXT else FEEDBACK_BAD_TEXT)
+            })
+            row.addView(TextView(this).apply {
+                text = question.prompt
+                textSize = sp(15)
+                setTextColor(INK)
+                setPadding(0, dp(4), 0, 0)
+            })
+            row.addView(TextView(this).apply {
+                text = question.explanation
+                textSize = sp(14)
+                setTextColor(MUTED)
+                setPadding(0, dp(4), 0, 0)
+            })
+            addCard(row)
+        }
         val retry = primaryButton("Qayta ishlash").apply {
             setOnClickListener {
                 index = 0
+                verdicts.clear()
                 showQuestion()
             }
         }
@@ -684,11 +722,14 @@ class GrammarPracticeActivity : ComponentActivity() {
 
     private fun fontButton(label: String, delta: Int): Button = Button(this).apply {
         text = label
-        textSize = 15f
+        textSize = 17f
         isAllCaps = false
         minWidth = 0
         minimumWidth = 0
-        setPadding(dp(10), dp(4), dp(10), dp(4))
+        minHeight = 0
+        minimumHeight = 0
+        setPadding(0, dp(8), 0, dp(8))
+        gravity = Gravity.CENTER
         setOnClickListener { changeFontSize(delta) }
     }
 

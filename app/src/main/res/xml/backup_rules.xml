@@ -6,8 +6,7 @@
    See https://developer.android.com/about/versions/12/backup-restore
 -->
 <full-backup-content>
-    <!--
-   <include domain="sharedpref" path="."/>
-   <exclude domain="sharedpref" path="device.xml"/>
--->
+    <!-- Lug'at bazasi assetdan olinadi — eski nusxa qayta tiklanmasin -->
+    <exclude domain="database" path="dictionary.db"/>
+    <exclude domain="database" path="dictionary.db-journal"/>
 </full-backup-content>
