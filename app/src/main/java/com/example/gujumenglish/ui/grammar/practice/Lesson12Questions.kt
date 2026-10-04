@@ -215,5 +215,26 @@ internal val lesson12Questions: List<Question> = listOf(
         answers = setOf("It is a small room."),
         mode = TextMode.SENTENCE,
         explanation = "To‘g‘ri shakl: It is a small room."
+    ),
+    Question.Choice(
+        section = "7-mashq • O‘zingiz misol tuzing",
+        prompt = "a bilan boshlanadigan ot birikmasi qaysi?",
+        options = listOf("a book", "an book"),
+        answer = "a book",
+        explanation = "Undosh tovush oldidan a: a book."
+    ),
+    Question.Choice(
+        section = "7-mashq • O‘zingiz misol tuzing",
+        prompt = "an bilan boshlanadigan ot birikmasi qaysi?",
+        options = listOf("an egg", "a egg"),
+        answer = "an egg",
+        explanation = "Unli tovush oldidan an: an egg."
+    ),
+    Question.Choice(
+        section = "7-mashq • O‘zingiz misol tuzing",
+        prompt = "Sanalmaydigan ot artiklsiz ishlatilgan gap qaysi?",
+        options = listOf("I drink milk.", "I drink a milk."),
+        answer = "I drink milk.",
+        explanation = "Sanalmaydigan ot oldidan a/an qo‘yilmaydi."
     )
 )

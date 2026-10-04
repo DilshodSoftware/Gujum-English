@@ -193,6 +193,27 @@ internal val lesson1Questions: List<Question> = listOf(
         mode = TextMode.SENTENCE,
         explanation = "To‘g‘ri yozuv: My friend is from Uzbekistan."
     ),
+    Question.Text(
+        section = "6-mashq • So‘zlarni harflab ayting",
+        prompt = "CAT so‘zini harflab yozing.",
+        answers = setOf("CAT"),
+        mode = TextMode.SPELLING,
+        explanation = "To‘g‘ri yozuv: C–A–T."
+    ),
+    Question.Text(
+        section = "6-mashq • So‘zlarni harflab ayting",
+        prompt = "PEN so‘zini harflab yozing.",
+        answers = setOf("PEN"),
+        mode = TextMode.SPELLING,
+        explanation = "To‘g‘ri yozuv: P–E–N."
+    ),
+    Question.Text(
+        section = "6-mashq • So‘zlarni harflab ayting",
+        prompt = "BOX so‘zini harflab yozing.",
+        answers = setOf("BOX"),
+        mode = TextMode.SPELLING,
+        explanation = "To‘g‘ri yozuv: B–O–X."
+    ),
     Question.Matching(
         section = "7-mashq • Iboralarni tushuning",
         prompt = "Inglizcha gapni o‘zbekcha tarjimasi bilan bog‘lang.",

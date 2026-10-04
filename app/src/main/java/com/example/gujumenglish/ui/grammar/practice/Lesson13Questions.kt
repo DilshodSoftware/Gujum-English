@@ -252,5 +252,26 @@ internal val lesson13Questions: List<Question> = listOf(
         options = listOf("the", "hech narsa"),
         answer = "hech narsa",
         explanation = "Umumiy ko‘plik: artiklsiz."
+    ),
+    Question.Choice(
+        section = "7-mashq • O‘zingizdan misol",
+        prompt = "Bir narsani tanishtiradigan gap qaysi?",
+        options = listOf("I see a bird.", "I see the bird."),
+        answer = "I see a bird.",
+        explanation = "Birinchi marta: a bird."
+    ),
+    Question.Choice(
+        section = "7-mashq • O‘zingizdan misol",
+        prompt = "O‘sha narsa haqida davom ettiradigan gap qaysi?",
+        options = listOf("The bird is yellow.", "Bird is yellow."),
+        answer = "The bird is yellow.",
+        explanation = "Endi ma’lum: the bird."
+    ),
+    Question.Choice(
+        section = "7-mashq • O‘zingizdan misol",
+        prompt = "Umumiy ma’nodagi ko‘plik ot bilan gap qaysi?",
+        options = listOf("I like birds.", "I like the birds."),
+        answer = "I like birds.",
+        explanation = "Umumiy ko‘plik: artiklsiz."
     )
 )

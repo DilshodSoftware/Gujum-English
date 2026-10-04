@@ -181,9 +181,23 @@ internal val lesson25Questions: List<Question> = listOf(
     ),
     Question.Choice(
         section = "7-mashq • O‘zingiz haqida javob",
-        prompt = "«Do you like tea?» — o‘zingiz haqida qisqa javob bering.",
+        prompt = "«Do you read every day?» — o‘zingiz haqida qisqa javob bering.",
         options = listOf("Yes, I do.", "Yes, you do."),
         answer = "Yes, I do.",
         explanation = "Savol eganiga mos: Yes, I do."
+    ),
+    Question.Choice(
+        section = "7-mashq • O‘zingiz haqida javob",
+        prompt = "«Do you like music?» — o‘zingiz haqida qisqa javob bering.",
+        options = listOf("Yes, I do.", "Yes, you do."),
+        answer = "Yes, I do.",
+        explanation = "Savol eganiga mos: Yes, I do."
+    ),
+    Question.Choice(
+        section = "7-mashq • O‘zingiz haqida javob",
+        prompt = "«Are you at home now?» — o‘zingiz haqida qisqa javob bering.",
+        options = listOf("Yes, I am.", "Yes, you are."),
+        answer = "Yes, I am.",
+        explanation = "To be savoliga mos: Yes, I am."
     )
 )

@@ -221,13 +221,13 @@ internal val lesson18Questions: List<Question> = listOf(
     ),
     Question.Text(
         section = "7-mashq • Mini-dialog",
-        prompt = "B: No, it isn’t ___. — to‘ldiring.",
+        prompt = "A: Is this your notebook? B: No, it isn’t ___. — to‘ldiring.",
         answers = setOf("mine"),
         explanation = "Bu yerda meniki: mine."
     ),
     Question.Text(
         section = "7-mashq • Mini-dialog",
-        prompt = "B: …It’s Sara’s. It’s ___. — to‘ldiring.",
+        prompt = "B: …It’s Sara’s. It’s ___. (daftar Sara’ning) — to‘ldiring.",
         answers = setOf("hers"),
         explanation = "Sara ayol: hers."
     ),
