@@ -1,0 +1,188 @@
+
+He is an adult.|U katta yoshli.
+I study in the afternoon.|Men tushdan keyin o'qiyman.
+Ali is my friend.|Ali mening do'stim.
+Do you have any questions?|Savollaringiz bormi?
+This is an apple.|Bu olma.
+These apples are sweet.|Bu olmalar shirin.
+The baby sleeps.|Chaqaloq uxlayapti.
+This is my bag.|Bu mening sumkam.
+The bank is near the school.|Bank maktab yaqinida.
+I can swim.|Men suza olaman.
+I go to bed at ten.|Men soat onda uxlayman.
+The house is big.|Uy katta.
+Birds can fly.|Qushlar ucha oladi.
+My birthday is in May.|Mening tug'ilgan kunim mayda.
+The cat is black.|Mushuk qora.
+The ball is blue.|Koptok ko'k.
+Look at the board.|Doskaga qarang.
+This is a book.|Bu kitob.
+These books are new.|Bu kitoblar yangi.
+She was born in Tashkent.|U Toshkentda tug'ilgan.
+A bottle of water is on the table.|Stol ustida bir shisha suv bor.
+Two bottles of milk are in the fridge.|Muzlatgichda ikki shisha sut bor.
+I eat bread every morning.|Men har ertalab non yeyman.
+My brother is tall.|Akam baland bo'yli.
+My brothers are students.|Aka-ukalarim o'quvchilar.
+The café is between the bank and the shop.|Kafe bank bilan do'kon orasida.
+She calls me every day.|U har kuni menga qo'ng'iroq qiladi.
+I can swim.|Men suza olaman.
+She cannot come today.|U bugun kela olmaydi.
+I can't drive a bus.|Men avtobus hayday olmayman.
+My parents have a car.|Ota-onamning mashinasi bor.
+Listen carefully.|Diqqat bilan tinglang.
+The cat is small.|Mushuk kichkina.
+Sit on the chair.|Stulga o'tiring.
+These chairs are new.|Bu stullar yangi.
+I like chicken.|Menga tovuq go'shti yoqadi.
+She has a child.|Uning bitta bolasi bor.
+These children are happy.|Bu bolalar xursand.
+My room is clean.|Mening xonam toza.
+The clock is on the wall.|Soat devorda.
+Close the window, please.|Iltimos, derazani yoping.
+Come here, please.|Iltimos, bu yerga keling.
+She cooks dinner.|U kechki ovqat pishiradi.
+A cup of tea, please.|Iltimos, bir stakan choy.
+Two cups of tea, please.|Iltimos, ikki stakan choy.
+My books are on the desk.|Kitoblarim partada.
+The dog is big.|It katta.
+These dogs are small.|Bu itlar kichkina.
+Open the door, please.|Iltimos, eshikni oching.
+Sit down, please.|Iltimos, o'tiring.
+I drink water.|Men suv ichaman.
+He can drive a car.|U mashina hayday oladi.
+I have two eggs.|Menda ikkita tuxum bor.
+I study English.|Men ingliz tilini o'rganaman.
+I study in the evening.|Men oqshom o'qiyman.
+Every day I read.|Men har kuni o'qiyman.
+My family is big.|Oilam katta.
+We watch a film.|Biz film ko'ramiz.
+The fish is small.|Baliq kichkina.
+Birds can fly.|Qushlar ucha oladi.
+I have four pens.|Menda to'rtta ruchka bor.
+Are you free today?|Bugun bo'shmisiz?
+I study on Friday.|Men juma kuni o'qiyman.
+We play football on Fridays.|Biz jumalari futbol o'ynaymiz.
+The milk is in the fridge.|Sut muzlatgichda.
+They are my friends.|Ular mening do'stlarim.
+They are in the garden.|Ular bog'da.
+I get up at seven.|Men soat yettida turaman.
+Give me a pen, please.|Iltimos, menga ruchka bering.
+A glass of water, please.|Iltimos, bir stakan suv.
+The book is good.|Kitob yaxshi.
+Give me your hand.|Qo'lingni ber.
+She is happy.|U xursand.
+She has a cat.|Uning mushugi bor.
+I have a book.|Menda kitob bor.
+I need help.|Menga yordam kerak.
+The teacher helps us.|O'qituvchi bizga yordam beradi.
+I know her.|Men uni taniyman.
+I am here.|Men shu yerdaman.
+I know him.|Men uni taniyman.
+I am at home.|Men uydaman.
+This is our house.|Bu bizning uyimiz.
+How are you?|Ahvolingiz qanday?
+The book is interesting.|Kitob qiziqarli.
+These are my keys.|Bular mening kalitlarim.
+She is kind.|U mehribon.
+I know Ali.|Men Alini taniyman.
+We are late.|Biz kechikdik.
+I like music.|Menga musiqa yoqadi.
+She likes tea.|U choyni yoqtiradi.
+Listen to me.|Meni tinglang.
+He lives here.|U shu yerda yashaydi.
+Look at the picture.|Rasmga qarang.
+I have a lot of books.|Menda juda ko'p kitob bor.
+How many books do you have?|Senda nechta kitob bor?
+May is warm.|May iliq.
+She helps me.|U menga yordam beradi.
+I drink milk.|Men sut ichaman.
+I go to school on Monday.|Men dushanba kuni maktabga boraman.
+How much money do you need?|Senga qancha pul kerak?
+I get up in the morning.|Men ertalab turaman.
+How much water is there?|U yerda qancha suv bor?
+This is my book.|Bu mening kitobim.
+My name is Ali.|Mening ismim Ali.
+The school is near the park.|Maktab bog' yaqinida.
+There is a bank nearby.|Yaqin atrofda bank bor.
+Next week we visit Samarkand.|Keyingi hafta Samarqandga boramiz.
+The night is dark.|Tun qorong'u.
+I eat lunch at noon.|Men peshinda tushlik qilaman.
+The house is old.|Uy eski.
+I have one pen.|Menda bitta ruchka bor.
+The window is open.|Deraza ochiq.
+Open your book on page ten.|Kitobingizni o'ninchi sahifada oching.
+Give me a paper.|Menga qog'oz bering.
+The park is green.|Bog' yashil.
+This is my pen.|Bu mening ruchkam.
+The phone is new.|Telefon yangi.
+Look at this picture.|Bu rasmga qarang.
+A piece of bread, please.|Iltimos, bir bo'lak non.
+The apples are on the plate.|Olmalar likopchada.
+Please sit down.|Iltimos, o'tiring.
+How many questions are there?|U yerda nechta savol bor?
+Raise your hand.|Qo'lingni ko'tar.
+I read a book.|Men kitob o'qiyman.
+The apple is red.|Olma qizil.
+Please repeat the word.|Iltimos, so'zni takrorlang.
+I like rice.|Menga guruch yoqadi.
+My room is clean.|Mening xonam toza.
+Our rooms are big.|Xonalarimiz katta.
+Don't run in the classroom.|Sinfda yugurmang.
+Sara is kind.|Sara mehribon.
+They are at school.|Ular maktabda.
+I see a bird.|Men qush ko'ryapman.
+This is a good sentence.|Bu yaxshi gap.
+I have seven books.|Menda yettita kitob bor.
+My shoes are new.|Poyabzalim yangi.
+The shop is open.|Do'kon ochiq.
+I sing a song.|Men qo'shiq kuylayman.
+Sit down, please.|Iltimos, o'tiring.
+He sits next to Sara.|U Sara yonida o'tiradi.
+The sky is blue.|Osmon ko'k.
+The cat is small.|Mushuk kichkina.
+I have some books.|Menda bir nechta kitob bor.
+Sorry, I am late.|Kechirasiz, kechikdim.
+They speak English.|Ular ingliz tilida gapiradi.
+Stand up, please.|Iltimos, o'rningizdan turing.
+The lesson starts at nine.|Dars soat to'qqizda boshlanadi.
+He is a student.|U o'quvchi.
+They are students.|Ular o'quvchilar.
+We visit them in summer.|Biz yozda ularnikiga boramiz.
+Yes, I am sure.|Ha, men aniq bilaman.
+I can swim.|Men suza olaman.
+The book is on the table.|Kitob stol ustida.
+He is tall.|U baland bo'yli.
+I live in Tashkent.|Men Toshkentda yashayman.
+I drink tea.|Men choy ichaman.
+She is a teacher.|U o'qituvchi.
+I have ten pens.|Menda o'nta ruchka bor.
+That is my book.|U mening kitobim.
+I call them every day.|Men har kuni ularga qo'ng'iroq qilaman.
+This is my book.|Bu mening kitobim.
+She has three boxes.|Uning uchta qutisi bor.
+We have little time.|Vaqtimiz kam.
+We are tired.|Biz charchadik.
+Today is sunny.|Bugun quyoshli.
+Tom is a student.|Tom o'quvchi.
+Don't touch the picture.|Rasmga tegmang.
+I travel by bus.|Men avtobusda sayohat qilaman.
+I go to school on Tuesday.|Men seshanba kuni maktabga boraman.
+Turn right at the bank.|Bank oldida o'ngga buriling.
+I have two sisters.|Mening ikki singlim bor.
+Get up early.|Erta turing.
+The teacher helps us.|O'qituvchi bizga yordam beradi.
+I use a pen.|Men ruchka ishlataman.
+I walk to school.|Men maktabga yurib boraman.
+The picture is on the wall.|Rasm devorda.
+She wants tea.|U choy xohlaydi.
+I was tired yesterday.|Men kecha charchagan edim.
+I drink water.|Men suv ichaman.
+Where do you live?|Qayerda yashaysiz?
+The window is open.|Deraza ochiq.
+Two windows are open.|Ikkita deraza ochiq.
+I learn a new word every day.|Men har kuni yangi so'z o'rganaman.
+I would like tea.|Men choy xohlardim.
+I write my name.|Men ismimni yozaman.
+Yes, I do.|Ha, shunday.
+This is your book.|Bu sening kitobing.

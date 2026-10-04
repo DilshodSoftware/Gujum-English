@@ -1,0 +1,159 @@
+
+He is an actor.|U aktyor.
+Ali is my friend.|Ali mening do'stim.
+This is Ali's pen.|Bu Alining ruchkasi.
+I am happy.|Men xursandman.
+The dog is an animal.|It hayvon.
+This is an apple.|Bu olma.
+These apples are sweet.|Bu olmalar shirin.
+We are friends.|Biz do'stmiz.
+This is my bag.|Bu mening sumkam.
+These bags are new.|Bu sumkalar yangi.
+The ball is blue.|Koptok ko'k.
+This is a banana.|Bu banan.
+The house is big.|Uy katta.
+The cat is black.|Mushuk qora.
+This ball is blue.|Bu koptok ko'k.
+This is a book.|Bu kitob.
+These books are new.|Bu kitoblar yangi.
+The box is big.|Quti katta.
+Those boxes are old.|U qutilar eski.
+He is a boy.|U o'g'il bola.
+They are boys.|Ular o'g'il bolalar.
+This is the boys' room.|Bu bolalarning xonasi.
+This is the boy's bag.|Bu bitta bolaning sumkasi.
+He is my brother.|U mening akam.
+The bus is new.|Avtobus yangi.
+Those buses are red.|U avtobuslar qizil.
+My parents have a car.|Ota-onamning mashinasi bor.
+The cat is small.|Mushuk kichkina.
+Those cats are white.|U mushuklar oq.
+She has a child.|Uning bitta bolasi bor.
+These children are happy.|Bu bolalar xursand.
+Tashkent is a big city.|Toshkent katta shahar.
+Our class is big.|Bizning sinf katta.
+These classes are big.|Bu sinflar katta.
+The cup is on the table.|Kosa stol ustida.
+This dish is clean.|Bu idish toza.
+These dishes are clean.|Bu idishlar toza.
+Do you like tea?|Siz choy yoqtirasizmi?
+He is a doctor.|U shifokor.
+Does she like tea?|U choy yoqtiradimi?
+She doesn't like tea.|U choy yoqtirmaydi.
+The dog is big.|It katta.
+These dogs are small.|Bu itlar kichkina.
+We don't have a car.|Bizning mashinamiz yo'q.
+The door is open.|Eshik ochiq.
+I drink water.|Men suv ichaman.
+He is a driver.|U haydovchi.
+This is an egg.|Bu tuxum.
+He is an engineer.|U muhandis.
+My feet are cold.|Oyoqlarim sovuq.
+I have five books.|Menda beshta kitob bor.
+This flower is beautiful.|Bu gul chiroyli.
+This is my foot.|Bu mening oyog'im.
+She is my friend.|U mening do'stim.
+They are my friends.|Ular mening do'stlarim.
+They are in the garden.|Ular bog'da.
+Those geese are white.|U g'ozlar oq.
+She is a girl.|U qiz.
+The book is good.|Kitob yaxshi.
+That goose is big.|U g'oz katta.
+The apple is green.|Olma yashil.
+I am happy.|Men xursandman.
+She has a cat.|Uning mushugi bor.
+I have a book.|Menda kitob bor.
+He is happy.|U xursand.
+This is her bag.|Bu uning sumkasi.
+We are here.|Biz shu yerdamiz.
+This pen is hers.|Bu ruchka uniki.
+This is his book.|Bu uning kitobi.
+I am at home.|Men uydaman.
+The film is an hour long.|Film bir soat davom etadi.
+This is our house.|Bu bizning uyimiz.
+I am a student.|Men o'quvchiman.
+Water is important.|Suv muhim.
+The book is interesting.|Kitob qiziqarli.
+She is a teacher.|U o'qituvchi.
+It is new.|U yangi.
+Its tail is long.|Uning dumi uzun.
+She is kind.|U mehribon.
+We are late.|Biz kechikdik.
+London is a big city.|London katta shahar.
+Madina is my friend.|Madina mening do'stim.
+He is a man.|U erkak.
+They are men.|Ular erkaklar.
+These mice are small.|Bu sichqonlar kichkina.
+I drink milk.|Men sut ichaman.
+This book is mine.|Bu kitob meniki.
+She is my mother.|U mening onam.
+That mouse is small.|U sichqon kichkina.
+This is my pen.|Bu mening ruchkam.
+This is my mother's car.|Bu onamning mashinasi.
+My name is Ali.|Mening ismim Ali.
+The phone is new.|Telefon yangi.
+The birds are noisy.|Qushlar shovqinli.
+I am not tired.|Men charchamaganman.
+The house is old.|Uy eski.
+I have one pen.|Menda bitta ruchka bor.
+This orange is sweet.|Bu apelsin shirin.
+This is our house.|Bu bizning uyimiz.
+This house is ours.|Bu uy bizniki.
+The park is green.|Bog' yashil.
+This is my pen.|Bu mening ruchkam.
+I have a pencil.|Menda qalam bor.
+These pens are blue.|Bu ruchkalar ko'k.
+They are good people.|Ular yaxshi odamlar.
+He is a good person.|U yaxshi odam.
+The phone is new.|Telefon yangi.
+My sister reads books.|Singlim kitob o'qiydi.
+We are ready.|Biz tayyormiz.
+The apple is red.|Olma qizil.
+Rice is white.|Guruch oq.
+Sam is my friend.|Sam mening do'stim.
+Sara is kind.|Sara mehribon.
+They are at school.|Ular maktabda.
+I see a bird.|Men qush ko'ryapman.
+She is happy.|U xursand.
+The books are on the shelf.|Kitoblar polkada.
+The cat is small.|Mushuk kichkina.
+The soup is hot.|Sho'rva issiq.
+This story is interesting.|Bu hikoya qiziqarli.
+I am a student.|Men o'quvchiman.
+They are students.|Ular o'quvchilar.
+The orange is sweet.|Apelsin shirin.
+The book is on the table.|Kitob stol ustida.
+The cat's tail is long.|Mushukning dumi uzun.
+I live in Tashkent.|Men Toshkentda yashayman.
+She is a teacher.|U o'qituvchi.
+My teeth are white.|Tishlarim oq.
+That is my book.|U mening kitobim.
+The cat's tail is long.|Mushukning dumi uzun.
+The girl's bag is pink.|Qizning sumkasi pushti.
+These are their books.|Bular ularning kitoblari.
+These books are theirs.|Bu kitoblar ularniki.
+These are my keys.|Bular mening kalitlarim.
+They are friends.|Ular do'stlar.
+This is a pen.|Bu ruchka.
+Those are birds.|Ular qushlar.
+She has three boxes.|Uning uchta qutisi bor.
+We are tired.|Biz charchadik.
+Tom is a boy.|Tom o'g'il bola.
+This tooth is white.|Bu tish oq.
+I have two sisters.|Mening ikki singlim bor.
+This is an umbrella.|Bu soyabon.
+This is a university.|Bu universitet.
+I live in Uzbekistan.|Men O'zbekistonda yashayman.
+The milk is warm.|Sut iliq.
+This is my watch.|Bu mening qo'l soatim.
+These watches are new.|Bu qo'l soatlar yangi.
+I drink water.|Men suv ichaman.
+We are ready.|Biz tayyormiz.
+Whose book is this?|Bu kimning kitobi?
+The window is open.|Deraza ochiq.
+She is a woman.|U ayol.
+They are women.|Ular ayollar.
+We work at school.|Biz maktabda ishlaymiz.
+You are my friend.|Siz mening do'stimsiz.
+This is your bag.|Bu sening sumkang.
+This pen is yours.|Bu ruchka seniki.

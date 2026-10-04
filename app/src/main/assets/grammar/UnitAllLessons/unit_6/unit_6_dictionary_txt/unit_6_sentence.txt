@@ -1,0 +1,192 @@
+
+Red is an adjective.|Qizil sifatdir.
+Ali is my friend.|Ali mening do'stim.
+I like tea and coffee.|Menga choy va kofe yoqadi.
+What is your answer?|Javobingiz nima?
+This is an apple.|Bu olma.
+These apples are sweet.|Bu olmalar shirin.
+My aunt is kind.|Xolam mehribon.
+This is my bag.|Bu mening sumkam.
+I like a banana.|Menga banan yoqadi.
+I am happy to be here.|Men shu yerda bo'lishdan xursandman.
+This flower is beautiful.|Bu gul chiroyli.
+I stayed home because I was sick.|Men kasal bo'lganim uchun uyda qoldim.
+This is the best day.|Bu eng yaxshi kun.
+Today is better than yesterday.|Bugun kechagidan yaxshiroq.
+The house is big.|Uy katta.
+A bus is bigger than a car.|Avtobus mashinadan kattaroq.
+This is the biggest room.|Bu eng katta xona.
+My birthday is in May.|Mening tug'ilgan kunim mayda.
+The cat is black.|Mushuk qora.
+The ball is blue.|Koptok ko'k.
+This is a book.|Bu kitob.
+He is a boy.|U o'g'il bola.
+The bus is new.|Avtobus yangi.
+She is busier than me.|U mendan bandroq.
+This week is the busiest.|Bu hafta eng band.
+We are busy today.|Biz bugun bandmiz.
+But I like tea.|Lekin menga choy yoqadi.
+I buy bread every day.|Men har kuni non sotib olaman.
+She calls me every day.|U har kuni menga qo'ng'iroq qiladi.
+I can swim.|Men suza olaman.
+My parents have a car.|Ota-onamning mashinasi bor.
+Be careful on the road.|Yo'lda ehtiyot bo'ling.
+The cat is small.|Mushuk kichkina.
+Those cats are white.|U mushuklar oq.
+Our class is big.|Bizning sinf katta.
+My room is clean.|Mening xonam toza.
+Black clouds are in the sky.|Osmonda qora bulutlar bor.
+My coat is warm.|Paltom issiq.
+I drink coffee in the morning.|Men ertalab kofe ichaman.
+It is cold today.|Bugun sovuq.
+Come here, please.|Iltimos, bu yerga keling.
+She cooks dinner.|U kechki ovqat pishiradi.
+The room is dark at night.|Xona tunlari qorong'i.
+They arrive today.|Ular bugun keladi.
+We eat dinner at seven.|Biz soat yettida kechki ovqat yeymiz.
+The dog is big.|It katta.
+These dogs are small.|Bu itlar kichkina.
+Sit down, please.|Iltimos, o'tiring.
+I drink water.|Men suv ichaman.
+This test is easier than that one.|Bu test unisidan osonroq.
+This is the easiest question.|Bu eng oson savol.
+English is easy.|Ingliz tili oson.
+I eat rice.|Men guruch yeyman.
+I study English.|Men ingliz tilini o'rganaman.
+This watch is expensive.|Bu soat qimmat.
+Don't fall down.|Yiqilmang.
+He is the fastest runner.|U eng tez yuguruvchi.
+They play football on Sundays.|Ular yakshanbalari futbol o'ynaydi.
+She is my friend.|U mening do'stim.
+They are my friends.|Ular mening do'stlarim.
+I go to school.|Men maktabga boraman.
+We are going to travel next week.|Biz keyingi hafta sayohatga bormoqchimiz.
+The book is good.|Kitob yaxshi.
+My grandmother is kind.|Buvim mehribon.
+She is happier than her sister.|U opasidan xursandroq.
+She is the happiest girl in class.|U sinfdagi eng xursand qiz.
+She is happy.|U xursand.
+I have a pen.|Menda ruchka bor.
+This bag is heavier than mine.|Bu sumka menikidan og'irroq.
+This box is heavy.|Bu quti og'ir.
+I need help.|Menga yordam kerak.
+I know her.|Men uni taniyman.
+I am here.|Men shu yerdaman.
+I am at home.|Men uydaman.
+The soup is hot.|Sho'rva issiq.
+Today is hotter than yesterday.|Bugun kechagidan issiqroq.
+July is the hottest month.|Iyul eng issiq oy.
+This is our house.|Bu bizning uyimiz.
+I am hungry, so I eat.|Men ochman, shuning uchun ovqatlanaman.
+The book is interesting.|Kitob qiziqarli.
+I drink juice.|Men sharbat ichaman.
+She is kind.|U mehribon.
+The house is large.|Uy katta.
+My house is larger than yours.|Mening uyim senikidan kattaroq.
+This is the largest city.|Bu eng katta shahar.
+We are late.|Biz kechikdik.
+Call me later.|Menga keyinroq qo'ng'iroq qiling.
+I learn English.|Men ingliz tilini o'rganaman.
+I like music.|Menga musiqa yoqadi.
+This road is longer than that one.|Bu yo'l unisidan uzunroq.
+Look at the picture.|Rasmga qarang.
+She made a cake.|U tort yasadi.
+Maybe it will rain.|Balki yomg'ir yog'ar.
+She helps me.|U menga yordam beradi.
+Take this medicine twice a day.|Bu dorini kuniga ikki marta iching.
+Look at the menu, please.|Iltimos, menyuga qarang.
+Next month we visit Samarkand.|Keyingi oy Samarqandga boramiz.
+I want more tea.|Men ko'proq choy xohlayman.
+We are going to move next year.|Biz keyingi yil ko'chmoqchimiz.
+My mum is kind.|Oyim mehribon.
+This is my book.|Bu mening kitobim.
+The phone is new.|Telefon yangi.
+Next week we visit Samarkand.|Keyingi hafta Samarqandga boramiz.
+She is nice.|U yaxshi.
+My bag is nicer than yours.|Mening sumkam senikidan yaxshiroq.
+This is the nicest picture.|Bu eng yaxshi rasm.
+I am reading now.|Men hozir o'qiyapman.
+The house is old.|Uy eski.
+I have one pen.|Menda bitta ruchka bor.
+Tea or coffee?|Choy yoki kofe?
+This orange is sweet.|Bu apelsin shirin.
+I want to order dinner.|Men kechki ovqat buyurtma qilmoqchiman.
+This is our school.|Bu bizning maktabimiz.
+This is my pen.|Bu mening ruchkam.
+The phone is new.|Telefon yangi.
+I play football.|Men futbol o'ynayman.
+Please sit down.|Iltimos, o'tiring.
+It will rain tomorrow.|Ertaga yomg'ir yog'adi.
+It is raining now.|Hozir yomg'ir yogyapti.
+I read a book.|Men kitob o'qiyman.
+The apple is red.|Olma qizil.
+I am tired, so I rest now.|Men charchadim, shuning uchun hozir dam olaman.
+The restaurant is near the park.|Restoran bog' yaqinida.
+The phone is ringing.|Telefon jiringlayapti.
+The road is long.|Yo'l uzun.
+My room is clean.|Mening xonam toza.
+He is a fast runner.|U tez yuguruvchi.
+This park is safe for children.|Bu bog' bolalar uchun xavfsiz.
+Walking is safer than running here.|Bu yerda yurish yugurishdan xavfsizroq.
+This is the safest road.|Bu eng xavfsiz yo'l.
+Sam is my friend.|Sam mening do'stim.
+I would like a sandwich.|Men sendvich xohlardim.
+Sara is kind.|Sara mehribon.
+I visit them on Saturday.|Men shanba kuni ularnikiga boraman.
+He was sick yesterday.|U kecha kasal edi.
+Sit down, please.|Iltimos, o'tiring.
+The bus is slow.|Avtobus sekin.
+The cat is small.|Mushuk kichkina.
+This is the smallest room.|Bu eng kichik xona.
+I like snow in winter.|Menga qishda qor yoqadi.
+It is cold, so I wear a coat.|Sovuq, shuning uchun palto kiyaman.
+I have some books.|Menda bir nechta kitob bor.
+We stayed home yesterday.|Biz kecha uyda qoldik.
+I study English.|Men ingliz tilini o'rganaman.
+Today is sunny.|Bugun quyoshli.
+The book is on the table.|Kitob stol ustida.
+He is tall.|U baland bo'yli.
+He is taller than his brother.|U akasidan balandroq.
+He is the tallest boy in class.|U sinfdagi eng baland o'g'il bola.
+Take a taxi, please.|Iltimos, taksi chaqiring.
+I drink tea.|Men choy ichaman.
+She is a teacher.|U o'qituvchi.
+Our teachers are kind.|O'qituvchilarimiz mehribon.
+Our team will win.|Jamoamiz yutadi.
+Read the text again.|Matnni yana o'qing.
+That is my book.|U mening kitobim.
+He is thin.|U oriq.
+I think it will rain.|Menimcha yomg'ir yog'adi.
+He is thinner than his brother.|U akasidan oriqroq.
+He is the thinnest boy in class.|U sinfdagi eng oriq o'g'il bola.
+This is my book.|Bu mening kitobim.
+Those are birds.|Ular qushlar.
+We are tired.|Biz charchadik.
+Today is sunny.|Bugun quyoshli.
+I will call you tomorrow.|Men ertaga sizga qo'ng'iroq qilaman.
+She studies tonight.|U bugun kechqurun o'qiydi.
+He took my pen.|U ruchkamni oldi.
+I travel by bus.|Men avtobusda sayohat qilaman.
+The teacher helps us.|O'qituvchi bizga yordam beradi.
+I visit my aunt.|Men xolamnikiga boraman.
+I want tea.|Men choy xohlayman.
+I was tired yesterday.|Men kecha charchagan edim.
+I drink water.|Men suv ichaman.
+The weather is nice today.|Bugun ob-havo yaxshi.
+Next week we visit Samarkand.|Keyingi hafta Samarqandga boramiz.
+I rest on weekends.|Men dam olish kunlari dam olaman.
+What is this?|Bu nima?
+I will help you.|Men sizga yordam beraman.
+Our team will win tomorrow.|Jamoamiz ertaga yutadi.
+The window is open.|Deraza ochiq.
+Our team won the game.|Jamoamiz o'yinda yutdi.
+She wore a red dress yesterday.|U kecha qizil ko'ylak kiydi.
+I work every day.|Men har kuni ishlayman.
+He worked last night.|U o'tgan oqshom ishladi.
+Today is worse than yesterday.|Bugun kechagidan yomonroq.
+This is the worst film.|Bu eng yomon film.
+I would like tea.|Men choy xohlardim.
+I write my name.|Men ismimni yozaman.
+Last year we visited Samarkand.|O'tgan yil Samarqandga bordik.
+We worked yesterday.|Biz kecha ishladik.
+This is your book.|Bu sening kitobing.

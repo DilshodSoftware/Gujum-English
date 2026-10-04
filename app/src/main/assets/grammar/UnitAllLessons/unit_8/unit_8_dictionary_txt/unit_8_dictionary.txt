@@ -1,0 +1,35 @@
+
+67	zero
+67	oh
+67	one
+67	two
+67	three
+67	four
+67	five
+67	six
+67	seven
+67	eight
+67	nine
+67	ten
+67	eleven
+67	twelve
+67	thirteen
+67	fourteen
+67	fifteen
+67	sixteen
+67	seventeen
+67	eighteen
+67	nineteen
+67	twenty
+67	thirty
+67	forty
+67	fifty
+67	sixty
+67	seventy
+67	eighty
+67	ninety
+67	one hundred
+67	twenty-one
+67	thirty-three
+67	forty-seven
+67	ninety-nine

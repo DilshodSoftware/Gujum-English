@@ -1,0 +1,35 @@
+
+I have eight pens.|Menda sakkizta ruchka bor.
+He is eighteen years old.|U o'n sakkiz yoshda.
+My father is eighty years old.|Otam sakson yoshda.
+He is eleven years old.|U o'n bir yoshda.
+There are fifteen students in class.|Sinfda o'n besh o'quvchi bor.
+My grandmother is fifty years old.|Buvim ellik yoshda.
+I have five books.|Menda beshta kitob bor.
+He is forty years old.|U qirq yoshda.
+I am forty-seven years old.|Men qirq yetti yoshdaman.
+I have four pens.|Menda to'rtta ruchka bor.
+She is fourteen years old.|U o'n to'rt yoshda.
+I have nine books.|Menda to'qqizta kitob bor.
+She is nineteen years old.|U o'n to'qqiz yoshda.
+He is ninety years old.|U to'qson yoshda.
+I have ninety-nine books.|Menda to'qson to'qqizta kitob bor.
+My number is nine-oh-five.|Mening raqamim to'qqiz-nol-besh.
+I have one pen.|Menda bitta ruchka bor.
+I have one hundred books.|Menda yuzta kitob bor.
+I have seven books.|Menda yettita kitob bor.
+She is seventeen years old.|U o'n yetti yoshda.
+He is seventy years old.|U yetmish yoshda.
+I have six pens.|Menda oltita ruchka bor.
+She is sixteen years old.|U o'n olti yoshda.
+He is sixty years old.|U oltmish yoshda.
+I have ten pens.|Menda o'nta ruchka bor.
+She is thirteen years old.|U o'n uch yoshda.
+He is thirty years old.|U o'ttiz yoshda.
+I have thirty-three books.|Menda o'ttiz uchta kitob bor.
+I have three boxes.|Menda uchta quti bor.
+She is twelve years old.|U o'n ikki yoshda.
+He is twenty years old.|U yigirma yoshda.
+I am twenty-one years old.|Men yigirma bir yoshdaman.
+I have two sisters.|Mening ikki singlim bor.
+Zero is a number.|Nol son.

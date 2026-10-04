@@ -1,0 +1,174 @@
+
+Ali plays football.|Ali futbol o'ynaydi.
+I always drink tea.|Men har doim choy ichaman.
+I am happy.|Men xursandman.
+Anna is my friend.|Anna mening do'stim.
+I eat apples.|Men olma yeyman.
+My aunt is kind.|Xolam mehribon.
+The baby sleeps.|Chaqaloq uxlayapti.
+I go to bed at ten.|Men soat onda uxlayman.
+I read before bed.|Men yotishdan oldin o'qiyman.
+Birds fly.|Qushlar uchadi.
+This is a book.|Bu kitob.
+These books are new.|Bu kitoblar yangi.
+He is a boy.|U o'g'il bola.
+My brother is tall.|Akam baland bo'yli.
+My brothers are students.|Aka-ukalarim o'quvchilar.
+I brush my teeth.|Men tishlarimni yuvaman.
+The bus is new.|Avtobus yangi.
+We are busy today.|Biz bugun bandmiz.
+I buy bread every day.|Men har kuni non sotib olaman.
+He buys a phone.|U telefon sotib oladi.
+She calls me every evening.|U har oqshom menga qo'ng'iroq qiladi.
+My father's car is red.|Otamning mashinasi qizil.
+She carries a bag.|U sumka tashiydi.
+I carry books to school.|Men maktabga kitob tashiman.
+The cat is small.|Mushuk kichkina.
+I drink coffee in the morning.|Men ertalab kofe ichaman.
+Come here, please.|Iltimos, bu yerga keling.
+She is coming now.|U hozir kelyapti.
+My mother is cooking dinner.|Onam kechki ovqat pishiryapti.
+The baby cries at night.|Chaqaloq tunlari yig'laydi.
+Babies cry.|Chaqaloqlar yig'laydi.
+I read every day.|Men har kuni o'qiyman.
+We eat dinner at seven.|Biz soat yettida kechki ovqat yeymiz.
+Do you like tea?|Siz choy yoqtirasizmi?
+Does he play tennis?|U tennis o'ynaydimi?
+She doesn't like coffee.|U kofe yoqtirmaydi.
+The dog is big.|It katta.
+We don't watch TV.|Biz televizor ko'rmaymiz.
+I drink water.|Men suv ichaman.
+He drives a car.|U mashina haydaydi.
+I get up early.|Men erta turaman.
+The sun rises in the east.|Quyosh sharqdan chiqadi.
+I eat rice.|Men guruch yeyman.
+They are eating now.|Ular hozir ovqat yeyapti.
+He eats an apple.|U olma yeydi.
+I study English.|Men ingliz tilini o'rganaman.
+I enjoy music.|Menga musiqa yoqadi.
+She enjoys reading.|U o'qishni yoqtiradi.
+I study in the evening.|Men oqshom o'qiyman.
+Every day I read.|Men har kuni o'qiyman.
+My father works in a bank.|Otam bankda ishlaydi.
+We watch a film.|Biz film ko'ramiz.
+The fish is small.|Baliq kichkina.
+He fixes bikes.|U velosiped tuzatadi.
+My brother fixes bicycles.|Akam velosipedlar tuzatadi.
+Birds can fly.|Qushlar ucha oladi.
+They play football on Sundays.|Ular yakshanbalari futbol o'ynaydi.
+I go to school.|Men maktabga boraman.
+He goes to work by bus.|U ishga avtobusda boradi.
+My grandmother is kind.|Buvim mehribon.
+She is happy.|U xursand.
+I have a pen.|Menda ruchka bor.
+He is Ali.|U Ali.
+She helps me.|U menga yordam beradi.
+This is her book.|Bu uning kitobi.
+I am here.|Men shu yerdaman.
+I know him.|Men uni taniyman.
+She knows my name.|U mening ismimni biladi.
+She likes music.|U musiqani yoqtiradi.
+He likes tea.|U choyni yoqtiradi.
+I live in Tashkent.|Men Toshkentda yashayman.
+He lives here.|U shu yerda yashaydi.
+London is a big city.|London katta shahar.
+Madina is happy.|Madina xursand.
+I make tea.|Men choy tayyorlayman.
+I am making breakfast.|Men nonushta tayyorlayapman.
+She helps me.|U menga yordam beradi.
+I like meat.|Menga go'sht yoqadi.
+I drink milk.|Men sut ichaman.
+Look! It is raining.|Qarang! Yomg'ir yogyapti.
+I visit him once a month.|Men oyda bir marta uni ko'rgani boraman.
+I get up in the morning.|Men ertalab turaman.
+I like music.|Menga musiqa yoqadi.
+This is my book.|Bu mening kitobim.
+My name is Sara.|Mening ismim Sara.
+I need a pen.|Menga ruchka kerak.
+We are never late.|Biz hech qachon kechikmaymiz.
+The night is dark.|Tun qorong'u.
+I am reading now.|Men hozir o'qiyapman.
+We often play chess.|Biz tez-tez shaxmat o'ynaymiz.
+I call my aunt once a week.|Men xolamga haftada bir marta qo'ng'iroq qilaman.
+Open the book.|Kitobni oching.
+This is our school.|Bu bizning maktabimiz.
+The bus passes our house.|Avtobus uyimiz oldidan o'tadi.
+This is my pen.|Bu mening ruchkam.
+Plants need water.|O'simliklar suvga muhtoj.
+I play football.|Men futbol o'ynayman.
+They are playing now.|Ular hozir o'ynayapti.
+He plays tennis every week.|U har hafta tennis o'ynaydi.
+We rarely watch TV.|Biz kamdan-kam televizor ko'ramiz.
+I read a book every day.|Men har kuni kitob o'qiyman.
+She is reading now.|U hozir o'qiyapti.
+Sara reads at night.|Sara tunlari o'qiydi.
+You are right.|Siz haqsiz.
+The sun rises early.|Quyosh erta chiqadi.
+I run every morning.|Men har ertalab yuguraman.
+They are running in the park.|Ular bog'da yuguryapti.
+Sam is my friend.|Sam mening do'stim.
+Sara studies English.|Sara ingliz tilini o'rganadi.
+I go to school.|Men maktabga boraman.
+I see a bird.|Men qush ko'ryapman.
+Birds eat seeds.|Qushlar urug' yeydi.
+She is happy.|U xursand.
+The shop is open.|Do'kon ochiq.
+My sister is kind.|Opam mehribon.
+Sit down, please.|Iltimos, o'tiring.
+He is sitting by the window.|U deraza oldida o'tiribdi.
+Cats sleep.|Mushuklar uxlaydi.
+The baby is sleeping.|Chaqaloq uxlayapti.
+My father sleeps early.|Otam erta uxlaydi.
+I like some tea.|Menga biroz choy yoqadi.
+We sometimes watch films.|Biz ba'zan film ko'ramiz.
+I sing a song.|Men qo'shiq kuylayman.
+They speak English.|Ular ingliz tilida gapiradi.
+We start at nine.|Biz soat to'qqizda boshlaymiz.
+She is staying with us this week.|U shu hafta biz bilan qolyapti.
+The bus stops here.|Avtobus shu yerda to'xtaydi.
+He is a student.|U o'quvchi.
+She studies every evening.|U har oqshom o'qiydi.
+I study English.|Men ingliz tilini o'rganaman.
+They are studying now.|Ular hozir o'qiyapti.
+The sun is hot.|Quyosh issiq.
+They play on Sundays.|Ular yakshanbalari o'ynaydi.
+I can swim.|Men suza olaman.
+They are swimming now.|Ular hozir suzishyapti.
+I drink tea.|Men choy ichaman.
+He teaches English.|U ingliz tilini o'rgatadi.
+She is a teacher.|U o'qituvchi.
+I brush my teeth.|Men tishlarimni yuvaman.
+They play tennis.|Ular tennis o'ynaydi.
+They are friends.|Ular do'stlar.
+This is my book.|Bu mening kitobim.
+I need a ticket.|Menga chipta kerak.
+We are tired.|Biz charchadik.
+Today is sunny.|Bugun quyoshli.
+Tom is a student.|Tom o'quvchi.
+We watch TV in the evening.|Biz oqshom televizor ko'ramiz.
+I visit my grandmother twice a week.|Men buvimnikiga haftada ikki marta boraman.
+I usually get up at seven.|Men odatda soat yettida turaman.
+I visit my aunt.|Men xolamnikiga boraman.
+Birds walk.|Qushlar yuradi.
+She is walking to school.|U maktabga yurib ketyapti.
+He walks to work.|U ishga yurib boradi.
+I want tea.|Men choy xohlayman.
+I wash my hands.|Men qo'llarimni yuvaman.
+She washes dishes.|U idish yuvadi.
+I watch TV.|Men televizor ko'raman.
+He watches football.|U futbol tomosha qiladi.
+We are watching a film now.|Biz hozir film tomosha qilyapmiz.
+I drink water.|Men suv ichaman.
+We are students.|Biz o'quvchilarmiz.
+This week is busy.|Bu hafta band.
+Birds have wings.|Qushlarning qanotlari bor.
+I work every day.|Men har kuni ishlayman.
+She is working now.|U hozir ishlayapti.
+He works here.|U shu yerda ishlaydi.
+I write my name.|Men ismimni yozaman.
+Mina is writing a letter.|Mina xat yozyapti.
+You are kind.|Siz mehribonsiz.
+This is your book.|Bu sening kitobing.
+I am at home now.|Men hozir uydaman.
+I do my homework every day.|Men har kuni uy vazifamni qilaman.
+They are playing at the moment.|Ular ayni paytda o'ynayapti.

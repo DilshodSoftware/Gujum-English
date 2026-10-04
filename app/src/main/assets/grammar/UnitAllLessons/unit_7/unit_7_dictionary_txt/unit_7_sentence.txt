@@ -1,0 +1,44 @@
+
+She ate an orange.|U apelsin yedi.
+My aunt is kind.|Xolam mehribon.
+My mother is cooking dinner.|Onam kechki ovqat pishiryapti.
+I read every day.|Men har kuni o'qiyman.
+I drink milk.|Men sut ichaman.
+The sun rises in the east.|Quyosh sharqdan chiqadi.
+I eat rice.|Men guruch yeyman.
+Every day I read.|Men har kuni o'qiyman.
+I go to school.|Men maktabga boraman.
+They had a good day.|Ular yaxshi kun o'tkazdi.
+She is happy.|U xursand.
+I have a pen.|Menda ruchka bor.
+I need help.|Menga yordam kerak.
+I am at home.|Men uydaman.
+They are playing at the moment.|Ular ayni paytda o'ynayapti.
+I get up in the morning.|Men ertalab turaman.
+This is my book.|Bu mening kitobim.
+I am reading now.|Men hozir o'qiyapman.
+They play football.|Ular futbol o'ynaydi.
+They played chess yesterday.|Ular kecha shaxmat o'ynadi.
+They are playing now.|Ular hozir o'ynayapti.
+I like rain.|Menga yomg'ir yoqadi.
+She is reading now.|U hozir o'qiyapti.
+The sun rises early.|Quyosh erta chiqadi.
+They saw the film.|Ular filmni ko'rdi.
+I go to school.|Men maktabga boraman.
+I see a bird.|Men qush ko'ryapman.
+The baby is sleeping.|Chaqaloq uxlayapti.
+She studied English yesterday.|U kecha ingliz tilini o'rgandi.
+I study English.|Men ingliz tilini o'rganaman.
+The sun is hot.|Quyosh issiq.
+I drink tea.|Men choy ichaman.
+I think it will rain.|Menimcha yomg'ir yog'adi.
+We were tired last night.|Biz o'tgan oqshom charchagan edik.
+I will call you tomorrow.|Men ertaga sizga qo'ng'iroq qilaman.
+She studies tonight.|U bugun kechqurun o'qiydi.
+I visit my aunt.|Men xolamnikiga boraman.
+We went to school by bus.|Biz maktabga avtobusda bordik.
+I work every day.|Men har kuni ishlayman.
+He worked last night.|U o'tgan oqshom ishladi.
+She is working now.|U hozir ishlayapti.
+He works here.|U shu yerda ishlaydi.
+We worked yesterday.|Biz kecha ishladik.
