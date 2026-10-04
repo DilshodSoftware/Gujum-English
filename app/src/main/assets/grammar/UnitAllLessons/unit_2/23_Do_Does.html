@@ -35,6 +35,14 @@
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
     .correct { color: #1e7a3e; font-weight: 700; }
     .incorrect { color: #b33a3a; font-weight: 600; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -50,6 +58,20 @@
   <main class="lesson">
     <h1>23-DARS. DO / DOES</h1>
     <div class="subhead">Present Simple yordamchi fe’llari · kim bilan do, kim bilan does?</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>do</strong> — yordamchi fe’l</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d17_do.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>does</strong> — yordamchi fe’l</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d17_does.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>don’t</strong> — emas (inkor)</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d17_dont.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>doesn’t</strong> — emas (inkor)</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d17_doesnt.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>his</strong> — uning</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d15_his.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>homework</strong> — uy vazifasi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_homework.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>like</strong> — yoqtirmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d22_like.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>likes</strong> — yoqtiradi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_likes.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tea</strong> — choy</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d22_tea.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>Bu darsning maqsadi:</strong> <em>do</em> va <em>does</em> so‘zlarini to‘g‘ri ega bilan tanish. Ular Present Simple savol va inkor gaplarini yasashga yordam beradi.</div>
 
@@ -136,5 +158,23 @@
 
     <div class="footer">23-dars · Do / Does</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

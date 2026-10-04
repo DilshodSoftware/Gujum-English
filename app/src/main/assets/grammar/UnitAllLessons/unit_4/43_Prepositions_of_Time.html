@@ -33,6 +33,14 @@
     .exercise { background: #f0f6fd; border: 1px solid #d0e2f0; }
     .exercise p { margin: 7px 0; }
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -48,6 +56,36 @@
   <main class="lesson">
     <h1>43-DARS. PREPOSITIONS OF TIME</h1>
     <div class="subhead">At / On / In · Vaqtni bildiruvchi predloglar</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>afternoon</strong> — tushdan keyin</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d43_afternoon.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>birthday</strong> — tug‘ilgan kun</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d33_birthday.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>born</strong> — tug‘ilgan</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d43_born.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>clock</strong> — soat</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_clock.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>english</strong> — ingliz tili</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_english.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>evening</strong> — oqshom</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_evening.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>every</strong> — har</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_every.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>film</strong> — film</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d27_film.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>friday</strong> — juma</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d43_friday.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>fridays</strong> — jumalar</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d43_fridays.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>get</strong> — olmoq</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d34_get.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>have</strong> — bor</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d17_have.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>may</strong> — may</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_may.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>monday</strong> — dushanba</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_monday.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>morning</strong> — ertalab</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_morning.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>night</strong> — tun</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-6_night.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>noon</strong> — peshin</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d43_noon.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>seven</strong> — yetti</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d33_seven.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>starts</strong> — boshlanadi</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d43_starts.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>summer</strong> — yoz</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d43_summer.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>this</strong> — bu</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_this.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>travel</strong> — sayohat qilmoq</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d35_travel.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tuesday</strong> — seshanba</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_tuesday.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>up</strong> — yuqoriga</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d33_up.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>was</strong> — edi</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d43_was.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>At, on, in</strong> ba’zan joyni, ba’zan vaqtni bildiradi. Bu darsda ular bilan “qachon?” savoliga javob berishni o‘rganamiz.</div>
 
@@ -135,5 +173,23 @@
 
     <div class="footer">43-dars · Prepositions of Time</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

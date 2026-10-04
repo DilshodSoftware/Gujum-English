@@ -29,6 +29,14 @@
     .exercise { background: #f0f6fd; border: 1px solid #d0e2f0; }
     .exercise p { margin: 7px 0; }
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -43,6 +51,48 @@
   <main class="lesson">
     <h1>62-DARS. CONJUNCTIONS</h1>
     <div class="subhead">And / But / Or · So‘z va gaplarni bog‘lash</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>and</strong> — va</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d62_and.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>but</strong> — lekin</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d62_but.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>or</strong> — yoki</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d62_or.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>ali</strong> — Ali</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_ali.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>apple</strong> — olma</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-3_apple.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>bag</strong> — sumka</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d9_bag.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>banana</strong> — banan</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d62_banana.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>blue</strong> — ko‘k</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d48_blue.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>book</strong> — kitob</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-3_book.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>call</strong> — qo‘ng‘iroq qilmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d26_call.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>can</strong> — qila olmoq</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d39_can.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>clean</strong> — toza</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d48_clean.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>coffee</strong> — kofe</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d22_coffee.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cold</strong> — sovuq</span><button class="speak" onclick="playOpus('../unit_5/unit_5_dictionary_opus/d49_cold.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>friends</strong> — do‘stlar</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d9_friends.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>go</strong> — borish</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d4_go.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>happy</strong> — xursand</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-3_happy.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>have</strong> — bor</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d17_have.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>heavy</strong> — og‘ir</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d58_heavy.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>juice</strong> — sharbat</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_juice.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>like</strong> — yoqtirmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d22_like.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>me</strong> — meni</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_me.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>pen</strong> — ruchka</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_pen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>read</strong> — o‘qimoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_read.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>red</strong> — qizil</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_red.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>room</strong> — xona</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_room.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sara</strong> — Sara</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_sara.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>small</strong> — kichik</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_small.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sunny</strong> — quyoshli</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d62_sunny.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tea</strong> — choy</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d22_tea.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>text</strong> — matn</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d62_text.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tired</strong> — charchagan</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d10_tired.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>today</strong> — bugun</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d27_today.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tomorrow</strong> — ertaga</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d56_tomorrow.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>want</strong> — xohlamoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_want.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>water</strong> — suv</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_water.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>write</strong> — yozmoq</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d6_write.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>Conjunction</strong> — bog‘lovchi. U ikki so‘z, ibora yoki gapni bir-biriga ulaydi. Bu darsda uchta juda ko‘p ishlatiladigan bog‘lovchini o‘rganamiz.</div>
 
@@ -113,5 +163,23 @@
 
     <div class="footer">62-dars · Conjunctions — And / But / Or</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

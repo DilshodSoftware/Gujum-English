@@ -32,6 +32,14 @@
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
     .correct { color: #1e7a3e; font-weight: 700; }
     .incorrect { color: #b33a3a; font-weight: 600; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -46,6 +54,34 @@
   <main class="lesson">
     <h1>52-DARS. PAST SIMPLE — NEGATIVE</h1>
     <div class="subhead">Did not / Didn’t · O‘tgan zamondagi inkor gap</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>didn’t</strong> — qilmadi</span><button class="speak" onclick="playOpus('../unit_5/unit_5_dictionary_opus/d52_didnt.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>ago</strong> — oldin</span><button class="speak" onclick="playOpus('../unit_5/unit_5_dictionary_opus/d49_ago.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>call</strong> — qo‘ng‘iroq qilmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d26_call.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>days</strong> — kunlar</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d36_days.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>football</strong> — futbol</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_football.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>go</strong> — borish</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d4_go.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>him</strong> — uni</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_him.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>home</strong> — uy</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d6_home.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>last</strong> — oxirgi</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d36_last.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>me</strong> — meni</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_me.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>night</strong> — tun</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-6_night.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>out</strong> — tashqariga</span><button class="speak" onclick="playOpus('../unit_5/unit_5_dictionary_opus/d52_out.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>play</strong> — o‘ynamoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_play.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>see</strong> — ko‘rmoq</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_see.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tired</strong> — charchagan</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d10_tired.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>two</strong> — ikki</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_two.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>us</strong> — bizni</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d47_us.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>visit</strong> — bormoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_visit.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>week</strong> — hafta</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_week.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>went</strong> — bordi</span><button class="speak" onclick="playOpus('../unit_5/unit_5_dictionary_opus/d51_went.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>work</strong> — ishlamoq</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d10_work.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>worked</strong> — ishladi</span><button class="speak" onclick="playOpus('../unit_5/unit_5_dictionary_opus/d50_worked.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>yesterday</strong> — kecha</span><button class="speak" onclick="playOpus('../unit_5/unit_5_dictionary_opus/d49_yesterday.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>Oldingi darslar:</strong> o‘tgan zamon darak gapida <em>worked</em> yoki <em>went</em> kabi o‘tgan fe’l ishlatamiz. Endi “qilmadim”, “bormadi” kabi inkor gaplarni tuzamiz.</div>
 
@@ -127,5 +163,23 @@
 
     <div class="footer">52-dars · Past Simple Negative</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

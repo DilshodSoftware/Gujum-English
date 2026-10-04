@@ -36,6 +36,14 @@
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
     .correct { color: #1e7a3e; font-weight: 700; }
     .incorrect { color: #b33a3a; font-weight: 600; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -51,6 +59,43 @@
   <main class="lesson">
     <h1>28-DARS. PRESENT SIMPLE vs PRESENT CONTINUOUS</h1>
     <div class="subhead">Odatdagi ishmi yoki ayni hozir davom etyaptimi?</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>aunt</strong> — xola</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_aunt.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>day</strong> — kun</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_day.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>evening</strong> — oqshom</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_evening.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>football</strong> — futbol</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_football.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>knows</strong> — biladi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_knows.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>like</strong> — yoqtirmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d22_like.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>moment</strong> — hozir</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d27_moment.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>morning</strong> — ertalab</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_morning.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>my</strong> — mening</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-3_my.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>name</strong> — ism</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-6_name.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>need</strong> — kerak</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d24_need.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>often</strong> — tez-tez</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d26_often.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>plants</strong> — o‘simliklar</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_plants.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>play</strong> — o‘ynamoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_play.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>playing</strong> — o‘ynayapti</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d27_playing.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>read</strong> — o‘qimoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_read.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>reading</strong> — o‘qiyapti</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d27_reading.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>right</strong> — to‘g‘ri</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d6_right.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>song</strong> — qo‘shiq</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_song.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sundays</strong> — yakshanbalar</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_sundays.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>this</strong> — bu</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_this.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>usually</strong> — odatda</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d26_usually.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>walking</strong> — yuryapti</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_walking.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>walks</strong> — yuradi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_walks.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>want</strong> — xohlamoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_want.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>water</strong> — suv</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_water.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>week</strong> — hafta</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_week.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>work</strong> — ishlamoq</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d10_work.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>working</strong> — ishlayapti</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d27_working.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>works</strong> — ishlaydi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_works.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>some</strong> — ba’zi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_some.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>staying</strong> — qolyapti</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_staying.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>Asosiy farq:</strong> Present Simple odat va takrorlanadigan ishlar uchun. Present Continuous esa ayni hozir yoki vaqtincha davom etayotgan ish uchun ishlatiladi.</div>
 
@@ -164,5 +209,23 @@
     <div class="card green"><strong>Tanlash uchun oxirgi savol:</strong><br>Bu ish odatmi yoki umumiy haqiqatmi? → Present Simple.<br>Bu ish hozir davom etyaptimi? → Present Continuous.</div>
     <div class="footer">28-dars · Present Simple vs Present Continuous</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

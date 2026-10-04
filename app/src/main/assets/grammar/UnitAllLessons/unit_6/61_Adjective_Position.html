@@ -32,6 +32,14 @@
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
     .correct { color: #1e7a3e; font-weight: 700; }
     .incorrect { color: #b33a3a; font-weight: 600; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -46,6 +54,39 @@
   <main class="lesson">
     <h1>61-DARS. ADJECTIVE POSITION</h1>
     <div class="subhead">Sifatning gapda va ot birikmasida kelish o‘rni</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>adjective</strong> — sifat</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d61_adjective.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>apple</strong> — olma</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-3_apple.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>apples</strong> — olmalar</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d8_apples.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>bag</strong> — sumka</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d9_bag.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>big</strong> — katta</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_big.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>black</strong> — qora</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_black.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>blue</strong> — ko‘k</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d48_blue.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>book</strong> — kitob</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-3_book.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>car</strong> — mashina</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_car.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cat</strong> — mushuk</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-4-6_cat.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cats</strong> — mushuklar</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_cats.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>dog</strong> — it</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_dog.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>dogs</strong> — itlar</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d8_dogs.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>house</strong> — uy</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_house.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>interesting</strong> — qiziqarli</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_interesting.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>kind</strong> — mehribon</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_kind.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>my</strong> — mening</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-3_my.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>new</strong> — yangi</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_new.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>old</strong> — eski</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_old.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>orange</strong> — apelsin</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-3_orange.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>phone</strong> — telefon</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-4-5_phone.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>red</strong> — qizil</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_red.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>small</strong> — kichik</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_small.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>teacher</strong> — o‘qituvchi</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_teacher.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>teachers</strong> — o‘qituvchilar</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d61_teachers.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>this</strong> — bu</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_this.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>those</strong> — ular</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d14_those.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tired</strong> — charchagan</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d10_tired.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>Adjective</strong> — sifat, ya’ni odam yoki narsaning qandayligini bildiradi: <em>big</em> — katta, <em>red</em> — qizil, <em>kind</em> — mehribon. Bu darsda sifatni gapning qayeriga qo‘yishni o‘rganamiz.</div>
 
@@ -131,5 +172,23 @@
 
     <div class="footer">61-dars · Adjective Position</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

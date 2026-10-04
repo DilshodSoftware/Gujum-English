@@ -35,6 +35,14 @@
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
     .correct { color: #1e7a3e; font-weight: 700; }
     .incorrect { color: #b33a3a; font-weight: 600; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -50,6 +58,50 @@
   <main class="lesson">
     <h1>60-DARS. SUPERLATIVE ADJECTIVES</h1>
     <div class="subhead">Eng katta, eng kichik, eng yaxshi · Bittasini guruhdagi boshqalar bilan solishtirish</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>ali</strong> — Ali</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_ali.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>answer</strong> — javob</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d58_answer.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>beautiful</strong> — chiroyli</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d59_beautiful.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>best</strong> — eng yaxshi</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_best.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>big</strong> — katta</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_big.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>biggest</strong> — eng katta</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_biggest.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>book</strong> — kitob</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-3_book.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>boy</strong> — o‘g‘il bola</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_boy.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>busiest</strong> — eng band</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_busiest.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>busy</strong> — band</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d26_busy.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>class</strong> — sinf</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d8_class.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>day</strong> — kun</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_day.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>easiest</strong> — eng oson</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_easiest.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>easy</strong> — oson</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_easy.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>expensive</strong> — qimmat</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d59_expensive.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>fastest</strong> — eng tez</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_fastest.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>happiest</strong> — eng xursand</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_happiest.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>happy</strong> — xursand</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-3_happy.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>hot</strong> — issiq</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d59_hot.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>hottest</strong> — eng issiq</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_hottest.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>interesting</strong> — qiziqarli</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_interesting.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>large</strong> — katta</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d59_large.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>largest</strong> — eng katta</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_largest.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>nice</strong> — yaxshi</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d59_nice.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>nicest</strong> — eng yaxshi</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_nicest.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>room</strong> — xona</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_room.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>runner</strong> — yuguruvchi</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_runner.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>safe</strong> — xavfsiz</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d59_safe.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>safest</strong> — eng xavfsiz</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_safest.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sam</strong> — Sam</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_sam.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>smallest</strong> — eng kichik</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_smallest.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tall</strong> — baland</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d48_tall.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>taller</strong> — balandroq</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_taller.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tallest</strong> — eng baland</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_tallest.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>that</strong> — u</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d14_that.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>thin</strong> — oriq</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d59_thin.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>thinnest</strong> — eng oriq</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_thinnest.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>this</strong> — bu</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_this.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>worst</strong> — eng yomon</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d60_worst.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>Comparative</strong> ikki narsani solishtiradi: kattaroq. <strong>Superlative</strong> esa uch yoki undan ortiq narsa ichidan eng yuqori darajani ko‘rsatadi: eng katta.</div>
 
@@ -151,5 +203,23 @@
 
     <div class="footer">60-dars · Superlative Adjectives</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

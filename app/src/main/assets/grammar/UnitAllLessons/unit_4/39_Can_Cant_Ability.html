@@ -32,6 +32,14 @@
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
     .correct { color: #1e7a3e; font-weight: 700; }
     .incorrect { color: #b33a3a; font-weight: 600; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -46,6 +54,30 @@
   <main class="lesson">
     <h1>39-DARS. CAN / CAN’T — ABILITY</h1>
     <div class="subhead">Can = qila olmoq · Can’t = qila olmaslik</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>can</strong> — qila olmoq</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d39_can.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>can’t</strong> — qila olmaydi</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d39_cant.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cannot</strong> — qila olmaydi</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d39_cannot.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>adult</strong> — katta yoshli</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d39_adult.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>baby</strong> — chaqaloq</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-3_baby.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>birds</strong> — qushlar</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_birds.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>car</strong> — mashina</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_car.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>come</strong> — kelmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d27_come.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cook</strong> — pishirmoq</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d35_cook.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>drive</strong> — haydamoq</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d39_drive.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>english</strong> — ingliz tili</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_english.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>fish</strong> — baliq</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-5_fish.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>fly</strong> — uchmoq</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-3_fly.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>help</strong> — yordam</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d32_help.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>read</strong> — o‘qimoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_read.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sing</strong> — kuylamoq</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_sing.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>speak</strong> — gapirmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d24_speak.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>swim</strong> — suzmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d27_swim.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>today</strong> — bugun</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d27_today.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>Can</strong> biror ishni qilish qobiliyati yoki imkoniyati borligini bildiradi. <strong>Can’t</strong> esa qila olmaslikni bildiradi.</div>
 
@@ -118,5 +150,23 @@
 
     <div class="footer">39-dars · Can / Can’t — Ability</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

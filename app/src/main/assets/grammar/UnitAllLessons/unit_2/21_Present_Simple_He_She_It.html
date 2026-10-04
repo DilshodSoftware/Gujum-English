@@ -38,6 +38,14 @@
     .incorrect { color: #b33a3a; font-weight: 600; }
     .summary { padding: 14px; background: #edf7f0; border: 1px solid #d4ead9; border-radius: 14px; }
     .summary p { margin: 6px 0; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 28px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -53,6 +61,67 @@
   <main class="lesson">
     <h1>21-DARS. PRESENT SIMPLE: HE / SHE / IT + -S</h1>
     <div class="subhead">Present Simple darak gapida fe’lga -s / -es / -ies qo‘shish</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>ali</strong> — Ali</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_ali.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>anna</strong> — Anna</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_anna.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>baby</strong> — chaqaloq</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-3_baby.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>boy</strong> — o‘g‘il bola</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_boy.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>buy</strong> — sotib olmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_buy.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>buys</strong> — sotib oladi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_buys.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>carries</strong> — tashiydi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_carries.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>carry</strong> — tashimoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_carry.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cat</strong> — mushuk</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-4-6_cat.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cries</strong> — yig‘laydi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_cries.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cry</strong> — yig‘lamoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_cry.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>dog</strong> — it</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_dog.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>eats</strong> — yeydi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_eats.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>english</strong> — ingliz tili</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_english.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>enjoy</strong> — yoqtirmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_enjoy.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>enjoys</strong> — yoqtiradi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_enjoys.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>father</strong> — ota</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_father.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>fish</strong> — baliq</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-5_fish.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>fix</strong> — tuzatmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_fix.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>fixes</strong> — tuzatadi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_fixes.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>football</strong> — futbol</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_football.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>go</strong> — borish</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d4_go.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>goes</strong> — boradi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_goes.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>he</strong> — u</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_he.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>her</strong> — uning</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d15_her.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>his</strong> — uning</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d15_his.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>home</strong> — uy</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d6_home.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>homework</strong> — uy vazifasi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_homework.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>i</strong> — men</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-3-4_i.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>likes</strong> — yoqtiradi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_likes.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>madina</strong> — Madina</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_madina.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>music</strong> — musiqa</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_music.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>my</strong> — mening</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-3_my.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>night</strong> — tun</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-6_night.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>pass</strong> — o‘tmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_pass.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>passes</strong> — o‘tadi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_passes.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>play</strong> — o‘ynamoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_play.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>plays</strong> — o‘ynaydi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_plays.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>read</strong> — o‘qimoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_read.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>reads</strong> — o‘qiydi</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d10_reads.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>school</strong> — maktab</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_school.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>she</strong> — u</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_she.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sleep</strong> — uxlamoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_sleep.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sleeps</strong> — uxlaydi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_sleeps.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>studies</strong> — o‘qiydi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_studies.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>study</strong> — o‘qimoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_study.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>they</strong> — ular</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_they.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tom</strong> — Tom</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_tom.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tv</strong> — televizor</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_tv.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>wash</strong> — yuvmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_wash.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>washes</strong> — yuvadi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d21_washes.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>watch</strong> — tomosha</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d8_watch.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>watches</strong> — tomosha qiladi</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d8_watches.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>work</strong> — ishlamoq</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d10_work.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>works</strong> — ishlaydi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_works.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>you</strong> — sen / siz</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_you.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>Oldingi darsda</strong> Present Simple darak gapining umumiy qolipini ko‘rdik. Bu darsda bitta odam yoki narsa — <strong>he, she, it</strong> bilan fe’lning oxiri qanday o‘zgarishini batafsil mashq qilamiz.</div>
 
@@ -206,5 +275,23 @@
     </div>
     <div class="footer">21-dars · Present Simple — He / She / It</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

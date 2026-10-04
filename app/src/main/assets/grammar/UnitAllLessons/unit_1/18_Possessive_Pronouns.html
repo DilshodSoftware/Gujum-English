@@ -37,6 +37,14 @@
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
     .summary { padding: 14px; background: #edf7f0; border: 1px solid #d4ead9; border-radius: 14px; }
     .summary p { margin: 6px 0; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 28px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -79,6 +87,26 @@
       <div class="example-row"><span class="english">This pen is mine.</span><span class="translation">Bu ruchka meniki.</span></div>
       <div class="example-row"><span class="english">My bag is black. Yours is blue.</span><span class="translation">Mening sumkam qora. Sizniki ko‘k.</span></div>
     </div>
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>mine</strong> — meniki</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d18_mine.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>yours</strong> — seniki / sizniki</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d18_yours.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>his</strong> — uniki</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d15_his.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>hers</strong> — uniki</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d18_hers.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>its</strong> — uniki</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d15_its.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>ours</strong> — bizniki</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d18_ours.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>theirs</strong> — ularniki</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d18_theirs.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>whose</strong> — kimniki</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d18_whose.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>my</strong> — mening</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-3_my.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>her</strong> — uning</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d15_her.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>book</strong> — kitob</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-3_book.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>bags</strong> — sumkalar</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d14_bags.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>is</strong> — bo‘lmoq (u)</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d10_is.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>are</strong> — bo‘lmoq (ular)</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d10_are.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>this</strong> — bu</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_this.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
+
     <div class="card blue"><strong>my + noun:</strong> my pen<br><strong>mine:</strong> The pen is mine.</div>
 
     <h2>3. Your va Yours</h2>
@@ -182,5 +210,23 @@
     </div>
     <div class="footer">18-dars · Possessive Pronouns</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

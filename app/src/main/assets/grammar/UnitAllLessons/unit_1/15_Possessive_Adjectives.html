@@ -95,6 +95,14 @@
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
     .summary { padding: 14px; background: #edf7f0; border: 1px solid #d4ead9; border-radius: 14px; }
     .summary p { margin: 6px 0; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 28px; color: #93aec2; font-size: 0.8rem; text-align: center; }
 
     @media (max-width: 400px) {
@@ -115,6 +123,32 @@
 
     <p>Biror narsa kimga tegishli ekanini aytish uchun <strong>possessive adjectives</strong> ishlatiladi. O‘zbek tilidagi “mening”, “sening”, “uning”, “bizning”, “ularning” kabi ma’nolarni bildiradi.</p>
     <div class="rule"><span>Possessive adjective + ot</span></div>
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>I</strong> — men</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-3-4_i.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>my</strong> — mening</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-3_my.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>you</strong> — sen / siz</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_you.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>your</strong> — sening</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d11_your.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>he</strong> — u</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_he.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>his</strong> — uning (erkak)</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d15_his.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>she</strong> — u</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_she.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>her</strong> — uning (ayol)</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d15_her.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>it</strong> — u / bu</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_it.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>its</strong> — uning (narsa)</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d15_its.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>we</strong> — biz</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_we.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>our</strong> — bizning</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d15_our.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>they</strong> — ular</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_they.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>their</strong> — ularning</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d15_their.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>book</strong> — kitob</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-3_book.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>pen</strong> — ruchka</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_pen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>car</strong> — mashina</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_car.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>bag</strong> — sumka</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d9_bag.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>name</strong> — ism</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-6_name.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>home</strong> — uy</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d6_home.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>teacher</strong> — o‘qituvchi</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_teacher.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
+
     <div class="card blue"><strong>my book</strong> — mening kitobim<br><strong>her bag</strong> — uning sumkasi<br><strong>our house</strong> — bizning uyimiz</div>
 
     <h2>1. Barcha possessive adjectives</h2>
@@ -252,5 +286,23 @@
     </div>
     <div class="footer">15-dars · Possessive Adjectives</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

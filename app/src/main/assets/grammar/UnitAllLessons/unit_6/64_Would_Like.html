@@ -32,6 +32,14 @@
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
     .correct { color: #1e7a3e; font-weight: 700; }
     .incorrect { color: #b33a3a; font-weight: 600; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -46,6 +54,32 @@
   <main class="lesson">
     <h1>64-DARS. WOULD LIKE</h1>
     <div class="subhead">I’d like... · Muloyim tarzda xohish yoki iltimos aytish</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>would</strong> — xohlardim</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d6_would.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>like</strong> — yoqtirmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d22_like.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>coffee</strong> — kofe</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d22_coffee.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>come</strong> — kelmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d27_come.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>down</strong> — pastga</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d41_down.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>drink</strong> — ichmoq</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_drink.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>english</strong> — ingliz tili</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_english.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>here</strong> — shu yerda</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_here.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>learn</strong> — o‘rganmoq</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d34_learn.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>menu</strong> — menyu</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d64_menu.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>order</strong> — buyurtma</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d64_order.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>please</strong> — iltimos</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d40_please.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sandwich</strong> — sendvich</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d63_sandwich.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sit</strong> — o‘tirmoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d27_sit.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>some</strong> — ba’zi</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_some.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>table</strong> — stol</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_table.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tea</strong> — choy</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d22_tea.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>us</strong> — bizni</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d47_us.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>want</strong> — xohlamoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_want.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>water</strong> — suv</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_water.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>window</strong> — deraza</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d13_window.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>Would like</strong> biror narsani xohlashni muloyim, odobli tarzda aytadi. Ko‘pincha do‘konda, kafeda yoki iltimos qilganda ishlatiladi. O‘zbekchaga “xohlardim”, “... olsam/ichsam” kabi tarjima qilinadi.</div>
 
@@ -131,5 +165,23 @@
 
     <div class="footer">64-dars · Would Like</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

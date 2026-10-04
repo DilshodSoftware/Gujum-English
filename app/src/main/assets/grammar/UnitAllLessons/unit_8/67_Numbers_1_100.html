@@ -35,6 +35,14 @@
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
     .correct { color: #1e7a3e; font-weight: 700; }
     .incorrect { color: #b33a3a; font-weight: 600; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -50,6 +58,45 @@
   <main class="lesson">
     <h1>67-DARS. NUMBERS 1–100</h1>
     <div class="subhead">Sonlar · one, two... one hundred · yosh, narx, telefon raqam</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>zero</strong> — nol</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_zero.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>oh</strong> — nol (raqamda)</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_oh.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>one</strong> — bir</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_one.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>two</strong> — ikki</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_two.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>three</strong> — uch</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_three.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>four</strong> — to‘rt</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d44_four.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>five</strong> — besh</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d6_five.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>six</strong> — olti</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_six.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>seven</strong> — yetti</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d33_seven.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>eight</strong> — sakkiz</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_eight.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>nine</strong> — to‘qqiz</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_nine.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>ten</strong> — o‘n</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d37_ten.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>eleven</strong> — o‘n bir</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_eleven.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>twelve</strong> — o‘n ikki</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_twelve.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>thirteen</strong> — o‘n uch</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_thirteen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>fourteen</strong> — o‘n to‘rt</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_fourteen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>fifteen</strong> — o‘n besh</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_fifteen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sixteen</strong> — o‘n olti</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_sixteen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>seventeen</strong> — o‘n yetti</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_seventeen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>eighteen</strong> — o‘n sakkiz</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_eighteen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>nineteen</strong> — o‘n to‘qqiz</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_nineteen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>twenty</strong> — yigirma</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_twenty.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>thirty</strong> — o‘ttiz</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_thirty.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>forty</strong> — qirq</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_forty.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>fifty</strong> — ellik</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_fifty.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sixty</strong> — oltmish</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_sixty.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>seventy</strong> — yetmish</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_seventy.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>eighty</strong> — sakson</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_eighty.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>ninety</strong> — to‘qson</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_ninety.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>one hundred</strong> — yuz</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_one_hundred.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>twenty-one</strong> — yigirma bir</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_twenty_one.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>thirty-three</strong> — o‘ttiz uch</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_thirty_three.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>forty-seven</strong> — qirq yetti</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_forty_seven.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>ninety-nine</strong> — to‘qson to‘qqiz</span><button class="speak" onclick="playOpus('../unit_8/unit_8_dictionary_opus/d67_ninety_nine.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>Number</strong> — son. Do‘konda narx so‘rash, yoshingizni aytish, telefon raqam berish — hammasi son bilan. Bu darsda 0 dan 100 gacha sanashni tartib bilan o‘rganamiz: avval 0–20 ni yodlaymiz, keyin qolganini bitta qoida bilan yasaymiz.</div>
 
@@ -188,5 +235,23 @@
 
     <div class="footer">67-dars · Numbers 1-100</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

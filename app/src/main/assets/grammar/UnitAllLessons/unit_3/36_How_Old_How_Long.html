@@ -30,6 +30,14 @@
     .exercise { background: #f0f6fd; border: 1px solid #d0e2f0; }
     .exercise p { margin: 7px 0; }
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 26px; color: #93aec2; font-size: .8rem; text-align: center; }
     @media (max-width: 400px) {
       body { padding: 10px 8px 28px; }
@@ -44,6 +52,34 @@
   <main class="lesson">
     <h1>36-DARS. HOW OLD / HOW LONG</h1>
     <div class="subhead">How old = necha yosh? · How long = qancha vaqt/uzunlik?</div>
+
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>how</strong> — qanday</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d29_how.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>old</strong> — yosh</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_old.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>long</strong> — uzun</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_long.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>brother</strong> — aka</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d5_brother.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>day</strong> — kun</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_day.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>days</strong> — kunlar</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d36_days.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>every</strong> — har</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_every.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>film</strong> — film</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d27_film.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>hours</strong> — soatlar</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d36_hours.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>last</strong> — oxirgi</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d36_last.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>lesson</strong> — dars</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d29_lesson.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>metres</strong> — metrlar</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d36_metres.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>minutes</strong> — daqiqalar</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d36_minutes.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>river</strong> — daryo</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d36_river.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sara</strong> — Sara</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d7_sara.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>sister</strong> — opa</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d19_sister.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>start</strong> — boshlamoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d24_start.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>study</strong> — o‘qimoq</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d20_study.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>table</strong> — stol</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_table.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>this</strong> — bu</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_this.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>three</strong> — uch</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_three.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>two</strong> — ikki</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_two.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>years</strong> — yoshlar</span><button class="speak" onclick="playOpus('../unit_3/unit_3_dictionary_opus/d36_years.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
 
     <div class="card blue"><strong>How</strong> boshqa so‘zlar bilan qo‘shilib, aniqroq savol beradi. Bu darsda yoshni so‘rash va vaqt yoki uzunlikni o‘lchashni o‘rganamiz.</div>
 
@@ -118,5 +154,23 @@
 
     <div class="footer">36-dars · How Old / How Long</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>

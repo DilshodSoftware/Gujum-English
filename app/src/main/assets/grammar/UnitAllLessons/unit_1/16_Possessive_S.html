@@ -94,6 +94,14 @@
     .answers { background: #e8f4ea; border-left: 4px solid #2e8b57; color: #1a4a2a; }
     .summary { padding: 14px; background: #edf7f0; border: 1px solid #d4ead9; border-radius: 14px; }
     .summary p { margin: 6px 0; }
+    .grid { display: grid; grid-template-columns: 1fr 1fr; gap: 8px; margin: 10px 0; }
+    .word { padding: 8px 10px; background: #f1f7fc; border: 1px solid #deebf4; border-radius: 10px; }
+    .word--audio { display: flex; align-items: center; gap: 8px; }
+    .word--audio .pair { flex: 1 1 auto; min-width: 0; }
+    .word--audio .speak { flex: 0 0 auto; margin-left: 0; }
+    .nw { display: inline-block; white-space: nowrap; }
+    .speak { display:inline-flex; align-items:center; justify-content:center; width:30px; height:30px; margin-left:8px; padding:0; border:1px solid #cfe3f2; background:#eaf4fc; border-radius:50%; cursor:pointer; font-size:15px; line-height:1; vertical-align:middle; }
+    .speak:active { background:#d4e9f9; }
     .footer { margin-top: 28px; color: #93aec2; font-size: 0.8rem; text-align: center; }
 
     @media (max-width: 400px) {
@@ -114,6 +122,27 @@
 
     <p>Biror narsa kimga tegishli ekanini ingliz tilida ot yoki ismga <strong>’s</strong> qo‘shib ham aytish mumkin.</p>
     <div class="rule"><span>egasi + ’s + narsa</span></div>
+    <h2>Dars lug‘ati</h2>
+    <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
+    <div class="grid">
+      <div class="word word--audio"><span class="pair"><strong>pen</strong> — ruchka</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_pen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>bag</strong> — sumka</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d9_bag.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>car</strong> — mashina</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d12_car.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>girl</strong> — qiz</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_girl.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>cat</strong> — mushuk</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-4-6_cat.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>tail</strong> — dum</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d16_tail.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>mother</strong> — ona</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-5_mother.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>boy</strong> — o‘g‘il bola</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1_boy.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>boys</strong> — o‘g‘il bolalar</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d16_boys.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>boy’s</strong> — bitta bolaning</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d16_boy_poss.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>boys’</strong> — bolalarning</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d16_boys_poss.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>Ali</strong> — Ali</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2_ali.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>Ali’s pen</strong> — Alining ruchkasi</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d16_alis_pen.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>the girl’s bag</strong> — qizning sumkasi</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d16_the_girls_bag.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>my mother’s car</strong> — onamning mashinasi</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d16_my_mothers_car.opus',this)" aria-label="Tinglash">🔊</button></div>
+      <div class="word word--audio"><span class="pair"><strong>the cat’s tail</strong> — mushukning dumi</span><button class="speak" onclick="playOpus('../unit_1/unit_1_dictionary_opus/d16_the_cats_tail.opus',this)" aria-label="Tinglash">🔊</button></div>
+    </div>
+
     <div class="card blue"><strong>Ali’s book</strong> — Alining kitobi<br><strong>the girl’s bag</strong> — qizning sumkasi</div>
     <p>Bu yerda <strong>’s</strong> o‘zbek tilidagi “-ning” ma’nosini beradi.</p>
 
@@ -248,5 +277,23 @@
     </div>
     <div class="footer">16-dars · Possessive ’s</div>
   </main>
+  <script>
+    var currentAudio = null;
+    function playOpus(src, btn) {
+      try { if (btn) { btn.textContent = '\u23F3'; } } catch (e1) {}
+      try { document.querySelectorAll('audio').forEach(function (a) { try { a.pause(); } catch (e2) {} }); } catch (e3) {}
+      try { if (currentAudio) { currentAudio.pause(); } } catch (e4) {}
+      var ok = function () { try { if (btn) { btn.textContent = '\ud83d\udd0a'; } } catch (e5) {} };
+      var bad = function () { try { if (btn) { btn.textContent = '\u274C'; } } catch (e6) {} };
+      try {
+        var a = new Audio(src);
+        a.addEventListener('canplaythrough', ok);
+        a.addEventListener('error', bad);
+        currentAudio = a;
+        var p = a.play();
+        if (p && p.catch) { p.catch(function () { bad(); }); }
+      } catch (e7) { bad(); }
+    }
+  </script>
 </body>
 </html>
