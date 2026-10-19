@@ -7,7 +7,7 @@ I have a book.|Menda kitob bor.
 I see a cat.|Men mushuk ko'ryapman.
 The city is big.|Shahar katta.
 The chair is new.|Stul yangi.
-Listen to me.|Meni tingla.
+Listen to me.|Meni tinglang.
 I like cake.|Menga tort yoqadi.
 The phone is black.|Telefon qora.
 The ship is big.|Kema katta.
@@ -59,7 +59,7 @@ The bird can fly.|Qush ucha oladi.
 The table is big.|Stol katta.
 My house is small.|Mening uyim kichkina.
 My school is big.|Mening maktabim katta.
-The park is green.|Park yashil.
+The park is green.|Bog' yashil.
 My room is clean.|Mening xonam toza.
 I am happy.|Men xursandman.
 The gym is big.|Sport zal katta.
@@ -72,7 +72,7 @@ English is easy.|Ingliz tili oson.
 This is my book.|Bu mening kitobim.
 Birds can fly.|Qushlar ucha oladi.
 The sky is blue.|Osmon ko'k.
-Try again.|Yana urinib ko'r.
+Try again.|Yana urinib ko'ring.
 Ali and I are friends.|Ali va men do'stmiz.
 Ali is my friend.|Ali mening do'stim.
 Madina is my friend.|Madina mening do'stim.
