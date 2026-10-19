@@ -65,9 +65,9 @@ fun GrammarPracticeScreen(
     fontScale: Float,
     onFontScaleChange: (Int) -> Unit,
     onBack: () -> Unit,
+    onLessonCompleted: (Int) -> Unit = {},
     modifier: Modifier = Modifier
-) {
-    var index by rememberSaveable { mutableStateOf(0) }
+) {    var index by rememberSaveable { mutableStateOf(0) }
     var showResult by rememberSaveable { mutableStateOf(false) }
     // Savol raqami -> to'g'ri/noto'g'ri (null = hali baholanmagan).
     val verdicts = rememberSaveable { mutableStateOf(arrayListOf<Boolean>()) }
@@ -104,7 +104,11 @@ fun GrammarPracticeScreen(
                     verdicts.value = arrayListOf()
                     showResult = false
                 },
-                onFinish = onBack,
+                onFinish = {
+                    // Test tugallandi — dars kartalari ochiladi (spec §4).
+                    onLessonCompleted(quiz.lessonNumber)
+                    onBack()
+                },
                 modifier = Modifier.weight(1f)
             )
         } else {

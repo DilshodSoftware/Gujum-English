@@ -24,10 +24,14 @@ tekshirish (STT) — hammasi qurilmada, internet talab qilinmaydi.
 
 ### Card Lesson (FSRS bilan oraliqli takrorlash)
 - **FSRS-6** algoritmi (rasmiy 21 ta default weight, o'rgatiladigan decay).
-- 205 ta karta: 156 **grammar** (to'be-verb, a/an, can/can't, in/on/at
-  bo'shliqlari) + 49 **rule** (unit_0 darslaridan qoidalar).
+- **1268 ta karta, 66 ta dars**: 725 **grammar** (to'be-verb, a/an, can/can't,
+  in/on/at/to/for, he/she/it bo'shliqlari) + 543 **rule** (darslarning
+  "Mashq" savol-javoblaridan).
+- 🔊 audio tugmasi — kartada audio fayli bo'lsa o'ynatadi.
 - 4 baho: Eslolmadim (qizil) · Qiynalib esladim (sariq) · Esladim (ko'k) ·
   Darrov esladim (yashil).
+- **Dars bloklanishi**: kartalar `locked` holatda yaratiladi. Darsni ochish
+  (Grammar bo'limida) yoki uning testini tugatish kartalarni ochadi.
 - Kunlik navbat: muddati o'tganlar birinchi (R eng pastdan), yangilar
   limitdan keyin. Limit 20–100, qadam 10.
 - **Comeback rejimi**: 14+ kun kirmagan bo'lsa, to'liq backlogni emas,
@@ -38,6 +42,9 @@ tekshirish (STT) — hammasi qurilmada, internet talab qilinmaydi.
 ### Statistics
 - O'rganilgan / qolgan gaplar soni, progress halqasi.
 - O'rganilgan va o'rganilmagan gaplar ro'yxati.
+- **Darslar kuchi (FSRS)**: har dars uchun kartalarning o'rtacha eslab
+  qolish ehtimoli (R) va muddati o'tgan kartalar soni. "Qayta" tugmasi
+  darsni qayta yopadi (kartalar yana `locked` bo'ladi).
 
 ## Texnologiyalar
 
@@ -79,13 +86,13 @@ app/src/main/
 │   │   ├── cardlesson/CardLessonScreen.kt    # FSRS-6 kartalar oqimi
 │   │   ├── navigation/MainNavigation.kt
 │   │   └── theme/
-│   ├── audio/    # SentenceAudioPlayer, SentenceAudioStorage, InMemoryAudioPlayer
+│   ├── audio/    # SentenceAudioPlayer, SentenceAudioStorage, CardAudioPlayer
 │   ├── image/    # SentenceImageStorage, ImagePackInstaller
 │   └── data/
 │       ├── LearningRepository.kt
 │       └── local/
 │           ├── DictionaryDatabase.kt    # dictionary.db (1137 gap)
-│           ├── CardDatabase.kt          # cards.db (v6: cards/user_cards/review_logs)
+│           ├── CardDatabase.kt          # cards.db (v7: cards/user_cards/review_logs)
 │           ├── FsrsScheduler.kt          # FSRS-6 formulalari
 │           └── CardLearningService.kt   # kunlik navbat, comeback, review
 └── assets/
@@ -94,7 +101,7 @@ app/src/main/
     ├── audio/    # 1451 opus (s001_070/080/095)
     ├── images/   # 1137 AVIF (s0001..s1137)
     ├── stt/tiny_en_2026_02_27/   # Moonshine model (43 MB: encoder 13 + decoder 30)
-    ├── cards_content.json        # 205 karta
+    ├── cards_content.json        # 1268 karta (66 dars)
     └── dictionary.db
 ```
 
@@ -123,11 +130,20 @@ app/src/main/
    ```json
    { "id": "L07-C01", "lessonId": 7, "type": "grammar",
      "prompt": "I ___ a student. (am/is/are)", "answer": "am",
-     "audioFile": null, "example": "I am a student.",
-     "tags": "[\"verb_to_be\"]" }
+     "audioFile": "grammar/UnitAllLessons/unit_0/unit_0_sentence_opus/s002_075.opus",
+     "example": "I am a student.", "tags": "[\"verb_to_be\"]" }
    ```
+   - `id` — `L<dars>-C<ketma-ket raqam>`; `lessonId` — dars raqami (1–67).
+   - `audioFile` — to'liq asset yo'li (bo'lsa 🔊 tugmasi chiqadi).
+   - `type` — `grammar` (bo'shliq mashqi) yoki `rule` (qoida savoli).
 2. `CardDatabase.kt` dagi `version` ni oshiring (destructive migration
-   progressni tozalaydi).
+   progressni tozalaydi) — yangi kartalar `locked` holatda yaratiladi va
+   dars ochilganda `new` ga o'tadi.
+
+Kartalarni qo'lda yozish o'rniga generator'dan foydalanish mumkin:
+`/tmp/opencode/gen_cards_all.py` — 66 ta dars HTML'idagi "Mashq" savol-
+javoblaridan `rule` kartalarini, `unit_N_dictionary_txt/unit_N_sentence.txt`
+gaplaridan `grammar` bo'shliqlarini avtomatik yaratadi.
 
 ## Ishga tushirish
 

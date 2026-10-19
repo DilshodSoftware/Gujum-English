@@ -11,6 +11,9 @@ import android.widget.ImageButton
 import android.widget.LinearLayout
 import android.widget.Space
 import androidx.activity.ComponentActivity
+import androidx.lifecycle.lifecycleScope
+import com.example.gujumenglish.data.local.CardLearningService
+import kotlinx.coroutines.launch
 
 class GrammarLessonActivity : ComponentActivity() {
     private var lessonWebView: WebView? = null
@@ -29,6 +32,15 @@ class GrammarLessonActivity : ComponentActivity() {
             .getInt(FONT_SIZE_KEY, DEFAULT_FONT_SIZE_PERCENT)
         if (!lessonTitle.isNullOrBlank()) {
             title = lessonTitle
+        }
+
+        // Dars ochilganda uning kartalari `locked` dan chiqadi (spec §4).
+        lessonNumberFromAsset(assetName)?.let { lessonNumber ->
+            lifecycleScope.launch {
+                runCatching {
+                    CardLearningService(applicationContext).unlockLesson(lessonNumber)
+                }
+            }
         }
 
         val webView = WebView(this).apply {
@@ -165,8 +177,11 @@ class GrammarLessonActivity : ComponentActivity() {
         lessonRoot?.setBackgroundColor(parsedColor)
     }
 
-    private fun changeFontSize(delta: Int) {
-        fontSizePercent = (fontSizePercent + delta)
+    /** "10_Verb_To_Be_am_is_are.html" -> 10. */
+    private fun lessonNumberFromAsset(assetName: String): Int? =
+        Regex("^(\\d+)_").find(assetName)?.groupValues?.get(1)?.toIntOrNull()
+
+    private fun changeFontSize(delta: Int) {        fontSizePercent = (fontSizePercent + delta)
             .coerceIn(MIN_FONT_SIZE_PERCENT, MAX_FONT_SIZE_PERCENT)
         lessonWebView?.settings?.textZoom = fontSizePercent
         getSharedPreferences(PREFERENCES_NAME, MODE_PRIVATE)

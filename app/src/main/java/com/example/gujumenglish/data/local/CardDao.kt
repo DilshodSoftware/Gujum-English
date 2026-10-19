@@ -10,7 +10,10 @@ import kotlinx.coroutines.flow.Flow
 @Dao
 interface CardDao {
     @Query("SELECT * FROM cards WHERE lessonId = :lessonId ORDER BY id ASC")
-    fun getCardsByLesson(lessonId: Int): Flow<List<CardEntity>>
+    suspend fun getCardsByLessonOnce(lessonId: Int): List<CardEntity>
+
+    @Query("SELECT cardId FROM user_cards WHERE state = 'locked' AND cardId IN (:cardIds)")
+    suspend fun getLockedCardIds(cardIds: List<String>): List<String>
 
     @Query("SELECT * FROM cards ORDER BY lessonId ASC, id ASC")
     fun getAllCards(): Flow<List<CardEntity>>
@@ -27,6 +30,9 @@ interface CardDao {
     @Insert
     suspend fun insertUserState(state: CardUserState)
 
+    @Insert(onConflict = OnConflictStrategy.IGNORE)
+    suspend fun insertUserStates(states: List<CardUserState>)
+
     @Update
     suspend fun updateUserState(state: CardUserState)
 
@@ -35,6 +41,10 @@ interface CardDao {
 
     @Query("SELECT * FROM user_cards WHERE userId = :userId AND state != 'locked'")
     suspend fun getActiveUserStates(userId: Int): List<CardUserState>
+
+    /** Darsni o'zgartirish: kartalarni locked/unlocked qilish. */
+    @Query("UPDATE user_cards SET state = :state WHERE cardId IN (:cardIds)")
+    suspend fun setStateForCards(cardIds: List<String>, state: String)
 
     @Query("SELECT * FROM user_cards WHERE userId = :userId AND due <= :now ORDER BY due ASC")
     suspend fun getDueCards(userId: Int, now: Long): List<CardUserState>

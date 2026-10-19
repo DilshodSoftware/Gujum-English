@@ -41,6 +41,15 @@ class CardLearningService(private val context: Context) {
 
     fun getLastActive(): Long = prefs.getLong("last_active_ms", 0L)
 
+    /**
+     * Ilova ochilganda chaqiriladi — comeback rejimi (14+ kun) shu qiymatga
+     * tayanadi. Faqat review'da yangilanishi comeback'ni ishga tushirmaydi:
+     * o'quvchi kirib, review qilmasdan chiqsa, tanaffus sanalgan bo'lishi kerak.
+     */
+    fun markActive(now: Long = System.currentTimeMillis()) {
+        touchActive(now)
+    }
+
     private fun touchActive(now: Long) {
         prefs.edit().putLong("last_active_ms", now).apply()
     }
@@ -51,16 +60,9 @@ class CardLearningService(private val context: Context) {
         CardContentImporter.importIfEmpty(context, database)
     }
 
-    fun getCardsForLesson(lessonId: Int): Flow<List<CardEntity>> = dao.getCardsByLesson(lessonId)
-
     fun getAllCards(): Flow<List<CardEntity>> = dao.getAllCards()
 
-    suspend fun getDueCards(userId: Int = 1, now: Long = System.currentTimeMillis()): List<CardUserState> {
-        return dao.getDueCards(userId, now)
-    }
-
     // ---------- daily queue ----------
-
     data class QueueResult(
         val cards: List<CardEntity>,
         val dueCount: Int,
@@ -68,6 +70,51 @@ class CardLearningService(private val context: Context) {
         val isComeback: Boolean,
         val overdueDays: Long
     )
+
+    data class LessonProgress(
+        val lessonId: Int,
+        val cardCount: Int,
+        val reviewedCount: Int,
+        /** Kartalar o'rtacha eslab qolish ehtimoli (0..1). */
+        val strength: Float,
+        /** Shu darsda muddati o'tgan kartalar soni. */
+        val dueCount: Int
+    )
+
+    /**
+     * Dars kuchi = o'quvchi kartalarining o'rtacha R qiymati (spec §7).
+     * Ko'rib chiqilmagan kartalar R=0 hisoblanadi, shuning uchun yangi
+     * kartalar dars kuchini pasaytiradi — bu kutilgan.
+     */
+    suspend fun getLessonProgress(
+        userId: Int = 1,
+        now: Long = System.currentTimeMillis()
+    ): List<LessonProgress> {
+        val all = dao.getAllCardsOnce()
+        if (all.isEmpty()) return emptyList()
+        val states = dao.getActiveUserStates(userId).associateBy { it.cardId }
+        val dueIds = dao.getDueCards(userId, now).map { it.cardId }.toSet()
+        return all.groupBy { it.lessonId }.toSortedMap().map { (lessonId, cards) ->
+            var sum = 0.0
+            var reviewed = 0
+            cards.forEach { card ->
+                val st = states[card.id]
+                if (st?.stability != null) {
+                    val elapsed = ((now - (st.lastReview ?: now)).coerceAtLeast(0L))
+                        .toDouble() / DAY_MS
+                    sum += FsrsScheduler.retrievability(elapsed, st.stability)
+                    reviewed++
+                }
+            }
+            LessonProgress(
+                lessonId = lessonId,
+                cardCount = cards.size,
+                reviewedCount = reviewed,
+                strength = if (cards.isEmpty()) 0f else (sum / cards.size).toFloat(),
+                dueCount = cards.count { it.id in dueIds }
+            )
+        }
+    }
 
     /**
      * Daily queue: overdue first (lowest R), then new cards, interleaved by
@@ -83,12 +130,15 @@ class CardLearningService(private val context: Context) {
         val all = dao.getAllCardsOnce()
         if (all.isEmpty()) return QueueResult(emptyList(), 0, 0, false, 0)
         val states = dao.getActiveUserStates(userId).associateBy { it.cardId }
+        // Locked kartalar (dars tugunilmagan) navbatga kirmaydi.
+        val unlocked = all.filter { states[it.id]?.state != "locked" }
+        if (unlocked.isEmpty()) return QueueResult(emptyList(), 0, 0, false, 0)
 
         val lastActive = getLastActive()
         val awayDays = if (lastActive <= 0L) 0L else (now - lastActive) / DAY_MS
         if (awayDays >= COMEBACK_THRESHOLD_DAYS) {
             // Diagnostic: up to N cards per lesson, prefer least-practiced.
-            val diag = all.groupBy { it.lessonId }
+            val diag = unlocked.groupBy { it.lessonId }
                 .toSortedMap()
                 .flatMap { (_, lessonCards) ->
                     lessonCards.sortedBy { states[it.id]?.reps ?: 0 }
@@ -106,7 +156,7 @@ class CardLearningService(private val context: Context) {
 
         // Due cards with retrievability, lowest R first.
         val dueRanked = states.values
-            .filter { it.due != null && it.due <= now && it.stability != null }
+            .filter { it.due != null && it.due <= now && it.stability != null && it.state != "locked" }
             .map { st ->
                 val elapsed = ((now - (st.lastReview ?: now)).coerceAtLeast(0L))
                     .toDouble() / DAY_MS
@@ -115,12 +165,12 @@ class CardLearningService(private val context: Context) {
             }
             .sortedBy { it.second }
         val dueCards = dueRanked.take(cap).mapNotNull { (st, _) ->
-            all.find { it.id == st.cardId }
+            unlocked.find { it.id == st.cardId }
         }
 
         // New cards (no state row yet) fill the rest of the cap.
         val remaining = (cap - dueCards.size).coerceAtLeast(0)
-        val newCards = all.filter { !states.containsKey(it.id) }.take(remaining)
+        val newCards = unlocked.filter { !states.containsKey(it.id) }.take(remaining)
 
         val queue = interleaveByType(dueCards + newCards)
         return QueueResult(
@@ -151,6 +201,25 @@ class CardLearningService(private val context: Context) {
     }
 
     // ---------- review ----------
+
+    /**
+     * Darsni ochish: kartalar `locked` dan chiqadi va review queue'ga tushadi
+     * (spec §4 — dars tugunilmagan bo'lsa kartalar ochilmaydi).
+     */
+    suspend fun unlockLesson(lessonId: Int, userId: Int = 1) {
+        val cards = dao.getCardsByLessonOnce(lessonId)
+        if (cards.isEmpty()) return
+        val ids = cards.map { it.id }
+        val locked = dao.getLockedCardIds(ids)
+        if (locked.isNotEmpty()) dao.setStateForCards(locked, "new")
+    }
+
+    /** Darsni yopish: kartalar yana `locked` holatiga qaytadi. */
+    suspend fun lockLesson(lessonId: Int, userId: Int = 1) {
+        val cards = dao.getCardsByLessonOnce(lessonId)
+        if (cards.isEmpty()) return
+        dao.setStateForCards(cards.map { it.id }, "locked")
+    }
 
     suspend fun submitReview(
         userId: Int = 1,

@@ -30,14 +30,16 @@ import androidx.compose.runtime.collectAsState
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.rememberCoroutineScope
 import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.platform.LocalContext
 import androidx.core.content.ContextCompat
 import androidx.lifecycle.ViewModelProvider
-import kotlinx.coroutines.runBlocking
+import androidx.lifecycle.lifecycleScope
 import coil3.ImageLoader
+import kotlinx.coroutines.launch
 import com.example.gujumenglish.audio.CapturedAudio
 import com.example.gujumenglish.audio.InMemoryAudioPlayer
 import com.example.gujumenglish.audio.SentenceAudioPlayer
@@ -51,6 +53,7 @@ import com.example.gujumenglish.ui.list.SentenceListScreen
 import com.example.gujumenglish.ui.navigation.MainBottomNavigation
 import com.example.gujumenglish.ui.navigation.MainSection
 import com.example.gujumenglish.ui.practice.SentencePracticeScreen
+import com.example.gujumenglish.ui.statistics.CardLessonProgress
 import com.example.gujumenglish.ui.statistics.StatisticsScreen
 import com.example.gujumenglish.ui.theme.GujumEnglishTheme
 import com.github.awxkee.avifcoil.decoder.HeifDecoder
@@ -74,10 +77,13 @@ class MainActivity : ComponentActivity() {
             .components { add(HeifDecoder.Factory()) }
             .build()
         sentenceImageStorage = SentenceImageStorage(applicationContext)
-        // Initialize card database (new separate DB: cards.db)
-        kotlinx.coroutines.runBlocking {
-            val cardService = com.example.gujumenglish.data.local.CardLearningService(applicationContext)
-            cardService.initializeCards()
+        // Card DB ni import qilish — main thread'ni bloklamaslik uchun
+        // lifecycleScope da avtomatik ishga tushadi.
+        lifecycleScope.launch {
+            runCatching {
+                com.example.gujumenglish.data.local.CardLearningService(applicationContext)
+                    .initializeCards()
+            }
         }
         val learningViewModel = ViewModelProvider(this)[LearningViewModel::class.java]
 
@@ -92,8 +98,27 @@ class MainActivity : ComponentActivity() {
             var studentAudio by remember { mutableStateOf<CapturedAudio?>(null) }
             var isSpeakingPressActive by remember { mutableStateOf(false) }
             val context = LocalContext.current
+            val scope = rememberCoroutineScope()
             val isSpeakingPhase = state.screen == LearningScreen.PRACTICE &&
                 state.practice?.phase == PracticePhase.SPEAKING
+
+            // Card statistikasi (darslar kuchi) — FSRS holatidan hisoblanadi.
+            var cardProgress by remember { mutableStateOf(emptyList<CardLessonProgress>()) }
+            LaunchedEffect(Unit) {
+                val service = com.example.gujumenglish.data.local.CardLearningService(context)
+                runCatching { service.getLessonProgress() }
+                    .onSuccess { list ->
+                        cardProgress = list.map {
+                            CardLessonProgress(
+                                lessonId = it.lessonId,
+                                cardCount = it.cardCount,
+                                reviewedCount = it.reviewedCount,
+                                strength = it.strength,
+                                dueCount = it.dueCount
+                            )
+                        }
+                    }
+            }
 
             LaunchedEffect(isSpeakingPhase, state.practice?.sentenceIndex) {
                 if (isSpeakingPhase) {
@@ -282,6 +307,17 @@ class MainActivity : ComponentActivity() {
                                         unlearnedSentencePagingFlow = learningViewModel.unlearnedSentencePagingFlow,
                                         learnedCount = state.learnedSentenceCount,
                                         totalCount = state.totalSentenceCount,
+                                        cardProgress = cardProgress,
+                                        onResetLesson = { lessonId ->
+                                            scope.launch {
+                                                runCatching {
+                                                    com.example.gujumenglish.data.local
+                                                        .CardLearningService(context)
+                                                        .lockLesson(lessonId)
+                                                }
+                                                cardProgress = emptyList()
+                                            }
+                                        },
                                         modifier = Modifier.padding(innerPadding)
                                     )
                                 }

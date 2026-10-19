@@ -8,10 +8,18 @@ import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.height
 import androidx.compose.foundation.layout.padding
+import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.rememberScrollState
+import androidx.compose.foundation.verticalScroll
+import androidx.compose.material.icons.Icons
+import androidx.compose.material.icons.filled.VolumeUp
 import androidx.compose.material3.Button
 import androidx.compose.material3.ButtonDefaults
 import androidx.compose.material3.Card
 import androidx.compose.material3.CardDefaults
+import androidx.compose.material3.FilterChip
+import androidx.compose.material3.Icon
+import androidx.compose.material3.IconButton
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.OutlinedButton
 import androidx.compose.material3.Text
@@ -23,6 +31,7 @@ import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.rememberCoroutineScope
+import androidx.compose.runtime.saveable.rememberSaveable
 import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
@@ -31,6 +40,7 @@ import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextAlign
 import androidx.compose.ui.unit.dp
+import com.example.gujumenglish.audio.CardAudioPlayer
 import com.example.gujumenglish.data.local.CardEntity
 import com.example.gujumenglish.data.local.CardLearningService
 import kotlinx.coroutines.launch
@@ -42,6 +52,7 @@ fun CardLessonScreen(
 ) {
     val context = LocalContext.current
     val service = remember { CardLearningService(context) }
+    val audioPlayer = remember { CardAudioPlayer(context) }
     val scope = rememberCoroutineScope()
     val allCards by service.getAllCards().collectAsState(initial = emptyList())
 
@@ -50,12 +61,17 @@ fun CardLessonScreen(
     var started by remember { mutableStateOf(false) }
     val queue = remember { mutableStateListOf<CardEntity>() }
 
-    var index by remember { mutableStateOf(0) }
+    var index by rememberSaveable { mutableStateOf(0) }
     var revealed by remember { mutableStateOf(false) }
     var reviewed by remember { mutableStateOf(0) }
     var grading by remember { mutableStateOf(false) }
     var shownTime by remember { mutableStateOf(0L) }
     var gradeCounts by remember { mutableStateOf(IntArray(5)) }
+    var isPlayingAudio by remember { mutableStateOf(false) }
+    var lessonFilter by rememberSaveable { mutableStateOf(-1) }
+
+    // Ilova ochilgani deb belgilaymiz — comeback rejimi shunga tayanadi.
+    LaunchedEffect(Unit) { service.markActive() }
 
     // Retrieval time is measured from the moment the prompt appears.
     LaunchedEffect(started, index) {
@@ -63,11 +79,13 @@ fun CardLessonScreen(
     }
 
     // Rebuild the daily queue when content or cap change (before start).
-    LaunchedEffect(allCards, dailyCap) {
+    LaunchedEffect(allCards, dailyCap, lessonFilter) {
         if (!started && allCards.isNotEmpty()) {
             queueInfo = service.buildDailyQueue()
         }
     }
+
+    DisposableEffectAudio(audioPlayer)
 
     Column(
         modifier = modifier.fillMaxSize().padding(16.dp),
@@ -238,11 +256,44 @@ fun CardLessonScreen(
             elevation = CardDefaults.cardElevation(defaultElevation = 4.dp)
         ) {
             Column(modifier = Modifier.padding(24.dp)) {
-                Text(
-                    text = card.type.uppercase(),
-                    style = MaterialTheme.typography.labelSmall,
-                    color = MaterialTheme.colorScheme.primary
-                )
+                Row(
+                    modifier = Modifier.fillMaxWidth(),
+                    verticalAlignment = Alignment.CenterVertically
+                ) {
+                    Text(
+                        text = card.type.uppercase(),
+                        style = MaterialTheme.typography.labelSmall,
+                        color = MaterialTheme.colorScheme.primary,
+                        modifier = Modifier.weight(1f)
+                    )
+                    // 🔊 audio tugmasi — faqat audio fayli bor kartalarda.
+                    if (!card.audioFile.isNullOrBlank()) {
+                        IconButton(
+                            onClick = {
+                                if (isPlayingAudio) {
+                                    audioPlayer.stop()
+                                    isPlayingAudio = false
+                                } else {
+                                    val played = audioPlayer.play(card.audioFile) { playing ->
+                                        isPlayingAudio = playing
+                                    }
+                                    if (!played) isPlayingAudio = false
+                                }
+                            },
+                            modifier = Modifier.size(36.dp)
+                        ) {
+                            Icon(
+                                imageVector = Icons.Filled.VolumeUp,
+                                contentDescription = "Ovozni eshitish",
+                                tint = if (isPlayingAudio) {
+                                    MaterialTheme.colorScheme.primary
+                                } else {
+                                    MaterialTheme.colorScheme.onSurfaceVariant
+                                }
+                            )
+                        }
+                    }
+                }
                 Spacer(modifier = Modifier.height(8.dp))
                 Text(
                     text = card.prompt,
@@ -341,5 +392,13 @@ fun CardLessonScreen(
         OutlinedButton(onClick = onBack, modifier = Modifier.fillMaxWidth()) {
             Text("Orqaga qaytish")
         }
+    }
+}
+
+/** Ekran yopilganda audio player to'xtaydi. */
+@Composable
+private fun DisposableEffectAudio(audioPlayer: CardAudioPlayer) {
+    androidx.compose.runtime.DisposableEffect(Unit) {
+        onDispose { audioPlayer.close() }
     }
 }

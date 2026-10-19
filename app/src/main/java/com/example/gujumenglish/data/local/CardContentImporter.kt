@@ -43,8 +43,18 @@ object CardContentImporter {
                 )
             }
 
-            // Simple insert; in real app check duplicates
+            // Kartalar `locked` holatda yaratiladi (spec §4): dars ochilganda
+            // ular `new` ga o'tadi va review queue'ga tushadi.
             dao.insertCards(cards)
+            dao.insertUserStates(
+                cards.map {
+                    CardUserState(
+                        userId = 1,
+                        cardId = it.id,
+                        state = "locked"
+                    )
+                }
+            )
         }
     }
 }

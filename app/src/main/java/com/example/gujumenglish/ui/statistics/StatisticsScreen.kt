@@ -9,10 +9,12 @@ import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.Column
 import androidx.compose.foundation.layout.PaddingValues
 import androidx.compose.foundation.layout.Row
+import androidx.compose.foundation.layout.Spacer
 import androidx.compose.foundation.layout.fillMaxSize
 import androidx.compose.foundation.layout.fillMaxWidth
 import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
+import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
 import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.shape.CircleShape
@@ -21,6 +23,7 @@ import androidx.compose.material3.CardDefaults
 import androidx.compose.material3.CircularProgressIndicator
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
+import androidx.compose.material3.TextButton
 import androidx.compose.runtime.Composable
 import androidx.compose.runtime.getValue
 import androidx.compose.ui.Alignment
@@ -43,6 +46,8 @@ fun StatisticsScreen(
     unlearnedSentencePagingFlow: Flow<PagingData<Sentence>>,
     learnedCount: Int,
     totalCount: Int,
+    cardProgress: List<CardLessonProgress> = emptyList(),
+    onResetLesson: (Int) -> Unit = {},
     modifier: Modifier = Modifier
 ) {
     val learnedSentences = learnedSentencePagingFlow.collectAsLazyPagingItems()
@@ -129,6 +134,30 @@ fun StatisticsScreen(
             }
         }
 
+        item(key = "card-progress-header") {
+            StatisticsSectionHeader(
+                title = "Darslar kuchi (FSRS)",
+            )
+        }
+        if (cardProgress.isEmpty()) {
+            item(key = "card-progress-empty") {
+                Text(
+                    text = "Hali kartalar ko‘rib chiqilmagan.",
+                    style = MaterialTheme.typography.bodyMedium,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                    modifier = Modifier.padding(horizontal = 4.dp, vertical = 8.dp)
+                )
+            }
+        } else {
+            items(
+                count = cardProgress.size,
+                key = { index -> "card-progress-${cardProgress[index].lessonId}" }
+            ) { index ->
+                val progress = cardProgress[index]
+                CardLessonProgressRow(progress = progress, onReset = onResetLesson)
+            }
+        }
+
         item(key = "learned-header") {
             StatisticsSectionHeader(
                 title = "O‘rganilgan gaplar",
@@ -179,11 +208,59 @@ fun StatisticsScreen(
     }
 }
 
+/** Dars kuchini ko'rsatuvchi qator (kartalar o'rtacha R qiymati). */
+data class CardLessonProgress(
+    val lessonId: Int,
+    val cardCount: Int,
+    val reviewedCount: Int,
+    val strength: Float,
+    val dueCount: Int = 0
+)
+
+@Composable
+private fun CardLessonProgressRow(
+    progress: CardLessonProgress,
+    onReset: (Int) -> Unit = {}
+) {
+    Row(
+        modifier = Modifier
+            .fillMaxWidth()
+            .padding(horizontal = 4.dp, vertical = 6.dp),
+        verticalAlignment = Alignment.CenterVertically
+    ) {
+        Column(modifier = Modifier.weight(1f)) {
+            Text(
+                text = "${progress.lessonId}-dars",
+                style = MaterialTheme.typography.bodyLarge,
+                fontWeight = FontWeight.SemiBold,
+                color = MaterialTheme.colorScheme.onBackground
+            )
+            Text(
+                text = "${progress.reviewedCount}/${progress.cardCount} karta ko‘rib chiqilgan" +
+                        if (progress.dueCount > 0) "  •  ${progress.dueCount} ta muddati o‘tgan" else "",
+                style = MaterialTheme.typography.bodySmall,
+                color = MaterialTheme.colorScheme.onSurfaceVariant
+            )
+        }
+        Spacer(modifier = Modifier.width(12.dp))
+        Text(
+            text = "${(progress.strength * 100).roundToInt()}%",
+            style = MaterialTheme.typography.titleMedium,
+            fontWeight = FontWeight.Bold,
+            color = MaterialTheme.colorScheme.primary
+        )
+        if (onReset != null) {
+            TextButton(onClick = { onReset(progress.lessonId) }) {
+                Text("Qayta", style = MaterialTheme.typography.labelSmall)
+            }
+        }
+    }
+}
+
 @Composable
 private fun StatisticsSectionHeader(
     title: String
-) {
-    Row(
+) {    Row(
         modifier = Modifier
             .fillMaxWidth()
             .padding(top = 8.dp),

@@ -7,7 +7,7 @@ import android.content.Context
 
 @Database(
     entities = [CardEntity::class, CardUserState::class, ReviewLog::class],
-    version = 6,
+    version = 7,
     exportSchema = false
 )
 abstract class CardDatabase : RoomDatabase() {

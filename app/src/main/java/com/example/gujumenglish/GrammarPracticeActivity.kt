@@ -6,9 +6,12 @@ import androidx.activity.compose.setContent
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableFloatStateOf
 import androidx.compose.runtime.setValue
+import androidx.lifecycle.lifecycleScope
+import com.example.gujumenglish.data.local.CardLearningService
 import com.example.gujumenglish.ui.grammar.practice.GrammarPracticeScreen
 import com.example.gujumenglish.ui.grammar.practice.grammarQuizForLesson
 import com.example.gujumenglish.ui.theme.GujumEnglishTheme
+import kotlinx.coroutines.launch
 
 /**
  * Grammar bo‘limidagi amaliy test. Savollar dars bo‘yicha
@@ -35,7 +38,16 @@ class GrammarPracticeActivity : ComponentActivity() {
                     quiz = quiz,
                     fontScale = fontScale,
                     onFontScaleChange = ::changeFontSize,
-                    onBack = { finish() }
+                    onBack = { finish() },
+                    onLessonCompleted = { lessonNumber ->
+                        // Test tugallandi — darsning kartalari ochiladi.
+                        lifecycleScope.launch {
+                            runCatching {
+                                CardLearningService(applicationContext)
+                                    .unlockLesson(lessonNumber)
+                            }
+                        }
+                    }
                 )
             }
         }
