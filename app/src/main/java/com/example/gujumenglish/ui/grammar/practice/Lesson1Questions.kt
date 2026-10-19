@@ -147,75 +147,8 @@ internal val lesson1Questions: List<Question> = listOf(
         answer = "school",
         explanation = "maktab — school."
     ),
-    Question.TrueFalse(
-        section = "5-mashq • To‘g‘ri yoki noto‘g‘ri",
-        prompt = "«I» olmoshi har doim katta harf bilan yoziladi.",
-        answer = true,
-        explanation = "Bu gap to‘g‘ri: ingliz tilidagi I olmoshi doim katta yoziladi."
-    ),
-    Question.TrueFalse(
-        section = "5-mashq • To‘g‘ri yoki noto‘g‘ri",
-        prompt = "Gap doim kichik harf bilan boshlanadi.",
-        answer = false,
-        explanation = "Bu gap noto‘g‘ri: gap katta harf bilan boshlanadi."
-    ),
-    Question.TrueFalse(
-        section = "5-mashq • To‘g‘ri yoki noto‘g‘ri",
-        prompt = "«Vowel» o‘zbekchada «undosh» degani.",
-        answer = false,
-        explanation = "Bu gap noto‘g‘ri: vowel — unli."
-    ),
-    Question.Text(
-        section = "5-mashq • Katta harfni to‘g‘ri qo‘ying",
-        prompt = "«i am Ali.» gapini to‘g‘rilab yozing.",
-        answers = setOf("I am Ali."),
-        mode = TextMode.SENTENCE,
-        explanation = "To‘g‘ri yozuv: I am Ali."
-    ),
-    Question.Text(
-        section = "5-mashq • Katta harfni to‘g‘ri qo‘ying",
-        prompt = "«she lives in tashkent.» gapini to‘g‘rilab yozing.",
-        answers = setOf("She lives in Tashkent."),
-        mode = TextMode.SENTENCE,
-        explanation = "To‘g‘ri yozuv: She lives in Tashkent."
-    ),
-    Question.Text(
-        section = "5-mashq • Katta harfni to‘g‘ri qo‘ying",
-        prompt = "«we study english on monday.» gapini to‘g‘rilab yozing.",
-        answers = setOf("We study English on Monday."),
-        mode = TextMode.SENTENCE,
-        explanation = "To‘g‘ri yozuv: We study English on Monday."
-    ),
-    Question.Text(
-        section = "5-mashq • Katta harfni to‘g‘ri qo‘ying",
-        prompt = "«my friend is from uzbekistan.» gapini to‘g‘rilab yozing.",
-        answers = setOf("My friend is from Uzbekistan."),
-        mode = TextMode.SENTENCE,
-        explanation = "To‘g‘ri yozuv: My friend is from Uzbekistan."
-    ),
-    Question.Text(
-        section = "6-mashq • So‘zlarni harflab ayting",
-        prompt = "CAT so‘zini harflab yozing.",
-        answers = setOf("CAT"),
-        mode = TextMode.SPELLING,
-        explanation = "To‘g‘ri yozuv: C–A–T."
-    ),
-    Question.Text(
-        section = "6-mashq • So‘zlarni harflab ayting",
-        prompt = "PEN so‘zini harflab yozing.",
-        answers = setOf("PEN"),
-        mode = TextMode.SPELLING,
-        explanation = "To‘g‘ri yozuv: P–E–N."
-    ),
-    Question.Text(
-        section = "6-mashq • So‘zlarni harflab ayting",
-        prompt = "BOX so‘zini harflab yozing.",
-        answers = setOf("BOX"),
-        mode = TextMode.SPELLING,
-        explanation = "To‘g‘ri yozuv: B–O–X."
-    ),
     Question.Matching(
-        section = "7-mashq • Iboralarni tushuning",
+        section = "5-mashq • Iboralarni tushuning",
         prompt = "Inglizcha gapni o‘zbekcha tarjimasi bilan bog‘lang.",
         pairs = listOf(
             "I am a student." to "Men o‘quvchiman.",
@@ -230,7 +163,7 @@ internal val lesson1Questions: List<Question> = listOf(
         explanation = "I am a student. — Men o‘quvchiman."
     ),
     Question.Ordering(
-        section = "7-mashq • So‘zlardan gap tuzing",
+        section = "5-mashq • So‘zlardan gap tuzing",
         prompt = "So‘zlardan to‘g‘ri gap tuzing: is / Monday / my / favorite / day",
         words = listOf("is", "Monday", "my", "favorite", "day"),
         answer = "Monday is my favorite day.",
