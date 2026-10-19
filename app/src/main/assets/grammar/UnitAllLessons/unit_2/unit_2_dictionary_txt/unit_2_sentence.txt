@@ -5,7 +5,7 @@ I am happy.|Men xursandman.
 Anna is my friend.|Anna mening do'stim.
 I eat apples.|Men olma yeyman.
 My aunt is kind.|Xolam mehribon.
-The baby sleeps.|Chaqaloq uxlayapti.
+The baby sleeps.|Chaqaloq uxlaydi.
 I go to bed at ten.|Men soat onda uxlayman.
 I read before bed.|Men yotishdan oldin o'qiyman.
 Birds fly.|Qushlar uchadi.

@@ -5,7 +5,7 @@ This is an apple.|Bu olma.
 They arrive at six.|Ular soat oltida keladi.
 She ate an orange.|U apelsin yedi.
 This is a book.|Bu kitob.
-They bought a new table.|Ular yangi stol sotib oldi.
+They bought a new table.|Ular yangi stol sotib oldilar.
 I eat breakfast at seven.|Men soat yettida nonushta qilaman.
 The bus is new.|Avtobus yangi.
 We were busy yesterday.|Biz kecha band edik.
@@ -24,7 +24,7 @@ These dishes are clean.|Bu idishlar toza.
 He is a doctor.|U shifokor.
 I eat rice.|Men guruch yeyman.
 I enjoy music.|Menga musiqa yoqadi.
-We enjoyed the film.|Biz filmni yoqtirdik.
+We enjoyed the film.|Biz filmni zavqlanib ko'rdik.
 Every day I read.|Men har kuni o'qiyman.
 We watched a film.|Biz film ko'rdik.
 They play football on Sundays.|Ular yakshanbalari futbol o'ynaydi.
@@ -45,7 +45,7 @@ Don't leave the door open.|Eshikni ochiq qoldirmang.
 I like music.|Menga musiqa yoqadi.
 He liked the film.|U filmni yoqtirdi.
 I live in Tashkent.|Men Toshkentda yashayman.
-They lived in a small town.|Ular kichik shaharda yashadi.
+They lived in a small town.|Ular kichik shaharda yashadilar.
 She made a cake.|U tort yasadi.
 She helps me.|U menga yordam beradi.
 She sent a message yesterday.|U kecha xabar yubordi.
@@ -54,16 +54,16 @@ The phone is new.|Telefon yangi.
 The night is dark.|Tun qorong'u.
 He opened the door an hour ago.|U bir soat oldin eshikni ochdi.
 This is our school.|Bu bizning maktabimiz.
-They went out yesterday.|Ular kecha tashqariga chiqdi.
+They went out yesterday.|Ular kecha tashqariga chiqishdi.
 The park is green.|Bog' yashil.
 Last year was cold.|O'tgan yil sovuq edi.
 We planned a trip.|Biz sayohat rejalashtirdik.
-They planned the trip last month.|Ular sayohatni o'tgan oy rejalashtirdi.
+They planned the trip last month.|Ular sayohatni o'tgan oy rejalashtirdilar.
 I play football.|Men futbol o'ynayman.
-They played chess yesterday.|Ular kecha shaxmat o'ynadi.
+They played chess yesterday.|Ular kecha shaxmat o'ynashdi.
 We are ready.|Biz tayyormiz.
 Sara is kind.|Sara mehribon.
-They saw the film.|Ular filmni ko'rdi.
+They saw the film.|Ular filmni ko'rishdi.
 They are at school.|Ular maktabda.
 I see a bird.|Men qush ko'ryapman.
 He was sick two days ago.|U ikki kun oldin kasal edi.
@@ -94,7 +94,7 @@ The weather was cold.|Ob-havo sovuq edi.
 Next week we visit Samarkand.|Keyingi hafta Samarqandga boramiz.
 We went to school by bus.|Biz maktabga avtobusda bordik.
 They were friends.|Ular do'st edilar.
-When did they arrive?|Ular qachon keldi?
+When did they arrive?|Ular qachon kelishdi?
 Where did she live?|U qayerda yashadi?
 The window is open.|Deraza ochiq.
 I work every day.|Men har kuni ishlayman.

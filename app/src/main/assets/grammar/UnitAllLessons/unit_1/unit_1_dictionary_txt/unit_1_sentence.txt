@@ -33,7 +33,7 @@ These children are happy.|Bu bolalar xursand.
 Tashkent is a big city.|Toshkent katta shahar.
 Our class is big.|Bizning sinf katta.
 These classes are big.|Bu sinflar katta.
-The cup is on the table.|Kosa stol ustida.
+The cup is on the table.|Piyola stol ustida.
 This dish is clean.|Bu idish toza.
 These dishes are clean.|Bu idishlar toza.
 Do you like tea?|Siz choy yoqtirasizmi?

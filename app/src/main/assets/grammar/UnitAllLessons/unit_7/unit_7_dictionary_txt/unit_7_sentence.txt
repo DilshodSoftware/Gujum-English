@@ -8,7 +8,7 @@ The sun rises in the east.|Quyosh sharqdan chiqadi.
 I eat rice.|Men guruch yeyman.
 Every day I read.|Men har kuni o'qiyman.
 I go to school.|Men maktabga boraman.
-They had a good day.|Ular yaxshi kun o'tkazdi.
+They had a good day.|Ular yaxshi kun o'tkazishdi.
 She is happy.|U xursand.
 I have a pen.|Menda ruchka bor.
 I need help.|Menga yordam kerak.
@@ -18,12 +18,12 @@ I get up in the morning.|Men ertalab turaman.
 This is my book.|Bu mening kitobim.
 I am reading now.|Men hozir o'qiyapman.
 They play football.|Ular futbol o'ynaydi.
-They played chess yesterday.|Ular kecha shaxmat o'ynadi.
+They played chess yesterday.|Ular kecha shaxmat o'ynashdi.
 They are playing now.|Ular hozir o'ynayapti.
 I like rain.|Menga yomg'ir yoqadi.
 She is reading now.|U hozir o'qiyapti.
 The sun rises early.|Quyosh erta chiqadi.
-They saw the film.|Ular filmni ko'rdi.
+They saw the film.|Ular filmni ko'rishdi.
 I go to school.|Men maktabga boraman.
 I see a bird.|Men qush ko'ryapman.
 The baby is sleeping.|Chaqaloq uxlayapti.

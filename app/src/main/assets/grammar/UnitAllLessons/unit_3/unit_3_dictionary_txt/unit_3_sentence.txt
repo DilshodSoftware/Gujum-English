@@ -71,7 +71,7 @@ I go to school on Monday.|Men dushanba kuni maktabga boraman.
 How much money do you need?|Senga qancha pul kerak?
 I get up in the morning.|Men ertalab turaman.
 She is my mother.|U mening onam.
-Mr Ali is a teacher.|Ali janob o'qituvchi.
+Mr Ali is a teacher.|Janob Ali o'qituvchi.
 How much water is there?|U yerda qancha suv bor?
 I like music.|Menga musiqa yoqadi.
 My name is Ali.|Mening ismim Ali.
