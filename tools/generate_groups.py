@@ -46,6 +46,7 @@ def add_table(doc, headers, rows, widths=None, header_bg="2E7EA3", size=8.5):
     t = doc.add_table(rows=1, cols=len(headers))
     t.style = "Table Grid"
     t.alignment = WD_TABLE_ALIGNMENT.CENTER
+    t.autofit = False
     hdr = t.rows[0].cells
     for i, h in enumerate(headers):
         hdr[i].text = ""
@@ -64,14 +65,18 @@ def add_table(doc, headers, rows, widths=None, header_bg="2E7EA3", size=8.5):
         for row in t.rows:
             for i, w in enumerate(widths):
                 row.cells[i].width = Cm(w)
+        for i, col in enumerate(t.columns):
+            col.width = Cm(widths[i])
     return t
 
 
 def color_for(v):
-    if v < 3.5: return "2E7D32"
-    if v < 3.9: return "8BC34A"
-    if v < 4.1: return "EF6C00"
-    return "F9A825"
+    """Shkala 4.0 markazli (ilova va banner bilan bir xil)."""
+    if v < 2.5: return "2E7D32"
+    if v < 3.5: return "F9A825"
+    if v < 5.0: return "2E7EA3"
+    if v < 6.0: return "EF6C00"
+    return "C62828"
 
 
 def build(seq, k=K_GROUPS, target=TARGET):

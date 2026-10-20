@@ -4,6 +4,7 @@
   "lessons": [
     {
       "lesson": 1,
+      "difficulty": 1.9,
       "sections": [
         {
           "title": "1. Alifbo misollarida uchraydigan so‘zlar",
@@ -37,6 +38,7 @@
     },
     {
       "lesson": 2,
+      "difficulty": 2.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -74,6 +76,7 @@
     },
     {
       "lesson": 3,
+      "difficulty": 2.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -115,6 +118,7 @@
     },
     {
       "lesson": 4,
+      "difficulty": 2.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -152,6 +156,7 @@
     },
     {
       "lesson": 5,
+      "difficulty": 2.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -213,6 +218,7 @@
     },
     {
       "lesson": 6,
+      "difficulty": 2.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -262,6 +268,7 @@
     },
     {
       "lesson": 10,
+      "difficulty": 3.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -331,6 +338,7 @@
     },
     {
       "lesson": 11,
+      "difficulty": 3.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -392,6 +400,7 @@
     },
     {
       "lesson": 12,
+      "difficulty": 3.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -469,6 +478,7 @@
     },
     {
       "lesson": 13,
+      "difficulty": 3.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -550,6 +560,7 @@
     },
     {
       "lesson": 14,
+      "difficulty": 3.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -611,6 +622,7 @@
     },
     {
       "lesson": 15,
+      "difficulty": 3.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -672,6 +684,7 @@
     },
     {
       "lesson": 16,
+      "difficulty": 3.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -729,6 +742,7 @@
     },
     {
       "lesson": 17,
+      "difficulty": 3.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -790,6 +804,7 @@
     },
     {
       "lesson": 18,
+      "difficulty": 3.6,
       "sections": [
         {
           "title": "1. Barcha possessive pronouns",
@@ -855,6 +870,7 @@
     },
     {
       "lesson": 7,
+      "difficulty": 3.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -908,6 +924,7 @@
     },
     {
       "lesson": 8,
+      "difficulty": 3.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -973,6 +990,7 @@
     },
     {
       "lesson": 9,
+      "difficulty": 3.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1034,6 +1052,7 @@
     },
     {
       "lesson": 19,
+      "difficulty": 3.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1095,6 +1114,7 @@
     },
     {
       "lesson": 20,
+      "difficulty": 3.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1176,6 +1196,7 @@
     },
     {
       "lesson": 21,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1237,6 +1258,7 @@
     },
     {
       "lesson": 22,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1294,6 +1316,7 @@
     },
     {
       "lesson": 23,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1335,6 +1358,7 @@
     },
     {
       "lesson": 24,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1388,6 +1412,7 @@
     },
     {
       "lesson": 25,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1433,6 +1458,7 @@
     },
     {
       "lesson": 26,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1478,6 +1504,7 @@
     },
     {
       "lesson": 27,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1531,6 +1558,7 @@
     },
     {
       "lesson": 28,
+      "difficulty": 4.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1584,6 +1612,7 @@
     },
     {
       "lesson": 29,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1617,6 +1646,7 @@
     },
     {
       "lesson": 30,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1658,6 +1688,7 @@
     },
     {
       "lesson": 31,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1699,6 +1730,7 @@
     },
     {
       "lesson": 32,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1740,6 +1772,7 @@
     },
     {
       "lesson": 33,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1777,6 +1810,7 @@
     },
     {
       "lesson": 34,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1818,6 +1852,7 @@
     },
     {
       "lesson": 35,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1859,6 +1894,7 @@
     },
     {
       "lesson": 36,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1896,6 +1932,7 @@
     },
     {
       "lesson": 37,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -1953,6 +1990,7 @@
     },
     {
       "lesson": 38,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2002,6 +2040,7 @@
     },
     {
       "lesson": 39,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2043,6 +2082,7 @@
     },
     {
       "lesson": 40,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2088,6 +2128,7 @@
     },
     {
       "lesson": 41,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2133,6 +2174,7 @@
     },
     {
       "lesson": 42,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2182,6 +2224,7 @@
     },
     {
       "lesson": 43,
+      "difficulty": 4.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2223,6 +2266,7 @@
     },
     {
       "lesson": 44,
+      "difficulty": 4.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2268,6 +2312,7 @@
     },
     {
       "lesson": 45,
+      "difficulty": 4.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2313,6 +2358,7 @@
     },
     {
       "lesson": 46,
+      "difficulty": 4.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2354,6 +2400,7 @@
     },
     {
       "lesson": 47,
+      "difficulty": 4.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2399,6 +2446,7 @@
     },
     {
       "lesson": 48,
+      "difficulty": 4.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2448,6 +2496,7 @@
     },
     {
       "lesson": 49,
+      "difficulty": 4.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2509,6 +2558,7 @@
     },
     {
       "lesson": 50,
+      "difficulty": 4.6,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2566,6 +2616,7 @@
     },
     {
       "lesson": 51,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2615,6 +2666,7 @@
     },
     {
       "lesson": 52,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2660,6 +2712,7 @@
     },
     {
       "lesson": 53,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2701,6 +2754,7 @@
     },
     {
       "lesson": 54,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2738,6 +2792,7 @@
     },
     {
       "lesson": 55,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2775,6 +2830,7 @@
     },
     {
       "lesson": 56,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2828,6 +2884,7 @@
     },
     {
       "lesson": 57,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2881,6 +2938,7 @@
     },
     {
       "lesson": 58,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2926,6 +2984,7 @@
     },
     {
       "lesson": 59,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -2975,6 +3034,7 @@
     },
     {
       "lesson": 60,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -3024,6 +3084,7 @@
     },
     {
       "lesson": 61,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -3065,6 +3126,7 @@
     },
     {
       "lesson": 62,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -3102,6 +3164,7 @@
     },
     {
       "lesson": 63,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -3143,6 +3206,7 @@
     },
     {
       "lesson": 64,
+      "difficulty": 5.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -3192,6 +3256,7 @@
     },
     {
       "lesson": 65,
+      "difficulty": 6.1,
       "sections": [
         {
           "title": "Dars lug‘ati",
@@ -3268,7 +3333,66 @@
       ]
     },
     {
+      "lesson": 66,
+      "difficulty": 6.6,
+      "sections": [
+        {
+          "title": "Mashqlarni qanday bajarish kerak?",
+          "difficulty": 6.8
+        },
+        {
+          "title": "1-qism. Boshlang‘ich bilimlar: harf, ot, olmosh, gap",
+          "difficulty": 6.5
+        },
+        {
+          "title": "2-qism. There is/are, demonstratives va joy",
+          "difficulty": 6.5
+        },
+        {
+          "title": "3-qism. Artikllar, egalik va miqdor",
+          "difficulty": 6.5
+        },
+        {
+          "title": "4-qism. To Be — hozirgi va o‘tgan zamon",
+          "difficulty": 6.5
+        },
+        {
+          "title": "5-qism. Present Simple — darak, inkor, savol",
+          "difficulty": 6.5
+        },
+        {
+          "title": "6-qism. Present Continuous — ayni hozir",
+          "difficulty": 6.5
+        },
+        {
+          "title": "7-qism. Past Simple — o‘tgan zamon",
+          "difficulty": 6.5
+        },
+        {
+          "title": "8-qism. Kelajak: Going to va Will",
+          "difficulty": 6.5
+        },
+        {
+          "title": "9-qism. Question Words — savol so‘zlari",
+          "difficulty": 6.5
+        },
+        {
+          "title": "10-qism. Can, Imperatives va predloglar",
+          "difficulty": 6.5
+        },
+        {
+          "title": "11-qism. Sifatlar, bog‘lovchilar va xohish",
+          "difficulty": 6.5
+        },
+        {
+          "title": "Javoblar kaliti",
+          "difficulty": 6.5
+        }
+      ]
+    },
+    {
       "lesson": 67,
+      "difficulty": 3.1,
       "sections": [
         {
           "title": "Dars lug‘ati",

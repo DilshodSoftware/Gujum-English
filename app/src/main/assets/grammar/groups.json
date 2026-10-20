@@ -4,7 +4,7 @@
   "groups": [
     {
       "group": 1,
-      "difficulty": 3.94,
+      "difficulty": 3.97,
       "sections": [
         {
           "lesson": 1,
@@ -18,12 +18,7 @@
         },
         {
           "lesson": 21,
-          "title": "1. “U” haqida gapirganda nima o‘zgaradi?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 25,
-          "title": "2. Does bilan berilgan savolga javob",
+          "title": "9. Ko‘p uchraydigan xatolar",
           "difficulty": 4.0
         },
         {
@@ -32,25 +27,30 @@
           "difficulty": 4.0
         },
         {
-          "lesson": 38,
-          "title": "1. There is — bitta narsa bor",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 55,
-          "title": "5. Was / Were savollarining qisqa javobi",
+          "lesson": 51,
+          "title": "4. Irregular fe’llar bilan darak gaplar",
           "difficulty": 5.0
         },
         {
           "lesson": 62,
           "title": "2. But — lekin, ammo",
           "difficulty": 5.0
+        },
+        {
+          "lesson": 64,
+          "title": "Mashq 2 — Muloyim gap tuzing",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 67,
+          "title": "5. Telefon raqam va 100",
+          "difficulty": 3.0
         }
       ]
     },
     {
       "group": 2,
-      "difficulty": 3.94,
+      "difficulty": 3.97,
       "sections": [
         {
           "lesson": 1,
@@ -63,24 +63,19 @@
           "difficulty": 3.5
         },
         {
+          "lesson": 21,
+          "title": "8. Bu qoida faqat darak gapga tegishli",
+          "difficulty": 4.0
+        },
+        {
           "lesson": 27,
           "title": "6. Qisqa bir bo‘g‘inli ayrim fe’llarda oxirgi harf ikkilanadi",
           "difficulty": 4.0
         },
         {
-          "lesson": 41,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 55,
-          "title": "4. Wh-question ga Yes/No bilan javob bermaymiz",
+          "lesson": 51,
+          "title": "3. Barcha egalar bilan o‘tgan shakl bir xil",
           "difficulty": 5.0
-        },
-        {
-          "lesson": 59,
-          "title": "Mashq 2 — Than bilan gapni to‘ldiring",
-          "difficulty": 5.3
         },
         {
           "lesson": 62,
@@ -88,15 +83,20 @@
           "difficulty": 5.0
         },
         {
-          "lesson": 63,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
+          "lesson": 64,
+          "title": "Mashq 1 — Ot yoki to + fe’l?",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 67,
+          "title": "4. 21 dan 99 gacha — bitta qoida",
+          "difficulty": 3.0
         }
       ]
     },
     {
       "group": 3,
-      "difficulty": 3.94,
+      "difficulty": 3.99,
       "sections": [
         {
           "lesson": 1,
@@ -104,29 +104,29 @@
           "difficulty": 1.0
         },
         {
+          "lesson": 10,
+          "title": "1. To be nima uchun kerak?",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 17,
+          "title": "1. Have yoki Has?",
+          "difficulty": 3.5
+        },
+        {
           "lesson": 17,
           "title": "2. He / She / It bilan Has",
           "difficulty": 3.5
         },
         {
-          "lesson": 20,
-          "title": "Mashq 1 — To‘g‘ri fe’lni tanlang",
-          "difficulty": 3.8
+          "lesson": 31,
+          "title": "4. Where do you go? — Qayerga borasiz?",
+          "difficulty": 4.0
         },
         {
-          "lesson": 24,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 36,
-          "title": "Mashq 1 — How old yoki How long?",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 52,
-          "title": "6. O‘tgan zamon ko‘rsatkichlari bilan",
-          "difficulty": 5.0
+          "lesson": 58,
+          "title": "Mashq 1 — Vaziyatga mosini tanlang",
+          "difficulty": 5.3
         },
         {
           "lesson": 64,
@@ -134,15 +134,15 @@
           "difficulty": 5.0
         },
         {
-          "lesson": 65,
-          "title": "2. Present Simple — odatlar va umumiy haqiqatlar",
-          "difficulty": 6.0
+          "lesson": 66,
+          "title": "8-qism. Kelajak: Going to va Will",
+          "difficulty": 6.5
         }
       ]
     },
     {
       "group": 4,
-      "difficulty": 3.94,
+      "difficulty": 3.99,
       "sections": [
         {
           "lesson": 1,
@@ -150,45 +150,40 @@
           "difficulty": 1.0
         },
         {
-          "lesson": 17,
-          "title": "3. Ko‘plikdagi ega bilan Have",
+          "lesson": 20,
+          "title": "11. He / She / It bilan fe’lni tekshirish yo‘li",
           "difficulty": 3.5
         },
         {
-          "lesson": 23,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
+          "lesson": 20,
+          "title": "Mashq 3 — Xatolarni tuzating",
+          "difficulty": 3.8
         },
         {
-          "lesson": 28,
-          "title": "Mashq 1 — Present Simple yoki Present Continuous?",
-          "difficulty": 4.8
-        },
-        {
-          "lesson": 31,
-          "title": "5. Where savoliga qanday javob beramiz?",
+          "lesson": 39,
+          "title": "6. Ko‘p uchraydigan xatolar",
           "difficulty": 4.0
         },
         {
-          "lesson": 35,
-          "title": "Mashq 2 — Savolga mos javobni tanlang",
-          "difficulty": 4.3
+          "lesson": 45,
+          "title": "2. Some bilan qaysi otlar keladi?",
+          "difficulty": 4.5
         },
         {
-          "lesson": 52,
-          "title": "5. Past of To Be bilan aralashtirmang",
-          "difficulty": 5.0
+          "lesson": 47,
+          "title": "4. Object pronoun predlogdan keyin ham keladi",
+          "difficulty": 4.5
         },
         {
-          "lesson": 65,
-          "title": "1. Vaqtni aniqlash",
-          "difficulty": 6.0
+          "lesson": 66,
+          "title": "7-qism. Past Simple — o‘tgan zamon",
+          "difficulty": 6.5
         }
       ]
     },
     {
       "group": 5,
-      "difficulty": 3.94,
+      "difficulty": 3.99,
       "sections": [
         {
           "lesson": 1,
@@ -196,45 +191,40 @@
           "difficulty": 1.0
         },
         {
-          "lesson": 17,
-          "title": "4. Inkor gap: Don’t have / Doesn’t have",
+          "lesson": 20,
+          "title": "12. Ko‘p uchraydigan xatolar",
           "difficulty": 3.5
         },
         {
-          "lesson": 19,
-          "title": "Mashq 2 — So‘zlarni to‘g‘ri tartibga qo‘ying",
+          "lesson": 20,
+          "title": "Mashq 2 — Qavsdagi fe’lni to‘g‘ri shaklda yozing",
           "difficulty": 3.8
         },
         {
-          "lesson": 22,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
+          "lesson": 39,
+          "title": "5. Can yoki Can’t?",
+          "difficulty": 4.0
         },
         {
-          "lesson": 28,
-          "title": "Mashq 2 — Qavsdagi fe’lni to‘g‘ri shaklda yozing",
-          "difficulty": 4.8
+          "lesson": 45,
+          "title": "3. Any — inkor gaplarda",
+          "difficulty": 4.5
         },
         {
-          "lesson": 35,
-          "title": "Mashq 1 — Do, Does yoki To Be?",
-          "difficulty": 4.3
+          "lesson": 47,
+          "title": "3. Object pronoun fe’ldan keyin keladi",
+          "difficulty": 4.5
         },
         {
-          "lesson": 52,
-          "title": "4. Did not va Didn’t",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 65,
-          "title": "Mashq 2 — To‘g‘ri shaklni tanlang",
-          "difficulty": 6.3
+          "lesson": 66,
+          "title": "6-qism. Present Continuous — ayni hozir",
+          "difficulty": 6.5
         }
       ]
     },
     {
       "group": 6,
-      "difficulty": 3.94,
+      "difficulty": 3.99,
       "sections": [
         {
           "lesson": 1,
@@ -247,40 +237,40 @@
           "difficulty": 3.5
         },
         {
+          "lesson": 21,
+          "title": "7. Have va Be fe’llari",
+          "difficulty": 4.0
+        },
+        {
           "lesson": 27,
           "title": "7. Hozirgi paytni bildiradigan so‘zlar",
           "difficulty": 4.0
         },
         {
-          "lesson": 40,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 55,
-          "title": "3. Qisqa va to‘liq javob",
+          "lesson": 51,
+          "title": "2. Ko‘p ishlatiladigan irregular verbs",
           "difficulty": 5.0
-        },
-        {
-          "lesson": 59,
-          "title": "Mashq 1 — Qiyosiy shaklni yozing",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 62,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
         },
         {
           "lesson": 62,
           "title": "4. Bir gapni ikki fikrga ulaymiz",
           "difficulty": 5.0
+        },
+        {
+          "lesson": 63,
+          "title": "Mashq 2 — Ikki gapni birlashtiring",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 67,
+          "title": "3. O‘nliklar: 20, 30... 100",
+          "difficulty": 3.0
         }
       ]
     },
     {
       "group": 7,
-      "difficulty": 3.94,
+      "difficulty": 3.97,
       "sections": [
         {
           "lesson": 1,
@@ -293,428 +283,14 @@
           "difficulty": 3.5
         },
         {
-          "lesson": 13,
-          "title": "Eng muhim xulosalar",
-          "difficulty": 3.8
-        },
-        {
           "lesson": 25,
           "title": "5. Qisqa javob va to‘liq javob",
           "difficulty": 4.0
         },
         {
-          "lesson": 37,
-          "title": "5. Many va Much ni taqqoslang",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 55,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 57,
-          "title": "4. Will qachon ishlatiladi?",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 60,
-          "title": "3. Sifat E bilan tugasa: -st",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 8,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 2,
-          "title": "Dars lug‘ati",
-          "difficulty": 1.0
-        },
-        {
-          "lesson": 17,
-          "title": "5. Doesn’t dan keyin Have ishlatamiz",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 19,
-          "title": "Mashq 1 — Subject, Verb va Objectni toping",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 21,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 28,
-          "title": "Mashq 3 — Xatoni to‘g‘rilang",
-          "difficulty": 4.8
-        },
-        {
-          "lesson": 34,
-          "title": "Mashq 2 — Savolga Because bilan javob bering",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 52,
-          "title": "3. Didn’t dan keyin fe’l oddiy shaklga qaytadi",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 65,
-          "title": "Mashq 1 — Zamonni aniqlang",
-          "difficulty": 6.3
-        }
-      ]
-    },
-    {
-      "group": 9,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 2,
-          "title": "1. Alifbo nima?",
-          "difficulty": 2.0
-        },
-        {
-          "lesson": 15,
-          "title": "5. Its — uning (hayvon yoki narsa)",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 27,
-          "title": "8. To Be ni tashlab ketmang",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 39,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 55,
-          "title": "2. Javobda subject pronounni tanlang",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 58,
-          "title": "Mashq 2 — Going to yoki Will qolipini yozing",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 61,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 62,
-          "title": "5. Qaysi bog‘lovchini tanlaymiz?",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 10,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 2,
-          "title": "2. Katta va kichik harflar",
-          "difficulty": 2.0
-        },
-        {
-          "lesson": 15,
-          "title": "6. Our va Their",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 29,
-          "title": "1. Olti savol so‘zi",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 38,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 55,
-          "title": "1. Did bilan savolga qisqa javob",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 58,
-          "title": "Mashq 1 — Vaziyatga mosini tanlang",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 60,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 63,
-          "title": "1. Because — chunki",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 11,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 2,
-          "title": "3. Harf nomi va so‘zdagi tovush — bir xil emas",
-          "difficulty": 2.0
-        },
-        {
-          "lesson": 15,
-          "title": "7. Egalik so‘zi ot oldidan keladi",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 29,
-          "title": "2. Question word nima qiladi?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 37,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 54,
-          "title": "5. Savol belgisi",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 57,
-          "title": "Mashq 2 — Xatolarni tuzating",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 59,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 63,
-          "title": "2. So — shuning uchun",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 12,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 2,
-          "title": "4. Harflarni bo‘lib mashq qilamiz",
-          "difficulty": 2.3
-        },
-        {
-          "lesson": 13,
-          "title": "11. “The” tarjimada yo‘qolib qolishi mumkin",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 13,
-          "title": "Mashq 3 — Xatoni topib to‘g‘rilang",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 25,
-          "title": "6. To Be savollarining qisqa javobi boshqacha",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 37,
-          "title": "6. Do / Does bilan savol qolipi",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 54,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 57,
-          "title": "3. Will dan keyin oddiy fe’l keladi",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 60,
-          "title": "4. Undosh + Y: Y → IEST",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 13,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 2,
-          "title": "5. Ism va so‘zlarni harflab aytish",
-          "difficulty": 2.0
-        },
-        {
-          "lesson": 15,
-          "title": "8. A / An egalik so‘zi bilan ishlatilmaydi",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 29,
-          "title": "3. Savol tuzishning ikki asosiy qolipi",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 36,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 54,
-          "title": "4. Past of To Be savollari boshqacha",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 57,
-          "title": "Mashq 1 — Will + fe’l",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 58,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 63,
-          "title": "3. Bir vaziyatni ikki xil usulda aytamiz",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 14,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 2,
-          "title": "6. Katta harf qachon ishlatiladi?",
-          "difficulty": 2.0
-        },
-        {
-          "lesson": 15,
-          "title": "9. Ko‘p uchraydigan xatolar",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 29,
-          "title": "4. Bu bo‘limdagi keyingi darslar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 35,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 54,
-          "title": "3. Wh-question: What, Where, When bilan",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 56,
-          "title": "Mashq 2 — So‘zlarni tartibga soling",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 57,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 63,
-          "title": "4. Because va So ni birga ishlatish",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 15,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 2,
-          "title": "7. Mashqlar",
-          "difficulty": 2.3
-        },
-        {
-          "lesson": 13,
-          "title": "12. Tanlash uchun uchta savol",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 13,
-          "title": "Mashq 2 — To‘g‘ri variantni tanlang",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 25,
-          "title": "7. Ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 37,
-          "title": "7. Ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 53,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 57,
-          "title": "2. Will barcha egalar bilan bir xil",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 60,
-          "title": "5. Oxirgi undoshni ikki marta yozish",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 16,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 3,
-          "title": "Dars lug‘ati",
-          "difficulty": 1.3
-        },
-        {
-          "lesson": 16,
-          "title": "6. Possessive ’s va my / your / his...",
-          "difficulty": 3.5
-        },
-        {
           "lesson": 29,
           "title": "Dars lug‘ati",
           "difficulty": 2.8
-        },
-        {
-          "lesson": 30,
-          "title": "6. Ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
         },
         {
           "lesson": 51,
@@ -727,228 +303,34 @@
           "difficulty": 5.0
         },
         {
-          "lesson": 64,
-          "title": "4. Qisqa shakl: I’d like",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 65,
-          "title": "5. Past of To Be — Was / Were",
-          "difficulty": 6.0
-        }
-      ]
-    },
-    {
-      "group": 17,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 3,
-          "title": "1. Unli va undosh degani nima?",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 11,
-          "title": "2. Not qayerga qo‘yiladi?",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 14,
-          "title": "9. Ko‘p uchraydigan xatolar",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 21,
-          "title": "3. Eng ko‘p ishlatiladigan qoida: fe’l + S",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 27,
-          "title": "3. Am / Is / Are ni egaga moslaymiz",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 39,
-          "title": "3. Can dan keyin fe’lning oddiy shakli keladi",
-          "difficulty": 4.0
-        },
-        {
           "lesson": 56,
-          "title": "2. Asosiy formula",
-          "difficulty": 5.0
+          "title": "Mashq 1 — Am, Is yoki Are?",
+          "difficulty": 5.3
         },
         {
-          "lesson": 61,
-          "title": "6. Ikki sifat bilan",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 18,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 3,
-          "title": "2. Beshta asosiy unli harf",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 11,
-          "title": "3. Am / Is / Are bilan not",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 14,
-          "title": "8. So‘roq gaplar",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 21,
-          "title": "4. S, SH, CH, X bilan tugasa: -ES",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 27,
-          "title": "2. Asosiy formula",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 39,
-          "title": "2. Can barcha egalar bilan bir xil",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 56,
-          "title": "3. Am / Is / Are ni egaga moslash",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 61,
-          "title": "5. Sifat birlik va ko‘plikda o‘zgarmaydi",
+          "lesson": 60,
+          "title": "3. Sifat E bilan tugasa: -st",
           "difficulty": 5.0
         }
       ]
     },
     {
-      "group": 19,
-      "difficulty": 3.91,
+      "group": 8,
+      "difficulty": 3.97,
       "sections": [
         {
-          "lesson": 3,
-          "title": "3. Qolgan harflar — undosh harflar",
-          "difficulty": 2.5
+          "lesson": 2,
+          "title": "Dars lug‘ati",
+          "difficulty": 1.0
         },
         {
-          "lesson": 11,
-          "title": "4. Qisqartma shakllar",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 14,
-          "title": "7. Ot oldidan yoki o‘zi",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 21,
-          "title": "5. Undosh harf + Y: Y → IES",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 27,
-          "title": "1. Hozir davom etayotgan ish",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 39,
-          "title": "1. Can — qila olaman / oladi",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 56,
-          "title": "4. Vaqtni bildiradigan iboralar",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 61,
-          "title": "4. Sifat To Be dan keyin keladi",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 20,
-      "difficulty": 3.93,
-      "sections": [
-        {
-          "lesson": 3,
-          "title": "4. Y harfi: ba’zan unli, ba’zan undosh",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 11,
-          "title": "5. So‘roq gap qanday tuziladi?",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 14,
-          "title": "6. This is / That is, These are / Those are",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 21,
-          "title": "6. Unli harf + Y: faqat S",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 26,
-          "title": "6. Ravish joyida ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
+          "lesson": 8,
+          "title": "Mashq 3 — Xatoni tuzating",
+          "difficulty": 3.3
         },
         {
           "lesson": 38,
-          "title": "Ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 56,
-          "title": "5. Going to dan keyin fe’l o‘zgarmaydi",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 61,
-          "title": "3. The, My, This ham sifatdan oldin turadi",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 21,
-      "difficulty": 3.93,
-      "sections": [
-        {
-          "lesson": 3,
-          "title": "Y undosh tovush bersa",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 11,
-          "title": "6. Barcha olmoshlar bilan savollar",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 14,
-          "title": "5. Those — uzoq va ko‘p",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 21,
-          "title": "7. Have va Be fe’llari",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 26,
-          "title": "5. Har kuni / haftada bir marta kabi iboralar",
+          "title": "6. Qisqa javoblar",
           "difficulty": 4.0
         },
         {
@@ -957,162 +339,172 @@
           "difficulty": 4.0
         },
         {
-          "lesson": 56,
-          "title": "6. Inkor shakli",
-          "difficulty": 5.0
+          "lesson": 46,
+          "title": "2. Much — sanalmaydigan ot bilan",
+          "difficulty": 4.5
         },
         {
-          "lesson": 61,
-          "title": "2. A / An sifatdan oldin keladi",
-          "difficulty": 5.0
+          "lesson": 46,
+          "title": "3. A Lot Of — ikkalasi bilan ishlaydi",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 66,
+          "title": "9-qism. Question Words — savol so‘zlari",
+          "difficulty": 6.5
         }
       ]
     },
     {
-      "group": 22,
-      "difficulty": 3.93,
+      "group": 9,
+      "difficulty": 3.97,
       "sections": [
         {
-          "lesson": 3,
-          "title": "Y unli tovush bersa",
-          "difficulty": 2.5
+          "lesson": 2,
+          "title": "1. Alifbo nima?",
+          "difficulty": 2.0
         },
         {
-          "lesson": 11,
-          "title": "7. Savolga qisqa javob berish",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 14,
-          "title": "4. These — yaqin va ko‘p",
+          "lesson": 15,
+          "title": "5. Its — uning (hayvon yoki narsa)",
           "difficulty": 3.5
         },
         {
           "lesson": 21,
-          "title": "8. Bu qoida faqat darak gapga tegishli",
+          "title": "6. Unli harf + Y: faqat S",
           "difficulty": 4.0
         },
         {
-          "lesson": 26,
-          "title": "4. To Be bilan: ravish am/is/are dan keyin",
+          "lesson": 27,
+          "title": "8. To Be ni tashlab ketmang",
           "difficulty": 4.0
         },
         {
-          "lesson": 38,
-          "title": "6. Qisqa javoblar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 56,
-          "title": "7. Savol shakli",
+          "lesson": 51,
+          "title": "1. Irregular verb nima?",
           "difficulty": 5.0
         },
         {
-          "lesson": 61,
-          "title": "1. Sifat otning oldidan keladi",
+          "lesson": 62,
+          "title": "5. Qaysi bog‘lovchini tanlaymiz?",
           "difficulty": 5.0
+        },
+        {
+          "lesson": 63,
+          "title": "Mashq 1 — Because yoki So?",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 67,
+          "title": "2. 11 dan 20 gacha — maxsus so‘zlar",
+          "difficulty": 3.0
         }
       ]
     },
     {
-      "group": 23,
-      "difficulty": 3.93,
+      "group": 10,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 3,
-          "title": "5. Harf va tovushni aralashtirmaymiz",
-          "difficulty": 2.5
+          "lesson": 2,
+          "title": "2. Katta va kichik harflar",
+          "difficulty": 2.0
         },
         {
-          "lesson": 11,
-          "title": "8. Darak, inkor va savolni taqqoslang",
+          "lesson": 15,
+          "title": "6. Our va Their",
           "difficulty": 3.5
         },
         {
-          "lesson": 14,
-          "title": "3. That — uzoq va bitta",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 21,
-          "title": "9. Ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 26,
-          "title": "3. Oddiy fe’l bilan: ravish fe’ldan oldin",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 38,
-          "title": "5. Savol: Is there? / Are there?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 56,
-          "title": "8. Darak, inkor va savol",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 60,
-          "title": "8. Superlative bilan The ni unutmang",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 24,
-      "difficulty": 3.91,
-      "sections": [
-        {
-          "lesson": 3,
-          "title": "6. Mashqlar",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 18,
-          "title": "1. Barcha possessive pronouns",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 18,
-          "title": "Mashq 2 — Mos egalik olmoshini yozing",
+          "lesson": 17,
+          "title": "Mashq 1 — Have yoki Has?",
           "difficulty": 3.8
         },
         {
-          "lesson": 32,
-          "title": "5. Who va What farqi",
+          "lesson": 29,
+          "title": "1. Olti savol so‘zi",
           "difficulty": 4.0
         },
         {
-          "lesson": 32,
-          "title": "Mashq 2 — Do/Does yoki yordamchi kerak emasmi?",
-          "difficulty": 4.3
+          "lesson": 47,
+          "title": "2. Yetti Object Pronoun",
+          "difficulty": 4.5
         },
         {
-          "lesson": 38,
-          "title": "Mashq 2 — Darak gapni savolga aylantiring",
-          "difficulty": 4.3
+          "lesson": 63,
+          "title": "1. Because — chunki",
+          "difficulty": 5.0
         },
         {
-          "lesson": 45,
-          "title": "Mashq 2 — Xatoni tuzating",
-          "difficulty": 4.8
+          "lesson": 65,
+          "title": "8. Qaysi zamonni tanlashni tekshiring",
+          "difficulty": 6.0
+        },
+        {
+          "lesson": 67,
+          "title": "1. 0 dan 10 gacha — poydevor",
+          "difficulty": 3.0
         }
       ]
     },
     {
-      "group": 25,
-      "difficulty": 3.94,
+      "group": 11,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 4,
-          "title": "Dars lug‘ati",
-          "difficulty": 1.3
+          "lesson": 2,
+          "title": "3. Harf nomi va so‘zdagi tovush — bir xil emas",
+          "difficulty": 2.0
+        },
+        {
+          "lesson": 10,
+          "title": "10. Ko‘p uchraydigan xatolar",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 15,
+          "title": "7. Egalik so‘zi ot oldidan keladi",
+          "difficulty": 3.5
         },
         {
           "lesson": 16,
-          "title": "7. ’s har doim egalikni bildirmaydi",
+          "title": "Eng qisqa xulosa",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 29,
+          "title": "2. Question word nima qiladi?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 47,
+          "title": "1. Subject va Object farqi",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 63,
+          "title": "2. So — shuning uchun",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 65,
+          "title": "Will — tezda qilingan qaror, va’da yoki taxmin",
+          "difficulty": 6.0
+        }
+      ]
+    },
+    {
+      "group": 12,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 2,
+          "title": "4. Harflarni bo‘lib mashq qilamiz",
+          "difficulty": 2.3
+        },
+        {
+          "lesson": 13,
+          "title": "11. “The” tarjimada yo‘qolib qolishi mumkin",
           "difficulty": 3.5
         },
         {
@@ -1121,14 +513,14 @@
           "difficulty": 3.8
         },
         {
+          "lesson": 25,
+          "title": "6. To Be savollarining qisqa javobi boshqacha",
+          "difficulty": 4.0
+        },
+        {
           "lesson": 27,
           "title": "Dars lug‘ati",
           "difficulty": 2.8
-        },
-        {
-          "lesson": 31,
-          "title": "1. Where + To Be — qayerdaligini so‘rash",
-          "difficulty": 4.0
         },
         {
           "lesson": 53,
@@ -1136,337 +528,127 @@
           "difficulty": 5.0
         },
         {
-          "lesson": 64,
-          "title": "5. Would you like...? — Taklif qilish",
+          "lesson": 55,
+          "title": "Mashq 2 — Qisqa javobni tanlang",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 60,
+          "title": "4. Undosh + Y: Y → IEST",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 13,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 2,
+          "title": "5. Ism va so‘zlarni harflab aytish",
+          "difficulty": 2.0
+        },
+        {
+          "lesson": 10,
+          "title": "9. To be oddiy harakat fe’li emas",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 15,
+          "title": "8. A / An egalik so‘zi bilan ishlatilmaydi",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 16,
+          "title": "Mashq 3 — Ma’noga mos shaklni tanlang",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 29,
+          "title": "3. Savol tuzishning ikki asosiy qolipi",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 46,
+          "title": "6. Qoliplar",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 63,
+          "title": "3. Bir vaziyatni ikki xil usulda aytamiz",
           "difficulty": 5.0
         },
         {
           "lesson": 65,
-          "title": "4. Present Simple va Present Continuous",
+          "title": "Going to — oldindan qilingan reja",
           "difficulty": 6.0
         }
       ]
     },
     {
-      "group": 26,
-      "difficulty": 3.94,
+      "group": 14,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 4,
-          "title": "1. Harf nima? Tovush nima?",
-          "difficulty": 2.5
+          "lesson": 2,
+          "title": "6. Katta harf qachon ishlatiladi?",
+          "difficulty": 2.0
         },
         {
-          "lesson": 11,
-          "title": "9. Ism bilan ham shu qoida",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 14,
-          "title": "2. This — yaqin va bitta",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 22,
-          "title": "1. Inkor gap nima?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 26,
-          "title": "2. Tez-tezlik ravishlari",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 38,
-          "title": "4. Inkor: There isn’t / There aren’t",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 56,
-          "title": "Ko‘p uchraydigan xatolar",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 60,
-          "title": "7. Noto‘g‘ri shaklli sifatlar",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 27,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 4,
-          "title": "2. Bitta C harfi — ikki xil tovush",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 11,
-          "title": "10. Ko‘p uchraydigan xatolar",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 14,
-          "title": "1. To‘rtta ko‘rsatish so‘zi",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 22,
-          "title": "2. Don’t va Doesn’t nimani bildiradi?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 26,
-          "title": "1. Adverb of frequency nima?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 38,
-          "title": "3. Sanalmaydigan ot bilan There is",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 57,
-          "title": "1. Will bilan darak gap",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 60,
-          "title": "6. Uzun sifatlar: The Most",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 28,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 4,
-          "title": "3. Boshqa harflar ham o‘zgarishi mumkin",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 8,
-          "title": "8. Qoidaga bo‘ysunmaydigan ko‘pliklar",
+          "lesson": 10,
+          "title": "8. To‘liq va qisqa shakllar",
           "difficulty": 3.0
         },
         {
-          "lesson": 20,
-          "title": "12. Ko‘p uchraydigan xatolar",
+          "lesson": 15,
+          "title": "9. Ko‘p uchraydigan xatolar",
           "difficulty": 3.5
-        },
-        {
-          "lesson": 43,
-          "title": "3. IN — oy, yil, fasl va kunning katta qismlari",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 50,
-          "title": "5. Unli + Y: faqat -ed qo‘shiladi",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 51,
-          "title": "5. O‘tgan zamon va vaqt iboralari",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 57,
-          "title": "6. Inkor va savol shakllari bilan tanishuv",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 29,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 4,
-          "title": "4. Ikki harf birga bitta tovush berishi mumkin",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 8,
-          "title": "9. Ko‘plikda A / An ishlatilmaydi",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 20,
-          "title": "11. He / She / It bilan fe’lni tekshirish yo‘li",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 43,
-          "title": "4. Uchalasini taqqoslang",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 50,
-          "title": "6. Qisqa fe’l oxiridagi undosh ikki marta yozilishi mumkin",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 51,
-          "title": "6. Past of Be alohida",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 57,
-          "title": "7. O‘tgan zamon va kelajakni farqlang",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 30,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 4,
-          "title": "5. Yozilgan harf talaffuz qilinmasligi mumkin",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 8,
-          "title": "10. Qoidalarni qisqa jadvalda",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 20,
-          "title": "Umumiy haqiqat",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 43,
-          "title": "5. This / Next / Every bilan",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 50,
-          "title": "7. Kechagi yoki tugagan vaqt",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 51,
-          "title": "7. Past Simple darak gap qolipi",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 58,
-          "title": "1. Going to — oldindan qilingan reja",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 31,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 4,
-          "title": "6. Nega audio tinglash kerak?",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 6,
-          "title": "9. Yozilishi va talaffuzi turlicha bo‘lishi mumkin",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 13,
-          "title": "Aynan qaysi narsalar ekani ma’lum bo‘lsa, “The” ishlatamiz",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 14,
-          "title": "Mashq 1 — To‘g‘ri so‘zni tanlang",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 53,
-          "title": "Mashq 1 — Did yordamchimi yoki asosiy fe’lmi?",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 56,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 57,
-          "title": "Taxmin yoki fikr",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 60,
-          "title": "2. Qisqa sifatlar: -est",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 32,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 4,
-          "title": "7. Mashqlar",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 17,
-          "title": "8. Uch shaklni taqqoslang",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 18,
-          "title": "Mashq 3 — My yoki Mine kabi mos shaklni tanlang",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 32,
-          "title": "4. Who savoliga javob",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 33,
-          "title": "Mashq 1 — Do yoki Does?",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 39,
-          "title": "Mashq 1 — Can yoki Can’t?",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 45,
-          "title": "Mashq 1 — Some yoki Any?",
-          "difficulty": 4.8
-        }
-      ]
-    },
-    {
-      "group": 33,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 5,
-          "title": "Dars lug‘ati",
-          "difficulty": 1.3
         },
         {
           "lesson": 16,
-          "title": "8. Ko‘p uchraydigan xatolar",
+          "title": "Mashq 2 — To‘g‘ri shaklni tanlang",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 29,
+          "title": "4. Bu bo‘limdagi keyingi darslar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 46,
+          "title": "5. Many va Much ni adashtirmang",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 63,
+          "title": "4. Because va So ni birga ishlatish",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 65,
+          "title": "7. Future — kelajak",
+          "difficulty": 6.0
+        }
+      ]
+    },
+    {
+      "group": 15,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 2,
+          "title": "7. Mashqlar",
+          "difficulty": 2.3
+        },
+        {
+          "lesson": 13,
+          "title": "12. Tanlash uchun uchta savol",
           "difficulty": 3.5
         },
         {
-          "lesson": 20,
-          "title": "Mashq 3 — Xatolarni tuzating",
-          "difficulty": 3.8
+          "lesson": 25,
+          "title": "7. Ko‘p uchraydigan xatolar",
+          "difficulty": 4.0
         },
         {
           "lesson": 26,
@@ -1474,8 +656,8 @@
           "difficulty": 2.8
         },
         {
-          "lesson": 31,
-          "title": "2. At, In, On bilan joy aytish",
+          "lesson": 37,
+          "title": "6. Do / Does bilan savol qolipi",
           "difficulty": 4.0
         },
         {
@@ -1484,275 +666,40 @@
           "difficulty": 5.0
         },
         {
-          "lesson": 64,
-          "title": "6. Taklifga javob berish",
-          "difficulty": 5.0
+          "lesson": 55,
+          "title": "Mashq 1 — Qisqa javobni to‘ldiring",
+          "difficulty": 5.3
         },
         {
-          "lesson": 65,
-          "title": "3. Present Continuous — hozir davom etayotgan ish",
-          "difficulty": 6.0
+          "lesson": 60,
+          "title": "5. Oxirgi undoshni ikki marta yozish",
+          "difficulty": 5.0
         }
       ]
     },
     {
-      "group": 34,
-      "difficulty": 3.94,
+      "group": 16,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 5,
-          "title": "1. Harf birikmasi nima?",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 6,
-          "title": "8. Ayrim chet tillardan kirgan so‘zlardagi T",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 12,
-          "title": "A — undosh tovushdan oldin",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 13,
-          "title": "Umuman, barcha narsalar haqida gapirsak",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 32,
-          "title": "Mashq 1 — Mos savol tuzing",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 60,
-          "title": "1. Superlative qachon ishlatiladi?",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 60,
-          "title": "Mashq 2 — To‘g‘ri variantni tanlang",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 65,
+          "lesson": 3,
           "title": "Dars lug‘ati",
-          "difficulty": 4.8
-        }
-      ]
-    },
-    {
-      "group": 35,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 5,
-          "title": "2. Ko‘p uchraydigan harf birikmalari",
-          "difficulty": 2.5
+          "difficulty": 1.3
         },
         {
-          "lesson": 6,
-          "title": "7. Ayrim so‘zlarda N jim bo‘ladi",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 12,
-          "title": "An — unli tovushdan oldin",
+          "lesson": 20,
+          "title": "8. Unli harf + Y: faqat -s",
           "difficulty": 3.5
         },
         {
-          "lesson": 13,
-          "title": "9. Qachon “The” ishlatmaymiz?",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 34,
-          "title": "Mashq 1 — To Be yoki Do / Does?",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 50,
-          "title": "Mashq 3 — Xatoni tuzating",
-          "difficulty": 4.8
-        },
-        {
-          "lesson": 59,
-          "title": "8. Bitta sifatga bitta qiyoslash usuli",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 61,
-          "title": "Mashq 1 — So‘zlarni to‘g‘ri tartiblang",
-          "difficulty": 5.3
-        }
-      ]
-    },
-    {
-      "group": 36,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 5,
-          "title": "3. SH birikmasi",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 6,
-          "title": "6. L harfi: could, would, should",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 12,
-          "title": "5. A/an ot birikmasining boshida turadi",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 13,
-          "title": "8. Birlikdagi otni yolg‘iz qoldirmaymiz",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 14,
-          "title": "Mashq 2 — Is yoki Are?",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 51,
-          "title": "Mashq 3 — To‘g‘ri fe’lni tanlang",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 59,
-          "title": "7. Muhim istisnolar",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 61,
-          "title": "Mashq 2 — A yoki An ni tanlang",
-          "difficulty": 5.3
-        }
-      ]
-    },
-    {
-      "group": 37,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 5,
-          "title": "4. CH birikmasi va istisnolar",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 6,
-          "title": "5. So‘z boshidagi K va W",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 12,
-          "title": "6. A/an kasb va kimlik bilan",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 13,
-          "title": "7. The birlik, ko‘plik va sanalmaydigan ot bilan",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 14,
-          "title": "Mashq 3 — O‘zbekchadan inglizchaga",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 52,
-          "title": "Mashq 1 — Didn’t qo‘ying",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 59,
-          "title": "6. Uzun sifatlar bilan More",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 62,
-          "title": "Mashq 1 — And, But yoki Or?",
-          "difficulty": 5.3
-        }
-      ]
-    },
-    {
-      "group": 38,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 5,
-          "title": "5. PH, WH, CK va NG",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 6,
-          "title": "4. GH yoki GHT birikmasi",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 12,
-          "title": "7. A/an qachon ishlatilmaydi?",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 13,
-          "title": "6. “The” sifat bilan ham keladi",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 24,
-          "title": "8. Oddiy fe’l va To Be savollarini farqlaymiz",
+          "lesson": 37,
+          "title": "Uncountable — odatda donalab sanalmaydi",
           "difficulty": 4.0
         },
         {
-          "lesson": 50,
-          "title": "Mashq 2 — Qavsdagi fe’lni to‘g‘ri yozing",
-          "difficulty": 4.8
-        },
-        {
-          "lesson": 52,
-          "title": "Mashq 2 — Inkor shakliga o‘tkazing",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 62,
-          "title": "Mashq 2 — Ikki gapni bitta gapga birlashtiring",
-          "difficulty": 5.3
-        }
-      ]
-    },
-    {
-      "group": 39,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 5,
-          "title": "PH ko‘pincha F tovushini beradi",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 6,
-          "title": "3. MB oxirida B",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 12,
-          "title": "Ko‘plikdagi ot bilan",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 13,
-          "title": "5. Vaziyatdan qaysi narsa ekani ma’lum",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 36,
-          "title": "Mashq 2 — To Be, Do yoki Does?",
-          "difficulty": 4.3
+          "lesson": 40,
+          "title": "5. Can I...? — Ruxsat so‘rash",
+          "difficulty": 4.0
         },
         {
           "lesson": 50,
@@ -1760,136 +707,326 @@
           "difficulty": 4.8
         },
         {
-          "lesson": 59,
-          "title": "4. Undosh + Y: Y → IER",
-          "difficulty": 5.0
+          "lesson": 56,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
         },
         {
-          "lesson": 63,
-          "title": "Mashq 1 — Because yoki So?",
-          "difficulty": 5.3
+          "lesson": 66,
+          "title": "Javoblar kaliti",
+          "difficulty": 6.5
         }
       ]
     },
     {
-      "group": 40,
-      "difficulty": 3.94,
+      "group": 17,
+      "difficulty": 3.97,
       "sections": [
         {
-          "lesson": 5,
-          "title": "WH ko‘p so‘zda W ga yaqin o‘qiladi",
+          "lesson": 3,
+          "title": "1. Unli va undosh degani nima?",
           "difficulty": 2.5
         },
         {
-          "lesson": 6,
-          "title": "2. So‘z oxiridagi E",
-          "difficulty": 2.5
+          "lesson": 7,
+          "title": "6. Olmosh gapda qayerda keladi?",
+          "difficulty": 3.0
         },
         {
-          "lesson": 12,
-          "title": "Odatda sanalmaydigan ot bilan",
-          "difficulty": 3.5
+          "lesson": 8,
+          "title": "Mashq 4 — To‘g‘ri variantni tanlang",
+          "difficulty": 3.3
         },
         {
-          "lesson": 13,
-          "title": "4. Bir narsani ikkinchi marta aytganda",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 24,
-          "title": "6. Savol tuzish tartibini eslab qoling",
+          "lesson": 38,
+          "title": "5. Savol: Is there? / Are there?",
           "difficulty": 4.0
         },
         {
-          "lesson": 49,
-          "title": "Mashq 3 — Savol shakliga o‘tkazing",
-          "difficulty": 4.8
-        },
-        {
-          "lesson": 54,
-          "title": "Mashq 1 — Darak gapni savolga aylantiring",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 63,
-          "title": "Mashq 2 — Ikki gapni birlashtiring",
-          "difficulty": 5.3
-        }
-      ]
-    },
-    {
-      "group": 41,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 5,
-          "title": "CK K tovushiga yaqin",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 6,
-          "title": "1. Silent letter nima?",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 12,
-          "title": "8. Birinchi marta va keyin yana aytish",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 13,
-          "title": "3. A / An va The: eng sodda farq",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 24,
-          "title": "5. Ism bilan savol tuzish",
+          "lesson": 38,
+          "title": "Ko‘p uchraydigan xatolar",
           "difficulty": 4.0
         },
         {
-          "lesson": 49,
-          "title": "Mashq 2 — Inkor shakliga o‘tkazing",
-          "difficulty": 4.8
+          "lesson": 46,
+          "title": "4. Darak, inkor va savolda",
+          "difficulty": 4.5
         },
         {
-          "lesson": 54,
-          "title": "Mashq 2 — Did yoki Was/Were?",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 64,
-          "title": "Mashq 1 — Ot yoki to + fe’l?",
-          "difficulty": 5.3
+          "lesson": 66,
+          "title": "1-qism. Boshlang‘ich bilimlar: harf, ot, olmosh, gap",
+          "difficulty": 6.5
         }
       ]
     },
     {
-      "group": 42,
-      "difficulty": 3.94,
+      "group": 18,
+      "difficulty": 3.97,
       "sections": [
         {
-          "lesson": 5,
-          "title": "NG bitta burun tovushidek aytiladi",
+          "lesson": 3,
+          "title": "2. Beshta asosiy unli harf",
           "difficulty": 2.5
         },
         {
-          "lesson": 5,
-          "title": "Jarangli TH: tomoq titraydi",
+          "lesson": 7,
+          "title": "Eng qisqa xulosa",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 9,
+          "title": "Mashq 1 — To‘g‘ri olmoshni tanlang",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 27,
+          "title": "Mashq 2 — Fe’lga -ing qo‘shing",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 38,
+          "title": "4. Inkor: There isn’t / There aren’t",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 39,
+          "title": "1. Can — qila olaman / oladi",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 66,
+          "title": "2-qism. There is/are, demonstratives va joy",
+          "difficulty": 6.5
+        }
+      ]
+    },
+    {
+      "group": 19,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 3,
+          "title": "3. Qolgan harflar — undosh harflar",
           "difficulty": 2.5
         },
         {
-          "lesson": 12,
-          "title": "9. A va An ni tanlashning oddiy qadamlari",
+          "lesson": 7,
+          "title": "Mashq 3 — To‘g‘ri olmoshni tanlang",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 9,
+          "title": "Mashq 2 — Ismni olmoshga almashtiring",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 27,
+          "title": "Mashq 3 — Gapni to‘ldiring",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 38,
+          "title": "3. Sanalmaydigan ot bilan There is",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 39,
+          "title": "2. Can barcha egalar bilan bir xil",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 66,
+          "title": "3-qism. Artikllar, egalik va miqdor",
+          "difficulty": 6.5
+        }
+      ]
+    },
+    {
+      "group": 20,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 3,
+          "title": "4. Y harfi: ba’zan unli, ba’zan undosh",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 7,
+          "title": "Mashq 2 — Ismni olmosh bilan almashtiring",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 9,
+          "title": "Mashq 3 — To‘g‘ri yoki noto‘g‘ri?",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 29,
+          "title": "Mashq 1 — Savol so‘zini ma’nosi bilan moslang",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 38,
+          "title": "2. There are — bir nechta narsa bor",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 39,
+          "title": "3. Can dan keyin fe’lning oddiy shakli keladi",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 66,
+          "title": "4-qism. To Be — hozirgi va o‘tgan zamon",
+          "difficulty": 6.5
+        }
+      ]
+    },
+    {
+      "group": 21,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 3,
+          "title": "Y undosh tovush bersa",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 7,
+          "title": "Mashq 1 — Noun va Pronounni ajrating",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 10,
+          "title": "Mashq 1 — Am, Is yoki Are?",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 29,
+          "title": "Mashq 2 — Bo‘sh joyga mos savol so‘zini qo‘ying",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 38,
+          "title": "1. There is — bitta narsa bor",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 39,
+          "title": "4. Can’t — qila olmayman / olmaydi",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 66,
+          "title": "5-qism. Present Simple — darak, inkor, savol",
+          "difficulty": 6.5
+        }
+      ]
+    },
+    {
+      "group": 22,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 3,
+          "title": "Y unli tovush bersa",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 20,
+          "title": "7. Undosh harf + Y: y → ies",
           "difficulty": 3.5
         },
         {
-          "lesson": 13,
-          "title": "2. “The” nima?",
+          "lesson": 40,
+          "title": "6. Iltimos yoki ruxsatga javob",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 48,
+          "title": "3. Ranglar va ko‘rinish",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 49,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 52,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 65,
+          "title": "Mashq 1 — Zamonni aniqlang",
+          "difficulty": 6.3
+        }
+      ]
+    },
+    {
+      "group": 23,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 3,
+          "title": "5. Harf va tovushni aralashtirmaymiz",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 20,
+          "title": "6. Fe’lga -es qo‘shiladigan holatlar",
           "difficulty": 3.5
         },
         {
-          "lesson": 24,
-          "title": "4. Does dan keyin fe’lga -s qo‘shmaymiz",
+          "lesson": 37,
+          "title": "1. Countable va Uncountable — sanaladigan va sanalmaydigan",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 38,
+          "title": "Mashq 2 — Darak gapni savolga aylantiring",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 40,
+          "title": "7. Can dan keyin fe’l oddiy shaklda",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 50,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 65,
+          "title": "Mashq 2 — To‘g‘ri shaklni tanlang",
+          "difficulty": 6.3
+        }
+      ]
+    },
+    {
+      "group": 24,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 3,
+          "title": "6. Mashqlar",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 8,
+          "title": "6. Unli + Y: faqat -s",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 18,
+          "title": "9. Apostrof qo‘shilmaydi",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 43,
+          "title": "1. AT — aniq soat va ayrim vaqtlar",
           "difficulty": 4.0
         },
         {
@@ -1898,141 +1035,141 @@
           "difficulty": 4.8
         },
         {
-          "lesson": 55,
-          "title": "Mashq 1 — Qisqa javobni to‘ldiring",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 64,
-          "title": "Mashq 2 — Muloyim gap tuzing",
-          "difficulty": 5.3
-        }
-      ]
-    },
-    {
-      "group": 43,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 5,
-          "title": "6. TH tovushini qanday aytamiz?",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 5,
-          "title": "Jarangsiz TH: tomoq titramaydi",
-          "difficulty": 2.5
-        },
-        {
-          "lesson": 12,
-          "title": "Ko‘p uchraydigan xatolar",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 13,
-          "title": "1. Avval oddiy so‘zlardan boshlaymiz",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 24,
-          "title": "3. Does kim bilan ishlatiladi?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 48,
-          "title": "Mashq 3 — To‘g‘ri variantni tanlang",
-          "difficulty": 4.8
+          "lesson": 50,
+          "title": "3. Fe’l oxiri E bilan tugasa: faqat -d",
+          "difficulty": 4.5
         },
         {
           "lesson": 51,
           "title": "Mashq 1 — Past shaklini toping",
           "difficulty": 5.3
-        },
-        {
-          "lesson": 55,
-          "title": "Mashq 2 — Qisqa javobni tanlang",
-          "difficulty": 5.3
         }
       ]
     },
     {
-      "group": 44,
-      "difficulty": 3.94,
+      "group": 25,
+      "difficulty": 3.97,
       "sections": [
         {
-          "lesson": 5,
-          "title": "7. Mashqlar",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 17,
-          "title": "7. Qisqa javoblar",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 18,
-          "title": "Eng qisqa xulosa",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 32,
-          "title": "3. Who gapning egasi bo‘lsa",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 33,
-          "title": "Mashq 2 — Savol so‘zini tanlang",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 39,
-          "title": "Mashq 2 — Gapni Can bilan to‘ldiring",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 44,
-          "title": "Mashq 2 — To‘g‘ri shaklni tanlang",
-          "difficulty": 4.8
-        }
-      ]
-    },
-    {
-      "group": 45,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 6,
+          "lesson": 4,
           "title": "Dars lug‘ati",
           "difficulty": 1.3
         },
         {
-          "lesson": 17,
-          "title": "1. Have yoki Has?",
+          "lesson": 20,
+          "title": "9. Have va Be — alohida shakllar",
           "difficulty": 3.5
         },
         {
-          "lesson": 20,
-          "title": "Mashq 2 — Qavsdagi fe’lni to‘g‘ri shaklda yozing",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 24,
-          "title": "7. What, Where, When bilan savollar",
+          "lesson": 37,
+          "title": "2. How Many? — Nechta?",
           "difficulty": 4.0
         },
         {
-          "lesson": 25,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
+          "lesson": 40,
+          "title": "4. Can you...? — Iltimos qilish",
+          "difficulty": 4.0
         },
         {
-          "lesson": 52,
+          "lesson": 50,
+          "title": "Mashq 2 — Qavsdagi fe’lni to‘g‘ri yozing",
+          "difficulty": 4.8
+        },
+        {
+          "lesson": 55,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 66,
+          "title": "11-qism. Sifatlar, bog‘lovchilar va xohish",
+          "difficulty": 6.5
+        }
+      ]
+    },
+    {
+      "group": 26,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 4,
+          "title": "1. Harf nima? Tovush nima?",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 4,
+          "title": "6. Nega audio tinglash kerak?",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 11,
+          "title": "9. Ism bilan ham shu qoida",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 12,
+          "title": "4. A va An farqi harfga emas, tovushga bog‘liq",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 56,
           "title": "Ko‘p uchraydigan xatolar",
           "difficulty": 5.0
         },
         {
+          "lesson": 57,
+          "title": "Taxmin yoki fikr",
+          "difficulty": 5.0
+        },
+        {
           "lesson": 64,
-          "title": "7. Want va Would Like farqi",
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 65,
+          "title": "2. Present Simple — odatlar va umumiy haqiqatlar",
+          "difficulty": 6.0
+        }
+      ]
+    },
+    {
+      "group": 27,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 4,
+          "title": "2. Bitta C harfi — ikki xil tovush",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 4,
+          "title": "5. Yozilgan harf talaffuz qilinmasligi mumkin",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 11,
+          "title": "10. Ko‘p uchraydigan xatolar",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 12,
+          "title": "3. Sanaladigan ot nima?",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 22,
+          "title": "5. Doesn’t dan keyin fe’lga -s qo‘shmaymiz",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 46,
+          "title": "Mashq 1 — Many, Much yoki A Lot Of?",
+          "difficulty": 4.8
+        },
+        {
+          "lesson": 57,
+          "title": "4. Will qachon ishlatiladi?",
           "difficulty": 5.0
         },
         {
@@ -2043,371 +1180,43 @@
       ]
     },
     {
-      "group": 46,
-      "difficulty": 3.91,
+      "group": 28,
+      "difficulty": 3.97,
       "sections": [
         {
-          "lesson": 6,
-          "title": "10. Mashqlar",
-          "difficulty": 2.8
+          "lesson": 4,
+          "title": "3. Boshqa harflar ham o‘zgarishi mumkin",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 4,
+          "title": "4. Ikki harf birga bitta tovush berishi mumkin",
+          "difficulty": 2.5
         },
         {
           "lesson": 12,
-          "title": "Mashq 3 — To‘g‘ri variantni tanlang",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 17,
-          "title": "6. Savol: Do / Does ... have?",
+          "title": "1. Article — artikl nima?",
           "difficulty": 3.5
         },
         {
-          "lesson": 19,
-          "title": "9. Gap tuzishni qadam-baqadam mashq qilamiz",
-          "difficulty": 3.8
+          "lesson": 12,
+          "title": "2. A / An qachon ishlatiladi?",
+          "difficulty": 3.5
         },
         {
-          "lesson": 44,
-          "title": "Mashq 1 — Countable yoki Uncountable?",
+          "lesson": 22,
+          "title": "4. He / She / It bilan Doesn’t",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 45,
+          "title": "Mashq 2 — Xatoni tuzating",
           "difficulty": 4.8
         },
         {
-          "lesson": 52,
-          "title": "2. Did barcha egalar bilan bir xil",
+          "lesson": 57,
+          "title": "3. Will dan keyin oddiy fe’l keladi",
           "difficulty": 5.0
-        },
-        {
-          "lesson": 64,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
-        }
-      ]
-    },
-    {
-      "group": 47,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 7,
-          "title": "Dars lug‘ati",
-          "difficulty": 1.8
-        },
-        {
-          "lesson": 11,
-          "title": "Mashq 2 — Savol shakliga o‘tkazing",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 16,
-          "title": "1. Bitta odam yoki narsa egasi bo‘lsa",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 31,
-          "title": "Mashq 2 — Do yoki Does ni qo‘ying",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 34,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 54,
-          "title": "2. Savolda fe’lning oddiy shakli",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 56,
-          "title": "Mashq 1 — Am, Is yoki Are?",
-          "difficulty": 5.3
-        },
-        {
-          "lesson": 63,
-          "title": "5. Vergul haqida sodda eslatma",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 48,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 7,
-          "title": "1. Noun — ot nima?",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 28,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 37,
-          "title": "Mashq 1 — Many yoki Much?",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 39,
-          "title": "6. Ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 41,
-          "title": "4. Inkor buyruq: Don’t + fe’l",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 47,
-          "title": "4. Object pronoun predlogdan keyin ham keladi",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 49,
-          "title": "1. Was yoki Were?",
-          "difficulty": 4.5
-        }
-      ]
-    },
-    {
-      "group": 49,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 7,
-          "title": "2. Oddiy va atoqli otlar",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 10,
-          "title": "Mashq 2 — Xatolarni tuzating",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 37,
-          "title": "Mashq 2 — Do yoki Does?",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 39,
-          "title": "5. Can yoki Can’t?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 41,
-          "title": "5. Buyruq, savol va darak gap farqi",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 47,
-          "title": "3. Object pronoun fe’ldan keyin keladi",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 49,
-          "title": "2. Was/Were bilan kimligini, holatini yoki joyini aytamiz",
-          "difficulty": 4.5
-        }
-      ]
-    },
-    {
-      "group": 50,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 7,
-          "title": "3. Pronoun — olmosh nima?",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 10,
-          "title": "Mashq 1 — Am, Is yoki Are?",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 37,
-          "title": "Mashq 3 — Savol so‘zini tanlang",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 39,
-          "title": "4. Can’t — qila olmayman / olmaydi",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 41,
-          "title": "6. Qadam-baqadam tuzamiz",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 47,
-          "title": "2. Yetti Object Pronoun",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 49,
-          "title": "Kim yoki nima edi?",
-          "difficulty": 4.5
-        }
-      ]
-    },
-    {
-      "group": 51,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 7,
-          "title": "4. Subject pronouns — ega olmoshlari",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 9,
-          "title": "Mashq 3 — To‘g‘ri yoki noto‘g‘ri?",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 19,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.3
-        },
-        {
-          "lesson": 41,
-          "title": "Ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 47,
-          "title": "1. Subject va Object farqi",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 49,
-          "title": "Qanday edi?",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 65,
-          "title": "6. Past Simple — o‘tgan zamondagi harakat",
-          "difficulty": 6.0
-        }
-      ]
-    },
-    {
-      "group": 52,
-      "difficulty": 3.93,
-      "sections": [
-        {
-          "lesson": 7,
-          "title": "5. Otni mos olmoshga almashtiramiz",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 9,
-          "title": "Mashq 2 — Ismni olmoshga almashtiring",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 18,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.3
-        },
-        {
-          "lesson": 42,
-          "title": "1. Gapda qayerda ekanini qanday aytamiz?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 46,
-          "title": "6. Qoliplar",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 49,
-          "title": "Qayerda edi?",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 65,
-          "title": "Muntazam fe’l: -ed qo‘shiladi",
-          "difficulty": 6.0
-        }
-      ]
-    },
-    {
-      "group": 53,
-      "difficulty": 3.93,
-      "sections": [
-        {
-          "lesson": 7,
-          "title": "6. Olmosh gapda qayerda keladi?",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 9,
-          "title": "Mashq 1 — To‘g‘ri olmoshni tanlang",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 17,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.3
-        },
-        {
-          "lesson": 42,
-          "title": "2. Eng ko‘p ishlatiladigan joy predloglari",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 46,
-          "title": "5. Many va Much ni adashtirmang",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 49,
-          "title": "3. O‘tgan vaqtni bildiradigan iboralar",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 65,
-          "title": "Irregular fe’l: shakli o‘zgaradi",
-          "difficulty": 6.0
-        }
-      ]
-    },
-    {
-      "group": 54,
-      "difficulty": 3.93,
-      "sections": [
-        {
-          "lesson": 7,
-          "title": "7. Ko‘p uchraydigan xatolar",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 8,
-          "title": "Mashq 4 — To‘g‘ri variantni tanlang",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 16,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.3
-        },
-        {
-          "lesson": 42,
-          "title": "3. In — ichida",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 46,
-          "title": "4. Darak, inkor va savolda",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 49,
-          "title": "4. Inkor: Was Not / Were Not",
-          "difficulty": 4.5
         },
         {
           "lesson": 65,
@@ -2417,13 +1226,13 @@
       ]
     },
     {
-      "group": 55,
-      "difficulty": 3.93,
+      "group": 29,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 7,
-          "title": "Mashq 1 — Noun va Pronounni ajrating",
-          "difficulty": 3.3
+          "lesson": 4,
+          "title": "7. Mashqlar",
+          "difficulty": 2.8
         },
         {
           "lesson": 8,
@@ -2431,9 +1240,9 @@
           "difficulty": 3.0
         },
         {
-          "lesson": 42,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
+          "lesson": 18,
+          "title": "8. Possessive adjective va pronoun farqi",
+          "difficulty": 3.5
         },
         {
           "lesson": 43,
@@ -2441,9 +1250,9 @@
           "difficulty": 4.0
         },
         {
-          "lesson": 45,
-          "title": "4. Any — ko‘p savollarda",
-          "difficulty": 4.5
+          "lesson": 48,
+          "title": "Mashq 3 — To‘g‘ri variantni tanlang",
+          "difficulty": 4.8
         },
         {
           "lesson": 50,
@@ -2458,68 +1267,252 @@
       ]
     },
     {
-      "group": 56,
-      "difficulty": 3.94,
+      "group": 30,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 7,
-          "title": "Mashq 2 — Ismni olmosh bilan almashtiring",
-          "difficulty": 3.3
+          "lesson": 5,
+          "title": "Dars lug‘ati",
+          "difficulty": 1.3
         },
         {
-          "lesson": 8,
-          "title": "6. Unli + Y: faqat -s",
-          "difficulty": 3.0
+          "lesson": 20,
+          "title": "10. Present Simple qaysi paytda ishlatiladi?",
+          "difficulty": 3.5
         },
         {
-          "lesson": 19,
-          "title": "Mashq 3 — O‘zbekchadan inglizchaga",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 38,
-          "title": "2. There are — bir nechta narsa bor",
+          "lesson": 37,
+          "title": "3. How Much? — Qancha?",
           "difficulty": 4.0
         },
         {
-          "lesson": 43,
-          "title": "1. AT — aniq soat va ayrim vaqtlar",
+          "lesson": 40,
+          "title": "3. Qisqa javoblar",
           "difficulty": 4.0
         },
         {
           "lesson": 50,
-          "title": "3. Fe’l oxiri E bilan tugasa: faqat -d",
+          "title": "Mashq 3 — Xatoni tuzating",
+          "difficulty": 4.8
+        },
+        {
+          "lesson": 54,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 66,
+          "title": "10-qism. Can, Imperatives va predloglar",
+          "difficulty": 6.5
+        }
+      ]
+    },
+    {
+      "group": 31,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 5,
+          "title": "1. Harf birikmasi nima?",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 11,
+          "title": "8. Darak, inkor va savolni taqqoslang",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 12,
+          "title": "A — undosh tovushdan oldin",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 17,
+          "title": "Eng qisqa xulosa",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 22,
+          "title": "7. Darak va inkor shaklini taqqoslang",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 44,
+          "title": "2. Birlikdagi sanaladigan otga aniqlovchi kerak",
           "difficulty": 4.5
         },
         {
-          "lesson": 52,
-          "title": "1. Did not / Didn’t nima?",
+          "lesson": 56,
+          "title": "8. Darak, inkor va savol",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 57,
+          "title": "Hozir qabul qilingan qaror yoki va’da",
           "difficulty": 5.0
         }
       ]
     },
     {
-      "group": 57,
-      "difficulty": 3.94,
+      "group": 32,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 7,
-          "title": "Mashq 3 — To‘g‘ri olmoshni tanlang",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 8,
-          "title": "5. Undosh + Y: y → ies",
-          "difficulty": 3.0
+          "lesson": 5,
+          "title": "2. Ko‘p uchraydigan harf birikmalari",
+          "difficulty": 2.5
         },
         {
           "lesson": 11,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.3
+          "title": "7. Savolga qisqa javob berish",
+          "difficulty": 3.5
         },
         {
-          "lesson": 42,
-          "title": "8. Ko‘p uchraydigan xatolar",
+          "lesson": 12,
+          "title": "An — unli tovushdan oldin",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 17,
+          "title": "Mashq 4 — Qisqa javob yozing",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 22,
+          "title": "8. To Be bilan adashtirmang",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 44,
+          "title": "3. Uncountable — sanalmaydigan otlar",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 56,
+          "title": "7. Savol shakli",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 57,
+          "title": "5. Qisqa shakllar",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 33,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 5,
+          "title": "3. SH birikmasi",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 11,
+          "title": "6. Barcha olmoshlar bilan savollar",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 12,
+          "title": "5. A/an ot birikmasining boshida turadi",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 17,
+          "title": "Mashq 3 — Do yoki Does?",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 22,
+          "title": "9. Ko‘p uchraydigan xatolar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 45,
+          "title": "4. Any — ko‘p savollarda",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 56,
+          "title": "6. Inkor shakli",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 57,
+          "title": "6. Inkor va savol shakllari bilan tanishuv",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 34,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 5,
+          "title": "4. CH birikmasi va istisnolar",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 11,
+          "title": "5. So‘roq gap qanday tuziladi?",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 12,
+          "title": "6. A/an kasb va kimlik bilan",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 17,
+          "title": "Mashq 2 — Inkor shakliga o‘tkazing",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 23,
+          "title": "1. Do va Does kim bilan ishlatiladi?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 45,
+          "title": "5. Some va Any ni yonma-yon taqqoslang",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 56,
+          "title": "5. Going to dan keyin fe’l o‘zgarmaydi",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 57,
+          "title": "7. O‘tgan zamon va kelajakni farqlang",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 35,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 5,
+          "title": "5. PH, WH, CK va NG",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 11,
+          "title": "4. Qisqartma shakllar",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 12,
+          "title": "7. A/an qachon ishlatilmaydi?",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 23,
+          "title": "2. Do / Does nimaga yordam beradi?",
           "difficulty": 4.0
         },
         {
@@ -2528,39 +1521,44 @@
           "difficulty": 4.5
         },
         {
-          "lesson": 50,
-          "title": "2. Ko‘p fe’llarga -ed qo‘shamiz",
-          "difficulty": 4.5
+          "lesson": 56,
+          "title": "4. Vaqtni bildiradigan iboralar",
+          "difficulty": 5.0
         },
         {
-          "lesson": 65,
-          "title": "9. Zamonlar bo‘yicha mini-jadval",
-          "difficulty": 6.0
+          "lesson": 58,
+          "title": "1. Going to — oldindan qilingan reja",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 63,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
         }
       ]
     },
     {
-      "group": 58,
-      "difficulty": 3.92,
+      "group": 36,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 7,
-          "title": "Eng qisqa xulosa",
-          "difficulty": 3.3
+          "lesson": 5,
+          "title": "PH ko‘pincha F tovushini beradi",
+          "difficulty": 2.5
         },
         {
-          "lesson": 8,
-          "title": "4. S, SH, CH, X bilan tugagan otlar: -es",
-          "difficulty": 3.0
+          "lesson": 11,
+          "title": "3. Am / Is / Are bilan not",
+          "difficulty": 3.5
         },
         {
           "lesson": 12,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.3
+          "title": "Ko‘plikdagi ot bilan",
+          "difficulty": 3.5
         },
         {
-          "lesson": 42,
-          "title": "7. Where bilan savol beramiz",
+          "lesson": 23,
+          "title": "3. Yordamchi DO bilan asosiy DO ni farqlaymiz",
           "difficulty": 4.0
         },
         {
@@ -2569,54 +1567,289 @@
           "difficulty": 4.5
         },
         {
-          "lesson": 50,
-          "title": "1. Regular verb — muntazam fe’l",
-          "difficulty": 4.5
+          "lesson": 56,
+          "title": "3. Am / Is / Are ni egaga moslash",
+          "difficulty": 5.0
         },
         {
-          "lesson": 65,
-          "title": "8. Qaysi zamonni tanlashni tekshiring",
-          "difficulty": 6.0
+          "lesson": 58,
+          "title": "2. Will — hozir qabul qilingan qaror",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 62,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
         }
       ]
     },
     {
-      "group": 59,
-      "difficulty": 3.92,
+      "group": 37,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 8,
-          "title": "Dars lug‘ati",
-          "difficulty": 1.8
+          "lesson": 5,
+          "title": "WH ko‘p so‘zda W ga yaqin o‘qiladi",
+          "difficulty": 2.5
         },
         {
-          "lesson": 16,
-          "title": "2. Apostrof qayerga qo‘yiladi?",
+          "lesson": 11,
+          "title": "2. Not qayerga qo‘yiladi?",
           "difficulty": 3.5
         },
         {
-          "lesson": 30,
-          "title": "2. What is ...? — To Be bilan",
+          "lesson": 12,
+          "title": "Odatda sanalmaydigan ot bilan",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 23,
+          "title": "4. Does bilan fe’lning shakli",
           "difficulty": 4.0
         },
         {
-          "lesson": 31,
-          "title": "Mashq 1 — Where bilan savolni to‘ldiring",
+          "lesson": 46,
+          "title": "1. Many — sanaladigan ko‘plik bilan",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 56,
+          "title": "2. Asosiy formula",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 58,
+          "title": "3. Will — va’da yoki fikrga asoslangan taxmin",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 61,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
+        }
+      ]
+    },
+    {
+      "group": 38,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 5,
+          "title": "CK K tovushiga yaqin",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 11,
+          "title": "1. Inkor gap nima?",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 12,
+          "title": "8. Birinchi marta va keyin yana aytish",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 23,
+          "title": "5. Do / Does be fe’li bilan ishlamaydi",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 44,
+          "title": "1. Countable — sanaladigan otlar",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 56,
+          "title": "1. Going to nimani bildiradi?",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 58,
+          "title": "4. Ko‘rinib turgan dalilga asoslangan taxmin",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 60,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
+        }
+      ]
+    },
+    {
+      "group": 39,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 5,
+          "title": "NG bitta burun tovushidek aytiladi",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 12,
+          "title": "9. A va An ni tanlashning oddiy qadamlari",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 21,
+          "title": "1. “U” haqida gapirganda nima o‘zgaradi?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 22,
+          "title": "6. To‘liq va qisqa shakllar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 24,
+          "title": "1. Ha yoki yo‘q deb javob beriladigan savol",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 38,
+          "title": "Mashq 1 — Is yoki Are?",
           "difficulty": 4.3
         },
         {
-          "lesson": 33,
+          "lesson": 50,
+          "title": "2. Ko‘p fe’llarga -ed qo‘shamiz",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 58,
+          "title": "5. Qoliplarni yonma-yon ko‘ramiz",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 40,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 5,
+          "title": "6. TH tovushini qanday aytamiz?",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 12,
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 21,
+          "title": "5. Undosh harf + Y: Y → IES",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 24,
+          "title": "2. Do kimlar bilan ishlatiladi?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 41,
           "title": "Dars lug‘ati",
           "difficulty": 2.8
         },
         {
-          "lesson": 54,
-          "title": "1. Ha yoki yo‘q bilan javob beriladigan savol",
+          "lesson": 55,
+          "title": "4. Wh-question ga Yes/No bilan javob bermaymiz",
           "difficulty": 5.0
         },
         {
           "lesson": 58,
           "title": "6. Bir xil vaziyatni ikki xil aytib ko‘ring",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 64,
+          "title": "7. Want va Would Like farqi",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 41,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 5,
+          "title": "Jarangsiz TH: tomoq titramaydi",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 13,
+          "title": "1. Avval oddiy so‘zlardan boshlaymiz",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 21,
+          "title": "4. S, SH, CH, X bilan tugasa: -ES",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 24,
+          "title": "3. Does kim bilan ishlatiladi?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 40,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 55,
+          "title": "3. Qisqa va to‘liq javob",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 58,
+          "title": "7. Ko‘p uchraydigan xatolar",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 63,
+          "title": "5. Vergul haqida sodda eslatma",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 42,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 5,
+          "title": "Jarangli TH: tomoq titraydi",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 13,
+          "title": "2. “The” nima?",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 21,
+          "title": "3. Eng ko‘p ishlatiladigan qoida: fe’l + S",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 24,
+          "title": "4. Does dan keyin fe’lga -s qo‘shmaymiz",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 39,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 55,
+          "title": "2. Javobda subject pronounni tanlang",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 59,
+          "title": "1. Qiyoslashda Than",
           "difficulty": 5.0
         },
         {
@@ -2627,165 +1860,124 @@
       ]
     },
     {
-      "group": 60,
-      "difficulty": 3.92,
+      "group": 43,
+      "difficulty": 3.98,
       "sections": [
         {
+          "lesson": 5,
+          "title": "7. Mashqlar",
+          "difficulty": 2.8
+        },
+        {
           "lesson": 8,
-          "title": "1. Singular — birlik",
+          "title": "8. Qoidaga bo‘ysunmaydigan ko‘pliklar",
           "difficulty": 3.0
         },
         {
-          "lesson": 8,
-          "title": "Mashq 3 — Xatoni tuzating",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 15,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.3
-        },
-        {
-          "lesson": 42,
-          "title": "4. On va Under",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 46,
-          "title": "3. A Lot Of — ikkalasi bilan ishlaydi",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 49,
-          "title": "5. Savol: Was/Were gap boshiga chiqadi",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 65,
-          "title": "7. Future — kelajak",
-          "difficulty": 6.0
-        }
-      ]
-    },
-    {
-      "group": 61,
-      "difficulty": 3.92,
-      "sections": [
-        {
-          "lesson": 8,
-          "title": "2. Plural — ko‘plik",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 8,
-          "title": "Mashq 2 — Ko‘plik shaklini yozing",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 14,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.3
-        },
-        {
-          "lesson": 42,
-          "title": "5. Next to, Behind, In front of",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 46,
-          "title": "2. Much — sanalmaydigan ot bilan",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 49,
-          "title": "6. Qisqa javoblar",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 65,
-          "title": "Going to — oldindan qilingan reja",
-          "difficulty": 6.0
-        }
-      ]
-    },
-    {
-      "group": 62,
-      "difficulty": 3.92,
-      "sections": [
-        {
-          "lesson": 8,
-          "title": "3. Son va ot bir-biriga mos bo‘lsin",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 8,
-          "title": "Mashq 1 — Birlikmi yoki ko‘plikmi?",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 13,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.3
-        },
-        {
-          "lesson": 42,
-          "title": "6. Between va Near",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 46,
-          "title": "1. Many — sanaladigan ko‘plik bilan",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 49,
-          "title": "7. Was/Were bilan Did ishlatmaymiz",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 65,
-          "title": "Will — tezda qilingan qaror, va’da yoki taxmin",
-          "difficulty": 6.0
-        }
-      ]
-    },
-    {
-      "group": 63,
-      "difficulty": 3.92,
-      "sections": [
-        {
-          "lesson": 9,
-          "title": "Dars lug‘ati",
-          "difficulty": 1.8
-        },
-        {
-          "lesson": 16,
-          "title": "3. Ko‘plikdagi egalar",
+          "lesson": 18,
+          "title": "7. Otni takrorlamaslik uchun",
           "difficulty": 3.5
         },
         {
-          "lesson": 30,
-          "title": "3. What do you ...? — Harakat haqida",
+          "lesson": 43,
+          "title": "3. IN — oy, yil, fasl va kunning katta qismlari",
           "difficulty": 4.0
         },
         {
-          "lesson": 30,
+          "lesson": 48,
           "title": "Mashq 2 — So‘zlarni to‘g‘ri tartiblang",
-          "difficulty": 4.3
+          "difficulty": 4.8
         },
         {
-          "lesson": 32,
+          "lesson": 50,
+          "title": "5. Unli + Y: faqat -ed qo‘shiladi",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 51,
+          "title": "Mashq 3 — To‘g‘ri fe’lni tanlang",
+          "difficulty": 5.3
+        }
+      ]
+    },
+    {
+      "group": 44,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 6,
+          "title": "Dars lug‘ati",
+          "difficulty": 1.3
+        },
+        {
+          "lesson": 20,
+          "title": "Odat va takrorlanadigan ish",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 37,
+          "title": "4. How Much? — Narxni so‘rash",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 40,
+          "title": "2. Qobiliyat haqida so‘rash",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 47,
+          "title": "6. Her: Object Pronoun yoki Possessive Adjective?",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 53,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 66,
+          "title": "Mashqlarni qanday bajarish kerak?",
+          "difficulty": 6.8
+        }
+      ]
+    },
+    {
+      "group": 45,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 6,
+          "title": "1. Silent letter nima?",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 13,
+          "title": "3. A / An va The: eng sodda farq",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 21,
+          "title": "2. He / She / It dan tashqari bitta ism ham shu qoida",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 24,
+          "title": "5. Ism bilan savol tuzish",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 38,
           "title": "Dars lug‘ati",
           "difficulty": 2.8
         },
         {
-          "lesson": 53,
-          "title": "6. Was/Were yoki Did?",
+          "lesson": 55,
+          "title": "1. Did bilan savolga qisqa javob",
           "difficulty": 5.0
         },
         {
-          "lesson": 58,
-          "title": "5. Qoliplarni yonma-yon ko‘ramiz",
+          "lesson": 59,
+          "title": "2. Qisqa sifatlarga -er qo‘shamiz",
           "difficulty": 5.0
         },
         {
@@ -2796,452 +1988,42 @@
       ]
     },
     {
-      "group": 64,
-      "difficulty": 3.92,
+      "group": 46,
+      "difficulty": 3.98,
       "sections": [
         {
-          "lesson": 9,
-          "title": "1. Subject va pronoun nima?",
-          "difficulty": 3.0
+          "lesson": 6,
+          "title": "2. So‘z oxiridagi E",
+          "difficulty": 2.5
         },
         {
-          "lesson": 20,
-          "title": "Odat va takrorlanadigan ish",
+          "lesson": 13,
+          "title": "4. Bir narsani ikkinchi marta aytganda",
           "difficulty": 3.5
         },
         {
-          "lesson": 22,
-          "title": "6. To‘liq va qisqa shakllar",
+          "lesson": 24,
+          "title": "6. Savol tuzish tartibini eslab qoling",
           "difficulty": 4.0
-        },
-        {
-          "lesson": 37,
-          "title": "4. How Much? — Narxni so‘rash",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 43,
-          "title": "6. Ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 44,
-          "title": "Ko‘p uchraydigan xatolar",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 50,
-          "title": "8. -ED qanday aytiladi?",
-          "difficulty": 4.5
-        }
-      ]
-    },
-    {
-      "group": 65,
-      "difficulty": 3.92,
-      "sections": [
-        {
-          "lesson": 9,
-          "title": "2. Yetti asosiy ega olmoshi",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 11,
-          "title": "Mashq 1 — Inkor shakliga o‘tkazing",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 20,
-          "title": "10. Present Simple qaysi paytda ishlatiladi?",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 43,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 44,
-          "title": "6. Countable va Uncountable farqini tekshirish",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 50,
-          "title": "9. Darak gap qolipi",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 53,
-          "title": "Mashq 2 — To‘g‘ri fe’lni tanlang",
-          "difficulty": 5.3
-        }
-      ]
-    },
-    {
-      "group": 66,
-      "difficulty": 3.92,
-      "sections": [
-        {
-          "lesson": 9,
-          "title": "3. Gapiruvchi va tinglovchi",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 20,
-          "title": "9. Have va Be — alohida shakllar",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 21,
-          "title": "Mashq 1 — Fe’lning to‘g‘ri shaklini tanlang",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 30,
-          "title": "1. What — “Nima?”",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 37,
-          "title": "2. How Many? — Nechta?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 38,
-          "title": "Mashq 1 — Is yoki Are?",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 44,
-          "title": "5. Ba’zi otlar vaziyatga qarab farqlanishi mumkin",
-          "difficulty": 4.5
-        }
-      ]
-    },
-    {
-      "group": 67,
-      "difficulty": 3.92,
-      "sections": [
-        {
-          "lesson": 9,
-          "title": "I — men",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 11,
-          "title": "Mashq 3 — Qisqa javobni to‘ldiring",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 20,
-          "title": "8. Unli harf + Y: faqat -s",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 21,
-          "title": "Mashq 2 — Qavsdagi fe’lni to‘g‘ri yozing",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 37,
-          "title": "Uncountable — odatda donalab sanalmaydi",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 44,
-          "title": "4. Miqdorni o‘lchov bilan sanash",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 45,
-          "title": "2. Some bilan qaysi otlar keladi?",
-          "difficulty": 4.5
-        }
-      ]
-    },
-    {
-      "group": 68,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 9,
-          "title": "You — sen, siz yoki sizlar",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 12,
-          "title": "Mashq 1 — A yoki An?",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 20,
-          "title": "7. Undosh harf + Y: y → ies",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 21,
-          "title": "Mashq 3 — Xatolarni tuzating",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 37,
-          "title": "Countable — donalab sanash mumkin",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 44,
-          "title": "3. Uncountable — sanalmaydigan otlar",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 45,
-          "title": "1. Some — darak gaplarda",
-          "difficulty": 4.5
-        }
-      ]
-    },
-    {
-      "group": 69,
-      "difficulty": 3.92,
-      "sections": [
-        {
-          "lesson": 9,
-          "title": "4. He, She va It",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 12,
-          "title": "Mashq 2 — A/an qo‘ying yoki bo‘sh qoldiring",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 20,
-          "title": "6. Fe’lga -es qo‘shiladigan holatlar",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 21,
-          "title": "Mashq 4 — So‘zlardan gap tuzing",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 37,
-          "title": "1. Countable va Uncountable — sanaladigan va sanalmaydigan",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 44,
-          "title": "2. Birlikdagi sanaladigan otga aniqlovchi kerak",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 45,
-          "title": "5. Some va Any ni yonma-yon taqqoslang",
-          "difficulty": 4.5
-        }
-      ]
-    },
-    {
-      "group": 70,
-      "difficulty": 3.92,
-      "sections": [
-        {
-          "lesson": 9,
-          "title": "5. We va They",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 20,
-          "title": "5. He / She / It bilan fe’lga -s",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 22,
-          "title": "Mashq 1 — Don’t yoki Doesn’t?",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 32,
-          "title": "2. Who do you ...? — Kimni?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 36,
-          "title": "5. When va How long farqi",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 40,
-          "title": "Mashq 1 — Savolni to‘g‘ri tuzing",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 44,
-          "title": "1. Countable — sanaladigan otlar",
-          "difficulty": 4.5
-        }
-      ]
-    },
-    {
-      "group": 71,
-      "difficulty": 3.92,
-      "sections": [
-        {
-          "lesson": 9,
-          "title": "6. Ism yoki otni olmoshga almashtirish",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 20,
-          "title": "4. I / You / We / They bilan fe’l o‘zgarmaydi",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 21,
-          "title": "2. He / She / It dan tashqari bitta ism ham shu qoida",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 22,
-          "title": "Mashq 2 — Inkor shakliga o‘tkazing",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 28,
-          "title": "8. Ko‘p uchraydigan xatolar",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 36,
-          "title": "4. How long? — Qanchalik uzun?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 40,
-          "title": "Mashq 2 — Can yoki Can’t bilan javob bering",
-          "difficulty": 4.3
-        }
-      ]
-    },
-    {
-      "group": 72,
-      "difficulty": 3.92,
-      "sections": [
-        {
-          "lesson": 9,
-          "title": "7. Subject pronoun gapda qayerda turadi?",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 20,
-          "title": "3. Fe’lning oddiy shakli nima?",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 22,
-          "title": "3. I / You / We / They bilan Don’t",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 22,
-          "title": "Mashq 3 — Xatolarni tuzating",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 28,
-          "title": "7. Ba’zi fe’llar odatda Present Simple da ishlatiladi",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 36,
-          "title": "3. How long? — Qancha vaqt?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 41,
-          "title": "Mashq 1 — Fe’ldan buyruq tuzing",
-          "difficulty": 4.3
-        }
-      ]
-    },
-    {
-      "group": 73,
-      "difficulty": 3.92,
-      "sections": [
-        {
-          "lesson": 9,
-          "title": "8. Ko‘p uchraydigan xatolar",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 20,
-          "title": "2. Avval darak gapni tushunamiz",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 22,
-          "title": "4. He / She / It bilan Doesn’t",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 23,
-          "title": "6. Juda qisqa eslab qolish jadvali",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 28,
-          "title": "6. Gap tuzilishidagi farq",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 36,
-          "title": "2. Yoshga javob berish",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 41,
-          "title": "Mashq 2 — Buyruqni tarjima qiling",
-          "difficulty": 4.3
-        }
-      ]
-    },
-    {
-      "group": 74,
-      "difficulty": 3.92,
-      "sections": [
-        {
-          "lesson": 10,
-          "title": "Dars lug‘ati",
-          "difficulty": 1.8
-        },
-        {
-          "lesson": 16,
-          "title": "4. Ko‘plik, ammo -s bilan tugamasa",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 30,
-          "title": "4. What bilan ko‘p ishlatiladigan savollar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 30,
-          "title": "Mashq 1 — What bilan savolni to‘ldiring",
-          "difficulty": 4.3
         },
         {
           "lesson": 31,
+          "title": "5. Where savoliga qanday javob beramiz?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 37,
           "title": "Dars lug‘ati",
           "difficulty": 2.8
         },
         {
-          "lesson": 53,
-          "title": "5. Did yordamchi bo‘lsa, asosiy fe’l oddiy shaklda",
+          "lesson": 54,
+          "title": "5. Savol belgisi",
           "difficulty": 5.0
         },
         {
-          "lesson": 58,
-          "title": "4. Ko‘rinib turgan dalilga asoslangan taxmin",
+          "lesson": 59,
+          "title": "3. Sifat oxiri E bilan tugasa: faqat R",
           "difficulty": 5.0
         },
         {
@@ -3252,325 +2034,89 @@
       ]
     },
     {
-      "group": 75,
-      "difficulty": 3.92,
+      "group": 47,
+      "difficulty": 3.97,
       "sections": [
         {
-          "lesson": 10,
-          "title": "1. To be nima uchun kerak?",
-          "difficulty": 3.0
+          "lesson": 6,
+          "title": "3. MB oxirida B",
+          "difficulty": 2.5
         },
         {
-          "lesson": 20,
-          "title": "1. Present Simple nima?",
+          "lesson": 13,
+          "title": "5. Vaziyatdan qaysi narsa ekani ma’lum",
           "difficulty": 3.5
         },
         {
-          "lesson": 22,
-          "title": "5. Doesn’t dan keyin fe’lga -s qo‘shmaymiz",
+          "lesson": 24,
+          "title": "7. What, Where, When bilan savollar",
           "difficulty": 4.0
         },
         {
-          "lesson": 23,
-          "title": "Mashq 1 — Do yoki Does?",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 28,
-          "title": "5. Vaqt bildiradigan so‘zlar yordam beradi",
-          "difficulty": 4.5
+          "lesson": 31,
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 4.0
         },
         {
           "lesson": 36,
-          "title": "1. How old? — Necha yosh?",
-          "difficulty": 4.0
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
         },
         {
-          "lesson": 42,
-          "title": "Mashq 1 — Mos predlogni tanlang",
-          "difficulty": 4.3
-        }
-      ]
-    },
-    {
-      "group": 76,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 10,
-          "title": "2. To be ning uch shakli",
-          "difficulty": 3.0
+          "lesson": 54,
+          "title": "4. Past of To Be savollari boshqacha",
+          "difficulty": 5.0
         },
         {
-          "lesson": 19,
-          "title": "10. To be bilan hamma gap SVO bo‘lavermaydi",
-          "difficulty": 3.5
+          "lesson": 59,
+          "title": "4. Undosh + Y: Y → IER",
+          "difficulty": 5.0
         },
         {
-          "lesson": 23,
-          "title": "Mashq 2 — Yordamchi so‘zni tanlang va fe’lni tekshiring",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 25,
-          "title": "4. Ism yoki boshqa ega bilan qisqa javob",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 28,
-          "title": "4. Bir xil fe’l bilan taqqoslaymiz",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 35,
-          "title": "Ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 42,
-          "title": "Mashq 2 — O‘zbekchadan inglizchaga",
-          "difficulty": 4.3
-        }
-      ]
-    },
-    {
-      "group": 77,
-      "difficulty": 3.93,
-      "sections": [
-        {
-          "lesson": 10,
-          "title": "3. I bilan doimo AM",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 19,
-          "title": "8. Subject va Object olmoshlari",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 24,
-          "title": "Mashq 1 — Do yoki Does ni tanlang",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 25,
-          "title": "1. Do bilan berilgan savolga javob",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 28,
-          "title": "3. Present Continuous ni eslaymiz",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 35,
-          "title": "5. How keyingi darslarda boshqa so‘zlar bilan keladi",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 43,
-          "title": "Mashq 1 — At, On yoki In?",
-          "difficulty": 4.3
-        }
-      ]
-    },
-    {
-      "group": 78,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 10,
-          "title": "4. He, She va It bilan IS",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 19,
-          "title": "7. Object har doim ham bo‘lavermaydi",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 24,
-          "title": "9. Ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 24,
-          "title": "Mashq 2 — So‘zlarni savol tartibiga qo‘ying",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 28,
-          "title": "2. Present Simple ni eslaymiz",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 35,
-          "title": "4. How va What farqi",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 43,
-          "title": "Mashq 2 — To‘g‘ri variantni tanlang",
-          "difficulty": 4.3
-        }
-      ]
-    },
-    {
-      "group": 79,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 10,
-          "title": "5. You, We va They bilan ARE",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 14,
-          "title": "Eng qisqa xulosa",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 19,
-          "title": "6. Ingliz va o‘zbek tilidagi tartib",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 25,
-          "title": "Mashq 1 — Qisqa javobni to‘ldiring",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 30,
-          "title": "5. What savoliga javob qanday bo‘ladi?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 35,
-          "title": "3. How do you ...? — Ish qanday bajariladi?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 56,
-          "title": "1. Going to nimani bildiradi?",
+          "lesson": 64,
+          "title": "3. Would like barcha egalar bilan bir xil",
           "difficulty": 5.0
         }
       ]
     },
     {
-      "group": 80,
-      "difficulty": 3.94,
+      "group": 48,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 10,
-          "title": "6. Ism bilan to be ni tanlaymiz",
+          "lesson": 6,
+          "title": "4. GH yoki GHT birikmasi",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 9,
+          "title": "6. Ism yoki otni olmoshga almashtirish",
           "difficulty": 3.0
         },
         {
-          "lesson": 15,
-          "title": "Mashq 1 — Mos so‘zni tanlang",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 19,
-          "title": "5. Gapni ranglar bilan ajratamiz",
+          "lesson": 13,
+          "title": "6. “The” sifat bilan ham keladi",
           "difficulty": 3.5
         },
         {
-          "lesson": 22,
-          "title": "7. Darak va inkor shaklini taqqoslang",
+          "lesson": 24,
+          "title": "8. Oddiy fe’l va To Be savollarini farqlaymiz",
           "difficulty": 4.0
         },
         {
-          "lesson": 25,
-          "title": "Mashq 2 — To‘g‘ri javobni tanlang",
+          "lesson": 28,
+          "title": "1. Odat va hozirgi harakat",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 40,
+          "title": "Mashq 2 — Can yoki Can’t bilan javob bering",
           "difficulty": 4.3
         },
         {
-          "lesson": 35,
-          "title": "2. How + To Be — holat yoki sifat",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 57,
-          "title": "Hozir qabul qilingan qaror yoki va’da",
+          "lesson": 54,
+          "title": "3. Wh-question: What, Where, When bilan",
           "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 81,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 10,
-          "title": "7. To be bilan uch xil ma’lumot",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 15,
-          "title": "Mashq 2 — Egaga mos possessive adjective",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 19,
-          "title": "4. Object — to‘ldiruvchi",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 22,
-          "title": "8. To Be bilan adashtirmang",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 26,
-          "title": "Mashq 1 — Ma’nosiga mos ravishni tanlang",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 35,
-          "title": "1. How are you? — Ahvol so‘rash",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 57,
-          "title": "5. Qisqa shakllar",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 82,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 10,
-          "title": "Kim yoki nima ekanini aytamiz",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 15,
-          "title": "Mashq 3 — Xatoni to‘g‘rilang",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 19,
-          "title": "3. Verb — fe’l",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 22,
-          "title": "9. Ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 26,
-          "title": "Mashq 2 — Ravishni to‘g‘ri joyga qo‘ying",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 34,
-          "title": "Ko‘p uchraydigan xatolar",
-          "difficulty": 4.0
         },
         {
           "lesson": 59,
@@ -3580,269 +2126,248 @@
       ]
     },
     {
-      "group": 83,
-      "difficulty": 3.94,
+      "group": 49,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 10,
-          "title": "Qandayligini aytamiz",
+          "lesson": 6,
+          "title": "5. So‘z boshidagi K va W",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 8,
+          "title": "5. Undosh + Y: y → ies",
           "difficulty": 3.0
-        },
-        {
-          "lesson": 15,
-          "title": "Eng qisqa xulosa",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 19,
-          "title": "2. Subject — ega",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 23,
-          "title": "1. Do va Does kim bilan ishlatiladi?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 26,
-          "title": "Mashq 3 — O‘zbekchadan inglizchaga",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 34,
-          "title": "5. What va Why farqi",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 58,
-          "title": "2. Will — hozir qabul qilingan qaror",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 84,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 10,
-          "title": "Qayerda ekanini aytamiz",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 16,
-          "title": "Mashq 1 — ’s yoki s’ qo‘ying",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 19,
-          "title": "1. Oddiy inglizcha gap qanday tuziladi?",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 23,
-          "title": "2. Do / Does nimaga yordam beradi?",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 27,
-          "title": "Mashq 1 — Am, Is yoki Are?",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 34,
-          "title": "4. Because — “chunki”",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 59,
-          "title": "3. Sifat oxiri E bilan tugasa: faqat R",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 85,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 10,
-          "title": "8. To‘liq va qisqa shakllar",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 16,
-          "title": "Mashq 2 — To‘g‘ri shaklni tanlang",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 18,
-          "title": "10. “Its” haqida",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 23,
-          "title": "3. Yordamchi DO bilan asosiy DO ni farqlaymiz",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 27,
-          "title": "Mashq 2 — Fe’lga -ing qo‘shing",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 34,
-          "title": "3. Do / Does bilan Why savoli",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 59,
-          "title": "2. Qisqa sifatlarga -er qo‘shamiz",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 86,
-      "difficulty": 3.94,
-      "sections": [
-        {
-          "lesson": 10,
-          "title": "9. To be oddiy harakat fe’li emas",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 16,
-          "title": "Mashq 3 — Ma’noga mos shaklni tanlang",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 18,
-          "title": "9. Apostrof qo‘shilmaydi",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 23,
-          "title": "4. Does bilan fe’lning shakli",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 27,
-          "title": "Mashq 3 — Gapni to‘ldiring",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 34,
-          "title": "2. To Be bilan Why savoli",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 59,
-          "title": "1. Qiyoslashda Than",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 87,
-      "difficulty": 3.93,
-      "sections": [
-        {
-          "lesson": 10,
-          "title": "10. Ko‘p uchraydigan xatolar",
-          "difficulty": 3.0
-        },
-        {
-          "lesson": 16,
-          "title": "Eng qisqa xulosa",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 18,
-          "title": "8. Possessive adjective va pronoun farqi",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 23,
-          "title": "5. Do / Does be fe’li bilan ishlamaydi",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 29,
-          "title": "Mashq 1 — Savol so‘zini ma’nosi bilan moslang",
-          "difficulty": 4.3
-        },
-        {
-          "lesson": 34,
-          "title": "1. Why — “Nega?”",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 58,
-          "title": "7. Ko‘p uchraydigan xatolar",
-          "difficulty": 5.0
-        }
-      ]
-    },
-    {
-      "group": 88,
-      "difficulty": 3.93,
-      "sections": [
-        {
-          "lesson": 11,
-          "title": "1. Inkor gap nima?",
-          "difficulty": 3.5
         },
         {
           "lesson": 13,
-          "title": "Mashq 1 — A, An, The yoki bo‘sh joy",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 15,
-          "title": "1. Barcha possessive adjectives",
+          "title": "7. The birlik, ko‘plik va sanalmaydigan ot bilan",
           "difficulty": 3.5
         },
         {
-          "lesson": 20,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.3
-        },
-        {
-          "lesson": 27,
-          "title": "4. Ko‘p fe’llarga -ing qo‘shamiz",
+          "lesson": 24,
+          "title": "9. Ko‘p uchraydigan xatolar",
           "difficulty": 4.0
         },
         {
-          "lesson": 37,
-          "title": "3. How Much? — Qancha?",
-          "difficulty": 4.0
+          "lesson": 40,
+          "title": "Mashq 1 — Savolni to‘g‘ri tuzing",
+          "difficulty": 4.3
         },
         {
-          "lesson": 60,
-          "title": "Mashq 1 — Superlative shaklni yozing",
-          "difficulty": 5.3
+          "lesson": 44,
+          "title": "4. Miqdorni o‘lchov bilan sanash",
+          "difficulty": 4.5
         },
         {
-          "lesson": 62,
-          "title": "1. And — va",
+          "lesson": 54,
+          "title": "2. Savolda fe’lning oddiy shakli",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 59,
+          "title": "6. Uzun sifatlar bilan More",
           "difficulty": 5.0
         }
       ]
     },
     {
-      "group": 89,
-      "difficulty": 3.93,
+      "group": 50,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 12,
-          "title": "1. Article — artikl nima?",
+          "lesson": 6,
+          "title": "6. L harfi: could, would, should",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 13,
+          "title": "8. Birlikdagi otni yolg‘iz qoldirmaymiz",
           "difficulty": 3.5
         },
         {
-          "lesson": 17,
-          "title": "Mashq 2 — Inkor shakliga o‘tkazing",
-          "difficulty": 3.8
+          "lesson": 25,
+          "title": "1. Do bilan berilgan savolga javob",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 33,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 44,
+          "title": "5. Ba’zi otlar vaziyatga qarab farqlanishi mumkin",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 50,
+          "title": "1. Regular verb — muntazam fe’l",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 54,
+          "title": "1. Ha yoki yo‘q bilan javob beriladigan savol",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 59,
+          "title": "7. Muhim istisnolar",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 51,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 6,
+          "title": "7. Ayrim so‘zlarda N jim bo‘ladi",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 13,
+          "title": "9. Qachon “The” ishlatmaymiz?",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 25,
+          "title": "2. Does bilan berilgan savolga javob",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 32,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 44,
+          "title": "6. Countable va Uncountable farqini tekshirish",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 48,
+          "title": "5. Sifat am/is/are dan keyin keladi",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 53,
+          "title": "6. Was/Were yoki Did?",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 59,
+          "title": "8. Bitta sifatga bitta qiyoslash usuli",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 52,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 6,
+          "title": "8. Ayrim chet tillardan kirgan so‘zlardagi T",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 13,
+          "title": "Umuman, barcha narsalar haqida gapirsak",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 25,
+          "title": "3. Savoldagi you javobda I ga o‘zgaradi",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 31,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 44,
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 48,
+          "title": "4. Sifat otning oldida keladi",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 53,
+          "title": "5. Did yordamchi bo‘lsa, asosiy fe’l oddiy shaklda",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 60,
+          "title": "1. Superlative qachon ishlatiladi?",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 53,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 6,
+          "title": "9. Yozilishi va talaffuzi turlicha bo‘lishi mumkin",
+          "difficulty": 2.5
+        },
+        {
+          "lesson": 13,
+          "title": "Aynan qaysi narsalar ekani ma’lum bo‘lsa, “The” ishlatamiz",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 25,
+          "title": "4. Ism yoki boshqa ega bilan qisqa javob",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 30,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 37,
+          "title": "Countable — donalab sanash mumkin",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 53,
+          "title": "4. Did barcha egalar bilan bir xil",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 55,
+          "title": "5. Was / Were savollarining qisqa javobi",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 60,
+          "title": "2. Qisqa sifatlar: -est",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 54,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 6,
+          "title": "10. Mashqlar",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 8,
+          "title": "9. Ko‘plikda A / An ishlatilmaydi",
+          "difficulty": 3.0
         },
         {
           "lesson": 18,
@@ -3850,8 +2375,8 @@
           "difficulty": 3.5
         },
         {
-          "lesson": 33,
-          "title": "4. When va Where farqi",
+          "lesson": 43,
+          "title": "4. Uchalasini taqqoslang",
           "difficulty": 4.0
         },
         {
@@ -3860,30 +2385,527 @@
           "difficulty": 4.8
         },
         {
-          "lesson": 51,
-          "title": "1. Irregular verb nima?",
-          "difficulty": 5.0
+          "lesson": 50,
+          "title": "6. Qisqa fe’l oxiridagi undosh ikki marta yozilishi mumkin",
+          "difficulty": 4.5
         },
         {
-          "lesson": 67,
-          "title": "2. 11 dan 20 gacha — maxsus so‘zlar",
-          "difficulty": 3.0
+          "lesson": 52,
+          "title": "Mashq 1 — Didn’t qo‘ying",
+          "difficulty": 5.3
         }
       ]
     },
     {
-      "group": 90,
-      "difficulty": 3.93,
+      "group": 55,
+      "difficulty": 3.98,
       "sections": [
         {
-          "lesson": 12,
-          "title": "2. A / An qachon ishlatiladi?",
+          "lesson": 7,
+          "title": "Dars lug‘ati",
+          "difficulty": 1.8
+        },
+        {
+          "lesson": 16,
+          "title": "1. Bitta odam yoki narsa egasi bo‘lsa",
           "difficulty": 3.5
         },
         {
-          "lesson": 17,
-          "title": "Mashq 3 — Do yoki Does?",
+          "lesson": 16,
+          "title": "Mashq 1 — ’s yoki s’ qo‘ying",
           "difficulty": 3.8
+        },
+        {
+          "lesson": 23,
+          "title": "Mashq 1 — Do yoki Does?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 27,
+          "title": "Mashq 1 — Am, Is yoki Are?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 28,
+          "title": "2. Present Simple ni eslaymiz",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 43,
+          "title": "Mashq 1 — At, On yoki In?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 62,
+          "title": "Mashq 2 — Ikki gapni bitta gapga birlashtiring",
+          "difficulty": 5.3
+        }
+      ]
+    },
+    {
+      "group": 56,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 7,
+          "title": "1. Noun — ot nima?",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 10,
+          "title": "6. Ism bilan to be ni tanlaymiz",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 20,
+          "title": "2. Avval darak gapni tushunamiz",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 36,
+          "title": "2. Yoshga javob berish",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 37,
+          "title": "Mashq 1 — Many yoki Much?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 41,
+          "title": "4. Inkor buyruq: Don’t + fe’l",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 65,
+          "title": "3. Present Continuous — hozir davom etayotgan ish",
+          "difficulty": 6.0
+        }
+      ]
+    },
+    {
+      "group": 57,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 7,
+          "title": "2. Oddiy va atoqli otlar",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 10,
+          "title": "7. To be bilan uch xil ma’lumot",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 20,
+          "title": "1. Present Simple nima?",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 36,
+          "title": "1. How old? — Necha yosh?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 37,
+          "title": "Mashq 2 — Do yoki Does?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 41,
+          "title": "5. Buyruq, savol va darak gap farqi",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 65,
+          "title": "4. Present Simple va Present Continuous",
+          "difficulty": 6.0
+        }
+      ]
+    },
+    {
+      "group": 58,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 7,
+          "title": "3. Pronoun — olmosh nima?",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 10,
+          "title": "Kim yoki nima ekanini aytamiz",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 19,
+          "title": "10. To be bilan hamma gap SVO bo‘lavermaydi",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 35,
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 37,
+          "title": "Mashq 3 — Savol so‘zini tanlang",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 41,
+          "title": "6. Qadam-baqadam tuzamiz",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 65,
+          "title": "5. Past of To Be — Was / Were",
+          "difficulty": 6.0
+        }
+      ]
+    },
+    {
+      "group": 59,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 7,
+          "title": "4. Subject pronouns — ega olmoshlari",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 10,
+          "title": "Qandayligini aytamiz",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 19,
+          "title": "8. Subject va Object olmoshlari",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 19,
+          "title": "Mashq 3 — O‘zbekchadan inglizchaga",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 41,
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 49,
+          "title": "Qanday edi?",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 65,
+          "title": "6. Past Simple — o‘tgan zamondagi harakat",
+          "difficulty": 6.0
+        }
+      ]
+    },
+    {
+      "group": 60,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 7,
+          "title": "5. Otni mos olmoshga almashtiramiz",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 10,
+          "title": "Qayerda ekanini aytamiz",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 19,
+          "title": "7. Object har doim ham bo‘lavermaydi",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 20,
+          "title": "Mashq 1 — To‘g‘ri fe’lni tanlang",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 42,
+          "title": "1. Gapda qayerda ekanini qanday aytamiz?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 49,
+          "title": "Qayerda edi?",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 65,
+          "title": "Muntazam fe’l: -ed qo‘shiladi",
+          "difficulty": 6.0
+        }
+      ]
+    },
+    {
+      "group": 61,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 7,
+          "title": "7. Ko‘p uchraydigan xatolar",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 19,
+          "title": "5. Gapni ranglar bilan ajratamiz",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 22,
+          "title": "3. I / You / We / They bilan Don’t",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 35,
+          "title": "2. How + To Be — holat yoki sifat",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 42,
+          "title": "3. In — ichida",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 49,
+          "title": "4. Inkor: Was Not / Were Not",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 65,
+          "title": "Dars lug‘ati",
+          "difficulty": 4.8
+        }
+      ]
+    },
+    {
+      "group": 62,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 8,
+          "title": "Dars lug‘ati",
+          "difficulty": 1.8
+        },
+        {
+          "lesson": 15,
+          "title": "Eng qisqa xulosa",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 16,
+          "title": "2. Apostrof qayerga qo‘yiladi?",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 26,
+          "title": "Mashq 3 — O‘zbekchadan inglizchaga",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 28,
+          "title": "3. Present Continuous ni eslaymiz",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 32,
+          "title": "Mashq 1 — Mos savol tuzing",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 42,
+          "title": "Mashq 2 — O‘zbekchadan inglizchaga",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 62,
+          "title": "Mashq 1 — And, But yoki Or?",
+          "difficulty": 5.3
+        }
+      ]
+    },
+    {
+      "group": 63,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 8,
+          "title": "1. Singular — birlik",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 19,
+          "title": "4. Object — to‘ldiruvchi",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 30,
+          "title": "Mashq 1 — What bilan savolni to‘ldiring",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 35,
+          "title": "1. How are you? — Ahvol so‘rash",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 42,
+          "title": "4. On va Under",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 47,
+          "title": "7. Ko‘p uchraydigan xatolar",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 49,
+          "title": "5. Savol: Was/Were gap boshiga chiqadi",
+          "difficulty": 4.5
+        }
+      ]
+    },
+    {
+      "group": 64,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 8,
+          "title": "2. Plural — ko‘plik",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 19,
+          "title": "3. Verb — fe’l",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 30,
+          "title": "Mashq 2 — So‘zlarni to‘g‘ri tartiblang",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 34,
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 42,
+          "title": "5. Next to, Behind, In front of",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 48,
+          "title": "1. Sifat nima haqida ma’lumot beradi?",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 49,
+          "title": "6. Qisqa javoblar",
+          "difficulty": 4.5
+        }
+      ]
+    },
+    {
+      "group": 65,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 8,
+          "title": "3. Son va ot bir-biriga mos bo‘lsin",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 19,
+          "title": "2. Subject — ega",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 31,
+          "title": "Mashq 1 — Where bilan savolni to‘ldiring",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 34,
+          "title": "5. What va Why farqi",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 42,
+          "title": "6. Between va Near",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 48,
+          "title": "2. Qarama-qarshi ma’noli sifatlar",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 49,
+          "title": "7. Was/Were bilan Did ishlatmaymiz",
+          "difficulty": 4.5
+        }
+      ]
+    },
+    {
+      "group": 66,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 8,
+          "title": "4. S, SH, CH, X bilan tugagan otlar: -es",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 19,
+          "title": "1. Oddiy inglizcha gap qanday tuziladi?",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 31,
+          "title": "Mashq 2 — Do yoki Does ni qo‘ying",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 34,
+          "title": "4. Because — “chunki”",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 39,
+          "title": "Mashq 2 — Gapni Can bilan to‘ldiring",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 42,
+          "title": "7. Where bilan savol beramiz",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 49,
+          "title": "Mashq 3 — Savol shakliga o‘tkazing",
+          "difficulty": 4.8
+        }
+      ]
+    },
+    {
+      "group": 67,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 8,
+          "title": "10. Qoidalarni qisqa jadvalda",
+          "difficulty": 3.0
         },
         {
           "lesson": 18,
@@ -3891,8 +2913,13 @@
           "difficulty": 3.5
         },
         {
-          "lesson": 33,
-          "title": "3. When savoliga vaqt bilan javob beramiz",
+          "lesson": 21,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 43,
+          "title": "5. This / Next / Every bilan",
           "difficulty": 4.0
         },
         {
@@ -3901,30 +2928,158 @@
           "difficulty": 4.8
         },
         {
-          "lesson": 51,
-          "title": "2. Ko‘p ishlatiladigan irregular verbs",
-          "difficulty": 5.0
+          "lesson": 50,
+          "title": "7. Kechagi yoki tugagan vaqt",
+          "difficulty": 4.5
         },
         {
-          "lesson": 67,
-          "title": "3. O‘nliklar: 20, 30... 100",
-          "difficulty": 3.0
+          "lesson": 52,
+          "title": "Mashq 2 — Inkor shakliga o‘tkazing",
+          "difficulty": 5.3
         }
       ]
     },
     {
-      "group": 91,
-      "difficulty": 3.93,
+      "group": 68,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 12,
-          "title": "3. Sanaladigan ot nima?",
-          "difficulty": 3.5
+          "lesson": 8,
+          "title": "Mashq 1 — Birlikmi yoki ko‘plikmi?",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 20,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.3
+        },
+        {
+          "lesson": 35,
+          "title": "3. How do you ...? — Ish qanday bajariladi?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 42,
+          "title": "2. Eng ko‘p ishlatiladigan joy predloglari",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 49,
+          "title": "3. O‘tgan vaqtni bildiradigan iboralar",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 57,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 65,
+          "title": "Irregular fe’l: shakli o‘zgaradi",
+          "difficulty": 6.0
+        }
+      ]
+    },
+    {
+      "group": 69,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 8,
+          "title": "Mashq 2 — Ko‘plik shaklini yozing",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 13,
+          "title": "Mashq 1 — A, An, The yoki bo‘sh joy",
+          "difficulty": 3.8
         },
         {
           "lesson": 17,
-          "title": "Mashq 4 — Qisqa javob yozing",
+          "title": "5. Doesn’t dan keyin Have ishlatamiz",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 22,
+          "title": "Mashq 2 — Inkor shakliga o‘tkazing",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 28,
+          "title": "Mashq 3 — Xatoni to‘g‘rilang",
+          "difficulty": 4.8
+        },
+        {
+          "lesson": 32,
+          "title": "1. Who is ...? — “U kim?”",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 35,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 56,
+          "title": "Mashq 2 — So‘zlarni tartibga soling",
+          "difficulty": 5.3
+        }
+      ]
+    },
+    {
+      "group": 70,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 9,
+          "title": "Dars lug‘ati",
+          "difficulty": 1.8
+        },
+        {
+          "lesson": 15,
+          "title": "Mashq 3 — Xatoni to‘g‘rilang",
           "difficulty": 3.8
+        },
+        {
+          "lesson": 16,
+          "title": "3. Ko‘plikdagi egalar",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 25,
+          "title": "Mashq 1 — Qisqa javobni to‘ldiring",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 26,
+          "title": "Mashq 2 — Ravishni to‘g‘ri joyga qo‘ying",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 28,
+          "title": "4. Bir xil fe’l bilan taqqoslaymiz",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 42,
+          "title": "Mashq 1 — Mos predlogni tanlang",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 61,
+          "title": "Mashq 2 — A yoki An ni tanlang",
+          "difficulty": 5.3
+        }
+      ]
+    },
+    {
+      "group": 71,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 9,
+          "title": "1. Subject va pronoun nima?",
+          "difficulty": 3.0
         },
         {
           "lesson": 18,
@@ -3932,8 +3087,13 @@
           "difficulty": 3.5
         },
         {
-          "lesson": 33,
-          "title": "2. When + Do / Does — harakat qachon?",
+          "lesson": 22,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 43,
+          "title": "6. Ko‘p uchraydigan xatolar",
           "difficulty": 4.0
         },
         {
@@ -3942,29 +3102,29 @@
           "difficulty": 4.8
         },
         {
-          "lesson": 51,
-          "title": "3. Barcha egalar bilan o‘tgan shakl bir xil",
-          "difficulty": 5.0
+          "lesson": 50,
+          "title": "8. -ED qanday aytiladi?",
+          "difficulty": 4.5
         },
         {
-          "lesson": 67,
-          "title": "4. 21 dan 99 gacha — bitta qoida",
-          "difficulty": 3.0
+          "lesson": 53,
+          "title": "Mashq 1 — Did yordamchimi yoki asosiy fe’lmi?",
+          "difficulty": 5.3
         }
       ]
     },
     {
-      "group": 92,
-      "difficulty": 3.93,
+      "group": 72,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 12,
-          "title": "4. A va An farqi harfga emas, tovushga bog‘liq",
-          "difficulty": 3.5
+          "lesson": 9,
+          "title": "2. Yetti asosiy ega olmoshi",
+          "difficulty": 3.0
         },
         {
-          "lesson": 17,
-          "title": "Eng qisqa xulosa",
+          "lesson": 11,
+          "title": "Mashq 1 — Inkor shakliga o‘tkazing",
           "difficulty": 3.8
         },
         {
@@ -3978,91 +3138,848 @@
           "difficulty": 4.0
         },
         {
+          "lesson": 35,
+          "title": "Mashq 2 — Savolga mos javobni tanlang",
+          "difficulty": 4.3
+        },
+        {
           "lesson": 46,
           "title": "Mashq 2 — Xatoni tuzating",
           "difficulty": 4.8
         },
         {
-          "lesson": 51,
-          "title": "4. Irregular fe’llar bilan darak gaplar",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 67,
-          "title": "5. Telefon raqam va 100",
-          "difficulty": 3.0
-        }
-      ]
-    },
-    {
-      "group": 93,
-      "difficulty": 3.93,
-      "sections": [
-        {
-          "lesson": 16,
-          "title": "5. ’s va egalik qilinayotgan narsa",
-          "difficulty": 3.5
-        },
-        {
-          "lesson": 28,
-          "title": "1. Odat va hozirgi harakat",
+          "lesson": 50,
+          "title": "9. Darak gap qolipi",
           "difficulty": 4.5
-        },
-        {
-          "lesson": 30,
-          "title": "Dars lug‘ati",
-          "difficulty": 2.8
-        },
-        {
-          "lesson": 52,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.8
-        },
-        {
-          "lesson": 53,
-          "title": "4. Did barcha egalar bilan bir xil",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 58,
-          "title": "3. Will — va’da yoki fikrga asoslangan taxmin",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 64,
-          "title": "3. Would like barcha egalar bilan bir xil",
-          "difficulty": 5.0
-        },
-        {
-          "lesson": 67,
-          "title": "Dars lug‘ati",
-          "difficulty": 1.8
         }
       ]
     },
     {
-      "group": 94,
-      "difficulty": 3.93,
+      "group": 73,
+      "difficulty": 3.99,
       "sections": [
         {
-          "lesson": 17,
-          "title": "Mashq 1 — Have yoki Has?",
+          "lesson": 9,
+          "title": "3. Gapiruvchi va tinglovchi",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 11,
+          "title": "Mashq 2 — Savol shakliga o‘tkazing",
           "difficulty": 3.8
         },
         {
           "lesson": 18,
-          "title": "7. Otni takrorlamaslik uchun",
+          "title": "2. My va Mine",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 21,
+          "title": "Mashq 1 — Fe’lning to‘g‘ri shaklini tanlang",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 32,
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 36,
+          "title": "Mashq 1 — How old yoki How long?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 57,
+          "title": "1. Will bilan darak gap",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 74,
+      "difficulty": 3.99,
+      "sections": [
+        {
+          "lesson": 9,
+          "title": "I — men",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 11,
+          "title": "Mashq 3 — Qisqa javobni to‘ldiring",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 18,
+          "title": "1. Barcha possessive pronouns",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 21,
+          "title": "Mashq 2 — Qavsdagi fe’lni to‘g‘ri yozing",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 32,
+          "title": "5. Who va What farqi",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 36,
+          "title": "Mashq 2 — To Be, Do yoki Does?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 57,
+          "title": "2. Will barcha egalar bilan bir xil",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 75,
+      "difficulty": 3.96,
+      "sections": [
+        {
+          "lesson": 9,
+          "title": "You — sen, siz yoki sizlar",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 12,
+          "title": "Mashq 1 — A yoki An?",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 17,
+          "title": "8. Uch shaklni taqqoslang",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 21,
+          "title": "Mashq 3 — Xatolarni tuzating",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 32,
+          "title": "4. Who savoliga javob",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 45,
+          "title": "Mashq 1 — Some yoki Any?",
+          "difficulty": 4.8
+        },
+        {
+          "lesson": 49,
+          "title": "1. Was yoki Were?",
+          "difficulty": 4.5
+        }
+      ]
+    },
+    {
+      "group": 76,
+      "difficulty": 3.96,
+      "sections": [
+        {
+          "lesson": 9,
+          "title": "4. He, She va It",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 12,
+          "title": "Mashq 2 — A/an qo‘ying yoki bo‘sh qoldiring",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 17,
+          "title": "7. Qisqa javoblar",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 21,
+          "title": "Mashq 4 — So‘zlardan gap tuzing",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 32,
+          "title": "3. Who gapning egasi bo‘lsa",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 44,
+          "title": "Mashq 2 — To‘g‘ri shaklni tanlang",
+          "difficulty": 4.8
+        },
+        {
+          "lesson": 49,
+          "title": "2. Was/Were bilan kimligini, holatini yoki joyini aytamiz",
+          "difficulty": 4.5
+        }
+      ]
+    },
+    {
+      "group": 77,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 9,
+          "title": "5. We va They",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 12,
+          "title": "Mashq 3 — To‘g‘ri variantni tanlang",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 17,
+          "title": "6. Savol: Do / Does ... have?",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 22,
+          "title": "Mashq 1 — Don’t yoki Doesn’t?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 32,
+          "title": "2. Who do you ...? — Kimni?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 44,
+          "title": "Mashq 1 — Countable yoki Uncountable?",
+          "difficulty": 4.8
+        },
+        {
+          "lesson": 49,
+          "title": "Kim yoki nima edi?",
+          "difficulty": 4.5
+        }
+      ]
+    },
+    {
+      "group": 78,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 9,
+          "title": "7. Subject pronoun gapda qayerda turadi?",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 10,
+          "title": "Mashq 2 — Xatolarni tuzating",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 13,
+          "title": "Mashq 2 — To‘g‘ri variantni tanlang",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 17,
+          "title": "4. Inkor gap: Don’t have / Doesn’t have",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 22,
+          "title": "Mashq 3 — Xatolarni tuzating",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 28,
+          "title": "Mashq 2 — Qavsdagi fe’lni to‘g‘ri shaklda yozing",
+          "difficulty": 4.8
+        },
+        {
+          "lesson": 57,
+          "title": "Mashq 1 — Will + fe’l",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 58,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
+        }
+      ]
+    },
+    {
+      "group": 79,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 9,
+          "title": "8. Ko‘p uchraydigan xatolar",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 13,
+          "title": "Mashq 3 — Xatoni topib to‘g‘rilang",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 17,
+          "title": "3. Ko‘plikdagi ega bilan Have",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 23,
+          "title": "6. Juda qisqa eslab qolish jadvali",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 28,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 28,
+          "title": "Mashq 1 — Present Simple yoki Present Continuous?",
+          "difficulty": 4.8
+        },
+        {
+          "lesson": 57,
+          "title": "Mashq 2 — Xatolarni tuzating",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 59,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8
+        }
+      ]
+    },
+    {
+      "group": 80,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 10,
+          "title": "Dars lug‘ati",
+          "difficulty": 1.8
+        },
+        {
+          "lesson": 15,
+          "title": "Mashq 2 — Egaga mos possessive adjective",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 16,
+          "title": "4. Ko‘plik, ammo -s bilan tugamasa",
           "difficulty": 3.5
         },
         {
           "lesson": 24,
-          "title": "1. Ha yoki yo‘q deb javob beriladigan savol",
+          "title": "Mashq 2 — So‘zlarni savol tartibiga qo‘ying",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 26,
+          "title": "Mashq 1 — Ma’nosiga mos ravishni tanlang",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 28,
+          "title": "5. Vaqt bildiradigan so‘zlar yordam beradi",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 41,
+          "title": "Mashq 2 — Buyruqni tarjima qiling",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 61,
+          "title": "Mashq 1 — So‘zlarni to‘g‘ri tartiblang",
+          "difficulty": 5.3
+        }
+      ]
+    },
+    {
+      "group": 81,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 10,
+          "title": "2. To be ning uch shakli",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 13,
+          "title": "Eng muhim xulosalar",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 14,
+          "title": "Mashq 1 — To‘g‘ri so‘zni tanlang",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 23,
+          "title": "Mashq 2 — Yordamchi so‘zni tanlang va fe’lni tekshiring",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 31,
+          "title": "3. Where + Do / Does — harakat qayerda?",
           "difficulty": 4.0
         },
         {
-          "lesson": 29,
-          "title": "Mashq 2 — Bo‘sh joyga mos savol so‘zini qo‘ying",
+          "lesson": 43,
+          "title": "Mashq 2 — To‘g‘ri variantni tanlang",
           "difficulty": 4.3
+        },
+        {
+          "lesson": 45,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 58,
+          "title": "Mashq 2 — Going to yoki Will qolipini yozing",
+          "difficulty": 5.3
+        }
+      ]
+    },
+    {
+      "group": 82,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 10,
+          "title": "3. I bilan doimo AM",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 14,
+          "title": "Mashq 2 — Is yoki Are?",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 16,
+          "title": "8. Ko‘p uchraydigan xatolar",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 30,
+          "title": "5. What savoliga javob qanday bo‘ladi?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 31,
+          "title": "2. At, In, On bilan joy aytish",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 46,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 59,
+          "title": "Mashq 1 — Qiyosiy shaklni yozing",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 64,
+          "title": "6. Taklifga javob berish",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 83,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 10,
+          "title": "4. He, She va It bilan IS",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 14,
+          "title": "Mashq 3 — O‘zbekchadan inglizchaga",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 16,
+          "title": "7. ’s har doim egalikni bildirmaydi",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 30,
+          "title": "4. What bilan ko‘p ishlatiladigan savollar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 31,
+          "title": "1. Where + To Be — qayerdaligini so‘rash",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 47,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 59,
+          "title": "Mashq 2 — Than bilan gapni to‘ldiring",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 64,
+          "title": "5. Would you like...? — Taklif qilish",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 84,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 10,
+          "title": "5. You, We va They bilan ARE",
+          "difficulty": 3.0
+        },
+        {
+          "lesson": 14,
+          "title": "Eng qisqa xulosa",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 16,
+          "title": "6. Possessive ’s va my / your / his...",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 30,
+          "title": "3. What do you ...? — Harakat haqida",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 30,
+          "title": "6. Ko‘p uchraydigan xatolar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 48,
+          "title": "Dars lug‘ati",
+          "difficulty": 3.3
+        },
+        {
+          "lesson": 60,
+          "title": "Mashq 1 — Superlative shaklni yozing",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 64,
+          "title": "4. Qisqa shakl: I’d like",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 85,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 11,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.3
+        },
+        {
+          "lesson": 14,
+          "title": "1. To‘rtta ko‘rsatish so‘zi",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 25,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 26,
+          "title": "1. Adverb of frequency nima?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 37,
+          "title": "7. Ko‘p uchraydigan xatolar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 52,
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 54,
+          "title": "Mashq 2 — Did yoki Was/Were?",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 60,
+          "title": "6. Uzun sifatlar: The Most",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 86,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 12,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.3
+        },
+        {
+          "lesson": 14,
+          "title": "2. This — yaqin va bitta",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 24,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 26,
+          "title": "2. Tez-tezlik ravishlari",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 35,
+          "title": "4. How va What farqi",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 52,
+          "title": "6. O‘tgan zamon ko‘rsatkichlari bilan",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 54,
+          "title": "Mashq 1 — Darak gapni savolga aylantiring",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 60,
+          "title": "7. Noto‘g‘ri shaklli sifatlar",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 87,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 13,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.3
+        },
+        {
+          "lesson": 14,
+          "title": "3. That — uzoq va bitta",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 23,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 26,
+          "title": "3. Oddiy fe’l bilan: ravish fe’ldan oldin",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 35,
+          "title": "5. How keyingi darslarda boshqa so‘zlar bilan keladi",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 52,
+          "title": "5. Past of To Be bilan aralashtirmang",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 53,
+          "title": "Mashq 2 — To‘g‘ri fe’lni tanlang",
+          "difficulty": 5.3
+        },
+        {
+          "lesson": 60,
+          "title": "8. Superlative bilan The ni unutmang",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 88,
+      "difficulty": 3.97,
+      "sections": [
+        {
+          "lesson": 14,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.3
+        },
+        {
+          "lesson": 14,
+          "title": "4. These — yaqin va ko‘p",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 19,
+          "title": "Mashq 2 — So‘zlarni to‘g‘ri tartibga qo‘ying",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 26,
+          "title": "4. To Be bilan: ravish am/is/are dan keyin",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 33,
+          "title": "2. When + Do / Does — harakat qachon?",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 35,
+          "title": "Mashq 1 — Do, Does yoki To Be?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 52,
+          "title": "4. Did not va Didn’t",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 61,
+          "title": "1. Sifat otning oldidan keladi",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 89,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 14,
+          "title": "5. Those — uzoq va ko‘p",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 15,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.3
+        },
+        {
+          "lesson": 19,
+          "title": "Mashq 1 — Subject, Verb va Objectni toping",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 26,
+          "title": "5. Har kuni / haftada bir marta kabi iboralar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 33,
+          "title": "3. When savoliga vaqt bilan javob beramiz",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 34,
+          "title": "Mashq 2 — Savolga Because bilan javob bering",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 52,
+          "title": "3. Didn’t dan keyin fe’l oddiy shaklga qaytadi",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 61,
+          "title": "2. A / An sifatdan oldin keladi",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 90,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 14,
+          "title": "6. This is / That is, These are / Those are",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 16,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.3
+        },
+        {
+          "lesson": 19,
+          "title": "9. Gap tuzishni qadam-baqadam mashq qilamiz",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 26,
+          "title": "6. Ravish joyida ko‘p uchraydigan xatolar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 33,
+          "title": "4. When va Where farqi",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 34,
+          "title": "Mashq 1 — To Be yoki Do / Does?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 52,
+          "title": "2. Did barcha egalar bilan bir xil",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 61,
+          "title": "3. The, My, This ham sifatdan oldin turadi",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 91,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 14,
+          "title": "7. Ot oldidan yoki o‘zi",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 17,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.3
+        },
+        {
+          "lesson": 18,
+          "title": "Eng qisqa xulosa",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 27,
+          "title": "1. Hozir davom etayotgan ish",
+          "difficulty": 4.0
         },
         {
           "lesson": 33,
@@ -4070,24 +3987,121 @@
           "difficulty": 4.0
         },
         {
-          "lesson": 48,
-          "title": "Mashq 2 — So‘zlarni to‘g‘ri tartiblang",
-          "difficulty": 4.8
+          "lesson": 33,
+          "title": "Mashq 2 — Savol so‘zini tanlang",
+          "difficulty": 4.3
         },
         {
-          "lesson": 67,
-          "title": "1. 0 dan 10 gacha — poydevor",
-          "difficulty": 3.0
+          "lesson": 52,
+          "title": "1. Did not / Didn’t nima?",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 61,
+          "title": "4. Sifat To Be dan keyin keladi",
+          "difficulty": 5.0
         }
       ]
     },
     {
-      "group": 95,
-      "difficulty": 3.93,
+      "group": 92,
+      "difficulty": 3.98,
       "sections": [
         {
+          "lesson": 14,
+          "title": "8. So‘roq gaplar",
+          "difficulty": 3.5
+        },
+        {
           "lesson": 18,
-          "title": "2. My va Mine",
+          "title": "Dars lug‘ati",
+          "difficulty": 2.3
+        },
+        {
+          "lesson": 18,
+          "title": "Mashq 3 — My yoki Mine kabi mos shaklni tanlang",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 27,
+          "title": "2. Asosiy formula",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 33,
+          "title": "Mashq 1 — Do yoki Does?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 34,
+          "title": "1. Why — “Nega?”",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 51,
+          "title": "7. Past Simple darak gap qolipi",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 61,
+          "title": "5. Sifat birlik va ko‘plikda o‘zgarmaydi",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 93,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 14,
+          "title": "9. Ko‘p uchraydigan xatolar",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 18,
+          "title": "Mashq 2 — Mos egalik olmoshini yozing",
+          "difficulty": 3.8
+        },
+        {
+          "lesson": 19,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.3
+        },
+        {
+          "lesson": 27,
+          "title": "3. Am / Is / Are ni egaga moslaymiz",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 32,
+          "title": "Mashq 2 — Do/Does yoki yordamchi kerak emasmi?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 34,
+          "title": "2. To Be bilan Why savoli",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 51,
+          "title": "6. Past of Be alohida",
+          "difficulty": 5.0
+        },
+        {
+          "lesson": 61,
+          "title": "6. Ikki sifat bilan",
+          "difficulty": 5.0
+        }
+      ]
+    },
+    {
+      "group": 94,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 15,
+          "title": "1. Barcha possessive adjectives",
           "difficulty": 3.5
         },
         {
@@ -4096,24 +4110,29 @@
           "difficulty": 3.8
         },
         {
-          "lesson": 25,
-          "title": "3. Savoldagi you javobda I ga o‘zgaradi",
+          "lesson": 19,
+          "title": "6. Ingliz va o‘zbek tilidagi tartib",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 27,
+          "title": "4. Ko‘p fe’llarga -ing qo‘shamiz",
           "difficulty": 4.0
         },
         {
-          "lesson": 32,
-          "title": "Ko‘p uchraydigan xatolar",
+          "lesson": 30,
+          "title": "2. What is ...? — To Be bilan",
           "difficulty": 4.0
         },
         {
-          "lesson": 45,
-          "title": "3. Any — inkor gaplarda",
-          "difficulty": 4.5
+          "lesson": 51,
+          "title": "5. O‘tgan zamon va vaqt iboralari",
+          "difficulty": 5.0
         },
         {
-          "lesson": 46,
-          "title": "Mashq 1 — Many, Much yoki A Lot Of?",
-          "difficulty": 4.8
+          "lesson": 62,
+          "title": "1. And — va",
+          "difficulty": 5.0
         },
         {
           "lesson": 67,
@@ -4123,74 +4142,120 @@
       ]
     },
     {
-      "group": 96,
-      "difficulty": 3.93,
+      "group": 95,
+      "difficulty": 3.98,
       "sections": [
         {
-          "lesson": 24,
-          "title": "2. Do kimlar bilan ishlatiladi?",
-          "difficulty": 4.0
+          "lesson": 15,
+          "title": "Mashq 1 — Mos so‘zni tanlang",
+          "difficulty": 3.8
         },
         {
-          "lesson": 40,
-          "title": "3. Qisqa javoblar",
-          "difficulty": 4.0
+          "lesson": 16,
+          "title": "5. ’s va egalik qilinayotgan narsa",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 24,
+          "title": "Mashq 1 — Do yoki Does ni tanlang",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 25,
+          "title": "Mashq 2 — To‘g‘ri javobni tanlang",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 28,
+          "title": "6. Gap tuzilishidagi farq",
+          "difficulty": 4.5
         },
         {
           "lesson": 41,
-          "title": "1. Buyruqning oddiy shakli",
-          "difficulty": 4.0
+          "title": "Mashq 1 — Fe’ldan buyruq tuzing",
+          "difficulty": 4.3
         },
         {
-          "lesson": 46,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 47,
-          "title": "7. Ko‘p uchraydigan xatolar",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 48,
-          "title": "5. Sifat am/is/are dan keyin keladi",
-          "difficulty": 4.5
+          "lesson": 60,
+          "title": "Mashq 2 — To‘g‘ri variantni tanlang",
+          "difficulty": 5.3
         },
         {
           "lesson": 67,
-          "title": "Mashq 1 — So‘z bilan yozing",
-          "difficulty": 3.3
+          "title": "Dars lug‘ati",
+          "difficulty": 1.8
+        }
+      ]
+    },
+    {
+      "group": 96,
+      "difficulty": 3.98,
+      "sections": [
+        {
+          "lesson": 18,
+          "title": "10. “Its” haqida",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 34,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 34,
+          "title": "3. Do / Does bilan Why savoli",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 42,
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8
+        },
+        {
+          "lesson": 42,
+          "title": "8. Ko‘p uchraydigan xatolar",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 49,
+          "title": "Mashq 2 — Inkor shakliga o‘tkazing",
+          "difficulty": 4.8
+        },
+        {
+          "lesson": 65,
+          "title": "9. Zamonlar bo‘yicha mini-jadval",
+          "difficulty": 6.0
         }
       ]
     },
     {
       "group": 97,
-      "difficulty": 3.93,
+      "difficulty": 3.98,
       "sections": [
         {
-          "lesson": 31,
-          "title": "3. Where + Do / Does — harakat qayerda?",
+          "lesson": 20,
+          "title": "3. Fe’lning oddiy shakli nima?",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 22,
+          "title": "2. Don’t va Doesn’t nimani bildiradi?",
           "difficulty": 4.0
         },
         {
-          "lesson": 40,
-          "title": "1. Can bilan savol tuzish",
+          "lesson": 28,
+          "title": "7. Ba’zi fe’llar odatda Present Simple da ishlatiladi",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 36,
+          "title": "3. How long? — Qancha vaqt?",
           "difficulty": 4.0
         },
         {
           "lesson": 41,
           "title": "3. Sinfxonada ko‘p ishlatiladigan ko‘rsatmalar",
           "difficulty": 4.0
-        },
-        {
-          "lesson": 44,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 47,
-          "title": "5. Ismni Object Pronoun bilan almashtiramiz",
-          "difficulty": 4.5
         },
         {
           "lesson": 48,
@@ -4206,32 +4271,32 @@
     },
     {
       "group": 98,
-      "difficulty": 3.93,
+      "difficulty": 3.98,
       "sections": [
         {
-          "lesson": 31,
-          "title": "4. Where do you go? — Qayerga borasiz?",
+          "lesson": 20,
+          "title": "4. I / You / We / They bilan fe’l o‘zgarmaydi",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 22,
+          "title": "1. Inkor gap nima?",
           "difficulty": 4.0
         },
         {
-          "lesson": 40,
-          "title": "2. Qobiliyat haqida so‘rash",
+          "lesson": 28,
+          "title": "8. Ko‘p uchraydigan xatolar",
+          "difficulty": 4.5
+        },
+        {
+          "lesson": 36,
+          "title": "4. How long? — Qanchalik uzun?",
           "difficulty": 4.0
         },
         {
           "lesson": 41,
           "title": "2. Iltimosni muloyim qilish",
           "difficulty": 4.0
-        },
-        {
-          "lesson": 45,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.3
-        },
-        {
-          "lesson": 47,
-          "title": "6. Her: Object Pronoun yoki Possessive Adjective?",
-          "difficulty": 4.5
         },
         {
           "lesson": 48,
@@ -4247,83 +4312,83 @@
     },
     {
       "group": 99,
-      "difficulty": 3.93,
+      "difficulty": 3.98,
       "sections": [
         {
-          "lesson": 31,
-          "title": "Ko‘p uchraydigan xatolar",
+          "lesson": 20,
+          "title": "5. He / She / It bilan fe’lga -s",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 36,
+          "title": "5. When va How long farqi",
           "difficulty": 4.0
         },
         {
-          "lesson": 40,
-          "title": "4. Can you...? — Iltimos qilish",
+          "lesson": 39,
+          "title": "Mashq 1 — Can yoki Can’t?",
+          "difficulty": 4.3
+        },
+        {
+          "lesson": 41,
+          "title": "1. Buyruqning oddiy shakli",
           "difficulty": 4.0
         },
         {
-          "lesson": 40,
-          "title": "7. Can dan keyin fe’l oddiy shaklda",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 47,
+          "lesson": 43,
           "title": "Dars lug‘ati",
-          "difficulty": 3.3
+          "difficulty": 2.8
         },
         {
-          "lesson": 48,
-          "title": "1. Sifat nima haqida ma’lumot beradi?",
-          "difficulty": 4.5
+          "lesson": 65,
+          "title": "1. Vaqtni aniqlash",
+          "difficulty": 6.0
         },
         {
-          "lesson": 48,
-          "title": "4. Sifat otning oldida keladi",
-          "difficulty": 4.5
-        },
-        {
-          "lesson": 50,
-          "title": "Dars lug‘ati",
+          "lesson": 67,
+          "title": "Mashq 1 — So‘z bilan yozing",
           "difficulty": 3.3
         }
       ]
     },
     {
       "group": 100,
-      "difficulty": 3.93,
+      "difficulty": 3.98,
       "sections": [
         {
-          "lesson": 32,
-          "title": "1. Who is ...? — “U kim?”",
+          "lesson": 20,
+          "title": "Umumiy haqiqat",
+          "difficulty": 3.5
+        },
+        {
+          "lesson": 30,
+          "title": "1. What — “Nima?”",
+          "difficulty": 4.0
+        },
+        {
+          "lesson": 37,
+          "title": "5. Many va Much ni taqqoslang",
           "difficulty": 4.0
         },
         {
           "lesson": 40,
-          "title": "5. Can I...? — Ruxsat so‘rash",
+          "title": "1. Can bilan savol tuzish",
           "difficulty": 4.0
         },
         {
-          "lesson": 40,
-          "title": "6. Iltimos yoki ruxsatga javob",
-          "difficulty": 4.0
-        },
-        {
-          "lesson": 48,
+          "lesson": 44,
           "title": "Dars lug‘ati",
           "difficulty": 3.3
         },
         {
-          "lesson": 48,
-          "title": "2. Qarama-qarshi ma’noli sifatlar",
+          "lesson": 45,
+          "title": "1. Some — darak gaplarda",
           "difficulty": 4.5
         },
         {
-          "lesson": 48,
-          "title": "3. Ranglar va ko‘rinish",
+          "lesson": 47,
+          "title": "5. Ismni Object Pronoun bilan almashtiramiz",
           "difficulty": 4.5
-        },
-        {
-          "lesson": 49,
-          "title": "Dars lug‘ati",
-          "difficulty": 3.3
         }
       ]
     }

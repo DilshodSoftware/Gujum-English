@@ -83,7 +83,9 @@ def main():
         if not os.path.isdir(d):
             continue
         for f in sorted(os.listdir(d)):
-            if not f.endswith(".html") or "Practice" in f:
+            # Amaliyot fayli: "<N>_Practice_..." — boshqa nomdagi "Practice" so'zi
+            # (66_A1_Grammar_Final_Practice.html — bu nazariya darsi) hisobga olinmaydi.
+            if not f.endswith(".html") or re.match(r"\d+_Practice_", f):
                 continue
             m = re.match(r"(\d+)_", f)
             if not m:
@@ -96,7 +98,19 @@ def main():
                 title = plain(x.group(2))
                 diff = section_difficulty(lesson, title, is_practice)
                 secs.append({"title": title, "difficulty": diff})
-            lessons.append({"lesson": lesson, "sections": secs})
+            # Dars darajasidagi ball: bo'limlar o'rtachasi 60% + eng qiyin bo'lim 40%.
+            # Shaklda bitta og'ir bo'lim darsni butunlay oson deb ko'rsatmaydi.
+            if secs:
+                avg = sum(s["difficulty"] for s in secs) / len(secs)
+                worst = max(s["difficulty"] for s in secs)
+                lesson_diff = round(avg * 0.6 + worst * 0.4, 1)
+            else:
+                lesson_diff = 0.0
+            lessons.append({
+                "lesson": lesson,
+                "difficulty": lesson_diff,
+                "sections": secs,
+            })
 
     data = {"schemaVersion": 1, "scale": "0-10", "lessons": lessons}
     json.dump(data, open(OUT, "w", encoding="utf-8"), ensure_ascii=False, indent=2)

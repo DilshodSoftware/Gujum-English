@@ -37,18 +37,19 @@ STYLE = """
 
 
 def color(level):
-    if level < 3: return "#2E7D32"
-    if level < 3.5: return "#8BC34A"
-    if level < 4.5: return "#EF6C00"
-    if level < 5.5: return "#F9A825"
+    """Shkala 4.0 markazli: yashil (oson) -> sariq -> ko'k (standart) -> to'q sariq -> qizil."""
+    if level < 2.5: return "#2E7D32"
+    if level < 3.5: return "#F9A825"
+    if level < 5.0: return "#2E7EA3"
+    if level < 6.0: return "#EF6C00"
     return "#C62828"
 
 
 def label(level):
-    if level < 3: return "Oson"
-    if level < 3.5: return "Oson"
-    if level < 4.5: return "O'rtacha"
-    if level < 5.5: return "Qiyin"
+    if level < 2.5: return "Oson"
+    if level < 3.5: return "O'rtacha"
+    if level < 5.0: return "Standart"
+    if level < 6.0: return "Qiyin"
     return "Juda qiyin"
 
 
@@ -69,7 +70,9 @@ def main():
         if not os.path.isdir(d):
             continue
         for f in sorted(os.listdir(d)):
-            if not f.endswith(".html") or "Practice" in f:
+            # Amaliyot fayli: "<N>_Practice_..." — 66_A1_Grammar_Final_Practice.html
+            # nomi "Practice" qidiruvi bilan nazariya deb o'tkazilmasin.
+            if not f.endswith(".html") or re.match(r"\d+_Practice_", f):
                 continue
             m = re.match(r"(\d+)_", f)
             if not m:
@@ -80,9 +83,15 @@ def main():
                 continue
             path = os.path.join(d, f)
             raw = open(path, encoding="utf-8").read()
-            if "difficulty-banner" in raw:
-                continue
-            lv = (sum(s["difficulty"] for s in info["sections"]) / len(info["sections"]))
+            # Eski banner'ni olib tashlaymiz (shkala/rang yangilansa qayta qo'yiladi).
+            # Banner tuzilishi: <div class="difficulty-banner"> ... <div class="difficulty-sections">...</div> </div>
+            raw = re.sub(
+                r'\s*<div class="difficulty-banner">.*?'
+                r'<div class="difficulty-sections">.*?</div>\s*</div>',
+                "", raw, flags=re.S)
+            lv = info.get("difficulty")
+            if lv is None:
+                lv = (sum(s["difficulty"] for s in info["sections"]) / len(info["sections"]))
             chips = "".join(
                 f'<span class="difficulty-chip">'
                 f'<span class="difficulty-dot" style="background:{color(s["difficulty"])}"></span>'

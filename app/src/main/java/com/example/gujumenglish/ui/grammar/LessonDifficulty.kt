@@ -48,14 +48,18 @@ object LessonDifficulty {
                             )
                         }
                     }
-                    put(
-                        o.getInt("lesson"),
-                        Lesson(
-                            lesson = o.getInt("lesson"),
-                            difficulty = o.getDouble("difficulty").toFloat(),
-                            sections = sections
-                        )
-                    )
+                    val number = o.getInt("lesson")
+                    // Dars darajasidagi ball: JSON da yo'q bo'lsa bo'limlar
+                    // o'rtachasidan hisoblanadi (dars hech qachon ko'rsatilmay qolmasin).
+                    val level = if (o.has("difficulty")) {
+                        o.getDouble("difficulty").toFloat()
+                    } else if (sections.isNotEmpty()) {
+                        sections.sumOf { it.difficulty.toDouble() }
+                            .toFloat() / sections.size
+                    } else {
+                        0f
+                    }
+                    put(number, Lesson(number, level, sections))
                 }
             }
         }.getOrDefault(emptyMap())
@@ -67,19 +71,25 @@ object LessonDifficulty {
         return cache[lesson]
     }
 
-    /** Qiyinlik uchun rang: yashil (oson) -> sariq -> qizil (qiyin). */
+    /**
+     * Qiyinlik uchun rang. Shkala 4.0 markazli kalibrlangan:
+     * "oddiy dars" = 4.0 (ko'k), undan yengilroq — yashil/sariq,
+     * qiyinroq — to'q sariq/qizil.
+     */
     fun colorFor(level: Float): Long = when {
-        level < 2f -> 0xFF2E7D32L      // yashil
-        level < 3.5f -> 0xFFF9A825L    // sariq
-        level < 5f -> 0xFFEF6C00L      // to'q sariq
-        else -> 0xFFC62828L           // qizil
+        level < 2.5f -> 0xFF2E7D32L      // yashil  — Oson
+        level < 3.5f -> 0xFFF9A825L      // sariq   — O'rtacha
+        level < 5.0f -> 0xFF2E7EA3L      // ko'k    — Standart (4.0 markazi)
+        level < 6.0f -> 0xFFEF6C00L      // to'q sariq — Qiyin
+        else -> 0xFFC62828L              // qizil   — Juda qiyin
     }
 
     /** Qiyinlik yorlig'i (qisqacha). */
     fun label(level: Float): String = when {
-        level < 2f -> "Oson"
-        level < 3.5f -> "O'rta"
-        level < 5f -> "Qiyin"
+        level < 2.5f -> "Oson"
+        level < 3.5f -> "O'rtacha"
+        level < 5.0f -> "Standart"
+        level < 6.0f -> "Qiyin"
         else -> "Juda qiyin"
     }
 }

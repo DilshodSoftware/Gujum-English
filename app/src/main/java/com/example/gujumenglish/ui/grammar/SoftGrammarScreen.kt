@@ -22,6 +22,7 @@ import androidx.compose.foundation.layout.padding
 import androidx.compose.foundation.layout.size
 import androidx.compose.foundation.layout.width
 import androidx.compose.foundation.lazy.LazyColumn
+import androidx.compose.foundation.lazy.items
 import androidx.compose.foundation.lazy.itemsIndexed
 import androidx.compose.foundation.shape.CircleShape
 import androidx.compose.foundation.shape.RoundedCornerShape
@@ -53,6 +54,8 @@ internal fun SoftGrammarScreen(
     modifier: Modifier = Modifier
 ) {
     val units = remember { groupedGrammarUnits() }
+    val context = LocalContext.current
+    val groups = remember { LessonGroups.load(context) }
     var expandedUnitLabels by remember { mutableStateOf(emptySet<String>()) }
     val sectionGroups = remember(units) {
         units
@@ -95,6 +98,18 @@ internal fun SoftGrammarScreen(
                 },
                 onOpenLesson = onOpenLesson
             )
+        }
+        if (groups.isNotEmpty()) {
+            item(key = "grammar-groups-intro", contentType = "grammar-groups-intro") {
+                SoftGrammarGroupsIntro(groupCount = groups.size)
+            }
+            items(
+                items = groups,
+                key = { "grammar-group-${it.number}" },
+                contentType = { "grammar-group" }
+            ) { group ->
+                SoftGrammarGroupCard(group)
+            }
         }
     }
 }
@@ -411,5 +426,103 @@ private fun DifficultyBadge(difficulty: Float) {
             fontWeight = FontWeight.Bold,
             color = color
         )
+    }
+}
+
+/**
+ * 4-darajali to'plamlar: darslar bo'limlari qiyinlik bo'yicha aralashtirilib,
+ * har bir to'plamning o'rtacha qiyinligi 4.0 ga yaqin bo'lib guruhlangan.
+ */
+@Composable
+private fun SoftGrammarGroupsIntro(groupCount: Int) {
+    val scheme = MaterialTheme.colorScheme
+    Column(
+        modifier = Modifier.fillMaxWidth(),
+        verticalArrangement = Arrangement.spacedBy(10.dp)
+    ) {
+        Text(
+            text = "TO‘PLAMLAR",
+            style = MaterialTheme.typography.labelLarge,
+            fontWeight = FontWeight.Bold,
+            color = scheme.primary,
+            letterSpacing = 1.8.sp
+        )
+        Text(
+            text = "4-darajali o‘quv to‘plamlari",
+            style = MaterialTheme.typography.headlineSmall,
+            fontWeight = FontWeight.Bold,
+            color = scheme.onSurface
+        )
+        Text(
+            text = "$groupCount ta to‘plam. Har birida oson va qiyin bo‘limlar " +
+                "muvozanatlanadi, shuning uchun barcha to‘plamlar bir xil (4.0) " +
+                "darajada o‘qiladi.",
+            style = MaterialTheme.typography.bodyMedium,
+            color = scheme.onSurfaceVariant
+        )
+    }
+}
+
+/** Bitta to‘plam: sarlavha (daraja + ball) va uning bo‘limlari. */
+@Composable
+private fun SoftGrammarGroupCard(group: LessonGroups.Group) {
+    val scheme = MaterialTheme.colorScheme
+    val color = Color(LessonDifficulty.colorFor(group.difficulty))
+    Surface(
+        shape = RoundedCornerShape(16.dp),
+        color = scheme.surfaceContainerLow
+    ) {
+        Column(
+            modifier = Modifier.padding(horizontal = 14.dp, vertical = 12.dp),
+            verticalArrangement = Arrangement.spacedBy(8.dp)
+        ) {
+            Row(verticalAlignment = Alignment.CenterVertically) {
+                Text(
+                    text = "${group.number}-to‘plam",
+                    style = MaterialTheme.typography.titleSmall,
+                    fontWeight = FontWeight.SemiBold,
+                    color = scheme.onSurface,
+                    modifier = Modifier.weight(1f)
+                )
+                Text(
+                    text = "${group.sections.size} bo‘lim",
+                    style = MaterialTheme.typography.labelSmall,
+                    color = scheme.onSurfaceVariant
+                )
+                Spacer(modifier = Modifier.width(10.dp))
+                DifficultyBadge(difficulty = group.difficulty)
+            }
+            group.sections.forEach { s ->
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Box(
+                        modifier = Modifier
+                            .size(7.dp)
+                            .clip(CircleShape)
+                            .background(Color(LessonDifficulty.colorFor(s.difficulty)))
+                    )
+                    Spacer(modifier = Modifier.width(8.dp))
+                    Text(
+                        text = "${s.lesson}-dars",
+                        style = MaterialTheme.typography.labelSmall,
+                        color = scheme.onSurfaceVariant,
+                        modifier = Modifier.width(52.dp)
+                    )
+                    Text(
+                        text = s.title,
+                        style = MaterialTheme.typography.bodySmall,
+                        color = scheme.onSurface,
+                        maxLines = 2,
+                        overflow = TextOverflow.Ellipsis,
+                        modifier = Modifier.weight(1f)
+                    )
+                    Spacer(modifier = Modifier.width(8.dp))
+                    Text(
+                        text = String.format("%.1f", s.difficulty),
+                        style = MaterialTheme.typography.labelSmall,
+                        color = scheme.onSurfaceVariant
+                    )
+                }
+            }
+        }
     }
 }
