@@ -41,6 +41,7 @@ import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.clip
 import androidx.compose.ui.draw.rotate
 import androidx.compose.ui.graphics.Color
+import androidx.compose.ui.platform.LocalContext
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
@@ -325,6 +326,14 @@ private fun SoftGrammarLessonRow(
     val available = topic.assetName != null
     val practice = topic.isPractice
     val test = topic.isTest
+    val context = LocalContext.current
+    // Nazariya darslar uchun qiyinlik darajasi (0-10); amaliyot/test uchun yo'q.
+    val lessonNumber = topic.number.substringBefore(".").toIntOrNull()
+    val difficulty = if (!practice && !test && lessonNumber != null) {
+        LessonDifficulty.of(context, lessonNumber)?.difficulty
+    } else {
+        null
+    }
 
     Surface(
         modifier = Modifier
@@ -376,7 +385,31 @@ private fun SoftGrammarLessonRow(
                     style = MaterialTheme.typography.labelSmall,
                     color = MaterialTheme.colorScheme.onSurfaceVariant
                 )
+            } else if (difficulty != null) {
+                Spacer(modifier = Modifier.width(8.dp))
+                DifficultyBadge(difficulty = difficulty)
             }
         }
+    }
+}
+
+/** Qiyinlik darajasi nishoni: rangli doira + ball. */
+@Composable
+private fun DifficultyBadge(difficulty: Float) {
+    val color = Color(LessonDifficulty.colorFor(difficulty))
+    Row(verticalAlignment = Alignment.CenterVertically) {
+        Box(
+            modifier = Modifier
+                .size(9.dp)
+                .clip(CircleShape)
+                .background(color)
+        )
+        Spacer(modifier = Modifier.width(5.dp))
+        Text(
+            text = String.format("%.1f", difficulty),
+            style = MaterialTheme.typography.labelSmall,
+            fontWeight = FontWeight.Bold,
+            color = color
+        )
     }
 }

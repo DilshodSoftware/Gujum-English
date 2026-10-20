@@ -51,6 +51,23 @@
       .uz { text-align: left; font-size: .91rem; }
       .word-grid { grid-template-columns: 1fr; }
     }
+    .difficulty-banner { display: flex; flex-wrap: wrap; align-items: center;
+      gap: 10px; margin: 12px 0 4px; padding: 10px 12px;
+      background: #eef4fa; border: 1px solid #d3e2ef; border-radius: 12px; }
+    .difficulty-badge { display: inline-flex; align-items: center; gap: 6px;
+      font-size: .8rem; font-weight: 700; }
+    .difficulty-dot { width: 10px; height: 10px; border-radius: 50%; }
+    .difficulty-label { color: #174a6b; }
+    .difficulty-sections { display: flex; flex-wrap: wrap; gap: 6px;
+      margin-top: 6px; width: 100%; }
+    .difficulty-chip { display: inline-flex; align-items: center; gap: 5px;
+      font-size: .72rem; color: #2e7ea3; background: #fff;
+      border: 1px solid #d3e2ef; border-radius: 20px; padding: 3px 9px; }
+    .difficulty-chip .difficulty-dot { width: 7px; height: 7px; }
+    .difficulty-meter { display: flex; gap: 3px; align-items: center; }
+    .difficulty-meter i { width: 12px; height: 6px; border-radius: 2px;
+      background: #d8e4ee; display: inline-block; }
+
   </style>
 </head>
 <body>
@@ -58,7 +75,9 @@
     <h1>48-DARS. BASIC ADJECTIVES</h1>
     <div class="subhead">Asosiy sifatlar · big, small, good, bad...</div>
 
-    <h2>Dars lug‘ati</h2>
+    
+    <div class="difficulty-banner"><span class="difficulty-badge"><span class="difficulty-dot" style="background:#F9A825"></span><span class="difficulty-label">Qiyinlik: 3.3/10 — O'rta</span></span><span class="difficulty-meter"><i style="background:#F9A825"></i><i style="background:#F9A825"></i><i style="background:#F9A825"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i></span><div class="difficulty-sections"><span class="difficulty-chip"><span class="difficulty-dot" style="background:#EF6C00"></span>Dars lug‘ati 4.1</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#EF6C00"></span>Mashq 3 — To‘g‘ri variantni tanlan 4.1</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>1. Sifat nima haqida ma’lumot bera 3.4</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>5. Sifat am/is/are dan keyin kelad 2.8</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>4. Sifat otning oldida keladi 2.7</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>6. Sifat ko‘plikda o‘zgarmaydi 2.7</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#2E7D32"></span>2. Qarama-qarshi ma’noli sifatlar 1.6</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#2E7D32"></span>3. Ranglar va ko‘rinish 1.2</span></div></div>
+<h2>Dars lug‘ati</h2>
     <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
     <div class="grid">
       <div class="word word--audio"><span class="pair"><strong>apple</strong> — olma</span><button class="speak" onclick="playOpus('../unit_0/unit_0_dictionary_opus/d1-2-3_apple.opus',this)" aria-label="Tinglash">🔊</button></div>

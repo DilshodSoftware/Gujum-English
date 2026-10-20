@@ -53,6 +53,23 @@
       .uz { text-align: left; font-size: .91rem; }
       th, td { padding: 7px 5px; font-size: .82rem; }
     }
+    .difficulty-banner { display: flex; flex-wrap: wrap; align-items: center;
+      gap: 10px; margin: 12px 0 4px; padding: 10px 12px;
+      background: #eef4fa; border: 1px solid #d3e2ef; border-radius: 12px; }
+    .difficulty-badge { display: inline-flex; align-items: center; gap: 6px;
+      font-size: .8rem; font-weight: 700; }
+    .difficulty-dot { width: 10px; height: 10px; border-radius: 50%; }
+    .difficulty-label { color: #174a6b; }
+    .difficulty-sections { display: flex; flex-wrap: wrap; gap: 6px;
+      margin-top: 6px; width: 100%; }
+    .difficulty-chip { display: inline-flex; align-items: center; gap: 5px;
+      font-size: .72rem; color: #2e7ea3; background: #fff;
+      border: 1px solid #d3e2ef; border-radius: 20px; padding: 3px 9px; }
+    .difficulty-chip .difficulty-dot { width: 7px; height: 7px; }
+    .difficulty-meter { display: flex; gap: 3px; align-items: center; }
+    .difficulty-meter i { width: 12px; height: 6px; border-radius: 2px;
+      background: #d8e4ee; display: inline-block; }
+
   </style>
 </head>
 <body>
@@ -60,7 +77,9 @@
     <h1>28-DARS. PRESENT SIMPLE vs PRESENT CONTINUOUS</h1>
     <div class="subhead">Odatdagi ishmi yoki ayni hozir davom etyaptimi?</div>
 
-    <h2>Dars lug‘ati</h2>
+    
+    <div class="difficulty-banner"><span class="difficulty-badge"><span class="difficulty-dot" style="background:#EF6C00"></span><span class="difficulty-label">Qiyinlik: 3.9/10 — Qiyin</span></span><span class="difficulty-meter"><i style="background:#EF6C00"></i><i style="background:#EF6C00"></i><i style="background:#EF6C00"></i><i style="background:#EF6C00"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i></span><div class="difficulty-sections"><span class="difficulty-chip"><span class="difficulty-dot" style="background:#EF6C00"></span>Dars lug‘ati 4.7</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#EF6C00"></span>Mashq 3 — Xatoni to‘g‘rilang 4.5</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#EF6C00"></span>5. Vaqt bildiradigan so‘zlar yorda 3.7</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#EF6C00"></span>1. Odat va hozirgi harakat 3.6</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#EF6C00"></span>7. Ba’zi fe’llar odatda Present Si 3.6</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#EF6C00"></span>4. Bir xil fe’l bilan taqqoslaymiz 3.5</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>6. Gap tuzilishidagi farq 3.3</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#2E7D32"></span>Mashq 1 — Present Simple yoki Pres 1.8</span></div></div>
+<h2>Dars lug‘ati</h2>
     <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
     <div class="grid">
       <div class="word word--audio"><span class="pair"><strong>aunt</strong> — xola</span><button class="speak" onclick="playOpus('../unit_2/unit_2_dictionary_opus/d28_aunt.opus',this)" aria-label="Tinglash">🔊</button></div>

@@ -52,6 +52,23 @@
       .uz { text-align: left; font-size: .91rem; }
       th, td { padding: 7px 5px; font-size: .82rem; }
     }
+    .difficulty-banner { display: flex; flex-wrap: wrap; align-items: center;
+      gap: 10px; margin: 12px 0 4px; padding: 10px 12px;
+      background: #eef4fa; border: 1px solid #d3e2ef; border-radius: 12px; }
+    .difficulty-badge { display: inline-flex; align-items: center; gap: 6px;
+      font-size: .8rem; font-weight: 700; }
+    .difficulty-dot { width: 10px; height: 10px; border-radius: 50%; }
+    .difficulty-label { color: #174a6b; }
+    .difficulty-sections { display: flex; flex-wrap: wrap; gap: 6px;
+      margin-top: 6px; width: 100%; }
+    .difficulty-chip { display: inline-flex; align-items: center; gap: 5px;
+      font-size: .72rem; color: #2e7ea3; background: #fff;
+      border: 1px solid #d3e2ef; border-radius: 20px; padding: 3px 9px; }
+    .difficulty-chip .difficulty-dot { width: 7px; height: 7px; }
+    .difficulty-meter { display: flex; gap: 3px; align-items: center; }
+    .difficulty-meter i { width: 12px; height: 6px; border-radius: 2px;
+      background: #d8e4ee; display: inline-block; }
+
   </style>
 </head>
 <body>
@@ -59,7 +76,9 @@
     <h1>38-DARS. THERE IS / THERE ARE</h1>
     <div class="subhead">Biror joyda narsa yoki odam borligini aytish</div>
 
-    <h2>Dars lug‘ati</h2>
+    
+    <div class="difficulty-banner"><span class="difficulty-badge"><span class="difficulty-dot" style="background:#F9A825"></span><span class="difficulty-label">Qiyinlik: 2.5/10 — O'rta</span></span><span class="difficulty-meter"><i style="background:#F9A825"></i><i style="background:#F9A825"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i></span><div class="difficulty-sections"><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>Dars lug‘ati 3.2</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>Mashq 2 — Darak gapni savolga ayla 3.0</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>7. There is va It is farqi 2.5</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#2E7D32"></span>2. There are — bir nechta narsa bo 1.7</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#2E7D32"></span>4. Inkor: There isn’t / There aren 1.5</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#2E7D32"></span>1. There is — bitta narsa bor 1.3</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#2E7D32"></span>5. Savol: Is there? / Are there? 1.3</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#2E7D32"></span>Mashq 1 — Is yoki Are? 1.2</span></div></div>
+<h2>Dars lug‘ati</h2>
     <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
     <div class="grid">
       <div class="word word--audio"><span class="pair"><strong>any</strong> — biror</span><button class="speak" onclick="playOpus('../unit_4/unit_4_dictionary_opus/d38_any.opus',this)" aria-label="Tinglash">🔊</button></div>

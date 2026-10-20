@@ -1,0 +1,6517 @@
+{
+  "schemaVersion": 1,
+  "scale": "0-10",
+  "lessons": [
+    {
+      "lesson": 1,
+      "difficulty": 2.0,
+      "sections": [
+        {
+          "title": "1. Alifbo misollarida uchraydigan so‘zlar",
+          "difficulty": 2.5,
+          "metrics": {
+            "lugat": 5.2,
+            "grammatika": 1.4,
+            "hajm": 1.0085714285714287
+          }
+        },
+        {
+          "title": "2. Odamlar, hayvonlar, narsalar va joylar",
+          "difficulty": 0.2,
+          "metrics": {
+            "hajm": 0.1742857142857143
+          }
+        },
+        {
+          "title": "Odamlar",
+          "difficulty": 1.0,
+          "metrics": {
+            "lugat": 1.6,
+            "hajm": 0.38571428571428573
+          }
+        },
+        {
+          "title": "Hayvonlar",
+          "difficulty": 0.8,
+          "metrics": {
+            "lugat": 0.8,
+            "grammatika": 1.4,
+            "hajm": 0.13714285714285715
+          }
+        },
+        {
+          "title": "Narsalar va joylar",
+          "difficulty": 1.0,
+          "metrics": {
+            "lugat": 1.6,
+            "hajm": 0.31142857142857144
+          }
+        },
+        {
+          "title": "3. Gaplarda ishlatiladigan so‘zlar",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.4714285714285715
+          }
+        },
+        {
+          "title": "4. O‘zingizni tekshiring",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 2.54
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 2,
+      "difficulty": 3.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.3,
+          "metrics": {
+            "lugat": 7.0,
+            "grammatika": 3.4000000000000004,
+            "hajm": 2.394285714285714
+          }
+        },
+        {
+          "title": "1. Alifbo nima?",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 3.0,
+            "hajm": 0.6885714285714286
+          }
+        },
+        {
+          "title": "2. Katta va kichik harflar",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 3.0,
+            "malumot": 2.5,
+            "hajm": 2.5428571428571427
+          }
+        },
+        {
+          "title": "3. Harf nomi va so‘zdagi tovush — bir xil emas",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.0,
+            "hajm": 1.3057142857142856
+          }
+        },
+        {
+          "title": "4. Harflarni bo‘lib mashq qilamiz",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.7257142857142858
+          }
+        },
+        {
+          "title": "5. Ism va so‘zlarni harflab aytish",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8628571428571429
+          }
+        },
+        {
+          "title": "6. Katta harf qachon ishlatiladi?",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 0.7542857142857143
+          }
+        },
+        {
+          "title": "7. Mashqlar",
+          "difficulty": 4.3,
+          "metrics": {
+            "grammatika": 4.800000000000001,
+            "hajm": 3.888571428571429
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 3,
+      "difficulty": 3.2,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.7,
+          "metrics": {
+            "lugat": 4.0,
+            "grammatika": 2.6,
+            "hajm": 1.4314285714285715
+          }
+        },
+        {
+          "title": "1. Unli va undosh degani nima?",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 3.8000000000000003,
+            "hajm": 1.282857142857143
+          }
+        },
+        {
+          "title": "2. Beshta asosiy unli harf",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.0,
+            "malumot": 2.5,
+            "hajm": 1.2228571428571429
+          }
+        },
+        {
+          "title": "3. Qolgan harflar — undosh harflar",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 0.9257142857142857
+          }
+        },
+        {
+          "title": "4. Y harfi: ba’zan unli, ba’zan undosh",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 0.43714285714285717
+          }
+        },
+        {
+          "title": "Y undosh tovush bersa",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.30857142857142855
+          }
+        },
+        {
+          "title": "Y unli tovush bersa",
+          "difficulty": 2.3,
+          "metrics": {
+            "grammatika": 3.0,
+            "malumot": 2.5,
+            "hajm": 1.302857142857143
+          }
+        },
+        {
+          "title": "5. Harf va tovushni aralashtirmaymiz",
+          "difficulty": 2.1,
+          "metrics": {
+            "grammatika": 3.4000000000000004,
+            "hajm": 0.8971428571428571
+          }
+        },
+        {
+          "title": "6. Mashqlar",
+          "difficulty": 4.0,
+          "metrics": {
+            "grammatika": 4.800000000000001,
+            "hajm": 3.237142857142857
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 4,
+      "difficulty": 3.8,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.7,
+          "metrics": {
+            "lugat": 3.0,
+            "grammatika": 3.8000000000000003,
+            "hajm": 1.2857142857142858
+          }
+        },
+        {
+          "title": "1. Harf nima? Tovush nima?",
+          "difficulty": 3.1,
+          "metrics": {
+            "grammatika": 5.0,
+            "hajm": 1.24
+          }
+        },
+        {
+          "title": "2. Bitta C harfi — ikki xil tovush",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 3.0,
+            "hajm": 0.8685714285714285
+          }
+        },
+        {
+          "title": "3. Boshqa harflar ham o‘zgarishi mumkin",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 1.2257142857142858
+          }
+        },
+        {
+          "title": "4. Ikki harf birga bitta tovush berishi mumkin",
+          "difficulty": 2.9,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 1.12
+          }
+        },
+        {
+          "title": "5. Yozilgan harf talaffuz qilinmasligi mumkin",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.0342857142857143
+          }
+        },
+        {
+          "title": "6. Nega audio tinglash kerak?",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.98
+          }
+        },
+        {
+          "title": "7. Mashqlar",
+          "difficulty": 4.8,
+          "metrics": {
+            "grammatika": 5.4,
+            "hajm": 4.16
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 5,
+      "difficulty": 3.0,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.3,
+          "metrics": {
+            "lugat": 5.6,
+            "grammatika": 5.4,
+            "hajm": 1.8742857142857143
+          }
+        },
+        {
+          "title": "1. Harf birikmasi nima?",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 0.9285714285714286
+          }
+        },
+        {
+          "title": "2. Ko‘p uchraydigan harf birikmalari",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 2.2,
+            "malumot": 2.5,
+            "hajm": 1.3885714285714286
+          }
+        },
+        {
+          "title": "3. SH birikmasi",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.4257142857142857
+          }
+        },
+        {
+          "title": "4. CH birikmasi va istisnolar",
+          "difficulty": 2.8,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 1.0485714285714285
+          }
+        },
+        {
+          "title": "5. PH, WH, CK va NG",
+          "difficulty": 0.0,
+          "metrics": {}
+        },
+        {
+          "title": "PH ko‘pincha F tovushini beradi",
+          "difficulty": 0.1,
+          "metrics": {
+            "hajm": 0.1
+          }
+        },
+        {
+          "title": "WH ko‘p so‘zda W ga yaqin o‘qiladi",
+          "difficulty": 0.1,
+          "metrics": {
+            "hajm": 0.08285714285714285
+          }
+        },
+        {
+          "title": "CK K tovushiga yaqin",
+          "difficulty": 0.1,
+          "metrics": {
+            "hajm": 0.08571428571428572
+          }
+        },
+        {
+          "title": "NG bitta burun tovushidek aytiladi",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.3742857142857143
+          }
+        },
+        {
+          "title": "6. TH tovushini qanday aytamiz?",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8914285714285715
+          }
+        },
+        {
+          "title": "Jarangsiz TH: tomoq titramaydi",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.44857142857142857
+          }
+        },
+        {
+          "title": "Jarangli TH: tomoq titraydi",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.7514285714285714
+          }
+        },
+        {
+          "title": "7. Mashqlar",
+          "difficulty": 3.7,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 3.8657142857142857
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 6,
+      "difficulty": 3.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.8,
+          "metrics": {
+            "lugat": 6.6,
+            "grammatika": 5.4,
+            "hajm": 2.3857142857142857
+          }
+        },
+        {
+          "title": "1. Silent letter nima?",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.3885714285714286
+          }
+        },
+        {
+          "title": "2. So‘z oxiridagi E",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.0,
+            "hajm": 1.36
+          }
+        },
+        {
+          "title": "3. MB oxirida B",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.88
+          }
+        },
+        {
+          "title": "4. GH yoki GHT birikmasi",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.12
+          }
+        },
+        {
+          "title": "5. So‘z boshidagi K va W",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.56
+          }
+        },
+        {
+          "title": "6. L harfi: could, would, should",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 0.8171428571428572
+          }
+        },
+        {
+          "title": "7. Ayrim so‘zlarda N jim bo‘ladi",
+          "difficulty": 0.4,
+          "metrics": {
+            "hajm": 0.43714285714285717
+          }
+        },
+        {
+          "title": "8. Ayrim chet tillardan kirgan so‘zlardagi T",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6485714285714286
+          }
+        },
+        {
+          "title": "9. Yozilishi va talaffuzi turlicha bo‘lishi mumkin",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.3942857142857144
+          }
+        },
+        {
+          "title": "10. Mashqlar",
+          "difficulty": 4.0,
+          "metrics": {
+            "grammatika": 4.0,
+            "hajm": 4.097142857142857
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 7,
+      "difficulty": 3.2,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.9,
+          "metrics": {
+            "lugat": 7.2,
+            "grammatika": 2.2,
+            "hajm": 2.1714285714285713
+          }
+        },
+        {
+          "title": "1. Noun — ot nima?",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.9828571428571429
+          }
+        },
+        {
+          "title": "2. Oddiy va atoqli otlar",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 1.3057142857142856
+          }
+        },
+        {
+          "title": "3. Pronoun — olmosh nima?",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 6.2,
+            "termin": 2.5,
+            "hajm": 1.1885714285714286
+          }
+        },
+        {
+          "title": "4. Subject pronouns — ega olmoshlari",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 2.2,
+            "malumot": 2.5,
+            "hajm": 1.782857142857143
+          }
+        },
+        {
+          "title": "5. Otni mos olmoshga almashtiramiz",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.062857142857143
+          }
+        },
+        {
+          "title": "6. Olmosh gapda qayerda keladi?",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7228571428571429
+          }
+        },
+        {
+          "title": "7. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 0.6457142857142857
+          }
+        },
+        {
+          "title": "Mashq 1 — Noun va Pronounni ajrating",
+          "difficulty": 2.8,
+          "metrics": {
+            "grammatika": 5.4,
+            "termin": 2.5,
+            "hajm": 0.5228571428571429
+          }
+        },
+        {
+          "title": "Mashq 2 — Ismni olmosh bilan almashtiring",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.1542857142857144
+          }
+        },
+        {
+          "title": "Mashq 3 — To‘g‘ri olmoshni tanlang",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9657142857142857
+          }
+        },
+        {
+          "title": "Eng qisqa xulosa",
+          "difficulty": 3.8,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.0,
+            "hajm": 2.68
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 8,
+      "difficulty": 2.8,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.8,
+          "metrics": {
+            "lugat": 7.2,
+            "grammatika": 1.8,
+            "hajm": 2.3057142857142856
+          }
+        },
+        {
+          "title": "1. Singular — birlik",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.54
+          }
+        },
+        {
+          "title": "2. Plural — ko‘plik",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.4,
+            "malumot": 2.5,
+            "hajm": 1.1085714285714285
+          }
+        },
+        {
+          "title": "3. Son va ot bir-biriga mos bo‘lsin",
+          "difficulty": 0.9,
+          "metrics": {
+            "hajm": 0.9428571428571428
+          }
+        },
+        {
+          "title": "4. S, SH, CH, X bilan tugagan otlar: -es",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.94
+          }
+        },
+        {
+          "title": "5. Undosh + Y: y → ies",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8342857142857143
+          }
+        },
+        {
+          "title": "6. Unli + Y: faqat -s",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.6457142857142857
+          }
+        },
+        {
+          "title": "7. Ba’zi -f / -fe bilan tugagan otlar",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7485714285714286
+          }
+        },
+        {
+          "title": "8. Qoidaga bo‘ysunmaydigan ko‘pliklar",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.9085714285714286
+          }
+        },
+        {
+          "title": "9. Ko‘plikda A / An ishlatilmaydi",
+          "difficulty": 3.2,
+          "metrics": {
+            "grammatika": 6.2,
+            "termin": 2.5,
+            "hajm": 0.7942857142857143
+          }
+        },
+        {
+          "title": "10. Qoidalarni qisqa jadvalda",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.4942857142857143
+          }
+        },
+        {
+          "title": "Mashq 1 — Birlikmi yoki ko‘plikmi?",
+          "difficulty": 0.5,
+          "metrics": {
+            "hajm": 0.4542857142857143
+          }
+        },
+        {
+          "title": "Mashq 2 — Ko‘plik shaklini yozing",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5771428571428572
+          }
+        },
+        {
+          "title": "Mashq 3 — Xatoni tuzating",
+          "difficulty": 0.4,
+          "metrics": {
+            "hajm": 0.41714285714285715
+          }
+        },
+        {
+          "title": "Mashq 4 — To‘g‘ri variantni tanlang",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.6285714285714286
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 9,
+      "difficulty": 3.1,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8,
+          "metrics": {
+            "lugat": 4.8,
+            "grammatika": 1.8,
+            "hajm": 1.7
+          }
+        },
+        {
+          "title": "1. Subject va pronoun nima?",
+          "difficulty": 3.0,
+          "metrics": {
+            "grammatika": 5.8,
+            "termin": 2.5,
+            "hajm": 0.7714285714285715
+          }
+        },
+        {
+          "title": "2. Yetti asosiy ega olmoshi",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 2.2,
+            "malumot": 2.5,
+            "hajm": 1.0057142857142858
+          }
+        },
+        {
+          "title": "3. Gapiruvchi va tinglovchi",
+          "difficulty": 0.0,
+          "metrics": {}
+        },
+        {
+          "title": "I — men",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5485714285714286
+          }
+        },
+        {
+          "title": "You — sen, siz yoki sizlar",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.6828571428571428
+          }
+        },
+        {
+          "title": "4. He, She va It",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.2771428571428571
+          }
+        },
+        {
+          "title": "5. We va They",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.1228571428571428
+          }
+        },
+        {
+          "title": "6. Ism yoki otni olmoshga almashtirish",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.7457142857142857
+          }
+        },
+        {
+          "title": "7. Subject pronoun gapda qayerda turadi?",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 0.8542857142857143
+          }
+        },
+        {
+          "title": "8. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.49142857142857144
+          }
+        },
+        {
+          "title": "Mashq 1 — To‘g‘ri olmoshni tanlang",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.0142857142857142
+          }
+        },
+        {
+          "title": "Mashq 2 — Ismni olmoshga almashtiring",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.177142857142857
+          }
+        },
+        {
+          "title": "Mashq 3 — To‘g‘ri yoki noto‘g‘ri?",
+          "difficulty": 4.0,
+          "metrics": {
+            "grammatika": 7.0,
+            "termin": 2.0,
+            "hajm": 3.1285714285714286
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 10,
+      "difficulty": 2.7,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.5,
+          "metrics": {
+            "lugat": 5.6,
+            "grammatika": 3.2,
+            "hajm": 1.822857142857143
+          }
+        },
+        {
+          "title": "1. To be nima uchun kerak?",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 1.1714285714285715
+          }
+        },
+        {
+          "title": "2. To be ning uch shakli",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 3.6,
+            "malumot": 2.5,
+            "hajm": 1.0371428571428571
+          }
+        },
+        {
+          "title": "3. I bilan doimo AM",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.5685714285714286
+          }
+        },
+        {
+          "title": "4. He, She va It bilan IS",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7228571428571429
+          }
+        },
+        {
+          "title": "5. You, We va They bilan ARE",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.7657142857142857
+          }
+        },
+        {
+          "title": "6. Ism bilan to be ni tanlaymiz",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.9742857142857143
+          }
+        },
+        {
+          "title": "7. To be bilan uch xil ma’lumot",
+          "difficulty": 0.0,
+          "metrics": {}
+        },
+        {
+          "title": "Kim yoki nima ekanini aytamiz",
+          "difficulty": 2.9,
+          "metrics": {
+            "grammatika": 6.2,
+            "termin": 2.0,
+            "hajm": 0.4342857142857143
+          }
+        },
+        {
+          "title": "Qandayligini aytamiz",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.15714285714285714
+          }
+        },
+        {
+          "title": "Qayerda ekanini aytamiz",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.20285714285714285
+          }
+        },
+        {
+          "title": "8. To‘liq va qisqa shakllar",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 4.0,
+            "malumot": 2.5,
+            "hajm": 1.082857142857143
+          }
+        },
+        {
+          "title": "9. To be oddiy harakat fe’li emas",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.7142857142857143
+          }
+        },
+        {
+          "title": "10. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.5085714285714286
+          }
+        },
+        {
+          "title": "Mashq 1 — Am, Is yoki Are?",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.7085714285714285
+          }
+        },
+        {
+          "title": "Mashq 2 — Xatolarni tuzating",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 4.0,
+            "hajm": 2.6742857142857144
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 11,
+      "difficulty": 2.8,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.5,
+          "metrics": {
+            "lugat": 5.2,
+            "grammatika": 3.6,
+            "hajm": 1.72
+          }
+        },
+        {
+          "title": "1. Inkor gap nima?",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 0.7057142857142857
+          }
+        },
+        {
+          "title": "2. Not qayerga qo‘yiladi?",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.5571428571428572
+          }
+        },
+        {
+          "title": "3. Am / Is / Are bilan not",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.2,
+            "malumot": 2.5,
+            "hajm": 0.8171428571428572
+          }
+        },
+        {
+          "title": "4. Qisqartma shakllar",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.2,
+            "malumot": 2.5,
+            "hajm": 0.8428571428571429
+          }
+        },
+        {
+          "title": "5. So‘roq gap qanday tuziladi?",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 0.7285714285714285
+          }
+        },
+        {
+          "title": "6. Barcha olmoshlar bilan savollar",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.6885714285714286
+          }
+        },
+        {
+          "title": "7. Savolga qisqa javob berish",
+          "difficulty": 2.3,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 1.0742857142857143
+          }
+        },
+        {
+          "title": "8. Darak, inkor va savolni taqqoslang",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.6257142857142857
+          }
+        },
+        {
+          "title": "9. Ism bilan ham shu qoida",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8828571428571429
+          }
+        },
+        {
+          "title": "10. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.6257142857142857
+          }
+        },
+        {
+          "title": "Mashq 1 — Inkor shakliga o‘tkazing",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.6257142857142857
+          }
+        },
+        {
+          "title": "Mashq 2 — Savol shakliga o‘tkazing",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.44285714285714284
+          }
+        },
+        {
+          "title": "Mashq 3 — Qisqa javobni to‘ldiring",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 4.0,
+            "hajm": 2.6942857142857144
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 12,
+      "difficulty": 3.8,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 5.4,
+          "metrics": {
+            "lugat": 9.6,
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 2.9371428571428573
+          }
+        },
+        {
+          "title": "1. Article — artikl nima?",
+          "difficulty": 3.9,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 4.5,
+            "hajm": 0.6857142857142857
+          }
+        },
+        {
+          "title": "2. A / An qachon ishlatiladi?",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6828571428571428
+          }
+        },
+        {
+          "title": "3. Sanaladigan ot nima?",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 1.0514285714285714
+          }
+        },
+        {
+          "title": "4. A va An farqi harfga emas, tovushga bog‘liq",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 0.32
+          }
+        },
+        {
+          "title": "A — undosh tovushdan oldin",
+          "difficulty": 0.2,
+          "metrics": {
+            "hajm": 0.2342857142857143
+          }
+        },
+        {
+          "title": "An — unli tovushdan oldin",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 0.9885714285714285
+          }
+        },
+        {
+          "title": "5. A/an ot birikmasining boshida turadi",
+          "difficulty": 3.2,
+          "metrics": {
+            "grammatika": 7.0,
+            "termin": 1.5,
+            "hajm": 1.0285714285714285
+          }
+        },
+        {
+          "title": "6. A/an kasb va kimlik bilan",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8142857142857143
+          }
+        },
+        {
+          "title": "7. A/an qachon ishlatilmaydi?",
+          "difficulty": 0.0,
+          "metrics": {}
+        },
+        {
+          "title": "Ko‘plikdagi ot bilan",
+          "difficulty": 0.3,
+          "metrics": {
+            "hajm": 0.29714285714285715
+          }
+        },
+        {
+          "title": "Odatda sanalmaydigan ot bilan",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5285714285714286
+          }
+        },
+        {
+          "title": "8. Birinchi marta va keyin yana aytish",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8028571428571428
+          }
+        },
+        {
+          "title": "9. A va An ni tanlashning oddiy qadamlari",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 0.9085714285714286
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 0.4,
+          "metrics": {
+            "hajm": 0.38285714285714284
+          }
+        },
+        {
+          "title": "Mashq 1 — A yoki An?",
+          "difficulty": 0.6,
+          "metrics": {
+            "hajm": 0.6028571428571429
+          }
+        },
+        {
+          "title": "Mashq 2 — A/an qo‘ying yoki bo‘sh qoldiring",
+          "difficulty": 3.1,
+          "metrics": {
+            "grammatika": 5.8,
+            "termin": 2.5,
+            "hajm": 0.9485714285714286
+          }
+        },
+        {
+          "title": "Mashq 3 — To‘g‘ri variantni tanlang",
+          "difficulty": 3.8,
+          "metrics": {
+            "grammatika": 7.4,
+            "termin": 1.0,
+            "hajm": 2.9314285714285715
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 13,
+      "difficulty": 3.8,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.2,
+          "metrics": {
+            "lugat": 3.6,
+            "grammatika": 1.4,
+            "hajm": 1.4714285714285715
+          }
+        },
+        {
+          "title": "1. Avval oddiy so‘zlardan boshlaymiz",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.2771428571428571
+          }
+        },
+        {
+          "title": "2. “The” nima?",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 6.2,
+            "termin": 2.5,
+            "hajm": 1.1457142857142857
+          }
+        },
+        {
+          "title": "3. A / An va The: eng sodda farq",
+          "difficulty": 2.8,
+          "metrics": {
+            "grammatika": 3.0,
+            "hajm": 2.6
+          }
+        },
+        {
+          "title": "4. Bir narsani ikkinchi marta aytganda",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.2457142857142858
+          }
+        },
+        {
+          "title": "5. Vaziyatdan qaysi narsa ekani ma’lum",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.762857142857143
+          }
+        },
+        {
+          "title": "6. “The” sifat bilan ham keladi",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.1028571428571428
+          }
+        },
+        {
+          "title": "7. The birlik, ko‘plik va sanalmaydigan ot bilan",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 2.2,
+            "malumot": 2.5,
+            "hajm": 1.3457142857142856
+          }
+        },
+        {
+          "title": "8. Birlikdagi otni yolg‘iz qoldirmaymiz",
+          "difficulty": 3.2,
+          "metrics": {
+            "grammatika": 5.8,
+            "termin": 2.5,
+            "hajm": 1.2142857142857142
+          }
+        },
+        {
+          "title": "9. Qachon “The” ishlatmaymiz?",
+          "difficulty": 0.0,
+          "metrics": {}
+        },
+        {
+          "title": "Umuman, barcha narsalar haqida gapirsak",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8685714285714285
+          }
+        },
+        {
+          "title": "Aynan qaysi narsalar ekani ma’lum bo‘lsa, “The” ishlatamiz",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8571428571428571
+          }
+        },
+        {
+          "title": "10. Odam ismlari oldidan odatda “The” qo‘yilmaydi",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9942857142857143
+          }
+        },
+        {
+          "title": "11. “The” tarjimada yo‘qolib qolishi mumkin",
+          "difficulty": 3.1,
+          "metrics": {
+            "grammatika": 5.8,
+            "termin": 2.5,
+            "hajm": 0.9428571428571428
+          }
+        },
+        {
+          "title": "12. Tanlash uchun uchta savol",
+          "difficulty": 3.0,
+          "metrics": {
+            "grammatika": 5.4,
+            "termin": 2.5,
+            "hajm": 1.0085714285714287
+          }
+        },
+        {
+          "title": "Mashq 1 — A, An, The yoki bo‘sh joy",
+          "difficulty": 3.6,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 1.5571428571428572
+          }
+        },
+        {
+          "title": "Mashq 2 — To‘g‘ri variantni tanlang",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.9
+          }
+        },
+        {
+          "title": "Mashq 3 — Xatoni topib to‘g‘rilang",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.6714285714285714
+          }
+        },
+        {
+          "title": "Eng muhim xulosalar",
+          "difficulty": 5.2,
+          "metrics": {
+            "grammatika": 7.0,
+            "termin": 5.0,
+            "hajm": 3.6085714285714285
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 14,
+      "difficulty": 2.9,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 1.2,
+          "metrics": {
+            "lugat": 1.2,
+            "grammatika": 1.8,
+            "hajm": 0.7
+          }
+        },
+        {
+          "title": "1. To‘rtta ko‘rsatish so‘zi",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 1.4,
+            "malumot": 2.5,
+            "hajm": 0.94
+          }
+        },
+        {
+          "title": "2. This — yaqin va bitta",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5314285714285715
+          }
+        },
+        {
+          "title": "3. That — uzoq va bitta",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5971428571428572
+          }
+        },
+        {
+          "title": "4. These — yaqin va ko‘p",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.6428571428571429
+          }
+        },
+        {
+          "title": "5. Those — uzoq va ko‘p",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.7542857142857143
+          }
+        },
+        {
+          "title": "6. This is / That is, These are / Those are",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.6,
+            "malumot": 2.5,
+            "hajm": 0.6057142857142858
+          }
+        },
+        {
+          "title": "7. Ot oldidan yoki o‘zi",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.9257142857142857
+          }
+        },
+        {
+          "title": "8. So‘roq gaplar",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8285714285714286
+          }
+        },
+        {
+          "title": "9. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5914285714285714
+          }
+        },
+        {
+          "title": "Mashq 1 — To‘g‘ri so‘zni tanlang",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.1457142857142857
+          }
+        },
+        {
+          "title": "Mashq 2 — Is yoki Are?",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5314285714285715
+          }
+        },
+        {
+          "title": "Mashq 3 — O‘zbekchadan inglizchaga",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8285714285714286
+          }
+        },
+        {
+          "title": "Eng qisqa xulosa",
+          "difficulty": 3.9,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 2.702857142857143
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 15,
+      "difficulty": 3.1,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.4,
+          "metrics": {
+            "lugat": 4.2,
+            "grammatika": 1.8,
+            "hajm": 1.2685714285714285
+          }
+        },
+        {
+          "title": "1. Barcha possessive adjectives",
+          "difficulty": 3.7,
+          "metrics": {
+            "grammatika": 7.0,
+            "termin": 4.5,
+            "malumot": 2.5,
+            "hajm": 0.8457142857142858
+          }
+        },
+        {
+          "title": "2. My — mening",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.4114285714285714
+          }
+        },
+        {
+          "title": "3. Your — sening / sizning",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.6857142857142857
+          }
+        },
+        {
+          "title": "4. His va Her — uning",
+          "difficulty": 3.8,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 2.28
+          }
+        },
+        {
+          "title": "5. Its — uning (hayvon yoki narsa)",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.0342857142857143
+          }
+        },
+        {
+          "title": "6. Our va Their",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7457142857142857
+          }
+        },
+        {
+          "title": "7. Egalik so‘zi ot oldidan keladi",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9028571428571428
+          }
+        },
+        {
+          "title": "8. A / An egalik so‘zi bilan ishlatilmaydi",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.38571428571428573
+          }
+        },
+        {
+          "title": "9. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.6542857142857142
+          }
+        },
+        {
+          "title": "Mashq 1 — Mos so‘zni tanlang",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.1228571428571428
+          }
+        },
+        {
+          "title": "Mashq 2 — Egaga mos possessive adjective",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.9142857142857143
+          }
+        },
+        {
+          "title": "Mashq 3 — Xatoni to‘g‘rilang",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7942857142857143
+          }
+        },
+        {
+          "title": "Eng qisqa xulosa",
+          "difficulty": 4.0,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 2.7885714285714287
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 16,
+      "difficulty": 3.0,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.0,
+          "metrics": {
+            "lugat": 3.2,
+            "grammatika": 1.4,
+            "hajm": 1.4542857142857142
+          }
+        },
+        {
+          "title": "1. Bitta odam yoki narsa egasi bo‘lsa",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 1.0914285714285714
+          }
+        },
+        {
+          "title": "2. Apostrof qayerga qo‘yiladi?",
+          "difficulty": 0.7,
+          "metrics": {
+            "hajm": 0.74
+          }
+        },
+        {
+          "title": "3. Ko‘plikdagi egalar",
+          "difficulty": 3.1,
+          "metrics": {
+            "grammatika": 5.2,
+            "malumot": 2.5,
+            "hajm": 1.582857142857143
+          }
+        },
+        {
+          "title": "4. Ko‘plik, ammo -s bilan tugamasa",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 1.0257142857142858
+          }
+        },
+        {
+          "title": "5. ’s va egalik qilinayotgan narsa",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.78
+          }
+        },
+        {
+          "title": "6. Possessive ’s va my / your / his...",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.6314285714285715
+          }
+        },
+        {
+          "title": "7. ’s har doim egalikni bildirmaydi",
+          "difficulty": 2.6,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 1.0571428571428572
+          }
+        },
+        {
+          "title": "8. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9371428571428572
+          }
+        },
+        {
+          "title": "Mashq 1 — ’s yoki s’ qo‘ying",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.9742857142857143
+          }
+        },
+        {
+          "title": "Mashq 2 — To‘g‘ri shaklni tanlang",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9514285714285714
+          }
+        },
+        {
+          "title": "Mashq 3 — Ma’noga mos shaklni tanlang",
+          "difficulty": 1.0,
+          "metrics": {
+            "hajm": 0.9742857142857143
+          }
+        },
+        {
+          "title": "Eng qisqa xulosa",
+          "difficulty": 4.0,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 2.8514285714285714
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 17,
+      "difficulty": 2.1,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.4,
+          "metrics": {
+            "lugat": 3.4,
+            "grammatika": 1.8,
+            "hajm": 2.1028571428571428
+          }
+        },
+        {
+          "title": "1. Have yoki Has?",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.9942857142857143
+          }
+        },
+        {
+          "title": "2. He / She / It bilan Has",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8571428571428571
+          }
+        },
+        {
+          "title": "3. Ko‘plikdagi ega bilan Have",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.5971428571428572
+          }
+        },
+        {
+          "title": "4. Inkor gap: Don’t have / Doesn’t have",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9485714285714286
+          }
+        },
+        {
+          "title": "5. Doesn’t dan keyin Have ishlatamiz",
+          "difficulty": 0.6,
+          "metrics": {
+            "hajm": 0.5714285714285714
+          }
+        },
+        {
+          "title": "6. Savol: Do / Does ... have?",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.1057142857142856
+          }
+        },
+        {
+          "title": "7. Qisqa javoblar",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.0
+          }
+        },
+        {
+          "title": "8. Uch shaklni taqqoslang",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.4,
+            "malumot": 2.5,
+            "hajm": 0.37714285714285717
+          }
+        },
+        {
+          "title": "Mashq 1 — Have yoki Has?",
+          "difficulty": 0.7,
+          "metrics": {
+            "hajm": 0.6771428571428572
+          }
+        },
+        {
+          "title": "Mashq 2 — Inkor shakliga o‘tkazing",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5571428571428572
+          }
+        },
+        {
+          "title": "Mashq 3 — Do yoki Does?",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.4714285714285714
+          }
+        },
+        {
+          "title": "Mashq 4 — Qisqa javob yozing",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5628571428571428
+          }
+        },
+        {
+          "title": "Eng qisqa xulosa",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.5085714285714285
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 18,
+      "difficulty": 3.6,
+      "sections": [
+        {
+          "title": "1. Barcha possessive pronouns",
+          "difficulty": 2.9,
+          "metrics": {
+            "grammatika": 5.8,
+            "termin": 2.5,
+            "malumot": 2.5,
+            "hajm": 0.6057142857142858
+          }
+        },
+        {
+          "title": "2. My va Mine",
+          "difficulty": 4.2,
+          "metrics": {
+            "grammatika": 9.6,
+            "termin": 2.5,
+            "hajm": 0.5828571428571429
+          }
+        },
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 1.9,
+          "metrics": {
+            "lugat": 3.0,
+            "grammatika": 1.8,
+            "hajm": 0.9942857142857143
+          }
+        },
+        {
+          "title": "3. Your va Yours",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.68
+          }
+        },
+        {
+          "title": "4. His va Hers",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.0
+          }
+        },
+        {
+          "title": "5. Our / Ours va Their / Theirs",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.6571428571428571
+          }
+        },
+        {
+          "title": "6. “Whose?” — “Kimniki?” deb so‘rash",
+          "difficulty": 4.4,
+          "metrics": {
+            "grammatika": 7.0,
+            "termin": 5.0,
+            "hajm": 1.0514285714285714
+          }
+        },
+        {
+          "title": "7. Otni takrorlamaslik uchun",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7514285714285714
+          }
+        },
+        {
+          "title": "8. Possessive adjective va pronoun farqi",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.7628571428571429
+          }
+        },
+        {
+          "title": "9. Apostrof qo‘shilmaydi",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.4828571428571429
+          }
+        },
+        {
+          "title": "10. “Its” haqida",
+          "difficulty": 2.9,
+          "metrics": {
+            "grammatika": 6.2,
+            "termin": 2.0,
+            "hajm": 0.6485714285714286
+          }
+        },
+        {
+          "title": "Mashq 1 — My yoki Mine?",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5685714285714286
+          }
+        },
+        {
+          "title": "Mashq 2 — Mos egalik olmoshini yozing",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8142857142857143
+          }
+        },
+        {
+          "title": "Mashq 3 — My yoki Mine kabi mos shaklni tanlang",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.62
+          }
+        },
+        {
+          "title": "Eng qisqa xulosa",
+          "difficulty": 4.8,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 5.0,
+            "hajm": 2.7142857142857144
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 19,
+      "difficulty": 2.7,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.6,
+          "metrics": {
+            "lugat": 6.8,
+            "grammatika": 1.8,
+            "hajm": 2.2257142857142855
+          }
+        },
+        {
+          "title": "1. Oddiy inglizcha gap qanday tuziladi?",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.38
+          }
+        },
+        {
+          "title": "2. Subject — ega",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.2514285714285713
+          }
+        },
+        {
+          "title": "3. Verb — fe’l",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.6542857142857142
+          }
+        },
+        {
+          "title": "4. Object — to‘ldiruvchi",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.0742857142857143
+          }
+        },
+        {
+          "title": "5. Gapni ranglar bilan ajratamiz",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6171428571428571
+          }
+        },
+        {
+          "title": "6. Ingliz va o‘zbek tilidagi tartib",
+          "difficulty": 0.9,
+          "metrics": {
+            "hajm": 0.8542857142857143
+          }
+        },
+        {
+          "title": "7. Object har doim ham bo‘lavermaydi",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.8057142857142857
+          }
+        },
+        {
+          "title": "8. Subject va Object olmoshlari",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 1.6885714285714286
+          }
+        },
+        {
+          "title": "9. Gap tuzishni qadam-baqadam mashq qilamiz",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5685714285714286
+          }
+        },
+        {
+          "title": "10. To be bilan hamma gap SVO bo‘lavermaydi",
+          "difficulty": 2.1,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 0.9028571428571428
+          }
+        },
+        {
+          "title": "Mashq 1 — Subject, Verb va Objectni toping",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7657142857142857
+          }
+        },
+        {
+          "title": "Mashq 2 — So‘zlarni to‘g‘ri tartibga qo‘ying",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6714285714285714
+          }
+        },
+        {
+          "title": "Mashq 3 — O‘zbekchadan inglizchaga",
+          "difficulty": 2.9,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 3.0628571428571427
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 20,
+      "difficulty": 3.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 5.1,
+          "metrics": {
+            "lugat": 10,
+            "grammatika": 1.8,
+            "hajm": 3.4771428571428573
+          }
+        },
+        {
+          "title": "1. Present Simple nima?",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.502857142857143
+          }
+        },
+        {
+          "title": "2. Avval darak gapni tushunamiz",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.9114285714285715
+          }
+        },
+        {
+          "title": "3. Fe’lning oddiy shakli nima?",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.92
+          }
+        },
+        {
+          "title": "4. I / You / We / They bilan fe’l o‘zgarmaydi",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.8371428571428572
+          }
+        },
+        {
+          "title": "5. He / She / It bilan fe’lga -s",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.4257142857142857
+          }
+        },
+        {
+          "title": "6. Fe’lga -es qo‘shiladigan holatlar",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.94
+          }
+        },
+        {
+          "title": "7. Undosh harf + Y: y → ies",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 0.7
+          }
+        },
+        {
+          "title": "8. Unli harf + Y: faqat -s",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 0.7228571428571429
+          }
+        },
+        {
+          "title": "9. Have va Be — alohida shakllar",
+          "difficulty": 2.3,
+          "metrics": {
+            "grammatika": 3.6,
+            "malumot": 2.5,
+            "hajm": 0.8914285714285715
+          }
+        },
+        {
+          "title": "10. Present Simple qaysi paytda ishlatiladi?",
+          "difficulty": 0.0,
+          "metrics": {}
+        },
+        {
+          "title": "Odat va takrorlanadigan ish",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5942857142857143
+          }
+        },
+        {
+          "title": "Umumiy haqiqat",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5457142857142857
+          }
+        },
+        {
+          "title": "11. He / She / It bilan fe’lni tekshirish yo‘li",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9542857142857143
+          }
+        },
+        {
+          "title": "12. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7428571428571429
+          }
+        },
+        {
+          "title": "Mashq 1 — To‘g‘ri fe’lni tanlang",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.8714285714285714
+          }
+        },
+        {
+          "title": "Mashq 2 — Qavsdagi fe’lni to‘g‘ri shaklda yozing",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.9142857142857143
+          }
+        },
+        {
+          "title": "Mashq 3 — Xatolarni tuzating",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7514285714285714
+          }
+        },
+        {
+          "title": "Mashq 4 — So‘zlardan gap tuzing",
+          "difficulty": 3.2,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 3.56
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 21,
+      "difficulty": 3.6,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 5.0,
+          "metrics": {
+            "lugat": 10,
+            "grammatika": 1.8,
+            "hajm": 3.2857142857142856
+          }
+        },
+        {
+          "title": "1. “U” haqida gapirganda nima o‘zgaradi?",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.1657142857142857
+          }
+        },
+        {
+          "title": "2. He / She / It dan tashqari bitta ism ham shu qoida",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8942857142857142
+          }
+        },
+        {
+          "title": "3. Eng ko‘p ishlatiladigan qoida: fe’l + S",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.9257142857142857
+          }
+        },
+        {
+          "title": "4. S, SH, CH, X bilan tugasa: -ES",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.3
+          }
+        },
+        {
+          "title": "5. Undosh harf + Y: Y → IES",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 0.9228571428571428
+          }
+        },
+        {
+          "title": "6. Unli harf + Y: faqat S",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 3.0,
+            "hajm": 0.9342857142857143
+          }
+        },
+        {
+          "title": "7. Have va Be fe’llari",
+          "difficulty": 2.3,
+          "metrics": {
+            "grammatika": 3.6,
+            "malumot": 2.5,
+            "hajm": 0.8428571428571429
+          }
+        },
+        {
+          "title": "8. Bu qoida faqat darak gapga tegishli",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7885714285714286
+          }
+        },
+        {
+          "title": "9. Ko‘p uchraydigan xatolar",
+          "difficulty": 0.5,
+          "metrics": {
+            "hajm": 0.48
+          }
+        },
+        {
+          "title": "Mashq 1 — Fe’lning to‘g‘ri shaklini tanlang",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.8714285714285714
+          }
+        },
+        {
+          "title": "Mashq 2 — Qavsdagi fe’lni to‘g‘ri yozing",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.9142857142857143
+          }
+        },
+        {
+          "title": "Mashq 3 — Xatolarni tuzating",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7514285714285714
+          }
+        },
+        {
+          "title": "Mashq 4 — So‘zlardan gap tuzing",
+          "difficulty": 3.4,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 3.6028571428571428
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 22,
+      "difficulty": 2.7,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.7,
+          "metrics": {
+            "lugat": 4.6,
+            "grammatika": 1.8,
+            "hajm": 1.6
+          }
+        },
+        {
+          "title": "1. Inkor gap nima?",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7657142857142857
+          }
+        },
+        {
+          "title": "2. Don’t va Doesn’t nimani bildiradi?",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.8142857142857143
+          }
+        },
+        {
+          "title": "3. I / You / We / They bilan Don’t",
+          "difficulty": 3.0,
+          "metrics": {
+            "grammatika": 5.2,
+            "hajm": 0.7971428571428572
+          }
+        },
+        {
+          "title": "4. He / She / It bilan Doesn’t",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7314285714285714
+          }
+        },
+        {
+          "title": "5. Doesn’t dan keyin fe’lga -s qo‘shmaymiz",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.9685714285714285
+          }
+        },
+        {
+          "title": "6. To‘liq va qisqa shakllar",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.6857142857142857
+          }
+        },
+        {
+          "title": "7. Darak va inkor shaklini taqqoslang",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.4,
+            "malumot": 2.5,
+            "hajm": 0.5085714285714286
+          }
+        },
+        {
+          "title": "8. To Be bilan adashtirmang",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 0.7457142857142857
+          }
+        },
+        {
+          "title": "9. Ko‘p uchraydigan xatolar",
+          "difficulty": 0.5,
+          "metrics": {
+            "hajm": 0.5028571428571429
+          }
+        },
+        {
+          "title": "Mashq 1 — Don’t yoki Doesn’t?",
+          "difficulty": 0.6,
+          "metrics": {
+            "hajm": 0.62
+          }
+        },
+        {
+          "title": "Mashq 2 — Inkor shakliga o‘tkazing",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5828571428571429
+          }
+        },
+        {
+          "title": "Mashq 3 — Xatolarni tuzating",
+          "difficulty": 3.5,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 3.302857142857143
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 23,
+      "difficulty": 2.4,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 1.6,
+          "metrics": {
+            "lugat": 1.8,
+            "grammatika": 1.8,
+            "hajm": 1.0885714285714285
+          }
+        },
+        {
+          "title": "1. Do va Does kim bilan ishlatiladi?",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 1.08
+          }
+        },
+        {
+          "title": "2. Do / Does nimaga yordam beradi?",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.0371428571428571
+          }
+        },
+        {
+          "title": "3. Yordamchi DO bilan asosiy DO ni farqlaymiz",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 1.0771428571428572
+          }
+        },
+        {
+          "title": "4. Does bilan fe’lning shakli",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.0714285714285714
+          }
+        },
+        {
+          "title": "5. Do / Does be fe’li bilan ishlamaydi",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 0.4742857142857143
+          }
+        },
+        {
+          "title": "6. Juda qisqa eslab qolish jadvali",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.6885714285714286
+          }
+        },
+        {
+          "title": "Mashq 1 — Do yoki Does?",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6114285714285714
+          }
+        },
+        {
+          "title": "Mashq 2 — Yordamchi so‘zni tanlang va fe’lni tekshiring",
+          "difficulty": 2.9,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.942857142857143
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 24,
+      "difficulty": 2.6,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.3,
+          "metrics": {
+            "lugat": 6.2,
+            "grammatika": 1.8,
+            "hajm": 1.997142857142857
+          }
+        },
+        {
+          "title": "1. Ha yoki yo‘q deb javob beriladigan savol",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.68
+          }
+        },
+        {
+          "title": "2. Do kimlar bilan ishlatiladi?",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7342857142857143
+          }
+        },
+        {
+          "title": "3. Does kim bilan ishlatiladi?",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.78
+          }
+        },
+        {
+          "title": "4. Does dan keyin fe’lga -s qo‘shmaymiz",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8685714285714285
+          }
+        },
+        {
+          "title": "5. Ism bilan savol tuzish",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8028571428571428
+          }
+        },
+        {
+          "title": "6. Savol tuzish tartibini eslab qoling",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.88
+          }
+        },
+        {
+          "title": "7. What, Where, When bilan savollar",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.8742857142857143
+          }
+        },
+        {
+          "title": "8. Oddiy fe’l va To Be savollarini farqlaymiz",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 1.1457142857142857
+          }
+        },
+        {
+          "title": "9. Ko‘p uchraydigan xatolar",
+          "difficulty": 0.5,
+          "metrics": {
+            "hajm": 0.4714285714285714
+          }
+        },
+        {
+          "title": "Mashq 1 — Do yoki Does ni tanlang",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5914285714285714
+          }
+        },
+        {
+          "title": "Mashq 2 — So‘zlarni savol tartibiga qo‘ying",
+          "difficulty": 2.8,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.78
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 25,
+      "difficulty": 2.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.7,
+          "metrics": {
+            "lugat": 4.8,
+            "grammatika": 1.8,
+            "hajm": 1.6171428571428572
+          }
+        },
+        {
+          "title": "1. Do bilan berilgan savolga javob",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.062857142857143
+          }
+        },
+        {
+          "title": "2. Does bilan berilgan savolga javob",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.1257142857142857
+          }
+        },
+        {
+          "title": "3. Savoldagi you javobda I ga o‘zgaradi",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.8142857142857143
+          }
+        },
+        {
+          "title": "4. Ism yoki boshqa ega bilan qisqa javob",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.46285714285714286
+          }
+        },
+        {
+          "title": "5. Qisqa javob va to‘liq javob",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 1.0285714285714285
+          }
+        },
+        {
+          "title": "6. To Be savollarining qisqa javobi boshqacha",
+          "difficulty": 2.3,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 0.92
+          }
+        },
+        {
+          "title": "7. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.48
+          }
+        },
+        {
+          "title": "Mashq 1 — Qisqa javobni to‘ldiring",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8228571428571428
+          }
+        },
+        {
+          "title": "Mashq 2 — To‘g‘ri javobni tanlang",
+          "difficulty": 3.1,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 2.974285714285714
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 26,
+      "difficulty": 3.8,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.6,
+          "metrics": {
+            "lugat": 7.0,
+            "grammatika": 4.6,
+            "hajm": 2.2
+          }
+        },
+        {
+          "title": "1. Adverb of frequency nima?",
+          "difficulty": 3.2,
+          "metrics": {
+            "grammatika": 6.2,
+            "termin": 2.5,
+            "hajm": 0.8542857142857143
+          }
+        },
+        {
+          "title": "2. Tez-tezlik ravishlari",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 4.2,
+            "malumot": 2.5,
+            "hajm": 1.282857142857143
+          }
+        },
+        {
+          "title": "3. Oddiy fe’l bilan: ravish fe’ldan oldin",
+          "difficulty": 3.7,
+          "metrics": {
+            "grammatika": 7.0,
+            "termin": 2.5,
+            "hajm": 1.52
+          }
+        },
+        {
+          "title": "4. To Be bilan: ravish am/is/are dan keyin",
+          "difficulty": 3.5,
+          "metrics": {
+            "grammatika": 7.0,
+            "termin": 2.5,
+            "hajm": 1.0114285714285713
+          }
+        },
+        {
+          "title": "5. Har kuni / haftada bir marta kabi iboralar",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.1228571428571428
+          }
+        },
+        {
+          "title": "6. Ravish joyida ko‘p uchraydigan xatolar",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 0.42857142857142855
+          }
+        },
+        {
+          "title": "Mashq 1 — Ma’nosiga mos ravishni tanlang",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.54
+          }
+        },
+        {
+          "title": "Mashq 2 — Ravishni to‘g‘ri joyga qo‘ying",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6485714285714286
+          }
+        },
+        {
+          "title": "Mashq 3 — O‘zbekchadan inglizchaga",
+          "difficulty": 3.9,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 2.665714285714286
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 27,
+      "difficulty": 3.6,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.5,
+          "metrics": {
+            "lugat": 6.0,
+            "grammatika": 7.2,
+            "termin": 2.5,
+            "hajm": 2.2657142857142856
+          }
+        },
+        {
+          "title": "1. Hozir davom etayotgan ish",
+          "difficulty": 3.9,
+          "metrics": {
+            "grammatika": 8.0,
+            "termin": 2.5,
+            "hajm": 1.082857142857143
+          }
+        },
+        {
+          "title": "2. Asosiy formula",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 0.8342857142857143
+          }
+        },
+        {
+          "title": "3. Am / Is / Are ni egaga moslaymiz",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 3.6,
+            "malumot": 2.5,
+            "hajm": 1.0142857142857142
+          }
+        },
+        {
+          "title": "4. Ko‘p fe’llarga -ing qo‘shamiz",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 2.2,
+            "malumot": 2.5,
+            "hajm": 1.0142857142857142
+          }
+        },
+        {
+          "title": "5. Oxiridagi E tushib qoladi",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7857142857142857
+          }
+        },
+        {
+          "title": "6. Qisqa bir bo‘g‘inli ayrim fe’llarda oxirgi harf ikkilanadi",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 1.1485714285714286
+          }
+        },
+        {
+          "title": "7. Hozirgi paytni bildiradigan so‘zlar",
+          "difficulty": 3.5,
+          "metrics": {
+            "grammatika": 7.2,
+            "termin": 2.5,
+            "hajm": 0.7885714285714286
+          }
+        },
+        {
+          "title": "8. To Be ni tashlab ketmang",
+          "difficulty": 3.5,
+          "metrics": {
+            "grammatika": 7.6,
+            "termin": 2.5,
+            "hajm": 0.4857142857142857
+          }
+        },
+        {
+          "title": "Mashq 1 — Am, Is yoki Are?",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.48857142857142855
+          }
+        },
+        {
+          "title": "Mashq 2 — Fe’lga -ing qo‘shing",
+          "difficulty": 0.5,
+          "metrics": {
+            "hajm": 0.5257142857142857
+          }
+        },
+        {
+          "title": "Mashq 3 — Gapni to‘ldiring",
+          "difficulty": 4.4,
+          "metrics": {
+            "grammatika": 8.0,
+            "termin": 2.5,
+            "hajm": 2.782857142857143
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 28,
+      "difficulty": 3.9,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.7,
+          "metrics": {
+            "lugat": 6.4,
+            "grammatika": 7.6,
+            "termin": 2.5,
+            "hajm": 2.177142857142857
+          }
+        },
+        {
+          "title": "1. Odat va hozirgi harakat",
+          "difficulty": 3.6,
+          "metrics": {
+            "grammatika": 7.2,
+            "termin": 2.5,
+            "hajm": 1.1114285714285714
+          }
+        },
+        {
+          "title": "2. Present Simple ni eslaymiz",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.8657142857142858
+          }
+        },
+        {
+          "title": "3. Present Continuous ni eslaymiz",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8714285714285714
+          }
+        },
+        {
+          "title": "4. Bir xil fe’l bilan taqqoslaymiz",
+          "difficulty": 3.5,
+          "metrics": {
+            "grammatika": 7.6,
+            "termin": 2.5,
+            "malumot": 2.5,
+            "hajm": 1.2742857142857142
+          }
+        },
+        {
+          "title": "5. Vaqt bildiradigan so‘zlar yordam beradi",
+          "difficulty": 3.7,
+          "metrics": {
+            "grammatika": 7.2,
+            "termin": 2.5,
+            "hajm": 1.3257142857142856
+          }
+        },
+        {
+          "title": "6. Gap tuzilishidagi farq",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 7.6,
+            "termin": 2.5,
+            "malumot": 2.5,
+            "hajm": 0.7028571428571428
+          }
+        },
+        {
+          "title": "7. Ba’zi fe’llar odatda Present Simple da ishlatiladi",
+          "difficulty": 3.6,
+          "metrics": {
+            "grammatika": 7.0,
+            "termin": 2.5,
+            "hajm": 1.2285714285714286
+          }
+        },
+        {
+          "title": "8. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.56
+          }
+        },
+        {
+          "title": "Mashq 1 — Present Simple yoki Present Continuous?",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.3171428571428572
+          }
+        },
+        {
+          "title": "Mashq 2 — Qavsdagi fe’lni to‘g‘ri shaklda yozing",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.86
+          }
+        },
+        {
+          "title": "Mashq 3 — Xatoni to‘g‘rilang",
+          "difficulty": 4.5,
+          "metrics": {
+            "grammatika": 8.0,
+            "termin": 2.5,
+            "hajm": 3.1228571428571428
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 29,
+      "difficulty": 2.8,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.3,
+          "metrics": {
+            "lugat": 3.8,
+            "grammatika": 4.6,
+            "hajm": 1.4914285714285713
+          }
+        },
+        {
+          "title": "1. Olti savol so‘zi",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.6828571428571428
+          }
+        },
+        {
+          "title": "2. Question word nima qiladi?",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.4514285714285715
+          }
+        },
+        {
+          "title": "3. Savol tuzishning ikki asosiy qolipi",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 1.282857142857143
+          }
+        },
+        {
+          "title": "4. Bu bo‘limdagi keyingi darslar",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.8,
+            "hajm": 0.6514285714285715
+          }
+        },
+        {
+          "title": "Mashq 1 — Savol so‘zini ma’nosi bilan moslang",
+          "difficulty": 0.6,
+          "metrics": {
+            "hajm": 0.6
+          }
+        },
+        {
+          "title": "Mashq 2 — Bo‘sh joyga mos savol so‘zini qo‘ying",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 2.954285714285714
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 30,
+      "difficulty": 2.4,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.0,
+          "metrics": {
+            "lugat": 5.4,
+            "grammatika": 1.8,
+            "hajm": 1.7342857142857142
+          }
+        },
+        {
+          "title": "1. What — “Nima?”",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.74
+          }
+        },
+        {
+          "title": "2. What is ...? — To Be bilan",
+          "difficulty": 2.3,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 1.0
+          }
+        },
+        {
+          "title": "3. What do you ...? — Harakat haqida",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 1.0571428571428572
+          }
+        },
+        {
+          "title": "4. What bilan ko‘p ishlatiladigan savollar",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7485714285714286
+          }
+        },
+        {
+          "title": "5. What savoliga javob qanday bo‘ladi?",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8457142857142858
+          }
+        },
+        {
+          "title": "6. Ko‘p uchraydigan xatolar",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.3342857142857143
+          }
+        },
+        {
+          "title": "Mashq 1 — What bilan savolni to‘ldiring",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.32857142857142857
+          }
+        },
+        {
+          "title": "Mashq 2 — So‘zlarni to‘g‘ri tartiblang",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.505714285714286
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 31,
+      "difficulty": 2.6,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8,
+          "metrics": {
+            "lugat": 4.8,
+            "grammatika": 1.8,
+            "hajm": 1.6914285714285715
+          }
+        },
+        {
+          "title": "1. Where + To Be — qayerdaligini so‘rash",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 1.3314285714285714
+          }
+        },
+        {
+          "title": "2. At, In, On bilan joy aytish",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.9371428571428572
+          }
+        },
+        {
+          "title": "3. Where + Do / Does — harakat qayerda?",
+          "difficulty": 3.2,
+          "metrics": {
+            "grammatika": 5.2,
+            "hajm": 1.2885714285714285
+          }
+        },
+        {
+          "title": "4. Where do you go? — Qayerga borasiz?",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7571428571428571
+          }
+        },
+        {
+          "title": "5. Where savoliga qanday javob beramiz?",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8885714285714286
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.49142857142857144
+          }
+        },
+        {
+          "title": "Mashq 1 — Where bilan savolni to‘ldiring",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.32571428571428573
+          }
+        },
+        {
+          "title": "Mashq 2 — Do yoki Does ni qo‘ying",
+          "difficulty": 2.6,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.4714285714285715
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 32,
+      "difficulty": 2.3,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.9,
+          "metrics": {
+            "lugat": 5.0,
+            "grammatika": 1.8,
+            "hajm": 1.7942857142857143
+          }
+        },
+        {
+          "title": "1. Who is ...? — “U kim?”",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.0371428571428571
+          }
+        },
+        {
+          "title": "2. Who do you ...? — Kimni?",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.2342857142857142
+          }
+        },
+        {
+          "title": "3. Who gapning egasi bo‘lsa",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 1.2771428571428571
+          }
+        },
+        {
+          "title": "4. Who savoliga javob",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.1228571428571428
+          }
+        },
+        {
+          "title": "5. Who va What farqi",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.4057142857142857
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.4142857142857143
+          }
+        },
+        {
+          "title": "Mashq 1 — Mos savol tuzing",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7457142857142857
+          }
+        },
+        {
+          "title": "Mashq 2 — Do/Does yoki yordamchi kerak emasmi?",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.625714285714286
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 33,
+      "difficulty": 2.2,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.4,
+          "metrics": {
+            "lugat": 3.8,
+            "grammatika": 1.8,
+            "hajm": 1.5142857142857142
+          }
+        },
+        {
+          "title": "1. When + To Be — voqea qachon?",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 0.7457142857142857
+          }
+        },
+        {
+          "title": "2. When + Do / Does — harakat qachon?",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.262857142857143
+          }
+        },
+        {
+          "title": "3. When savoliga vaqt bilan javob beramiz",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9371428571428572
+          }
+        },
+        {
+          "title": "4. When va Where farqi",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.46285714285714286
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.3485714285714286
+          }
+        },
+        {
+          "title": "Mashq 1 — Do yoki Does?",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.43142857142857144
+          }
+        },
+        {
+          "title": "Mashq 2 — Savol so‘zini tanlang",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.5885714285714285
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 34,
+      "difficulty": 2.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.5,
+          "metrics": {
+            "lugat": 4.2,
+            "grammatika": 1.8,
+            "hajm": 1.502857142857143
+          }
+        },
+        {
+          "title": "1. Why — “Nega?”",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.7571428571428571
+          }
+        },
+        {
+          "title": "2. To Be bilan Why savoli",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.5828571428571429
+          }
+        },
+        {
+          "title": "3. Do / Does bilan Why savoli",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.9028571428571428
+          }
+        },
+        {
+          "title": "4. Because — “chunki”",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.5142857142857142
+          }
+        },
+        {
+          "title": "5. What va Why farqi",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.3514285714285714
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 0.2,
+          "metrics": {
+            "hajm": 0.22
+          }
+        },
+        {
+          "title": "Mashq 1 — To Be yoki Do / Does?",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5628571428571428
+          }
+        },
+        {
+          "title": "Mashq 2 — Savolga Because bilan javob bering",
+          "difficulty": 3.2,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 2.7714285714285714
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 35,
+      "difficulty": 2.8,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.5,
+          "metrics": {
+            "lugat": 4.2,
+            "grammatika": 4.6,
+            "hajm": 1.5771428571428572
+          }
+        },
+        {
+          "title": "1. How are you? — Ahvol so‘rash",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.1057142857142856
+          }
+        },
+        {
+          "title": "2. How + To Be — holat yoki sifat",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.7342857142857143
+          }
+        },
+        {
+          "title": "3. How do you ...? — Ish qanday bajariladi?",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.4
+          }
+        },
+        {
+          "title": "4. How va What farqi",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.66
+          }
+        },
+        {
+          "title": "5. How keyingi darslarda boshqa so‘zlar bilan keladi",
+          "difficulty": 2.6,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 0.5742857142857143
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.36
+          }
+        },
+        {
+          "title": "Mashq 1 — Do, Does yoki To Be?",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5028571428571429
+          }
+        },
+        {
+          "title": "Mashq 2 — Savolga mos javobni tanlang",
+          "difficulty": 3.1,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 2.585714285714286
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 36,
+      "difficulty": 2.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8,
+          "metrics": {
+            "lugat": 4.6,
+            "grammatika": 2.2,
+            "hajm": 1.522857142857143
+          }
+        },
+        {
+          "title": "1. How old? — Necha yosh?",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8428571428571429
+          }
+        },
+        {
+          "title": "2. Yoshga javob berish",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8828571428571429
+          }
+        },
+        {
+          "title": "3. How long? — Qancha vaqt?",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.38
+          }
+        },
+        {
+          "title": "4. How long? — Qanchalik uzun?",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8542857142857143
+          }
+        },
+        {
+          "title": "5. When va How long farqi",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5285714285714286
+          }
+        },
+        {
+          "title": "Mashq 1 — How old yoki How long?",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.7028571428571428
+          }
+        },
+        {
+          "title": "Mashq 2 — To Be, Do yoki Does?",
+          "difficulty": 3.0,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 2.82
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 37,
+      "difficulty": 3.7,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.3,
+          "metrics": {
+            "lugat": 6.0,
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 1.9657142857142857
+          }
+        },
+        {
+          "title": "1. Countable va Uncountable — sanaladigan va sanalmaydigan",
+          "difficulty": 0.0,
+          "metrics": {}
+        },
+        {
+          "title": "Countable — donalab sanash mumkin",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7457142857142857
+          }
+        },
+        {
+          "title": "Uncountable — odatda donalab sanalmaydi",
+          "difficulty": 3.1,
+          "metrics": {
+            "grammatika": 6.2,
+            "termin": 2.5,
+            "hajm": 0.5942857142857143
+          }
+        },
+        {
+          "title": "2. How Many? — Nechta?",
+          "difficulty": 2.8,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 1.3
+          }
+        },
+        {
+          "title": "3. How Much? — Qancha?",
+          "difficulty": 4.6,
+          "metrics": {
+            "grammatika": 7.6,
+            "termin": 5.0,
+            "hajm": 1.282857142857143
+          }
+        },
+        {
+          "title": "4. How Much? — Narxni so‘rash",
+          "difficulty": 2.6,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 0.6914285714285714
+          }
+        },
+        {
+          "title": "5. Many va Much ni taqqoslang",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 4.2,
+            "malumot": 2.5,
+            "hajm": 0.7771428571428571
+          }
+        },
+        {
+          "title": "6. Do / Does bilan savol qolipi",
+          "difficulty": 2.6,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.9685714285714285
+          }
+        },
+        {
+          "title": "7. Ko‘p uchraydigan xatolar",
+          "difficulty": 2.1,
+          "metrics": {
+            "grammatika": 3.8,
+            "hajm": 0.37142857142857144
+          }
+        },
+        {
+          "title": "Mashq 1 — Many yoki Much?",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.7057142857142857
+          }
+        },
+        {
+          "title": "Mashq 2 — Do yoki Does?",
+          "difficulty": 2.1,
+          "metrics": {
+            "grammatika": 3.8,
+            "hajm": 0.4857142857142857
+          }
+        },
+        {
+          "title": "Mashq 3 — Savol so‘zini tanlang",
+          "difficulty": 3.6,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 2.6342857142857143
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 38,
+      "difficulty": 2.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.2,
+          "metrics": {
+            "lugat": 5.6,
+            "grammatika": 2.2,
+            "hajm": 1.92
+          }
+        },
+        {
+          "title": "1. There is — bitta narsa bor",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.88
+          }
+        },
+        {
+          "title": "2. There are — bir nechta narsa bor",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.1028571428571428
+          }
+        },
+        {
+          "title": "3. Sanalmaydigan ot bilan There is",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6657142857142857
+          }
+        },
+        {
+          "title": "4. Inkor: There isn’t / There aren’t",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8571428571428571
+          }
+        },
+        {
+          "title": "5. Savol: Is there? / Are there?",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7628571428571429
+          }
+        },
+        {
+          "title": "6. Qisqa javoblar",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.32285714285714284
+          }
+        },
+        {
+          "title": "7. There is va It is farqi",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.8028571428571428
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.36
+          }
+        },
+        {
+          "title": "Mashq 1 — Is yoki Are?",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.6028571428571429
+          }
+        },
+        {
+          "title": "Mashq 2 — Darak gapni savolga aylantiring",
+          "difficulty": 3.0,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 2.7257142857142855
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 39,
+      "difficulty": 2.6,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8,
+          "metrics": {
+            "lugat": 3.8,
+            "grammatika": 3.2,
+            "hajm": 1.4485714285714286
+          }
+        },
+        {
+          "title": "1. Can — qila olaman / oladi",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 0.6171428571428571
+          }
+        },
+        {
+          "title": "2. Can barcha egalar bilan bir xil",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 0.7457142857142857
+          }
+        },
+        {
+          "title": "3. Can dan keyin fe’lning oddiy shakli keladi",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 0.6771428571428572
+          }
+        },
+        {
+          "title": "4. Can’t — qila olmayman / olmaydi",
+          "difficulty": 3.0,
+          "metrics": {
+            "grammatika": 5.2,
+            "hajm": 0.7657142857142857
+          }
+        },
+        {
+          "title": "5. Can yoki Can’t?",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 0.8771428571428571
+          }
+        },
+        {
+          "title": "6. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.4,
+            "hajm": 0.30857142857142855
+          }
+        },
+        {
+          "title": "Mashq 1 — Can yoki Can’t?",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.7371428571428571
+          }
+        },
+        {
+          "title": "Mashq 2 — Gapni Can bilan to‘ldiring",
+          "difficulty": 2.6,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.4285714285714284
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 40,
+      "difficulty": 2.9,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.5,
+          "metrics": {
+            "lugat": 5.4,
+            "grammatika": 3.2,
+            "hajm": 1.8742857142857143
+          }
+        },
+        {
+          "title": "1. Can bilan savol tuzish",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 0.78
+          }
+        },
+        {
+          "title": "2. Qobiliyat haqida so‘rash",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 0.7114285714285714
+          }
+        },
+        {
+          "title": "3. Qisqa javoblar",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 0.8342857142857143
+          }
+        },
+        {
+          "title": "4. Can you...? — Iltimos qilish",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 1.2114285714285715
+          }
+        },
+        {
+          "title": "5. Can I...? — Ruxsat so‘rash",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 0.6171428571428571
+          }
+        },
+        {
+          "title": "6. Iltimos yoki ruxsatga javob",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 0.6485714285714286
+          }
+        },
+        {
+          "title": "7. Can dan keyin fe’l oddiy shaklda",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 0.4114285714285714
+          }
+        },
+        {
+          "title": "Mashq 1 — Savolni to‘g‘ri tuzing",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.4,
+            "hajm": 0.5057142857142857
+          }
+        },
+        {
+          "title": "Mashq 2 — Can yoki Can’t bilan javob bering",
+          "difficulty": 2.9,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 2.6342857142857143
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 41,
+      "difficulty": 3.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.9,
+          "metrics": {
+            "lugat": 6.8,
+            "grammatika": 5.6,
+            "hajm": 2.2657142857142856
+          }
+        },
+        {
+          "title": "1. Buyruqning oddiy shakli",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.2714285714285714
+          }
+        },
+        {
+          "title": "2. Iltimosni muloyim qilish",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.98
+          }
+        },
+        {
+          "title": "3. Sinfxonada ko‘p ishlatiladigan ko‘rsatmalar",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5657142857142857
+          }
+        },
+        {
+          "title": "4. Inkor buyruq: Don’t + fe’l",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8428571428571429
+          }
+        },
+        {
+          "title": "5. Buyruq, savol va darak gap farqi",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.4,
+            "malumot": 2.5,
+            "hajm": 0.6
+          }
+        },
+        {
+          "title": "6. Qadam-baqadam tuzamiz",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5742857142857143
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 0.3,
+          "metrics": {
+            "hajm": 0.3057142857142857
+          }
+        },
+        {
+          "title": "Mashq 1 — Fe’ldan buyruq tuzing",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6571428571428571
+          }
+        },
+        {
+          "title": "Mashq 2 — Buyruqni tarjima qiling",
+          "difficulty": 4.1,
+          "metrics": {
+            "grammatika": 5.6,
+            "hajm": 2.6514285714285712
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 42,
+      "difficulty": 3.7,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.8,
+          "metrics": {
+            "lugat": 5.6,
+            "grammatika": 6.6,
+            "termin": 5.0,
+            "hajm": 1.8742857142857143
+          }
+        },
+        {
+          "title": "1. Gapda qayerda ekanini qanday aytamiz?",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 0.7028571428571428
+          }
+        },
+        {
+          "title": "2. Eng ko‘p ishlatiladigan joy predloglari",
+          "difficulty": 3.0,
+          "metrics": {
+            "grammatika": 5.8,
+            "termin": 2.5,
+            "malumot": 2.5,
+            "hajm": 1.0571428571428572
+          }
+        },
+        {
+          "title": "3. In — ichida",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.6028571428571429
+          }
+        },
+        {
+          "title": "4. On va Under",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.6057142857142858
+          }
+        },
+        {
+          "title": "5. Next to, Behind, In front of",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.6714285714285714
+          }
+        },
+        {
+          "title": "6. Between va Near",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.6285714285714286
+          }
+        },
+        {
+          "title": "7. Where bilan savol beramiz",
+          "difficulty": 3.0,
+          "metrics": {
+            "grammatika": 6.2,
+            "termin": 2.0,
+            "hajm": 0.6942857142857143
+          }
+        },
+        {
+          "title": "8. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 0.43142857142857144
+          }
+        },
+        {
+          "title": "Mashq 1 — Mos predlogni tanlang",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8914285714285715
+          }
+        },
+        {
+          "title": "Mashq 2 — O‘zbekchadan inglizchaga",
+          "difficulty": 3.8,
+          "metrics": {
+            "grammatika": 6.2,
+            "termin": 2.5,
+            "hajm": 2.84
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 43,
+      "difficulty": 2.8,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8,
+          "metrics": {
+            "lugat": 5.0,
+            "grammatika": 1.8,
+            "hajm": 1.7257142857142858
+          }
+        },
+        {
+          "title": "1. AT — aniq soat va ayrim vaqtlar",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.6742857142857143
+          }
+        },
+        {
+          "title": "2. ON — kun va sana",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7971428571428572
+          }
+        },
+        {
+          "title": "3. IN — oy, yil, fasl va kunning katta qismlari",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9428571428571428
+          }
+        },
+        {
+          "title": "4. Uchalasini taqqoslang",
+          "difficulty": 2.9,
+          "metrics": {
+            "grammatika": 5.8,
+            "termin": 2.5,
+            "malumot": 2.5,
+            "hajm": 0.7657142857142857
+          }
+        },
+        {
+          "title": "5. This / Next / Every bilan",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6857142857142857
+          }
+        },
+        {
+          "title": "6. Ko‘p uchraydigan xatolar",
+          "difficulty": 0.4,
+          "metrics": {
+            "hajm": 0.37714285714285717
+          }
+        },
+        {
+          "title": "Mashq 1 — At, On yoki In?",
+          "difficulty": 0.6,
+          "metrics": {
+            "hajm": 0.6342857142857142
+          }
+        },
+        {
+          "title": "Mashq 2 — To‘g‘ri variantni tanlang",
+          "difficulty": 3.8,
+          "metrics": {
+            "grammatika": 6.2,
+            "termin": 2.5,
+            "hajm": 2.6742857142857144
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 44,
+      "difficulty": 5.0,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.0,
+          "metrics": {
+            "lugat": 5.2,
+            "grammatika": 5.0,
+            "hajm": 1.7657142857142858
+          }
+        },
+        {
+          "title": "1. Countable — sanaladigan otlar",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 6.8,
+            "termin": 2.5,
+            "malumot": 2.5,
+            "hajm": 1.4742857142857142
+          }
+        },
+        {
+          "title": "2. Birlikdagi sanaladigan otga aniqlovchi kerak",
+          "difficulty": 2.3,
+          "metrics": {
+            "grammatika": 3.8,
+            "hajm": 0.7771428571428571
+          }
+        },
+        {
+          "title": "3. Uncountable — sanalmaydigan otlar",
+          "difficulty": 4.5,
+          "metrics": {
+            "grammatika": 7.6,
+            "termin": 5.0,
+            "hajm": 1.0142857142857142
+          }
+        },
+        {
+          "title": "4. Miqdorni o‘lchov bilan sanash",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.0285714285714285
+          }
+        },
+        {
+          "title": "5. Ba’zi otlar vaziyatga qarab farqlanishi mumkin",
+          "difficulty": 2.6,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.9285714285714286
+          }
+        },
+        {
+          "title": "6. Countable va Uncountable farqini tekshirish",
+          "difficulty": 4.3,
+          "metrics": {
+            "grammatika": 7.2,
+            "termin": 5.0,
+            "hajm": 0.7342857142857143
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 3.4,
+            "hajm": 0.26285714285714284
+          }
+        },
+        {
+          "title": "Mashq 1 — Countable yoki Uncountable?",
+          "difficulty": 4.1,
+          "metrics": {
+            "grammatika": 6.8,
+            "termin": 5.0,
+            "hajm": 0.5428571428571428
+          }
+        },
+        {
+          "title": "Mashq 2 — To‘g‘ri shaklni tanlang",
+          "difficulty": 6.3,
+          "metrics": {
+            "grammatika": 8.4,
+            "termin": 7.5,
+            "hajm": 2.8714285714285714
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 45,
+      "difficulty": 3.0,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.6,
+          "metrics": {
+            "lugat": 3.6,
+            "grammatika": 7.0,
+            "termin": 2.5,
+            "hajm": 1.4742857142857142
+          }
+        },
+        {
+          "title": "1. Some — darak gaplarda",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.8,
+            "hajm": 0.6971428571428572
+          }
+        },
+        {
+          "title": "2. Some bilan qaysi otlar keladi?",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 3.8,
+            "malumot": 2.5,
+            "hajm": 0.9228571428571428
+          }
+        },
+        {
+          "title": "3. Any — inkor gaplarda",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6371428571428571
+          }
+        },
+        {
+          "title": "4. Any — ko‘p savollarda",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.68
+          }
+        },
+        {
+          "title": "5. Some va Any ni yonma-yon taqqoslang",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 4.2,
+            "malumot": 2.5,
+            "hajm": 0.6914285714285714
+          }
+        },
+        {
+          "title": "6. Taklif va iltimosda Some",
+          "difficulty": 3.0,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 1.3542857142857143
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 3.4,
+            "hajm": 0.45714285714285713
+          }
+        },
+        {
+          "title": "Mashq 1 — Some yoki Any?",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.8,
+            "hajm": 0.6685714285714286
+          }
+        },
+        {
+          "title": "Mashq 2 — Xatoni tuzating",
+          "difficulty": 3.4,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 2.657142857142857
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 46,
+      "difficulty": 3.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.3,
+          "metrics": {
+            "lugat": 3.6,
+            "grammatika": 5.0,
+            "hajm": 1.42
+          }
+        },
+        {
+          "title": "1. Many — sanaladigan ko‘plik bilan",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.7828571428571428
+          }
+        },
+        {
+          "title": "2. Much — sanalmaydigan ot bilan",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.8,
+            "hajm": 0.6742857142857143
+          }
+        },
+        {
+          "title": "3. A Lot Of — ikkalasi bilan ishlaydi",
+          "difficulty": 2.6,
+          "metrics": {
+            "grammatika": 4.2,
+            "malumot": 2.5,
+            "hajm": 1.1
+          }
+        },
+        {
+          "title": "4. Darak, inkor va savolda",
+          "difficulty": 3.1,
+          "metrics": {
+            "grammatika": 5.0,
+            "hajm": 1.26
+          }
+        },
+        {
+          "title": "5. Many va Much ni adashtirmang",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 0.42
+          }
+        },
+        {
+          "title": "6. Qoliplar",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.5342857142857143
+          }
+        },
+        {
+          "title": "Mashq 1 — Many, Much yoki A Lot Of?",
+          "difficulty": 2.9,
+          "metrics": {
+            "grammatika": 5.0,
+            "hajm": 0.7828571428571428
+          }
+        },
+        {
+          "title": "Mashq 2 — Xatoni tuzating",
+          "difficulty": 4.1,
+          "metrics": {
+            "grammatika": 5.4,
+            "hajm": 2.8771428571428572
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 47,
+      "difficulty": 3.4,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.7,
+          "metrics": {
+            "lugat": 4.6,
+            "grammatika": 6.2,
+            "termin": 2.5,
+            "hajm": 1.5571428571428572
+          }
+        },
+        {
+          "title": "1. Subject va Object farqi",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8628571428571429
+          }
+        },
+        {
+          "title": "2. Yetti Object Pronoun",
+          "difficulty": 1.8,
+          "metrics": {
+            "malumot": 2.5,
+            "hajm": 1.0142857142857142
+          }
+        },
+        {
+          "title": "3. Object pronoun fe’ldan keyin keladi",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5428571428571428
+          }
+        },
+        {
+          "title": "4. Object pronoun predlogdan keyin ham keladi",
+          "difficulty": 3.2,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 0.6428571428571429
+          }
+        },
+        {
+          "title": "5. Ismni Object Pronoun bilan almashtiramiz",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.96
+          }
+        },
+        {
+          "title": "6. Her: Object Pronoun yoki Possessive Adjective?",
+          "difficulty": 4.3,
+          "metrics": {
+            "grammatika": 7.0,
+            "termin": 5.0,
+            "hajm": 1.0285714285714285
+          }
+        },
+        {
+          "title": "7. Ko‘p uchraydigan xatolar",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.3342857142857143
+          }
+        },
+        {
+          "title": "Mashq 1 — Mos Object Pronounni tanlang",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7
+          }
+        },
+        {
+          "title": "Mashq 2 — Ismni olmosh bilan almashtiring",
+          "difficulty": 3.8,
+          "metrics": {
+            "grammatika": 6.2,
+            "termin": 2.5,
+            "hajm": 2.6857142857142855
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 48,
+      "difficulty": 3.3,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.1,
+          "metrics": {
+            "lugat": 5.0,
+            "grammatika": 5.6,
+            "hajm": 1.68
+          }
+        },
+        {
+          "title": "1. Sifat nima haqida ma’lumot beradi?",
+          "difficulty": 3.4,
+          "metrics": {
+            "grammatika": 6.0,
+            "hajm": 0.8628571428571429
+          }
+        },
+        {
+          "title": "2. Qarama-qarshi ma’noli sifatlar",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.062857142857143
+          }
+        },
+        {
+          "title": "3. Ranglar va ko‘rinish",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5485714285714286
+          }
+        },
+        {
+          "title": "4. Sifat otning oldida keladi",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 0.7028571428571428
+          }
+        },
+        {
+          "title": "5. Sifat am/is/are dan keyin keladi",
+          "difficulty": 2.8,
+          "metrics": {
+            "grammatika": 5.0,
+            "hajm": 0.6257142857142857
+          }
+        },
+        {
+          "title": "6. Sifat ko‘plikda o‘zgarmaydi",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 0.76
+          }
+        },
+        {
+          "title": "7. Sifatlar bilan gapni kengaytiramiz",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.35714285714285715
+          }
+        },
+        {
+          "title": "Mashq 1 — Sifatning ma’nosini yozing",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.44285714285714284
+          }
+        },
+        {
+          "title": "Mashq 2 — So‘zlarni to‘g‘ri tartiblang",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5
+          }
+        },
+        {
+          "title": "Mashq 3 — To‘g‘ri variantni tanlang",
+          "difficulty": 4.1,
+          "metrics": {
+            "grammatika": 5.6,
+            "hajm": 2.642857142857143
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 49,
+      "difficulty": 2.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.5,
+          "metrics": {
+            "lugat": 5.2,
+            "hajm": 1.7257142857142858
+          }
+        },
+        {
+          "title": "1. Was yoki Were?",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 3.6,
+            "malumot": 2.5,
+            "hajm": 1.262857142857143
+          }
+        },
+        {
+          "title": "2. Was/Were bilan kimligini, holatini yoki joyini aytamiz",
+          "difficulty": 0.0,
+          "metrics": {}
+        },
+        {
+          "title": "Kim yoki nima edi?",
+          "difficulty": 0.2,
+          "metrics": {
+            "hajm": 0.18857142857142858
+          }
+        },
+        {
+          "title": "Qanday edi?",
+          "difficulty": 0.3,
+          "metrics": {
+            "hajm": 0.29428571428571426
+          }
+        },
+        {
+          "title": "Qayerda edi?",
+          "difficulty": 0.2,
+          "metrics": {
+            "hajm": 0.24571428571428572
+          }
+        },
+        {
+          "title": "3. O‘tgan vaqtni bildiradigan iboralar",
+          "difficulty": 0.6,
+          "metrics": {
+            "hajm": 0.6085714285714285
+          }
+        },
+        {
+          "title": "4. Inkor: Was Not / Were Not",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.8885714285714286
+          }
+        },
+        {
+          "title": "5. Savol: Was/Were gap boshiga chiqadi",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 0.62
+          }
+        },
+        {
+          "title": "6. Qisqa javoblar",
+          "difficulty": 0.7,
+          "metrics": {
+            "hajm": 0.6714285714285714
+          }
+        },
+        {
+          "title": "7. Was/Were bilan Did ishlatmaymiz",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 0.5542857142857143
+          }
+        },
+        {
+          "title": "Mashq 1 — Was yoki Were?",
+          "difficulty": 0.6,
+          "metrics": {
+            "hajm": 0.6085714285714285
+          }
+        },
+        {
+          "title": "Mashq 2 — Inkor shakliga o‘tkazing",
+          "difficulty": 0.4,
+          "metrics": {
+            "hajm": 0.4228571428571429
+          }
+        },
+        {
+          "title": "Mashq 3 — Savol shakliga o‘tkazing",
+          "difficulty": 2.9,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 2.5285714285714285
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 50,
+      "difficulty": 3.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.7,
+          "metrics": {
+            "lugat": 9.2,
+            "grammatika": 1.8,
+            "hajm": 2.954285714285714
+          }
+        },
+        {
+          "title": "1. Regular verb — muntazam fe’l",
+          "difficulty": 3.5,
+          "metrics": {
+            "grammatika": 5.2,
+            "hajm": 1.8
+          }
+        },
+        {
+          "title": "2. Ko‘p fe’llarga -ed qo‘shamiz",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 2.2,
+            "malumot": 2.5,
+            "hajm": 1.0942857142857143
+          }
+        },
+        {
+          "title": "3. Fe’l oxiri E bilan tugasa: faqat -d",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6085714285714285
+          }
+        },
+        {
+          "title": "4. Undosh + Y: Y → IED",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.7085714285714285
+          }
+        },
+        {
+          "title": "5. Unli + Y: faqat -ed qo‘shiladi",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.6,
+            "hajm": 0.6428571428571429
+          }
+        },
+        {
+          "title": "6. Qisqa fe’l oxiridagi undosh ikki marta yozilishi mumkin",
+          "difficulty": 2.3,
+          "metrics": {
+            "grammatika": 3.4000000000000004,
+            "hajm": 1.14
+          }
+        },
+        {
+          "title": "7. Kechagi yoki tugagan vaqt",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5285714285714286
+          }
+        },
+        {
+          "title": "8. -ED qanday aytiladi?",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 2.2,
+            "malumot": 2.5,
+            "hajm": 0.8857142857142857
+          }
+        },
+        {
+          "title": "9. Darak gap qolipi",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9342857142857143
+          }
+        },
+        {
+          "title": "Mashq 1 — Fe’lni Past Simple ga o‘tkazing",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.43714285714285717
+          }
+        },
+        {
+          "title": "Mashq 2 — Qavsdagi fe’lni to‘g‘ri yozing",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7628571428571429
+          }
+        },
+        {
+          "title": "Mashq 3 — Xatoni tuzating",
+          "difficulty": 2.8,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.7342857142857144
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 51,
+      "difficulty": 2.6,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.4,
+          "metrics": {
+            "lugat": 6.4,
+            "grammatika": 1.8,
+            "hajm": 2.1
+          }
+        },
+        {
+          "title": "1. Irregular verb nima?",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.74
+          }
+        },
+        {
+          "title": "2. Ko‘p ishlatiladigan irregular verbs",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 2.2142857142857144
+          }
+        },
+        {
+          "title": "3. Barcha egalar bilan o‘tgan shakl bir xil",
+          "difficulty": 3.0,
+          "metrics": {
+            "grammatika": 5.2,
+            "hajm": 0.8971428571428571
+          }
+        },
+        {
+          "title": "4. Irregular fe’llar bilan darak gaplar",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7228571428571429
+          }
+        },
+        {
+          "title": "5. O‘tgan zamon va vaqt iboralari",
+          "difficulty": 0.6,
+          "metrics": {
+            "hajm": 0.6057142857142858
+          }
+        },
+        {
+          "title": "6. Past of Be alohida",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5742857142857143
+          }
+        },
+        {
+          "title": "7. Past Simple darak gap qolipi",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8057142857142857
+          }
+        },
+        {
+          "title": "Mashq 1 — Past shaklini toping",
+          "difficulty": 0.6,
+          "metrics": {
+            "hajm": 0.6285714285714286
+          }
+        },
+        {
+          "title": "Mashq 2 — Qavsdagi fe’lni Past Simple ga o‘tkazing",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6057142857142858
+          }
+        },
+        {
+          "title": "Mashq 3 — To‘g‘ri fe’lni tanlang",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.697142857142857
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 52,
+      "difficulty": 2.3,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.7,
+          "metrics": {
+            "lugat": 4.6,
+            "grammatika": 1.8,
+            "hajm": 1.6257142857142857
+          }
+        },
+        {
+          "title": "1. Did not / Didn’t nima?",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9771428571428571
+          }
+        },
+        {
+          "title": "2. Did barcha egalar bilan bir xil",
+          "difficulty": 2.9,
+          "metrics": {
+            "grammatika": 5.2,
+            "malumot": 2.5,
+            "hajm": 0.8657142857142858
+          }
+        },
+        {
+          "title": "3. Didn’t dan keyin fe’l oddiy shaklga qaytadi",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9914285714285714
+          }
+        },
+        {
+          "title": "4. Did not va Didn’t",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 0.33714285714285713
+          }
+        },
+        {
+          "title": "5. Past of To Be bilan aralashtirmang",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 0.8542857142857143
+          }
+        },
+        {
+          "title": "6. O‘tgan zamon ko‘rsatkichlari bilan",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7142857142857143
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 0.5,
+          "metrics": {
+            "hajm": 0.5
+          }
+        },
+        {
+          "title": "Mashq 1 — Didn’t qo‘ying",
+          "difficulty": 0.4,
+          "metrics": {
+            "hajm": 0.44857142857142857
+          }
+        },
+        {
+          "title": "Mashq 2 — Inkor shakliga o‘tkazing",
+          "difficulty": 2.8,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.7285714285714286
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 53,
+      "difficulty": 2.2,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.1,
+          "metrics": {
+            "lugat": 3.2,
+            "grammatika": 1.8,
+            "hajm": 1.4228571428571428
+          }
+        },
+        {
+          "title": "1. Do — “qilmoq” fe’li",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8228571428571428
+          }
+        },
+        {
+          "title": "2. Did — yordamchi fe’l",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7371428571428571
+          }
+        },
+        {
+          "title": "3. Bitta gapda ikkita “do” kelishi mumkin",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 1.4,
+            "malumot": 2.5,
+            "hajm": 1.1628571428571428
+          }
+        },
+        {
+          "title": "4. Did barcha egalar bilan bir xil",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.86
+          }
+        },
+        {
+          "title": "5. Did yordamchi bo‘lsa, asosiy fe’l oddiy shaklda",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.6542857142857142
+          }
+        },
+        {
+          "title": "6. Was/Were yoki Did?",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 0.7685714285714286
+          }
+        },
+        {
+          "title": "Mashq 1 — Did yordamchimi yoki asosiy fe’lmi?",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7171428571428572
+          }
+        },
+        {
+          "title": "Mashq 2 — To‘g‘ri fe’lni tanlang",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.5885714285714285
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 54,
+      "difficulty": 2.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.1,
+          "metrics": {
+            "lugat": 3.2,
+            "grammatika": 1.8,
+            "hajm": 1.3571428571428572
+          }
+        },
+        {
+          "title": "1. Ha yoki yo‘q bilan javob beriladigan savol",
+          "difficulty": 3.1,
+          "metrics": {
+            "grammatika": 4.8,
+            "hajm": 1.4428571428571428
+          }
+        },
+        {
+          "title": "2. Savolda fe’lning oddiy shakli",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.177142857142857
+          }
+        },
+        {
+          "title": "3. Wh-question: What, Where, When bilan",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.8714285714285714
+          }
+        },
+        {
+          "title": "4. Past of To Be savollari boshqacha",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 0.7142857142857143
+          }
+        },
+        {
+          "title": "5. Savol belgisi",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6371428571428571
+          }
+        },
+        {
+          "title": "Mashq 1 — Darak gapni savolga aylantiring",
+          "difficulty": 0.5,
+          "metrics": {
+            "hajm": 0.54
+          }
+        },
+        {
+          "title": "Mashq 2 — Did yoki Was/Were?",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.625714285714286
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 55,
+      "difficulty": 2.6,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 1.7,
+          "metrics": {
+            "lugat": 2.2,
+            "grammatika": 1.8,
+            "hajm": 1.082857142857143
+          }
+        },
+        {
+          "title": "1. Did bilan savolga qisqa javob",
+          "difficulty": 3.2,
+          "metrics": {
+            "grammatika": 6.2,
+            "termin": 2.5,
+            "hajm": 0.8457142857142858
+          }
+        },
+        {
+          "title": "2. Javobda subject pronounni tanlang",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 1.2771428571428571
+          }
+        },
+        {
+          "title": "3. Qisqa va to‘liq javob",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.1
+          }
+        },
+        {
+          "title": "4. Wh-question ga Yes/No bilan javob bermaymiz",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9828571428571429
+          }
+        },
+        {
+          "title": "5. Was / Were savollarining qisqa javobi",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 0.5171428571428571
+          }
+        },
+        {
+          "title": "Mashq 1 — Qisqa javobni to‘ldiring",
+          "difficulty": 0.7,
+          "metrics": {
+            "hajm": 0.6971428571428572
+          }
+        },
+        {
+          "title": "Mashq 2 — Qisqa javobni tanlang",
+          "difficulty": 2.8,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.76
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 56,
+      "difficulty": 2.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.0,
+          "metrics": {
+            "lugat": 5.4,
+            "grammatika": 1.8,
+            "hajm": 1.88
+          }
+        },
+        {
+          "title": "1. Going to nimani bildiradi?",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.2257142857142858
+          }
+        },
+        {
+          "title": "2. Asosiy formula",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.0057142857142858
+          }
+        },
+        {
+          "title": "3. Am / Is / Are ni egaga moslash",
+          "difficulty": 2.3,
+          "metrics": {
+            "grammatika": 3.6,
+            "malumot": 2.5,
+            "hajm": 0.7142857142857143
+          }
+        },
+        {
+          "title": "4. Vaqtni bildiradigan iboralar",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8657142857142858
+          }
+        },
+        {
+          "title": "5. Going to dan keyin fe’l o‘zgarmaydi",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5942857142857143
+          }
+        },
+        {
+          "title": "6. Inkor shakli",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.7828571428571428
+          }
+        },
+        {
+          "title": "7. Savol shakli",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.7371428571428571
+          }
+        },
+        {
+          "title": "8. Darak, inkor va savol",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.4,
+            "malumot": 2.5,
+            "hajm": 0.4657142857142857
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.4257142857142857
+          }
+        },
+        {
+          "title": "Mashq 1 — Am, Is yoki Are?",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.6114285714285714
+          }
+        },
+        {
+          "title": "Mashq 2 — So‘zlarni tartibga soling",
+          "difficulty": 3.1,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 2.682857142857143
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 57,
+      "difficulty": 2.3,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.1,
+          "metrics": {
+            "lugat": 5.6,
+            "grammatika": 1.8,
+            "hajm": 2.037142857142857
+          }
+        },
+        {
+          "title": "1. Will bilan darak gap",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.9428571428571428
+          }
+        },
+        {
+          "title": "2. Will barcha egalar bilan bir xil",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.82
+          }
+        },
+        {
+          "title": "3. Will dan keyin oddiy fe’l keladi",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.6142857142857143
+          }
+        },
+        {
+          "title": "4. Will qachon ishlatiladi?",
+          "difficulty": 0.0,
+          "metrics": {}
+        },
+        {
+          "title": "Taxmin yoki fikr",
+          "difficulty": 0.3,
+          "metrics": {
+            "hajm": 0.34
+          }
+        },
+        {
+          "title": "Hozir qabul qilingan qaror yoki va’da",
+          "difficulty": 0.8,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.28
+          }
+        },
+        {
+          "title": "5. Qisqa shakllar",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.82
+          }
+        },
+        {
+          "title": "6. Inkor va savol shakllari bilan tanishuv",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8857142857142857
+          }
+        },
+        {
+          "title": "7. O‘tgan zamon va kelajakni farqlang",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.3028571428571429
+          }
+        },
+        {
+          "title": "Mashq 1 — Will + fe’l",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5371428571428571
+          }
+        },
+        {
+          "title": "Mashq 2 — Xatolarni tuzating",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 2.5514285714285716
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 58,
+      "difficulty": 3.4,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.6,
+          "metrics": {
+            "lugat": 7.0,
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 2.4457142857142857
+          }
+        },
+        {
+          "title": "1. Going to — oldindan qilingan reja",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.0114285714285713
+          }
+        },
+        {
+          "title": "2. Will — hozir qabul qilingan qaror",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.78
+          }
+        },
+        {
+          "title": "3. Will — va’da yoki fikrga asoslangan taxmin",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.5657142857142857
+          }
+        },
+        {
+          "title": "4. Ko‘rinib turgan dalilga asoslangan taxmin",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.82
+          }
+        },
+        {
+          "title": "5. Qoliplarni yonma-yon ko‘ramiz",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.2,
+            "malumot": 2.5,
+            "hajm": 0.7914285714285715
+          }
+        },
+        {
+          "title": "6. Bir xil vaziyatni ikki xil aytib ko‘ring",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.9142857142857143
+          }
+        },
+        {
+          "title": "7. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.37714285714285717
+          }
+        },
+        {
+          "title": "Mashq 1 — Vaziyatga mosini tanlang",
+          "difficulty": 2.6,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 1.02
+          }
+        },
+        {
+          "title": "Mashq 2 — Going to yoki Will qolipini yozing",
+          "difficulty": 3.2,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 2.722857142857143
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 59,
+      "difficulty": 4.1,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 5.1,
+          "metrics": {
+            "lugat": 7.8,
+            "grammatika": 7.6,
+            "termin": 2.5,
+            "hajm": 2.394285714285714
+          }
+        },
+        {
+          "title": "1. Qiyoslashda Than",
+          "difficulty": 3.8,
+          "metrics": {
+            "grammatika": 8.0,
+            "termin": 2.5,
+            "hajm": 0.96
+          }
+        },
+        {
+          "title": "2. Qisqa sifatlarga -er qo‘shamiz",
+          "difficulty": 2.6,
+          "metrics": {
+            "grammatika": 4.6,
+            "malumot": 2.5,
+            "hajm": 0.6714285714285714
+          }
+        },
+        {
+          "title": "3. Sifat oxiri E bilan tugasa: faqat R",
+          "difficulty": 2.1,
+          "metrics": {
+            "grammatika": 3.8,
+            "hajm": 0.41714285714285715
+          }
+        },
+        {
+          "title": "4. Undosh + Y: Y → IER",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 0.4685714285714286
+          }
+        },
+        {
+          "title": "5. Qisqa unli + bitta undosh: oxirgi harf ikkilanadi",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 0.4828571428571429
+          }
+        },
+        {
+          "title": "6. Uzun sifatlar bilan More",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 5.6,
+            "hajm": 0.98
+          }
+        },
+        {
+          "title": "7. Muhim istisnolar",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 3.8,
+            "malumot": 2.5,
+            "hajm": 0.86
+          }
+        },
+        {
+          "title": "8. Bitta sifatga bitta qiyoslash usuli",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.5542857142857143
+          }
+        },
+        {
+          "title": "Mashq 1 — Qiyosiy shaklni yozing",
+          "difficulty": 0.6,
+          "metrics": {
+            "hajm": 0.6114285714285714
+          }
+        },
+        {
+          "title": "Mashq 2 — Than bilan gapni to‘ldiring",
+          "difficulty": 4.3,
+          "metrics": {
+            "grammatika": 7.6,
+            "termin": 2.5,
+            "hajm": 2.934285714285714
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 60,
+      "difficulty": 5.0,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 6.6,
+          "metrics": {
+            "lugat": 7.8,
+            "grammatika": 8.4,
+            "termin": 7.5,
+            "hajm": 2.525714285714286
+          }
+        },
+        {
+          "title": "1. Superlative qachon ishlatiladi?",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8971428571428571
+          }
+        },
+        {
+          "title": "2. Qisqa sifatlar: -est",
+          "difficulty": 3.6,
+          "metrics": {
+            "grammatika": 8.4,
+            "termin": 2.5,
+            "malumot": 2.5,
+            "hajm": 0.9457142857142857
+          }
+        },
+        {
+          "title": "3. Sifat E bilan tugasa: -st",
+          "difficulty": 2.1,
+          "metrics": {
+            "grammatika": 3.8,
+            "hajm": 0.46
+          }
+        },
+        {
+          "title": "4. Undosh + Y: Y → IEST",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.5085714285714286
+          }
+        },
+        {
+          "title": "5. Oxirgi undoshni ikki marta yozish",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.5314285714285715
+          }
+        },
+        {
+          "title": "6. Uzun sifatlar: The Most",
+          "difficulty": 3.2,
+          "metrics": {
+            "grammatika": 5.6,
+            "hajm": 0.8628571428571429
+          }
+        },
+        {
+          "title": "7. Noto‘g‘ri shaklli sifatlar",
+          "difficulty": 4.0,
+          "metrics": {
+            "grammatika": 7.6,
+            "termin": 5.0,
+            "malumot": 2.5,
+            "hajm": 0.8685714285714285
+          }
+        },
+        {
+          "title": "8. Superlative bilan The ni unutmang",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 6.8,
+            "termin": 2.5,
+            "hajm": 0.4742857142857143
+          }
+        },
+        {
+          "title": "Mashq 1 — Superlative shaklni yozing",
+          "difficulty": 0.7,
+          "metrics": {
+            "hajm": 0.7028571428571428
+          }
+        },
+        {
+          "title": "Mashq 2 — To‘g‘ri variantni tanlang",
+          "difficulty": 4.5,
+          "metrics": {
+            "grammatika": 8.0,
+            "termin": 2.5,
+            "hajm": 3.0
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 61,
+      "difficulty": 3.9,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.5,
+          "metrics": {
+            "lugat": 5.6,
+            "grammatika": 6.0,
+            "hajm": 1.9257142857142857
+          }
+        },
+        {
+          "title": "1. Sifat otning oldidan keladi",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 0.9171428571428571
+          }
+        },
+        {
+          "title": "2. A / An sifatdan oldin keladi",
+          "difficulty": 3.4,
+          "metrics": {
+            "grammatika": 8,
+            "termin": 1.0,
+            "hajm": 1.3371428571428572
+          }
+        },
+        {
+          "title": "3. The, My, This ham sifatdan oldin turadi",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 0.7685714285714286
+          }
+        },
+        {
+          "title": "4. Sifat To Be dan keyin keladi",
+          "difficulty": 3.5,
+          "metrics": {
+            "grammatika": 6.0,
+            "hajm": 0.92
+          }
+        },
+        {
+          "title": "5. Sifat birlik va ko‘plikda o‘zgarmaydi",
+          "difficulty": 2.7,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 0.7914285714285715
+          }
+        },
+        {
+          "title": "6. Ikki sifat bilan",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 0.9457142857142857
+          }
+        },
+        {
+          "title": "Mashq 1 — So‘zlarni to‘g‘ri tartiblang",
+          "difficulty": 1.2,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.5914285714285714
+          }
+        },
+        {
+          "title": "Mashq 2 — A yoki An ni tanlang",
+          "difficulty": 3.8,
+          "metrics": {
+            "grammatika": 5.2,
+            "hajm": 2.4657142857142857
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 62,
+      "difficulty": 3.8,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.8,
+          "metrics": {
+            "lugat": 7.4,
+            "grammatika": 7.0,
+            "termin": 2.5,
+            "hajm": 2.1742857142857144
+          }
+        },
+        {
+          "title": "1. And — va",
+          "difficulty": 2.6,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.96
+          }
+        },
+        {
+          "title": "2. But — lekin, ammo",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.8942857142857142
+          }
+        },
+        {
+          "title": "3. Or — yoki",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 0.8485714285714285
+          }
+        },
+        {
+          "title": "4. Bir gapni ikki fikrga ulaymiz",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 2.8,
+            "malumot": 2.5,
+            "hajm": 0.7371428571428571
+          }
+        },
+        {
+          "title": "5. Qaysi bog‘lovchini tanlaymiz?",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.72
+          }
+        },
+        {
+          "title": "Mashq 1 — And, But yoki Or?",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.8257142857142857
+          }
+        },
+        {
+          "title": "Mashq 2 — Ikki gapni bitta gapga birlashtiring",
+          "difficulty": 4.0,
+          "metrics": {
+            "grammatika": 6.6,
+            "termin": 2.5,
+            "hajm": 2.882857142857143
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 63,
+      "difficulty": 2.5,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 2.8,
+          "metrics": {
+            "lugat": 4.2,
+            "hajm": 1.4857142857142858
+          }
+        },
+        {
+          "title": "1. Because — chunki",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.48
+          }
+        },
+        {
+          "title": "2. So — shuning uchun",
+          "difficulty": 1.6,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.9628571428571429
+          }
+        },
+        {
+          "title": "3. Bir vaziyatni ikki xil usulda aytamiz",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7542857142857143
+          }
+        },
+        {
+          "title": "4. Because va So ni birga ishlatish",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 2.8,
+            "hajm": 0.7428571428571429
+          }
+        },
+        {
+          "title": "5. Vergul haqida sodda eslatma",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.6428571428571429
+          }
+        },
+        {
+          "title": "Ko‘p uchraydigan xatolar",
+          "difficulty": 0.5,
+          "metrics": {
+            "hajm": 0.5085714285714286
+          }
+        },
+        {
+          "title": "Mashq 1 — Because yoki So?",
+          "difficulty": 0.7,
+          "metrics": {
+            "hajm": 0.6514285714285715
+          }
+        },
+        {
+          "title": "Mashq 2 — Ikki gapni birlashtiring",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 2.9171428571428573
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 64,
+      "difficulty": 3.1,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.4,
+          "metrics": {
+            "lugat": 4.2,
+            "grammatika": 4.2,
+            "hajm": 1.7314285714285715
+          }
+        },
+        {
+          "title": "1. Would Like + ot",
+          "difficulty": 2.1,
+          "metrics": {
+            "grammatika": 3.4,
+            "hajm": 0.7771428571428571
+          }
+        },
+        {
+          "title": "2. Would Like + to + fe’l",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 3.8,
+            "hajm": 1.1057142857142856
+          }
+        },
+        {
+          "title": "3. Would like barcha egalar bilan bir xil",
+          "difficulty": 1.1,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.7428571428571429
+          }
+        },
+        {
+          "title": "4. Qisqa shakl: I’d like",
+          "difficulty": 2.6,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 1.0914285714285714
+          }
+        },
+        {
+          "title": "5. Would you like...? — Taklif qilish",
+          "difficulty": 2.3,
+          "metrics": {
+            "grammatika": 3.8,
+            "hajm": 0.8
+          }
+        },
+        {
+          "title": "6. Taklifga javob berish",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 3.4,
+            "hajm": 0.4942857142857143
+          }
+        },
+        {
+          "title": "7. Want va Would Like farqi",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 4.2,
+            "hajm": 0.6314285714285715
+          }
+        },
+        {
+          "title": "8. Ko‘p uchraydigan xatolar",
+          "difficulty": 1.9,
+          "metrics": {
+            "grammatika": 3.4,
+            "hajm": 0.35428571428571426
+          }
+        },
+        {
+          "title": "Mashq 1 — Ot yoki to + fe’l?",
+          "difficulty": 2.2,
+          "metrics": {
+            "grammatika": 3.8,
+            "hajm": 0.62
+          }
+        },
+        {
+          "title": "Mashq 2 — Muloyim gap tuzing",
+          "difficulty": 3.7,
+          "metrics": {
+            "grammatika": 4.6,
+            "hajm": 2.842857142857143
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 65,
+      "difficulty": 3.4,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 4.4,
+          "metrics": {
+            "lugat": 8.6,
+            "grammatika": 1.8,
+            "hajm": 2.6914285714285713
+          }
+        },
+        {
+          "title": "1. Vaqtni aniqlash",
+          "difficulty": 1.8,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 1.1228571428571428
+          }
+        },
+        {
+          "title": "2. Present Simple — odatlar va umumiy haqiqatlar",
+          "difficulty": 1.5,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 1.12
+          }
+        },
+        {
+          "title": "Present Simple inkor va savol",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.7028571428571428
+          }
+        },
+        {
+          "title": "3. Present Continuous — hozir davom etayotgan ish",
+          "difficulty": 1.7,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 1.1542857142857144
+          }
+        },
+        {
+          "title": "4. Present Simple va Present Continuous",
+          "difficulty": 3.5,
+          "metrics": {
+            "grammatika": 7.6,
+            "termin": 2.5,
+            "malumot": 2.5,
+            "hajm": 1.3
+          }
+        },
+        {
+          "title": "5. Past of To Be — Was / Were",
+          "difficulty": 1.4,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.9285714285714286
+          }
+        },
+        {
+          "title": "6. Past Simple — o‘tgan zamondagi harakat",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.12285714285714286
+          }
+        },
+        {
+          "title": "Muntazam fe’l: -ed qo‘shiladi",
+          "difficulty": 1.0,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.28285714285714286
+          }
+        },
+        {
+          "title": "Irregular fe’l: shakli o‘zgaradi",
+          "difficulty": 0.3,
+          "metrics": {
+            "hajm": 0.29428571428571426
+          }
+        },
+        {
+          "title": "Past Simple inkor va savol",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 1.8,
+            "hajm": 0.8685714285714285
+          }
+        },
+        {
+          "title": "7. Future — kelajak",
+          "difficulty": 2.8,
+          "metrics": {
+            "grammatika": 5.8,
+            "termin": 2.5,
+            "hajm": 0.2342857142857143
+          }
+        },
+        {
+          "title": "Going to — oldindan qilingan reja",
+          "difficulty": 1.3,
+          "metrics": {
+            "grammatika": 2.2,
+            "hajm": 0.48857142857142855
+          }
+        },
+        {
+          "title": "Will — tezda qilingan qaror, va’da yoki taxmin",
+          "difficulty": 0.9,
+          "metrics": {
+            "grammatika": 1.4,
+            "hajm": 0.4142857142857143
+          }
+        },
+        {
+          "title": "8. Qaysi zamonni tanlashni tekshiring",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 6.8,
+            "termin": 2.5,
+            "hajm": 0.7285714285714285
+          }
+        },
+        {
+          "title": "9. Zamonlar bo‘yicha mini-jadval",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 7.2,
+            "termin": 2.5,
+            "malumot": 2.5,
+            "hajm": 0.9057142857142857
+          }
+        },
+        {
+          "title": "Mashq 1 — Zamonni aniqlang",
+          "difficulty": 3.8,
+          "metrics": {
+            "grammatika": 7.6,
+            "termin": 2.5,
+            "hajm": 1.1542857142857144
+          }
+        },
+        {
+          "title": "Mashq 2 — To‘g‘ri shaklni tanlang",
+          "difficulty": 3.3,
+          "metrics": {
+            "grammatika": 3.6,
+            "hajm": 3.0514285714285716
+          }
+        }
+      ]
+    },
+    {
+      "lesson": 67,
+      "difficulty": 3.1,
+      "sections": [
+        {
+          "title": "Dars lug‘ati",
+          "difficulty": 3.7,
+          "metrics": {
+            "lugat": 6.8,
+            "grammatika": 1.8,
+            "hajm": 2.6085714285714285
+          }
+        },
+        {
+          "title": "1. 0 dan 10 gacha — poydevor",
+          "difficulty": 2.5,
+          "metrics": {
+            "grammatika": 2.6,
+            "malumot": 2.5,
+            "hajm": 2.3714285714285714
+          }
+        },
+        {
+          "title": "2. 11 dan 20 gacha — maxsus so‘zlar",
+          "difficulty": 2.4,
+          "metrics": {
+            "grammatika": 2.6,
+            "malumot": 2.5,
+            "hajm": 2.0714285714285716
+          }
+        },
+        {
+          "title": "3. O‘nliklar: 20, 30... 100",
+          "difficulty": 2.1,
+          "metrics": {
+            "grammatika": 1.8,
+            "malumot": 2.5,
+            "hajm": 1.9685714285714286
+          }
+        },
+        {
+          "title": "4. 21 dan 99 gacha — bitta qoida",
+          "difficulty": 2.0,
+          "metrics": {
+            "grammatika": 2.2,
+            "malumot": 2.5,
+            "hajm": 1.3828571428571428
+          }
+        },
+        {
+          "title": "5. Telefon raqam va 100",
+          "difficulty": 3.5,
+          "metrics": {
+            "grammatika": 7.0,
+            "termin": 2.0,
+            "hajm": 1.6228571428571428
+          }
+        },
+        {
+          "title": "6. Sonlar bilan uchta tayyor savol",
+          "difficulty": 3.2,
+          "metrics": {
+            "grammatika": 5.0,
+            "hajm": 1.4428571428571428
+          }
+        },
+        {
+          "title": "Mashq 1 — So‘z bilan yozing",
+          "difficulty": 0.5,
+          "metrics": {
+            "hajm": 0.4857142857142857
+          }
+        },
+        {
+          "title": "Mashq 2 — Raqam bilan yozing",
+          "difficulty": 0.3,
+          "metrics": {
+            "hajm": 0.34
+          }
+        },
+        {
+          "title": "Mashq 3 — To‘g‘ri variantni tanlang",
+          "difficulty": 2.9,
+          "metrics": {
+            "grammatika": 3.2,
+            "hajm": 2.645714285714286
+          }
+        }
+      ]
+    }
+  ]
+}

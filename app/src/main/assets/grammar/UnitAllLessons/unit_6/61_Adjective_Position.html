@@ -48,6 +48,23 @@
       .row { grid-template-columns: 1fr; gap: 1px; }
       .uz { text-align: left; font-size: .91rem; }
     }
+    .difficulty-banner { display: flex; flex-wrap: wrap; align-items: center;
+      gap: 10px; margin: 12px 0 4px; padding: 10px 12px;
+      background: #eef4fa; border: 1px solid #d3e2ef; border-radius: 12px; }
+    .difficulty-badge { display: inline-flex; align-items: center; gap: 6px;
+      font-size: .8rem; font-weight: 700; }
+    .difficulty-dot { width: 10px; height: 10px; border-radius: 50%; }
+    .difficulty-label { color: #174a6b; }
+    .difficulty-sections { display: flex; flex-wrap: wrap; gap: 6px;
+      margin-top: 6px; width: 100%; }
+    .difficulty-chip { display: inline-flex; align-items: center; gap: 5px;
+      font-size: .72rem; color: #2e7ea3; background: #fff;
+      border: 1px solid #d3e2ef; border-radius: 20px; padding: 3px 9px; }
+    .difficulty-chip .difficulty-dot { width: 7px; height: 7px; }
+    .difficulty-meter { display: flex; gap: 3px; align-items: center; }
+    .difficulty-meter i { width: 12px; height: 6px; border-radius: 2px;
+      background: #d8e4ee; display: inline-block; }
+
   </style>
 </head>
 <body>
@@ -55,7 +72,9 @@
     <h1>61-DARS. ADJECTIVE POSITION</h1>
     <div class="subhead">Sifatning gapda va ot birikmasida kelish o‘rni</div>
 
-    <h2>Dars lug‘ati</h2>
+    
+    <div class="difficulty-banner"><span class="difficulty-badge"><span class="difficulty-dot" style="background:#EF6C00"></span><span class="difficulty-label">Qiyinlik: 3.9/10 — Qiyin</span></span><span class="difficulty-meter"><i style="background:#EF6C00"></i><i style="background:#EF6C00"></i><i style="background:#EF6C00"></i><i style="background:#EF6C00"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i><i style="background:#d8e4ee"></i></span><div class="difficulty-sections"><span class="difficulty-chip"><span class="difficulty-dot" style="background:#EF6C00"></span>Dars lug‘ati 4.5</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#EF6C00"></span>Mashq 2 — A yoki An ni tanlang 3.8</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#EF6C00"></span>4. Sifat To Be dan keyin keladi 3.5</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>2. A / An sifatdan oldin keladi 3.4</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>1. Sifat otning oldidan keladi 3.3</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>3. The, My, This ham sifatdan oldi 3.3</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>6. Ikki sifat bilan 3.3</span><span class="difficulty-chip"><span class="difficulty-dot" style="background:#F9A825"></span>5. Sifat birlik va ko‘plikda o‘zga 2.7</span></div></div>
+<h2>Dars lug‘ati</h2>
     <p>Bu darsda uchraydigan so‘zlar — oldin eshitib, keyin darsni o‘qing.</p>
     <div class="grid">
       <div class="word word--audio"><span class="pair"><strong>adjective</strong> — sifat</span><button class="speak" onclick="playOpus('../unit_6/unit_6_dictionary_opus/d61_adjective.opus',this)" aria-label="Tinglash">🔊</button></div>
