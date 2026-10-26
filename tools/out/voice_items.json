@@ -1,0 +1,8273 @@
+[
+ {
+  "text": "ship",
+  "source_text": "ship",
+  "kind": "D",
+  "slug": "ship",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   4,
+   5
+  ],
+  "count": 2
+ },
+ {
+  "text": "chair",
+  "source_text": "chair",
+  "kind": "D",
+  "slug": "chair",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   4,
+   5
+  ],
+  "count": 2
+ },
+ {
+  "text": "phone",
+  "source_text": "phone",
+  "kind": "D",
+  "slug": "phone",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   4,
+   5
+  ],
+  "count": 2
+ },
+ {
+  "text": "fish",
+  "source_text": "fish",
+  "kind": "D",
+  "slug": "fish",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "she",
+  "source_text": "she",
+  "kind": "D",
+  "slug": "she",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "shop",
+  "source_text": "shop",
+  "kind": "D",
+  "slug": "shop",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "child",
+  "source_text": "child",
+  "kind": "D",
+  "slug": "child",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "teacher",
+  "source_text": "teacher",
+  "kind": "D",
+  "slug": "teacher",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "much",
+  "source_text": "much",
+  "kind": "D",
+  "slug": "much",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "photo",
+  "source_text": "photo",
+  "kind": "D",
+  "slug": "photo",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "elephant",
+  "source_text": "elephant",
+  "kind": "D",
+  "slug": "elephant",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "what",
+  "source_text": "what",
+  "kind": "D",
+  "slug": "what",
+  "units": [
+   "0",
+   "3"
+  ],
+  "lessons": [
+   5,
+   29
+  ],
+  "count": 2
+ },
+ {
+  "text": "white",
+  "source_text": "white",
+  "kind": "D",
+  "slug": "white",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "where",
+  "source_text": "where",
+  "kind": "D",
+  "slug": "where",
+  "units": [
+   "0",
+   "3"
+  ],
+  "lessons": [
+   5,
+   29
+  ],
+  "count": 2
+ },
+ {
+  "text": "black",
+  "source_text": "black",
+  "kind": "D",
+  "slug": "black",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "clock",
+  "source_text": "clock",
+  "kind": "D",
+  "slug": "clock",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "duck",
+  "source_text": "duck",
+  "kind": "D",
+  "slug": "duck",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "sing",
+  "source_text": "sing",
+  "kind": "D",
+  "slug": "sing",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "long",
+  "source_text": "long",
+  "kind": "D",
+  "slug": "long",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "song",
+  "source_text": "song",
+  "kind": "D",
+  "slug": "song",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "think",
+  "source_text": "think",
+  "kind": "D",
+  "slug": "think",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "this",
+  "source_text": "this",
+  "kind": "D",
+  "slug": "this",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "mother",
+  "source_text": "mother",
+  "kind": "D",
+  "slug": "mother",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "brother",
+  "source_text": "brother",
+  "kind": "D",
+  "slug": "brother",
+  "units": [
+   "0"
+  ],
+  "lessons": [
+   5
+  ],
+  "count": 1
+ },
+ {
+  "text": "He is a teacher.",
+  "source_text": "He is a teacher.",
+  "kind": "E",
+  "slug": "he_is_a_teacher",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   10
+  ],
+  "count": 1
+ },
+ {
+  "text": "She is a doctor.",
+  "source_text": "She is a doctor.",
+  "kind": "E",
+  "slug": "she_is_a_doctor",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   10
+  ],
+  "count": 1
+ },
+ {
+  "text": "It is a cat.",
+  "source_text": "It is a cat.",
+  "kind": "E",
+  "slug": "it_is_a_cat",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   10
+  ],
+  "count": 1
+ },
+ {
+  "text": "The bag is black. It is black.",
+  "source_text": "The bag is black. It is black.",
+  "kind": "E",
+  "slug": "the_bag_is_black_it_is_black",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   10
+  ],
+  "count": 1
+ },
+ {
+  "text": "You are students.",
+  "source_text": "You are students.",
+  "kind": "E",
+  "slug": "you_are_students",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   10,
+   9
+  ],
+  "count": 2
+ },
+ {
+  "text": "Ali and Sam are friends.",
+  "source_text": "Ali and Sam are friends.",
+  "kind": "E",
+  "slug": "ali_and_sam_are_friends",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   10
+  ],
+  "count": 1
+ },
+ {
+  "text": "They are tired.",
+  "source_text": "They are tired.",
+  "kind": "E",
+  "slug": "they_are_tired",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   10
+  ],
+  "count": 1
+ },
+ {
+  "text": "We are at home.",
+  "source_text": "We are at home.",
+  "kind": "E",
+  "slug": "we_are_at_home",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   10
+  ],
+  "count": 1
+ },
+ {
+  "text": "I work.",
+  "source_text": "I work.",
+  "kind": "D",
+  "slug": "i_work",
+  "units": [
+   "1",
+   "2"
+  ],
+  "lessons": [
+   10,
+   20
+  ],
+  "count": 2
+ },
+ {
+  "text": "She reads.",
+  "source_text": "She reads.",
+  "kind": "D",
+  "slug": "she_reads",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   10
+  ],
+  "count": 1
+ },
+ {
+  "text": "She is not at home.",
+  "source_text": "She is not at home.",
+  "kind": "E",
+  "slug": "she_is_not_at_home",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "They are not students.",
+  "source_text": "They are not students.",
+  "kind": "E",
+  "slug": "they_are_not_students",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "He is not happy.",
+  "source_text": "He is not happy.",
+  "kind": "E",
+  "slug": "he_is_not_happy",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "You are ready.",
+  "source_text": "You are ready.",
+  "kind": "E",
+  "slug": "you_are_ready",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "Are you ready?",
+  "source_text": "Are you ready?",
+  "kind": "E",
+  "slug": "are_you_ready",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "Am I late?",
+  "source_text": "Am I late?",
+  "kind": "E",
+  "slug": "am_i_late",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "Are you a student?",
+  "source_text": "Are you a student?",
+  "kind": "E",
+  "slug": "are_you_a_student",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 2
+ },
+ {
+  "text": "Is he your brother?",
+  "source_text": "Is he your brother?",
+  "kind": "E",
+  "slug": "is_he_your_brother",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "Is she at home?",
+  "source_text": "Is she at home?",
+  "kind": "E",
+  "slug": "is_she_at_home",
+  "units": [
+   "1",
+   "2"
+  ],
+  "lessons": [
+   11,
+   25
+  ],
+  "count": 2
+ },
+ {
+  "text": "Is it new?",
+  "source_text": "Is it new?",
+  "kind": "E",
+  "slug": "is_it_new",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "Are we ready?",
+  "source_text": "Are we ready?",
+  "kind": "E",
+  "slug": "are_we_ready",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "Are they friends?",
+  "source_text": "Are they friends?",
+  "kind": "E",
+  "slug": "are_they_friends",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "Is he at home?",
+  "source_text": "Is he at home?",
+  "kind": "E",
+  "slug": "is_he_at_home",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "Is she happy?",
+  "source_text": "Is she happy?",
+  "kind": "E",
+  "slug": "is_she_happy",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "Are they ready?",
+  "source_text": "Are they ready?",
+  "kind": "E",
+  "slug": "are_they_ready",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "Ali is not a teacher.",
+  "source_text": "Ali is not a teacher.",
+  "kind": "E",
+  "slug": "ali_is_not_a_teacher",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "Is Ali at school?",
+  "source_text": "Is Ali at school?",
+  "kind": "E",
+  "slug": "is_ali_at_school",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "Ali and Sara are friends.",
+  "source_text": "Ali and Sara are friends.",
+  "kind": "E",
+  "slug": "ali_and_sara_are_friends",
+  "units": [
+   "1",
+   "6"
+  ],
+  "lessons": [
+   11,
+   62
+  ],
+  "count": 2
+ },
+ {
+  "text": "Are Ali and Sara at home?",
+  "source_text": "Are Ali and Sara at home?",
+  "kind": "E",
+  "slug": "are_ali_and_sara_at_home",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   11
+  ],
+  "count": 1
+ },
+ {
+  "text": "the",
+  "source_text": "the",
+  "kind": "D",
+  "slug": "the",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "a book",
+  "source_text": "a book",
+  "kind": "D",
+  "slug": "a_book",
+  "units": [
+   "1",
+   "2",
+   "4"
+  ],
+  "lessons": [
+   12,
+   19,
+   48
+  ],
+  "count": 4
+ },
+ {
+  "text": "a student",
+  "source_text": "a student",
+  "kind": "D",
+  "slug": "a_student",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "an apple",
+  "source_text": "an apple",
+  "kind": "D",
+  "slug": "an_apple",
+  "units": [
+   "1",
+   "4"
+  ],
+  "lessons": [
+   12,
+   44
+  ],
+  "count": 3
+ },
+ {
+  "text": "a car",
+  "source_text": "a car",
+  "kind": "D",
+  "slug": "a_car",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "a dog",
+  "source_text": "a dog",
+  "kind": "D",
+  "slug": "a_dog",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "a teacher",
+  "source_text": "a teacher",
+  "kind": "D",
+  "slug": "a_teacher",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "a house",
+  "source_text": "a house",
+  "kind": "D",
+  "slug": "a_house",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "an egg",
+  "source_text": "an egg",
+  "kind": "D",
+  "slug": "an_egg",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "an orange",
+  "source_text": "an orange",
+  "kind": "D",
+  "slug": "an_orange",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "an umbrella",
+  "source_text": "an umbrella",
+  "kind": "D",
+  "slug": "an_umbrella",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "an animal",
+  "source_text": "an animal",
+  "kind": "D",
+  "slug": "an_animal",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "a red apple",
+  "source_text": "a red apple",
+  "kind": "E",
+  "slug": "a_red_apple",
+  "units": [
+   "1",
+   "4",
+   "6"
+  ],
+  "lessons": [
+   12,
+   48,
+   61
+  ],
+  "count": 4
+ },
+ {
+  "text": "an old book",
+  "source_text": "an old book",
+  "kind": "E",
+  "slug": "an_old_book",
+  "units": [
+   "1",
+   "4",
+   "6"
+  ],
+  "lessons": [
+   12,
+   48,
+   61
+  ],
+  "count": 3
+ },
+ {
+  "text": "a small orange",
+  "source_text": "a small orange",
+  "kind": "E",
+  "slug": "a_small_orange",
+  "units": [
+   "1",
+   "6"
+  ],
+  "lessons": [
+   12,
+   61
+  ],
+  "count": 2
+ },
+ {
+  "text": "an interesting story",
+  "source_text": "an interesting story",
+  "kind": "E",
+  "slug": "an_interesting_story",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "a cat",
+  "source_text": "a cat",
+  "kind": "D",
+  "slug": "a_cat",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "cats",
+  "source_text": "cats",
+  "kind": "D",
+  "slug": "cats",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "two cats",
+  "source_text": "two cats",
+  "kind": "D",
+  "slug": "two_cats",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12,
+   8
+  ],
+  "count": 2
+ },
+ {
+  "text": "Rice is good.",
+  "source_text": "Rice is good.",
+  "kind": "E",
+  "slug": "rice_is_good",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "I see a dog.",
+  "source_text": "I see a dog.",
+  "kind": "E",
+  "slug": "i_see_a_dog",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   12
+  ],
+  "count": 1
+ },
+ {
+  "text": "Whose bags are these?",
+  "source_text": "Whose bags are these?",
+  "kind": "E",
+  "slug": "whose_bags_are_these",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   18
+  ],
+  "count": 1
+ },
+ {
+  "text": "They live in Tashkent.",
+  "source_text": "They live in Tashkent.",
+  "kind": "E",
+  "slug": "they_live_in_tashkent",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   7
+  ],
+  "count": 1
+ },
+ {
+  "text": "one book",
+  "source_text": "one book",
+  "kind": "D",
+  "slug": "one_book",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   8
+  ],
+  "count": 2
+ },
+ {
+  "text": "one student",
+  "source_text": "one student",
+  "kind": "D",
+  "slug": "one_student",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   8
+  ],
+  "count": 1
+ },
+ {
+  "text": "one dog",
+  "source_text": "one dog",
+  "kind": "D",
+  "slug": "one_dog",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   8
+  ],
+  "count": 1
+ },
+ {
+  "text": "one apple",
+  "source_text": "one apple",
+  "kind": "D",
+  "slug": "one_apple",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   8
+  ],
+  "count": 1
+ },
+ {
+  "text": "one cat",
+  "source_text": "one cat",
+  "kind": "D",
+  "slug": "one_cat",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   8
+  ],
+  "count": 1
+ },
+ {
+  "text": "three books",
+  "source_text": "three books",
+  "kind": "D",
+  "slug": "three_books",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   8
+  ],
+  "count": 1
+ },
+ {
+  "text": "Ali is a boy. He is a student.",
+  "source_text": "Ali is a boy. He is a student.",
+  "kind": "E",
+  "slug": "ali_is_a_boy_he_is_a_student",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   9
+  ],
+  "count": 1
+ },
+ {
+  "text": "Sara is a girl. She is a student.",
+  "source_text": "Sara is a girl. She is a student.",
+  "kind": "E",
+  "slug": "sara_is_a_girl_she_is_a_student",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   9
+  ],
+  "count": 1
+ },
+ {
+  "text": "The book is new. It is new.",
+  "source_text": "The book is new. It is new.",
+  "kind": "E",
+  "slug": "the_book_is_new_it_is_new",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   9
+  ],
+  "count": 1
+ },
+ {
+  "text": "Ali and I are friends. We are friends.",
+  "source_text": "Ali and I are friends. We are friends.",
+  "kind": "E",
+  "slug": "ali_and_i_are_friends_we_are_friends",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   9
+  ],
+  "count": 1
+ },
+ {
+  "text": "Ali and Sara are friends. They are friends.",
+  "source_text": "Ali and Sara are friends. They are friends.",
+  "kind": "E",
+  "slug": "ali_and_sara_are_friends_they_are_friends",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   9
+  ],
+  "count": 1
+ },
+ {
+  "text": "The books are new. They are new.",
+  "source_text": "The books are new. They are new.",
+  "kind": "E",
+  "slug": "the_books_are_new_they_are_new",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   9
+  ],
+  "count": 1
+ },
+ {
+  "text": "She is at home.",
+  "source_text": "She is at home.",
+  "kind": "E",
+  "slug": "she_is_at_home",
+  "units": [
+   "1"
+  ],
+  "lessons": [
+   9
+  ],
+  "count": 1
+ },
+ {
+  "text": "I read books.",
+  "source_text": "I read books.",
+  "kind": "E",
+  "slug": "i_read_books",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   19,
+   20
+  ],
+  "count": 2
+ },
+ {
+  "text": "The dog likes milk.",
+  "source_text": "The dog likes milk.",
+  "kind": "E",
+  "slug": "the_dog_likes_milk",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   19
+  ],
+  "count": 1
+ },
+ {
+  "text": "My sister reads.",
+  "source_text": "My sister reads.",
+  "kind": "E",
+  "slug": "my_sister_reads",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   19
+  ],
+  "count": 1
+ },
+ {
+  "text": "They see the teacher.",
+  "source_text": "They see the teacher.",
+  "kind": "E",
+  "slug": "they_see_the_teacher",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   19
+  ],
+  "count": 1
+ },
+ {
+  "text": "We see them.",
+  "source_text": "We see them.",
+  "kind": "E",
+  "slug": "we_see_them",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   19
+  ],
+  "count": 1
+ },
+ {
+  "text": "I",
+  "source_text": "Kim? I",
+  "kind": "D",
+  "slug": "i",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   19
+  ],
+  "count": 1
+ },
+ {
+  "text": "I go to school every day.",
+  "source_text": "I go to school every day.",
+  "kind": "E",
+  "slug": "i_go_to_school_every_day",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   20
+  ],
+  "count": 1
+ },
+ {
+  "text": "She reads before bed.",
+  "source_text": "She reads before bed.",
+  "kind": "E",
+  "slug": "she_reads_before_bed",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   20
+  ],
+  "count": 1
+ },
+ {
+  "text": "My father drives a car.",
+  "source_text": "My father drives a car.",
+  "kind": "E",
+  "slug": "my_father_drives_a_car",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   20
+  ],
+  "count": 1
+ },
+ {
+  "text": "You work.",
+  "source_text": "You work.",
+  "kind": "D",
+  "slug": "you_work",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   20
+  ],
+  "count": 1
+ },
+ {
+  "text": "We work.",
+  "source_text": "We work.",
+  "kind": "D",
+  "slug": "we_work",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   20
+  ],
+  "count": 1
+ },
+ {
+  "text": "They work.",
+  "source_text": "They work.",
+  "kind": "D",
+  "slug": "they_work",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   20
+  ],
+  "count": 1
+ },
+ {
+  "text": "The cat sleeps.",
+  "source_text": "The cat sleeps.",
+  "kind": "E",
+  "slug": "the_cat_sleeps",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   20
+  ],
+  "count": 1
+ },
+ {
+  "text": "She studies English.",
+  "source_text": "She studies English.",
+  "kind": "E",
+  "slug": "she_studies_english",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   20
+  ],
+  "count": 1
+ },
+ {
+  "text": "He plays on Sundays.",
+  "source_text": "He plays on Sundays.",
+  "kind": "E",
+  "slug": "he_plays_on_sundays",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   20
+  ],
+  "count": 1
+ },
+ {
+  "text": "I brush my teeth every morning.",
+  "source_text": "I brush my teeth every morning.",
+  "kind": "E",
+  "slug": "i_brush_my_teeth_every_morning",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   20
+  ],
+  "count": 1
+ },
+ {
+  "text": "He plays football on Sundays.",
+  "source_text": "He plays football on Sundays.",
+  "kind": "E",
+  "slug": "he_plays_football_on_sundays",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   20
+  ],
+  "count": 1
+ },
+ {
+  "text": "We visit our grandmother every week.",
+  "source_text": "We visit our grandmother every week.",
+  "kind": "E",
+  "slug": "we_visit_our_grandmother_every_week",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   20
+  ],
+  "count": 1
+ },
+ {
+  "text": "My father works at home.",
+  "source_text": "My father works at home.",
+  "kind": "E",
+  "slug": "my_father_works_at_home",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   21
+  ],
+  "count": 1
+ },
+ {
+  "text": "The cat eats fish.",
+  "source_text": "The cat eats fish.",
+  "kind": "E",
+  "slug": "the_cat_eats_fish",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   21
+  ],
+  "count": 1
+ },
+ {
+  "text": "He watches TV.",
+  "source_text": "He watches TV.",
+  "kind": "E",
+  "slug": "he_watches_tv",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   21
+  ],
+  "count": 1
+ },
+ {
+  "text": "She goes to school.",
+  "source_text": "She goes to school.",
+  "kind": "E",
+  "slug": "she_goes_to_school",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   21
+  ],
+  "count": 1
+ },
+ {
+  "text": "Tom does his homework.",
+  "source_text": "Tom does his homework.",
+  "kind": "E",
+  "slug": "tom_does_his_homework",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   21
+  ],
+  "count": 1
+ },
+ {
+  "text": "Anna studies English.",
+  "source_text": "Anna studies English.",
+  "kind": "E",
+  "slug": "anna_studies_english",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   21
+  ],
+  "count": 1
+ },
+ {
+  "text": "My boy enjoys music.",
+  "source_text": "My boy enjoys music.",
+  "kind": "E",
+  "slug": "my_boy_enjoys_music",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   21
+  ],
+  "count": 1
+ },
+ {
+  "text": "He plays football.",
+  "source_text": "He plays football.",
+  "kind": "E",
+  "slug": "he_plays_football",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   21
+  ],
+  "count": 1
+ },
+ {
+  "text": "She does her homework.",
+  "source_text": "She does her homework.",
+  "kind": "E",
+  "slug": "she_does_her_homework",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   21
+  ],
+  "count": 1
+ },
+ {
+  "text": "She likes tea.",
+  "source_text": "Darak: She likes tea.",
+  "kind": "E",
+  "slug": "she_likes_tea",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   22,
+   23
+  ],
+  "count": 2
+ },
+ {
+  "text": "She is not tired.",
+  "source_text": "She is not tired.",
+  "kind": "E",
+  "slug": "she_is_not_tired",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   22
+  ],
+  "count": 1
+ },
+ {
+  "text": "You like tea.",
+  "source_text": "Darak: You like tea.",
+  "kind": "E",
+  "slug": "you_like_tea",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   23,
+   24
+  ],
+  "count": 2
+ },
+ {
+  "text": "Do you like tea?",
+  "source_text": "Savol: Do you like tea?",
+  "kind": "E",
+  "slug": "do_you_like_tea",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   23
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does he do his homework?",
+  "source_text": "Does he do his homework?",
+  "kind": "E",
+  "slug": "does_he_do_his_homework",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   23
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does she like tea?",
+  "source_text": "Savol: Does she like tea?",
+  "kind": "E",
+  "slug": "does_she_like_tea",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   23
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do I need a pen?",
+  "source_text": "Do I need a pen?",
+  "kind": "E",
+  "slug": "do_i_need_a_pen",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do you speak English?",
+  "source_text": "Do you speak English?",
+  "kind": "E",
+  "slug": "do_you_speak_english",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do we start now?",
+  "source_text": "Do we start now?",
+  "kind": "E",
+  "slug": "do_we_start_now",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do they live here?",
+  "source_text": "Do they live here?",
+  "kind": "E",
+  "slug": "do_they_live_here",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24,
+   25
+  ],
+  "count": 2
+ },
+ {
+  "text": "Does he work here?",
+  "source_text": "Does he work here?",
+  "kind": "E",
+  "slug": "does_he_work_here",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does Sara like music?",
+  "source_text": "Does Sara like music?",
+  "kind": "E",
+  "slug": "does_sara_like_music",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does the bus stop here?",
+  "source_text": "Does the bus stop here?",
+  "kind": "E",
+  "slug": "does_the_bus_stop_here",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "She reads books.",
+  "source_text": "Darak: She reads books.",
+  "kind": "E",
+  "slug": "she_reads_books",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does she read books?",
+  "source_text": "Savol: Does she read books?",
+  "kind": "E",
+  "slug": "does_she_read_books",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does Tom play tennis?",
+  "source_text": "Does Tom play tennis?",
+  "kind": "E",
+  "slug": "does_tom_play_tennis",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does your sister read?",
+  "source_text": "Does your sister read?",
+  "kind": "E",
+  "slug": "does_your_sister_read",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do Ali and Sam work here?",
+  "source_text": "Do Ali and Sam work here?",
+  "kind": "E",
+  "slug": "do_ali_and_sam_work_here",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "What do you eat?",
+  "source_text": "What do you eat?",
+  "kind": "E",
+  "slug": "what_do_you_eat",
+  "units": [
+   "2",
+   "3"
+  ],
+  "lessons": [
+   24,
+   29
+  ],
+  "count": 2
+ },
+ {
+  "text": "Where does she live?",
+  "source_text": "Where does she live?",
+  "kind": "E",
+  "slug": "where_does_she_live",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "When do they study?",
+  "source_text": "When do they study?",
+  "kind": "E",
+  "slug": "when_do_they_study",
+  "units": [
+   "2",
+   "3"
+  ],
+  "lessons": [
+   24,
+   33
+  ],
+  "count": 2
+ },
+ {
+  "text": "Why does he run?",
+  "source_text": "Why does he run?",
+  "kind": "E",
+  "slug": "why_does_he_run",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Are you happy?",
+  "source_text": "Are you happy?",
+  "kind": "E",
+  "slug": "are_you_happy",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do you like music?",
+  "source_text": "Do you like music?",
+  "kind": "E",
+  "slug": "do_you_like_music",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Is she a teacher?",
+  "source_text": "Is she a teacher?",
+  "kind": "E",
+  "slug": "is_she_a_teacher",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does she teach English?",
+  "source_text": "Does she teach English?",
+  "kind": "E",
+  "slug": "does_she_teach_english",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   24
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do we need a ticket?",
+  "source_text": "Do we need a ticket?",
+  "kind": "E",
+  "slug": "do_we_need_a_ticket",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   25
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does he play football?",
+  "source_text": "Does he play football?",
+  "kind": "E",
+  "slug": "does_he_play_football",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   25
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does Sara speak English?",
+  "source_text": "Does Sara speak English?",
+  "kind": "E",
+  "slug": "does_sara_speak_english",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   25
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does the shop open early?",
+  "source_text": "Does the shop open early?",
+  "kind": "E",
+  "slug": "does_the_shop_open_early",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   25
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do you work here?",
+  "source_text": "Do you work here?",
+  "kind": "E",
+  "slug": "do_you_work_here",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   25
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do you like apples?",
+  "source_text": "Do you like apples?",
+  "kind": "E",
+  "slug": "do_you_like_apples",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   25
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does Ali study English?",
+  "source_text": "Does Ali study English?",
+  "kind": "E",
+  "slug": "does_ali_study_english",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   25
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does Madina work here?",
+  "source_text": "Does Madina work here?",
+  "kind": "E",
+  "slug": "does_madina_work_here",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   25
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do Ali and Sam play?",
+  "source_text": "Do Ali and Sam play?",
+  "kind": "E",
+  "slug": "do_ali_and_sam_play",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   25
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do you read books?",
+  "source_text": "Do you read books?",
+  "kind": "E",
+  "slug": "do_you_read_books",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   25
+  ],
+  "count": 2
+ },
+ {
+  "text": "Does she work?",
+  "source_text": "Does she work?",
+  "kind": "E",
+  "slug": "does_she_work",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   25
+  ],
+  "count": 2
+ },
+ {
+  "text": "Are you tired?",
+  "source_text": "Are you tired?",
+  "kind": "E",
+  "slug": "are_you_tired",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   25
+  ],
+  "count": 1
+ },
+ {
+  "text": "I sometimes read.",
+  "source_text": "I sometimes read.",
+  "kind": "E",
+  "slug": "i_sometimes_read",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "I always drink water.",
+  "source_text": "I always drink water.",
+  "kind": "E",
+  "slug": "i_always_drink_water",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "We usually walk to school.",
+  "source_text": "We usually walk to school.",
+  "kind": "E",
+  "slug": "we_usually_walk_to_school",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "They often play football.",
+  "source_text": "They often play football.",
+  "kind": "E",
+  "slug": "they_often_play_football",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "She sometimes reads at night.",
+  "source_text": "She sometimes reads at night.",
+  "kind": "E",
+  "slug": "she_sometimes_reads_at_night",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "He rarely watches TV.",
+  "source_text": "He rarely watches TV.",
+  "kind": "E",
+  "slug": "he_rarely_watches_tv",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "I never eat meat.",
+  "source_text": "I never eat meat.",
+  "kind": "E",
+  "slug": "i_never_eat_meat",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "I am always busy.",
+  "source_text": "I am always busy.",
+  "kind": "E",
+  "slug": "i_am_always_busy",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "She is usually happy.",
+  "source_text": "She is usually happy.",
+  "kind": "E",
+  "slug": "she_is_usually_happy",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "They are often at home.",
+  "source_text": "They are often at home.",
+  "kind": "E",
+  "slug": "they_are_often_at_home",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "every day",
+  "source_text": "every day",
+  "kind": "D",
+  "slug": "every_day",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "every morning",
+  "source_text": "every morning",
+  "kind": "D",
+  "slug": "every_morning",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "once a week",
+  "source_text": "once a week",
+  "kind": "E",
+  "slug": "once_a_week",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "twice a month",
+  "source_text": "twice a month",
+  "kind": "E",
+  "slug": "twice_a_month",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "on Sundays",
+  "source_text": "on Sundays",
+  "kind": "D",
+  "slug": "on_sundays",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "I call my grandmother every week.",
+  "source_text": "I call my grandmother every week.",
+  "kind": "E",
+  "slug": "i_call_my_grandmother_every_week",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "He plays tennis on Sundays.",
+  "source_text": "He plays tennis on Sundays.",
+  "kind": "E",
+  "slug": "he_plays_tennis_on_sundays",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   26
+  ],
+  "count": 1
+ },
+ {
+  "text": "She is cooking.",
+  "source_text": "She is cooking.",
+  "kind": "E",
+  "slug": "she_is_cooking",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   27
+  ],
+  "count": 1
+ },
+ {
+  "text": "They are playing football.",
+  "source_text": "They are playing football.",
+  "kind": "E",
+  "slug": "they_are_playing_football",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   27
+  ],
+  "count": 1
+ },
+ {
+  "text": "We are watching a film.",
+  "source_text": "We are watching a film.",
+  "kind": "E",
+  "slug": "we_are_watching_a_film",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   27
+  ],
+  "count": 1
+ },
+ {
+  "text": "The baby is eating.",
+  "source_text": "The baby is eating.",
+  "kind": "E",
+  "slug": "the_baby_is_eating",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   27
+  ],
+  "count": 1
+ },
+ {
+  "text": "She is making dinner.",
+  "source_text": "She is making dinner.",
+  "kind": "E",
+  "slug": "she_is_making_dinner",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   27
+  ],
+  "count": 1
+ },
+ {
+  "text": "The boy is running.",
+  "source_text": "The boy is running.",
+  "kind": "E",
+  "slug": "the_boy_is_running",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   27
+  ],
+  "count": 1
+ },
+ {
+  "text": "now",
+  "source_text": "now",
+  "kind": "D",
+  "slug": "now",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   27
+  ],
+  "count": 1
+ },
+ {
+  "text": "right now",
+  "source_text": "right now",
+  "kind": "D",
+  "slug": "right_now",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   27
+  ],
+  "count": 1
+ },
+ {
+  "text": "at the moment",
+  "source_text": "at the moment",
+  "kind": "E",
+  "slug": "at_the_moment",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   27
+  ],
+  "count": 1
+ },
+ {
+  "text": "today",
+  "source_text": "today",
+  "kind": "D",
+  "slug": "today",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   27
+  ],
+  "count": 1
+ },
+ {
+  "text": "I am studying English now.",
+  "source_text": "I am studying English now.",
+  "kind": "E",
+  "slug": "i_am_studying_english_now",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   27
+  ],
+  "count": 1
+ },
+ {
+  "text": "He is working at the moment.",
+  "source_text": "He is working at the moment.",
+  "kind": "E",
+  "slug": "he_is_working_at_the_moment",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   27
+  ],
+  "count": 1
+ },
+ {
+  "text": "She works every day.",
+  "source_text": "She works every day.",
+  "kind": "E",
+  "slug": "she_works_every_day",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   28
+  ],
+  "count": 1
+ },
+ {
+  "text": "I am staying with my aunt this week.",
+  "source_text": "I am staying with my aunt this week.",
+  "kind": "E",
+  "slug": "i_am_staying_with_my_aunt_this_week",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   28
+  ],
+  "count": 1
+ },
+ {
+  "text": "every day, usually, often",
+  "source_text": "every day, usually, often",
+  "kind": "E",
+  "slug": "every_day_usually_often",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   28
+  ],
+  "count": 1
+ },
+ {
+  "text": "now, right now, at the moment",
+  "source_text": "now, right now, at the moment",
+  "kind": "E",
+  "slug": "now_right_now_at_the_moment",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   28
+  ],
+  "count": 1
+ },
+ {
+  "text": "on Sundays, every morning",
+  "source_text": "on Sundays, every morning",
+  "kind": "E",
+  "slug": "on_sundays_every_morning",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   28
+  ],
+  "count": 1
+ },
+ {
+  "text": "He usually walks to work.",
+  "source_text": "He usually walks to work.",
+  "kind": "E",
+  "slug": "he_usually_walks_to_work",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   28
+  ],
+  "count": 1
+ },
+ {
+  "text": "He is walking to work now.",
+  "source_text": "He is walking to work now.",
+  "kind": "E",
+  "slug": "he_is_walking_to_work_now",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   28
+  ],
+  "count": 1
+ },
+ {
+  "text": "I like this song.",
+  "source_text": "I like this song.",
+  "kind": "E",
+  "slug": "i_like_this_song",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   28
+  ],
+  "count": 1
+ },
+ {
+  "text": "They want some water.",
+  "source_text": "They want some water.",
+  "kind": "E",
+  "slug": "they_want_some_water",
+  "units": [
+   "2"
+  ],
+  "lessons": [
+   28
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where are you?",
+  "source_text": "Where are you?",
+  "kind": "E",
+  "slug": "where_are_you",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   29,
+   31
+  ],
+  "count": 2
+ },
+ {
+  "text": "Who is she?",
+  "source_text": "Who is she?",
+  "kind": "E",
+  "slug": "who_is_she",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   29
+  ],
+  "count": 1
+ },
+ {
+  "text": "When is the lesson?",
+  "source_text": "When is the lesson?",
+  "kind": "E",
+  "slug": "when_is_the_lesson",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   29,
+   33
+  ],
+  "count": 2
+ },
+ {
+  "text": "Why are you here?",
+  "source_text": "Why are you here?",
+  "kind": "E",
+  "slug": "why_are_you_here",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   29
+  ],
+  "count": 1
+ },
+ {
+  "text": "How do you go to school?",
+  "source_text": "How do you go to school?",
+  "kind": "E",
+  "slug": "how_do_you_go_to_school",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   29,
+   35
+  ],
+  "count": 2
+ },
+ {
+  "text": "Where are they?",
+  "source_text": "Where are they?",
+  "kind": "E",
+  "slug": "where_are_they",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   29
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where does he work?",
+  "source_text": "Where does he work?",
+  "kind": "E",
+  "slug": "where_does_he_work",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   29
+  ],
+  "count": 1
+ },
+ {
+  "text": "Who",
+  "source_text": "33. Who",
+  "kind": "D",
+  "slug": "who",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   29
+  ],
+  "count": 1
+ },
+ {
+  "text": "When",
+  "source_text": "34. When",
+  "kind": "D",
+  "slug": "when",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   29
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why",
+  "source_text": "35. Why",
+  "kind": "D",
+  "slug": "why",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   29
+  ],
+  "count": 1
+ },
+ {
+  "text": "How",
+  "source_text": "36. How",
+  "kind": "D",
+  "slug": "how",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   29
+  ],
+  "count": 1
+ },
+ {
+  "text": "What is that?",
+  "source_text": "What is that?",
+  "kind": "E",
+  "slug": "what_is_that",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30
+  ],
+  "count": 1
+ },
+ {
+  "text": "What are these?",
+  "source_text": "What are these?",
+  "kind": "E",
+  "slug": "what_are_these",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30
+  ],
+  "count": 1
+ },
+ {
+  "text": "What is your name?",
+  "source_text": "What is your name?",
+  "kind": "E",
+  "slug": "what_is_your_name",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30,
+   35
+  ],
+  "count": 2
+ },
+ {
+  "text": "What is your favorite color?",
+  "source_text": "What is your favorite color?",
+  "kind": "E",
+  "slug": "what_is_your_favorite_color",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30
+  ],
+  "count": 1
+ },
+ {
+  "text": "What are your favorite foods?",
+  "source_text": "What are your favorite foods?",
+  "kind": "E",
+  "slug": "what_are_your_favorite_foods",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30
+  ],
+  "count": 1
+ },
+ {
+  "text": "What is in the bag?",
+  "source_text": "What is in the bag?",
+  "kind": "E",
+  "slug": "what_is_in_the_bag",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30
+  ],
+  "count": 1
+ },
+ {
+  "text": "What do you eat for breakfast?",
+  "source_text": "What do you eat for breakfast?",
+  "kind": "E",
+  "slug": "what_do_you_eat_for_breakfast",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30
+  ],
+  "count": 1
+ },
+ {
+  "text": "What do they study?",
+  "source_text": "What do they study?",
+  "kind": "E",
+  "slug": "what_do_they_study",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30
+  ],
+  "count": 1
+ },
+ {
+  "text": "What does he like?",
+  "source_text": "What does he like?",
+  "kind": "E",
+  "slug": "what_does_he_like",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30
+  ],
+  "count": 1
+ },
+ {
+  "text": "What does Sara read?",
+  "source_text": "What does Sara read?",
+  "kind": "E",
+  "slug": "what_does_sara_read",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30
+  ],
+  "count": 1
+ },
+ {
+  "text": "What day is it today?",
+  "source_text": "What day is it today?",
+  "kind": "E",
+  "slug": "what_day_is_it_today",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30
+  ],
+  "count": 1
+ },
+ {
+  "text": "What color is your bag?",
+  "source_text": "What color is your bag?",
+  "kind": "E",
+  "slug": "what_color_is_your_bag",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30
+  ],
+  "count": 1
+ },
+ {
+  "text": "What do you do after school?",
+  "source_text": "What do you do after school?",
+  "kind": "E",
+  "slug": "what_do_you_do_after_school",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   30
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where is my phone?",
+  "source_text": "Where is my phone?",
+  "kind": "E",
+  "slug": "where_is_my_phone",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   31
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where is Ali?",
+  "source_text": "Where is Ali?",
+  "kind": "E",
+  "slug": "where_is_ali",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   31
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where are the children?",
+  "source_text": "Where are the children?",
+  "kind": "E",
+  "slug": "where_are_the_children",
+  "units": [
+   "3",
+   "4"
+  ],
+  "lessons": [
+   31,
+   42
+  ],
+  "count": 2
+ },
+ {
+  "text": "Where do they study?",
+  "source_text": "Where do they study?",
+  "kind": "E",
+  "slug": "where_do_they_study",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   31
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where does your father work?",
+  "source_text": "Where does your father work?",
+  "kind": "E",
+  "slug": "where_does_your_father_work",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   31
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where does this bus stop?",
+  "source_text": "Where does this bus stop?",
+  "kind": "E",
+  "slug": "where_does_this_bus_stop",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   31
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where do you go after school?",
+  "source_text": "Where do you go after school?",
+  "kind": "E",
+  "slug": "where_do_you_go_after_school",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   31
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where does he go on Sundays?",
+  "source_text": "Where does he go on Sundays?",
+  "kind": "E",
+  "slug": "where_does_he_go_on_sundays",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   31
+  ],
+  "count": 1
+ },
+ {
+  "text": "I go to the park.",
+  "source_text": "I go to the park.",
+  "kind": "E",
+  "slug": "i_go_to_the_park",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   31
+  ],
+  "count": 1
+ },
+ {
+  "text": "Who is he?",
+  "source_text": "Who is he?",
+  "kind": "E",
+  "slug": "who_is_he",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   32
+  ],
+  "count": 1
+ },
+ {
+  "text": "Who are they?",
+  "source_text": "Who are they?",
+  "kind": "E",
+  "slug": "who_are_they",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   32
+  ],
+  "count": 1
+ },
+ {
+  "text": "Who is that woman?",
+  "source_text": "Who is that woman?",
+  "kind": "E",
+  "slug": "who_is_that_woman",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   32
+  ],
+  "count": 1
+ },
+ {
+  "text": "Who do you visit?",
+  "source_text": "Who do you visit?",
+  "kind": "E",
+  "slug": "who_do_you_visit",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   32
+  ],
+  "count": 1
+ },
+ {
+  "text": "Who does she call?",
+  "source_text": "Who does she call?",
+  "kind": "E",
+  "slug": "who_does_she_call",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   32
+  ],
+  "count": 1
+ },
+ {
+  "text": "Who do they help?",
+  "source_text": "Who do they help?",
+  "kind": "E",
+  "slug": "who_do_they_help",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   32
+  ],
+  "count": 1
+ },
+ {
+  "text": "Who lives here?",
+  "source_text": "Who lives here?",
+  "kind": "E",
+  "slug": "who_lives_here",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   32
+  ],
+  "count": 1
+ },
+ {
+  "text": "Who works at this school?",
+  "source_text": "Who works at this school?",
+  "kind": "E",
+  "slug": "who_works_at_this_school",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   32
+  ],
+  "count": 1
+ },
+ {
+  "text": "Who wants tea?",
+  "source_text": "Who wants tea?",
+  "kind": "E",
+  "slug": "who_wants_tea",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   32
+  ],
+  "count": 1
+ },
+ {
+  "text": "Who is this?",
+  "source_text": "Who is this?",
+  "kind": "E",
+  "slug": "who_is_this",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   32
+  ],
+  "count": 1
+ },
+ {
+  "text": "Who is your friend?",
+  "source_text": "Who is your friend?",
+  "kind": "E",
+  "slug": "who_is_your_friend",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   32
+  ],
+  "count": 1
+ },
+ {
+  "text": "What is your favorite food?",
+  "source_text": "What is your favorite food?",
+  "kind": "E",
+  "slug": "what_is_your_favorite_food",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   32
+  ],
+  "count": 1
+ },
+ {
+  "text": "When is your birthday?",
+  "source_text": "When is your birthday?",
+  "kind": "E",
+  "slug": "when_is_your_birthday",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   33
+  ],
+  "count": 2
+ },
+ {
+  "text": "When are your holidays?",
+  "source_text": "When are your holidays?",
+  "kind": "E",
+  "slug": "when_are_your_holidays",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   33
+  ],
+  "count": 1
+ },
+ {
+  "text": "When are they free?",
+  "source_text": "When are they free?",
+  "kind": "E",
+  "slug": "when_are_they_free",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   33
+  ],
+  "count": 1
+ },
+ {
+  "text": "When do you wake up?",
+  "source_text": "When do you wake up?",
+  "kind": "E",
+  "slug": "when_do_you_wake_up",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   33
+  ],
+  "count": 1
+ },
+ {
+  "text": "When does she go to work?",
+  "source_text": "When does she go to work?",
+  "kind": "E",
+  "slug": "when_does_she_go_to_work",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   33
+  ],
+  "count": 1
+ },
+ {
+  "text": "When does the bus arrive?",
+  "source_text": "When does the bus arrive?",
+  "kind": "E",
+  "slug": "when_does_the_bus_arrive",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   33
+  ],
+  "count": 1
+ },
+ {
+  "text": "When do you study?",
+  "source_text": "When do you study?",
+  "kind": "E",
+  "slug": "when_do_you_study",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   33
+  ],
+  "count": 2
+ },
+ {
+  "text": "When does the film start?",
+  "source_text": "When does the film start?",
+  "kind": "E",
+  "slug": "when_does_the_film_start",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   33
+  ],
+  "count": 1
+ },
+ {
+  "text": "in the morning",
+  "source_text": "in the morning",
+  "kind": "E",
+  "slug": "in_the_morning",
+  "units": [
+   "3",
+   "4"
+  ],
+  "lessons": [
+   33,
+   43
+  ],
+  "count": 2
+ },
+ {
+  "text": "in the evening",
+  "source_text": "in the evening",
+  "kind": "E",
+  "slug": "in_the_evening",
+  "units": [
+   "3",
+   "4"
+  ],
+  "lessons": [
+   33,
+   43
+  ],
+  "count": 2
+ },
+ {
+  "text": "at seven",
+  "source_text": "at seven",
+  "kind": "D",
+  "slug": "at_seven",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   33
+  ],
+  "count": 1
+ },
+ {
+  "text": "on Monday",
+  "source_text": "on Monday",
+  "kind": "D",
+  "slug": "on_monday",
+  "units": [
+   "3",
+   "4"
+  ],
+  "lessons": [
+   33,
+   43
+  ],
+  "count": 2
+ },
+ {
+  "text": "Where do you study?",
+  "source_text": "Where do you study?",
+  "kind": "E",
+  "slug": "where_do_you_study",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   33
+  ],
+  "count": 1
+ },
+ {
+  "text": "When is the meeting?",
+  "source_text": "When is the meeting?",
+  "kind": "E",
+  "slug": "when_is_the_meeting",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   33
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where is the meeting?",
+  "source_text": "Where is the meeting?",
+  "kind": "E",
+  "slug": "where_is_the_meeting",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   33
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why are you happy?",
+  "source_text": "Why are you happy?",
+  "kind": "E",
+  "slug": "why_are_you_happy",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why is she at home?",
+  "source_text": "Why is she at home?",
+  "kind": "E",
+  "slug": "why_is_she_at_home",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why do you study English?",
+  "source_text": "Why do you study English?",
+  "kind": "E",
+  "slug": "why_do_you_study_english",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why does he walk to work?",
+  "source_text": "Why does he walk to work?",
+  "kind": "E",
+  "slug": "why_does_he_walk_to_work",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why are they late?",
+  "source_text": "Why are they late?",
+  "kind": "E",
+  "slug": "why_are_they_late",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why is the baby crying?",
+  "source_text": "Why is the baby crying?",
+  "kind": "E",
+  "slug": "why_is_the_baby_crying",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why am I here?",
+  "source_text": "Why am I here?",
+  "kind": "E",
+  "slug": "why_am_i_here",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why do you get up early?",
+  "source_text": "Why do you get up early?",
+  "kind": "E",
+  "slug": "why_do_you_get_up_early",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why do they learn English?",
+  "source_text": "Why do they learn English?",
+  "kind": "E",
+  "slug": "why_do_they_learn_english",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why does she work at night?",
+  "source_text": "Why does she work at night?",
+  "kind": "E",
+  "slug": "why_does_she_work_at_night",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "What do you study?",
+  "source_text": "What do you study?",
+  "kind": "E",
+  "slug": "what_do_you_study",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why do you study?",
+  "source_text": "Why do you study?",
+  "kind": "E",
+  "slug": "why_do_you_study",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why is he at home?",
+  "source_text": "Why is he at home?",
+  "kind": "E",
+  "slug": "why_is_he_at_home",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   34
+  ],
+  "count": 1
+ },
+ {
+  "text": "How is your mother?",
+  "source_text": "How is your mother?",
+  "kind": "E",
+  "slug": "how_is_your_mother",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   35
+  ],
+  "count": 1
+ },
+ {
+  "text": "How are the children?",
+  "source_text": "How are the children?",
+  "kind": "E",
+  "slug": "how_are_the_children",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   35
+  ],
+  "count": 1
+ },
+ {
+  "text": "How is the food?",
+  "source_text": "How is the food?",
+  "kind": "E",
+  "slug": "how_is_the_food",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   35
+  ],
+  "count": 1
+ },
+ {
+  "text": "How are you today?",
+  "source_text": "How are you today?",
+  "kind": "E",
+  "slug": "how_are_you_today",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   35
+  ],
+  "count": 1
+ },
+ {
+  "text": "How does he cook rice?",
+  "source_text": "How does he cook rice?",
+  "kind": "E",
+  "slug": "how_does_he_cook_rice",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   35
+  ],
+  "count": 1
+ },
+ {
+  "text": "How do they learn English?",
+  "source_text": "How do they learn English?",
+  "kind": "E",
+  "slug": "how_do_they_learn_english",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   35
+  ],
+  "count": 1
+ },
+ {
+  "text": "How do you go to work?",
+  "source_text": "How do you go to work?",
+  "kind": "E",
+  "slug": "how_do_you_go_to_work",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   35
+  ],
+  "count": 1
+ },
+ {
+  "text": "How old?",
+  "source_text": "How old?",
+  "kind": "D",
+  "slug": "how_old",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   35
+  ],
+  "count": 1
+ },
+ {
+  "text": "How long?",
+  "source_text": "How long?",
+  "kind": "D",
+  "slug": "how_long",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   35
+  ],
+  "count": 1
+ },
+ {
+  "text": "How many?",
+  "source_text": "How many?",
+  "kind": "D",
+  "slug": "how_many",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   35
+  ],
+  "count": 1
+ },
+ {
+  "text": "How much?",
+  "source_text": "How much?",
+  "kind": "D",
+  "slug": "how_much",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   35
+  ],
+  "count": 1
+ },
+ {
+  "text": "How old is your brother?",
+  "source_text": "How old is your brother?",
+  "kind": "E",
+  "slug": "how_old_is_your_brother",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "How old is Sara?",
+  "source_text": "How old is Sara?",
+  "kind": "E",
+  "slug": "how_old_is_sara",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "How old are they?",
+  "source_text": "How old are they?",
+  "kind": "E",
+  "slug": "how_old_are_they",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "I am twelve years old.",
+  "source_text": "I am 12 years old.",
+  "kind": "E",
+  "slug": "i_am_twelve_years_old",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "He is eight years old.",
+  "source_text": "He is 8 years old.",
+  "kind": "E",
+  "slug": "he_is_eight_years_old",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "My sister is twenty.",
+  "source_text": "My sister is 20.",
+  "kind": "E",
+  "slug": "my_sister_is_twenty",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "How long is the lesson?",
+  "source_text": "How long is the lesson?",
+  "kind": "E",
+  "slug": "how_long_is_the_lesson",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 2
+ },
+ {
+  "text": "How long do you study every day?",
+  "source_text": "How long do you study every day?",
+  "kind": "E",
+  "slug": "how_long_do_you_study_every_day",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "How long does the film last?",
+  "source_text": "How long does the film last?",
+  "kind": "E",
+  "slug": "how_long_does_the_film_last",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "For thirty minutes.",
+  "source_text": "For 30 minutes.",
+  "kind": "D",
+  "slug": "for_thirty_minutes",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "For two hours.",
+  "source_text": "For two hours.",
+  "kind": "E",
+  "slug": "for_two_hours",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "For three days.",
+  "source_text": "For three days.",
+  "kind": "E",
+  "slug": "for_three_days",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "How long is this table?",
+  "source_text": "How long is this table?",
+  "kind": "E",
+  "slug": "how_long_is_this_table",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "It is two metres long.",
+  "source_text": "It is two metres long.",
+  "kind": "E",
+  "slug": "it_is_two_metres_long",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "How long is the river?",
+  "source_text": "How long is the river?",
+  "kind": "E",
+  "slug": "how_long_is_the_river",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "When does the lesson start?",
+  "source_text": "When does the lesson start?",
+  "kind": "E",
+  "slug": "when_does_the_lesson_start",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   36
+  ],
+  "count": 1
+ },
+ {
+  "text": "water",
+  "source_text": "water",
+  "kind": "D",
+  "slug": "water",
+  "units": [
+   "3",
+   "4"
+  ],
+  "lessons": [
+   37,
+   44
+  ],
+  "count": 3
+ },
+ {
+  "text": "milk",
+  "source_text": "milk",
+  "kind": "D",
+  "slug": "milk",
+  "units": [
+   "3",
+   "4"
+  ],
+  "lessons": [
+   37,
+   44
+  ],
+  "count": 2
+ },
+ {
+  "text": "rice",
+  "source_text": "rice",
+  "kind": "D",
+  "slug": "rice",
+  "units": [
+   "3",
+   "4"
+  ],
+  "lessons": [
+   37,
+   44
+  ],
+  "count": 2
+ },
+ {
+  "text": "money",
+  "source_text": "money",
+  "kind": "D",
+  "slug": "money",
+  "units": [
+   "3",
+   "4"
+  ],
+  "lessons": [
+   37,
+   44
+  ],
+  "count": 2
+ },
+ {
+  "text": "time",
+  "source_text": "time",
+  "kind": "D",
+  "slug": "time",
+  "units": [
+   "3",
+   "4"
+  ],
+  "lessons": [
+   37,
+   44
+  ],
+  "count": 2
+ },
+ {
+  "text": "How many apples does she eat?",
+  "source_text": "How many apples does she eat?",
+  "kind": "E",
+  "slug": "how_many_apples_does_she_eat",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   37
+  ],
+  "count": 1
+ },
+ {
+  "text": "How many students are in the class?",
+  "source_text": "How many students are in the class?",
+  "kind": "E",
+  "slug": "how_many_students_are_in_the_class",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   37
+  ],
+  "count": 1
+ },
+ {
+  "text": "How many brothers do they have?",
+  "source_text": "How many brothers do they have?",
+  "kind": "E",
+  "slug": "how_many_brothers_do_they_have",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   37
+  ],
+  "count": 1
+ },
+ {
+  "text": "How much water do you drink?",
+  "source_text": "How much water do you drink?",
+  "kind": "E",
+  "slug": "how_much_water_do_you_drink",
+  "units": [
+   "3",
+   "4"
+  ],
+  "lessons": [
+   37,
+   46
+  ],
+  "count": 2
+ },
+ {
+  "text": "How much rice do we need?",
+  "source_text": "How much rice do we need?",
+  "kind": "E",
+  "slug": "how_much_rice_do_we_need",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   37
+  ],
+  "count": 1
+ },
+ {
+  "text": "How much money does he have?",
+  "source_text": "How much money does he have?",
+  "kind": "E",
+  "slug": "how_much_money_does_he_have",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   37
+  ],
+  "count": 1
+ },
+ {
+  "text": "How much time do you need?",
+  "source_text": "How much time do you need?",
+  "kind": "E",
+  "slug": "how_much_time_do_you_need",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   37
+  ],
+  "count": 1
+ },
+ {
+  "text": "How much is this book?",
+  "source_text": "How much is this book?",
+  "kind": "E",
+  "slug": "how_much_is_this_book",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   37
+  ],
+  "count": 1
+ },
+ {
+  "text": "How much are these shoes?",
+  "source_text": "How much are these shoes?",
+  "kind": "E",
+  "slug": "how_much_are_these_shoes",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   37
+  ],
+  "count": 1
+ },
+ {
+  "text": "How much is the ticket?",
+  "source_text": "How much is the ticket?",
+  "kind": "E",
+  "slug": "how_much_is_the_ticket",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   37
+  ],
+  "count": 1
+ },
+ {
+  "text": "How many books do they read?",
+  "source_text": "How many books do they read?",
+  "kind": "E",
+  "slug": "how_many_books_do_they_read",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   37
+  ],
+  "count": 1
+ },
+ {
+  "text": "How much milk does the baby drink?",
+  "source_text": "How much milk does the baby drink?",
+  "kind": "E",
+  "slug": "how_much_milk_does_the_baby_drink",
+  "units": [
+   "3"
+  ],
+  "lessons": [
+   37
+  ],
+  "count": 1
+ },
+ {
+  "text": "There is a book on the table.",
+  "source_text": "There is a book on the table.",
+  "kind": "E",
+  "slug": "there_is_a_book_on_the_table",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 2
+ },
+ {
+  "text": "There is an apple in the bag.",
+  "source_text": "There is an apple in the bag.",
+  "kind": "E",
+  "slug": "there_is_an_apple_in_the_bag",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "There is a student in the room.",
+  "source_text": "There is a student in the room.",
+  "kind": "E",
+  "slug": "there_is_a_student_in_the_room",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "There are two books on the table.",
+  "source_text": "There are two books on the table.",
+  "kind": "E",
+  "slug": "there_are_two_books_on_the_table",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "There are three apples in the bag.",
+  "source_text": "There are three apples in the bag.",
+  "kind": "E",
+  "slug": "there_are_three_apples_in_the_bag",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "There are students in the room.",
+  "source_text": "There are students in the room.",
+  "kind": "E",
+  "slug": "there_are_students_in_the_room",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "There is water in the glass.",
+  "source_text": "There is water in the glass.",
+  "kind": "E",
+  "slug": "there_is_water_in_the_glass",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "There is milk in the fridge.",
+  "source_text": "There is milk in the fridge.",
+  "kind": "E",
+  "slug": "there_is_milk_in_the_fridge",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "There is rice on the plate.",
+  "source_text": "There is rice on the plate.",
+  "kind": "E",
+  "slug": "there_is_rice_on_the_plate",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "Is there a bank near here?",
+  "source_text": "Is there a bank near here?",
+  "kind": "E",
+  "slug": "is_there_a_bank_near_here",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "Are there two windows in the room?",
+  "source_text": "Are there two windows in the room?",
+  "kind": "E",
+  "slug": "are_there_two_windows_in_the_room",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "Is there water in the bottle?",
+  "source_text": "Is there water in the bottle?",
+  "kind": "E",
+  "slug": "is_there_water_in_the_bottle",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "Is there a shop nearby?",
+  "source_text": "Is there a shop nearby?",
+  "kind": "E",
+  "slug": "is_there_a_shop_nearby",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "Are there any apples?",
+  "source_text": "Are there any apples?",
+  "kind": "E",
+  "slug": "are_there_any_apples",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "It is my book.",
+  "source_text": "It is my book.",
+  "kind": "E",
+  "slug": "it_is_my_book",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   38
+  ],
+  "count": 1
+ },
+ {
+  "text": "She can cook.",
+  "source_text": "She can cook.",
+  "kind": "E",
+  "slug": "she_can_cook",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   39
+  ],
+  "count": 1
+ },
+ {
+  "text": "I can read.",
+  "source_text": "I can read.",
+  "kind": "E",
+  "slug": "i_can_read",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   39
+  ],
+  "count": 1
+ },
+ {
+  "text": "You can read.",
+  "source_text": "You can read.",
+  "kind": "E",
+  "slug": "you_can_read",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   39
+  ],
+  "count": 1
+ },
+ {
+  "text": "She can read.",
+  "source_text": "She can read.",
+  "kind": "E",
+  "slug": "she_can_read",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   39
+  ],
+  "count": 1
+ },
+ {
+  "text": "They can read.",
+  "source_text": "They can read.",
+  "kind": "E",
+  "slug": "they_can_read",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   39
+  ],
+  "count": 1
+ },
+ {
+  "text": "She can sing.",
+  "source_text": "She can sing.",
+  "kind": "E",
+  "slug": "she_can_sing",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   39
+  ],
+  "count": 1
+ },
+ {
+  "text": "He can speak English.",
+  "source_text": "He can speak English.",
+  "kind": "E",
+  "slug": "he_can_speak_english",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   39
+  ],
+  "count": 1
+ },
+ {
+  "text": "We can help.",
+  "source_text": "We can help.",
+  "kind": "E",
+  "slug": "we_can_help",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   39
+  ],
+  "count": 1
+ },
+ {
+  "text": "We cannot come today.",
+  "source_text": "We cannot come today.",
+  "kind": "E",
+  "slug": "we_cannot_come_today",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   39
+  ],
+  "count": 1
+ },
+ {
+  "text": "A fish can swim.",
+  "source_text": "A fish can swim.",
+  "kind": "E",
+  "slug": "a_fish_can_swim",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   39
+  ],
+  "count": 1
+ },
+ {
+  "text": "An adult can drive a car.",
+  "source_text": "An adult can drive a car.",
+  "kind": "E",
+  "slug": "an_adult_can_drive_a_car",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   39
+  ],
+  "count": 1
+ },
+ {
+  "text": "You can swim.",
+  "source_text": "You can swim.",
+  "kind": "E",
+  "slug": "you_can_swim",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can you swim?",
+  "source_text": "Can you swim?",
+  "kind": "E",
+  "slug": "can_you_swim",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 2
+ },
+ {
+  "text": "Can she drive?",
+  "source_text": "Can she drive?",
+  "kind": "E",
+  "slug": "can_she_drive",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can birds fly?",
+  "source_text": "Can birds fly?",
+  "kind": "E",
+  "slug": "can_birds_fly",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can you speak English?",
+  "source_text": "Can you speak English?",
+  "kind": "E",
+  "slug": "can_you_speak_english",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can your brother cook?",
+  "source_text": "Can your brother cook?",
+  "kind": "E",
+  "slug": "can_your_brother_cook",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can the baby walk?",
+  "source_text": "Can the baby walk?",
+  "kind": "E",
+  "slug": "can_the_baby_walk",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can he drive?",
+  "source_text": "Can he drive?",
+  "kind": "E",
+  "slug": "can_he_drive",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can they help?",
+  "source_text": "Can they help?",
+  "kind": "E",
+  "slug": "can_they_help",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can you open the window, please?",
+  "source_text": "Can you open the window, please?",
+  "kind": "E",
+  "slug": "can_you_open_the_window_please",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can you help me?",
+  "source_text": "Can you help me?",
+  "kind": "E",
+  "slug": "can_you_help_me",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can you repeat that, please?",
+  "source_text": "Can you repeat that, please?",
+  "kind": "E",
+  "slug": "can_you_repeat_that_please",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can I come in?",
+  "source_text": "Can I come in?",
+  "kind": "E",
+  "slug": "can_i_come_in",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can I use your pen?",
+  "source_text": "Can I use your pen?",
+  "kind": "E",
+  "slug": "can_i_use_your_pen",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Can I sit here?",
+  "source_text": "Can I sit here?",
+  "kind": "E",
+  "slug": "can_i_sit_here",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   40
+  ],
+  "count": 1
+ },
+ {
+  "text": "Close the door.",
+  "source_text": "Close the door.",
+  "kind": "E",
+  "slug": "close_the_door",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   41
+  ],
+  "count": 1
+ },
+ {
+  "text": "Sit down.",
+  "source_text": "Sit down.",
+  "kind": "D",
+  "slug": "sit_down",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   41
+  ],
+  "count": 1
+ },
+ {
+  "text": "Stand up.",
+  "source_text": "Stand up.",
+  "kind": "D",
+  "slug": "stand_up",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   41
+  ],
+  "count": 1
+ },
+ {
+  "text": "Please open the window.",
+  "source_text": "Please open the window.",
+  "kind": "E",
+  "slug": "please_open_the_window",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   41
+  ],
+  "count": 1
+ },
+ {
+  "text": "Please help me.",
+  "source_text": "Please help me.",
+  "kind": "E",
+  "slug": "please_help_me",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   41
+  ],
+  "count": 1
+ },
+ {
+  "text": "Read the sentence.",
+  "source_text": "Read the sentence.",
+  "kind": "E",
+  "slug": "read_the_sentence",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   41
+  ],
+  "count": 1
+ },
+ {
+  "text": "Write your name.",
+  "source_text": "Write your name.",
+  "kind": "E",
+  "slug": "write_your_name",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   41
+  ],
+  "count": 1
+ },
+ {
+  "text": "Repeat the word.",
+  "source_text": "Repeat the word.",
+  "kind": "E",
+  "slug": "repeat_the_word",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   41
+  ],
+  "count": 1
+ },
+ {
+  "text": "Turn to page ten.",
+  "source_text": "Turn to page ten.",
+  "kind": "E",
+  "slug": "turn_to_page_ten",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   41
+  ],
+  "count": 1
+ },
+ {
+  "text": "The cat is under the chair.",
+  "source_text": "The cat is under the chair.",
+  "kind": "E",
+  "slug": "the_cat_is_under_the_chair",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   42
+  ],
+  "count": 1
+ },
+ {
+  "text": "The keys are in the bag.",
+  "source_text": "The keys are in the bag.",
+  "kind": "E",
+  "slug": "the_keys_are_in_the_bag",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   42
+  ],
+  "count": 1
+ },
+ {
+  "text": "The children are in the room.",
+  "source_text": "The children are in the room.",
+  "kind": "E",
+  "slug": "the_children_are_in_the_room",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   42
+  ],
+  "count": 1
+ },
+ {
+  "text": "My family lives in Tashkent.",
+  "source_text": "My family lives in Tashkent.",
+  "kind": "E",
+  "slug": "my_family_lives_in_tashkent",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   42
+  ],
+  "count": 1
+ },
+ {
+  "text": "The shoes are under the bed.",
+  "source_text": "The shoes are under the bed.",
+  "kind": "E",
+  "slug": "the_shoes_are_under_the_bed",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   42
+  ],
+  "count": 1
+ },
+ {
+  "text": "The bank is next to the shop.",
+  "source_text": "The bank is next to the shop.",
+  "kind": "E",
+  "slug": "the_bank_is_next_to_the_shop",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   42
+  ],
+  "count": 1
+ },
+ {
+  "text": "The garden is behind the house.",
+  "source_text": "The garden is behind the house.",
+  "kind": "E",
+  "slug": "the_garden_is_behind_the_house",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   42
+  ],
+  "count": 1
+ },
+ {
+  "text": "The car is in front of the house.",
+  "source_text": "The car is in front of the house.",
+  "kind": "E",
+  "slug": "the_car_is_in_front_of_the_house",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   42
+  ],
+  "count": 1
+ },
+ {
+  "text": "The school is near my home.",
+  "source_text": "The school is near my home.",
+  "kind": "E",
+  "slug": "the_school_is_near_my_home",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   42
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where is the phone?",
+  "source_text": "Where is the phone?",
+  "kind": "E",
+  "slug": "where_is_the_phone",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   42
+  ],
+  "count": 1
+ },
+ {
+  "text": "It is on the desk.",
+  "source_text": "It is on the desk.",
+  "kind": "E",
+  "slug": "it_is_on_the_desk",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   42
+  ],
+  "count": 1
+ },
+ {
+  "text": "They are in the park.",
+  "source_text": "They are in the park.",
+  "kind": "E",
+  "slug": "they_are_in_the_park",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   42
+  ],
+  "count": 1
+ },
+ {
+  "text": "at noon",
+  "source_text": "at noon",
+  "kind": "D",
+  "slug": "at_noon",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "at night",
+  "source_text": "at night",
+  "kind": "D",
+  "slug": "at_night",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "on Fridays",
+  "source_text": "on Fridays",
+  "kind": "D",
+  "slug": "on_fridays",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "on the fifth of May",
+  "source_text": "on 5 May",
+  "kind": "D",
+  "slug": "on_the_fifth_of_may",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "on Monday morning",
+  "source_text": "on Monday morning",
+  "kind": "E",
+  "slug": "on_monday_morning",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "We have English on Tuesday.",
+  "source_text": "We have English on Tuesday.",
+  "kind": "E",
+  "slug": "we_have_english_on_tuesday",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "Her birthday is on the fifth of May.",
+  "source_text": "Her birthday is on 5 May.",
+  "kind": "E",
+  "slug": "her_birthday_is_on_the_fifth_of_may",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "in May",
+  "source_text": "in May",
+  "kind": "D",
+  "slug": "in_may",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "in twenty twenty-six",
+  "source_text": "in 2026",
+  "kind": "D",
+  "slug": "in_twenty_twenty_six",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "in summer",
+  "source_text": "in summer",
+  "kind": "D",
+  "slug": "in_summer",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "in the afternoon",
+  "source_text": "in the afternoon",
+  "kind": "E",
+  "slug": "in_the_afternoon",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "I was born in May.",
+  "source_text": "I was born in May.",
+  "kind": "E",
+  "slug": "i_was_born_in_may",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "We travel in summer.",
+  "source_text": "We travel in summer.",
+  "kind": "E",
+  "slug": "we_travel_in_summer",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "this Monday",
+  "source_text": "this Monday",
+  "kind": "D",
+  "slug": "this_monday",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "next Friday",
+  "source_text": "next Friday",
+  "kind": "D",
+  "slug": "next_friday",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "every Tuesday",
+  "source_text": "every Tuesday",
+  "kind": "D",
+  "slug": "every_tuesday",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   43
+  ],
+  "count": 1
+ },
+ {
+  "text": "bread",
+  "source_text": "bread",
+  "kind": "D",
+  "slug": "bread",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   44
+  ],
+  "count": 1
+ },
+ {
+  "text": "a glass of water",
+  "source_text": "a glass of water",
+  "kind": "E",
+  "slug": "a_glass_of_water",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   44
+  ],
+  "count": 1
+ },
+ {
+  "text": "two bottles of milk",
+  "source_text": "two bottles of milk",
+  "kind": "E",
+  "slug": "two_bottles_of_milk",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   44
+  ],
+  "count": 1
+ },
+ {
+  "text": "a piece of bread",
+  "source_text": "a piece of bread",
+  "kind": "E",
+  "slug": "a_piece_of_bread",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   44
+  ],
+  "count": 1
+ },
+ {
+  "text": "three cups of tea",
+  "source_text": "three cups of tea",
+  "kind": "E",
+  "slug": "three_cups_of_tea",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   44
+  ],
+  "count": 1
+ },
+ {
+  "text": "some chicken",
+  "source_text": "some chicken",
+  "kind": "D",
+  "slug": "some_chicken",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   44
+  ],
+  "count": 1
+ },
+ {
+  "text": "a chicken",
+  "source_text": "a chicken",
+  "kind": "D",
+  "slug": "a_chicken",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   44
+  ],
+  "count": 1
+ },
+ {
+  "text": "some paper",
+  "source_text": "some paper",
+  "kind": "D",
+  "slug": "some_paper",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   44
+  ],
+  "count": 1
+ },
+ {
+  "text": "a paper",
+  "source_text": "a paper",
+  "kind": "D",
+  "slug": "a_paper",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   44
+  ],
+  "count": 1
+ },
+ {
+  "text": "apples",
+  "source_text": "apples",
+  "kind": "D",
+  "slug": "apples",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   44
+  ],
+  "count": 1
+ },
+ {
+  "text": "I have some apples.",
+  "source_text": "I have some apples.",
+  "kind": "E",
+  "slug": "i_have_some_apples",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   45
+  ],
+  "count": 1
+ },
+ {
+  "text": "We have some books.",
+  "source_text": "We have some books.",
+  "kind": "E",
+  "slug": "we_have_some_books",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   45
+  ],
+  "count": 1
+ },
+ {
+  "text": "There is some water.",
+  "source_text": "There is some water.",
+  "kind": "E",
+  "slug": "there_is_some_water",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   45
+  ],
+  "count": 1
+ },
+ {
+  "text": "She wants some rice.",
+  "source_text": "She wants some rice.",
+  "kind": "E",
+  "slug": "she_wants_some_rice",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   45
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do you have any brothers?",
+  "source_text": "Do you have any brothers?",
+  "kind": "E",
+  "slug": "do_you_have_any_brothers",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   45
+  ],
+  "count": 1
+ },
+ {
+  "text": "Does she have any questions?",
+  "source_text": "Does she have any questions?",
+  "kind": "E",
+  "slug": "does_she_have_any_questions",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   45
+  ],
+  "count": 1
+ },
+ {
+  "text": "Is there any milk?",
+  "source_text": "Is there any milk?",
+  "kind": "E",
+  "slug": "is_there_any_milk",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   45
+  ],
+  "count": 1
+ },
+ {
+  "text": "Are there any chairs?",
+  "source_text": "Are there any chairs?",
+  "kind": "E",
+  "slug": "are_there_any_chairs",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   45
+  ],
+  "count": 1
+ },
+ {
+  "text": "There are some books.",
+  "source_text": "There are some books.",
+  "kind": "E",
+  "slug": "there_are_some_books",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   45
+  ],
+  "count": 1
+ },
+ {
+  "text": "Are there any books?",
+  "source_text": "Are there any books?",
+  "kind": "E",
+  "slug": "are_there_any_books",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   45
+  ],
+  "count": 1
+ },
+ {
+  "text": "Would you like some tea?",
+  "source_text": "Would you like some tea?",
+  "kind": "E",
+  "slug": "would_you_like_some_tea",
+  "units": [
+   "4",
+   "6"
+  ],
+  "lessons": [
+   45,
+   64
+  ],
+  "count": 3
+ },
+ {
+  "text": "Can I have some water, please?",
+  "source_text": "Can I have some water, please?",
+  "kind": "E",
+  "slug": "can_i_have_some_water_please",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   45
+  ],
+  "count": 1
+ },
+ {
+  "text": "many books",
+  "source_text": "many books",
+  "kind": "D",
+  "slug": "many_books",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   46
+  ],
+  "count": 1
+ },
+ {
+  "text": "many students",
+  "source_text": "many students",
+  "kind": "D",
+  "slug": "many_students",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   46
+  ],
+  "count": 1
+ },
+ {
+  "text": "many apples",
+  "source_text": "many apples",
+  "kind": "D",
+  "slug": "many_apples",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   46
+  ],
+  "count": 1
+ },
+ {
+  "text": "much water",
+  "source_text": "much water",
+  "kind": "D",
+  "slug": "much_water",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   46
+  ],
+  "count": 1
+ },
+ {
+  "text": "much time",
+  "source_text": "much time",
+  "kind": "D",
+  "slug": "much_time",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   46
+  ],
+  "count": 1
+ },
+ {
+  "text": "much money",
+  "source_text": "much money",
+  "kind": "D",
+  "slug": "much_money",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   46
+  ],
+  "count": 1
+ },
+ {
+  "text": "She has a lot of books.",
+  "source_text": "She has a lot of books.",
+  "kind": "E",
+  "slug": "she_has_a_lot_of_books",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   46
+  ],
+  "count": 1
+ },
+ {
+  "text": "They drink a lot of water.",
+  "source_text": "They drink a lot of water.",
+  "kind": "E",
+  "slug": "they_drink_a_lot_of_water",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   46
+  ],
+  "count": 1
+ },
+ {
+  "text": "I have a lot of friends.",
+  "source_text": "Darak: I have a lot of friends.",
+  "kind": "E",
+  "slug": "i_have_a_lot_of_friends",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   46
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do you have many friends?",
+  "source_text": "Savol: Do you have many friends?",
+  "kind": "E",
+  "slug": "do_you_have_many_friends",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   46
+  ],
+  "count": 1
+ },
+ {
+  "text": "How many eggs?",
+  "source_text": "How many eggs?",
+  "kind": "E",
+  "slug": "how_many_eggs",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   46
+  ],
+  "count": 1
+ },
+ {
+  "text": "How much milk?",
+  "source_text": "How much milk?",
+  "kind": "E",
+  "slug": "how_much_milk",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   46
+  ],
+  "count": 1
+ },
+ {
+  "text": "Ali helps me.",
+  "source_text": "Ali helps me.",
+  "kind": "E",
+  "slug": "ali_helps_me",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   47
+  ],
+  "count": 1
+ },
+ {
+  "text": "She likes me.",
+  "source_text": "She likes me.",
+  "kind": "E",
+  "slug": "she_likes_me",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   47
+  ],
+  "count": 1
+ },
+ {
+  "text": "I see him.",
+  "source_text": "I see him.",
+  "kind": "E",
+  "slug": "i_see_him",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   47
+  ],
+  "count": 1
+ },
+ {
+  "text": "We help her.",
+  "source_text": "We help her.",
+  "kind": "E",
+  "slug": "we_help_her",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   47
+  ],
+  "count": 1
+ },
+ {
+  "text": "They know us.",
+  "source_text": "They know us.",
+  "kind": "E",
+  "slug": "they_know_us",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   47
+  ],
+  "count": 1
+ },
+ {
+  "text": "Tom calls them.",
+  "source_text": "Tom calls them.",
+  "kind": "E",
+  "slug": "tom_calls_them",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   47
+  ],
+  "count": 1
+ },
+ {
+  "text": "Come with me.",
+  "source_text": "Come with me.",
+  "kind": "E",
+  "slug": "come_with_me",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   47
+  ],
+  "count": 1
+ },
+ {
+  "text": "This is for you.",
+  "source_text": "This is for you.",
+  "kind": "E",
+  "slug": "this_is_for_you",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   47
+  ],
+  "count": 1
+ },
+ {
+  "text": "Give it to him.",
+  "source_text": "Give it to him.",
+  "kind": "E",
+  "slug": "give_it_to_him",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   47
+  ],
+  "count": 1
+ },
+ {
+  "text": "She sits next to us.",
+  "source_text": "She sits next to us.",
+  "kind": "E",
+  "slug": "she_sits_next_to_us",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   47
+  ],
+  "count": 1
+ },
+ {
+  "text": "I see her.",
+  "source_text": "I see her.",
+  "kind": "E",
+  "slug": "i_see_her",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   47
+  ],
+  "count": 1
+ },
+ {
+  "text": "I see her bag.",
+  "source_text": "I see her bag.",
+  "kind": "E",
+  "slug": "i_see_her_bag",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   47
+  ],
+  "count": 1
+ },
+ {
+  "text": "a big house",
+  "source_text": "a big house",
+  "kind": "E",
+  "slug": "a_big_house",
+  "units": [
+   "4",
+   "6"
+  ],
+  "lessons": [
+   48,
+   61
+  ],
+  "count": 4
+ },
+ {
+  "text": "a good book",
+  "source_text": "a good book",
+  "kind": "E",
+  "slug": "a_good_book",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   48
+  ],
+  "count": 1
+ },
+ {
+  "text": "a small black cat",
+  "source_text": "a small black cat",
+  "kind": "E",
+  "slug": "a_small_black_cat",
+  "units": [
+   "4",
+   "6"
+  ],
+  "lessons": [
+   48,
+   61
+  ],
+  "count": 2
+ },
+ {
+  "text": "an old car",
+  "source_text": "an old car",
+  "kind": "E",
+  "slug": "an_old_car",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   48
+  ],
+  "count": 1
+ },
+ {
+  "text": "a happy child",
+  "source_text": "a happy child",
+  "kind": "E",
+  "slug": "a_happy_child",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   48
+  ],
+  "count": 1
+ },
+ {
+  "text": "I am tired.",
+  "source_text": "I am tired.",
+  "kind": "E",
+  "slug": "i_am_tired",
+  "units": [
+   "4",
+   "6"
+  ],
+  "lessons": [
+   48,
+   61
+  ],
+  "count": 2
+ },
+ {
+  "text": "The rooms are clean.",
+  "source_text": "The rooms are clean.",
+  "kind": "E",
+  "slug": "the_rooms_are_clean",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   48
+  ],
+  "count": 1
+ },
+ {
+  "text": "a small dog",
+  "source_text": "a small dog",
+  "kind": "E",
+  "slug": "a_small_dog",
+  "units": [
+   "4",
+   "6"
+  ],
+  "lessons": [
+   48,
+   61
+  ],
+  "count": 2
+ },
+ {
+  "text": "two small dogs",
+  "source_text": "two small dogs",
+  "kind": "E",
+  "slug": "two_small_dogs",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   48
+  ],
+  "count": 1
+ },
+ {
+  "text": "an old red book",
+  "source_text": "an old red book",
+  "kind": "E",
+  "slug": "an_old_red_book",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   48
+  ],
+  "count": 1
+ },
+ {
+  "text": "The old red book is interesting.",
+  "source_text": "The old red book is interesting.",
+  "kind": "E",
+  "slug": "the_old_red_book_is_interesting",
+  "units": [
+   "4"
+  ],
+  "lessons": [
+   48
+  ],
+  "count": 1
+ },
+ {
+  "text": "I was a student.",
+  "source_text": "I was a student.",
+  "kind": "E",
+  "slug": "i_was_a_student",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "He was a doctor.",
+  "source_text": "He was a doctor.",
+  "kind": "E",
+  "slug": "he_was_a_doctor",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "She was happy.",
+  "source_text": "She was happy.",
+  "kind": "E",
+  "slug": "she_was_happy",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "We were tired.",
+  "source_text": "We were tired.",
+  "kind": "E",
+  "slug": "we_were_tired",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "They were at school.",
+  "source_text": "They were at school.",
+  "kind": "E",
+  "slug": "they_were_at_school",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "yesterday",
+  "source_text": "yesterday",
+  "kind": "D",
+  "slug": "yesterday",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49,
+   50,
+   51
+  ],
+  "count": 3
+ },
+ {
+  "text": "last night",
+  "source_text": "last night",
+  "kind": "D",
+  "slug": "last_night",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49,
+   51
+  ],
+  "count": 2
+ },
+ {
+  "text": "last week",
+  "source_text": "last week",
+  "kind": "D",
+  "slug": "last_week",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49,
+   51
+  ],
+  "count": 2
+ },
+ {
+  "text": "last year",
+  "source_text": "last year",
+  "kind": "D",
+  "slug": "last_year",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "two days ago",
+  "source_text": "two days ago",
+  "kind": "E",
+  "slug": "two_days_ago",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49,
+   50,
+   51
+  ],
+  "count": 3
+ },
+ {
+  "text": "She was busy yesterday.",
+  "source_text": "She was busy yesterday.",
+  "kind": "E",
+  "slug": "she_was_busy_yesterday",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "We were at the park last Sunday.",
+  "source_text": "We were at the park last Sunday.",
+  "kind": "E",
+  "slug": "we_were_at_the_park_last_sunday",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "I was not tired.",
+  "source_text": "I was not tired.",
+  "kind": "E",
+  "slug": "i_was_not_tired",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "He was not at school.",
+  "source_text": "He was not at school.",
+  "kind": "E",
+  "slug": "he_was_not_at_school",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "They were not ready.",
+  "source_text": "They were not ready.",
+  "kind": "E",
+  "slug": "they_were_not_ready",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "Was she at home?",
+  "source_text": "Was she at home?",
+  "kind": "E",
+  "slug": "was_she_at_home",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "Were you tired?",
+  "source_text": "Were you tired?",
+  "kind": "E",
+  "slug": "were_you_tired",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "Were they friends?",
+  "source_text": "Were they friends?",
+  "kind": "E",
+  "slug": "were_they_friends",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "Was he sick?",
+  "source_text": "Was he sick?",
+  "kind": "E",
+  "slug": "was_he_sick",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "Were you at home?",
+  "source_text": "Were you at home?",
+  "kind": "E",
+  "slug": "were_you_at_home",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49,
+   55
+  ],
+  "count": 2
+ },
+ {
+  "text": "Were they late?",
+  "source_text": "Were they late?",
+  "kind": "E",
+  "slug": "were_they_late",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   49
+  ],
+  "count": 1
+ },
+ {
+  "text": "I worked yesterday.",
+  "source_text": "I worked yesterday.",
+  "kind": "E",
+  "slug": "i_worked_yesterday",
+  "units": [
+   "5",
+   "6",
+   "7"
+  ],
+  "lessons": [
+   50,
+   57,
+   65
+  ],
+  "count": 4
+ },
+ {
+  "text": "She worked yesterday.",
+  "source_text": "She worked yesterday.",
+  "kind": "E",
+  "slug": "she_worked_yesterday",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   50
+  ],
+  "count": 1
+ },
+ {
+  "text": "They worked yesterday.",
+  "source_text": "They worked yesterday.",
+  "kind": "E",
+  "slug": "they_worked_yesterday",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   50
+  ],
+  "count": 1
+ },
+ {
+  "text": "We visited our grandmother.",
+  "source_text": "We visited our grandmother.",
+  "kind": "E",
+  "slug": "we_visited_our_grandmother",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   50
+  ],
+  "count": 1
+ },
+ {
+  "text": "He opened the window.",
+  "source_text": "He opened the window.",
+  "kind": "E",
+  "slug": "he_opened_the_window",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   50
+  ],
+  "count": 1
+ },
+ {
+  "text": "We lived in Tashkent.",
+  "source_text": "We lived in Tashkent.",
+  "kind": "E",
+  "slug": "we_lived_in_tashkent",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   50
+  ],
+  "count": 1
+ },
+ {
+  "text": "The bus stopped here.",
+  "source_text": "The bus stopped here.",
+  "kind": "E",
+  "slug": "the_bus_stopped_here",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   50
+  ],
+  "count": 1
+ },
+ {
+  "text": "in twenty twenty-four",
+  "source_text": "in 2024",
+  "kind": "D",
+  "slug": "in_twenty_twenty_four",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   50
+  ],
+  "count": 1
+ },
+ {
+  "text": "She visited her friend.",
+  "source_text": "She visited her friend.",
+  "kind": "E",
+  "slug": "she_visited_her_friend",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   50
+  ],
+  "count": 1
+ },
+ {
+  "text": "They played football last week.",
+  "source_text": "They played football last week.",
+  "kind": "E",
+  "slug": "they_played_football_last_week",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   50
+  ],
+  "count": 1
+ },
+ {
+  "text": "I went home.",
+  "source_text": "I went home.",
+  "kind": "E",
+  "slug": "i_went_home",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   51
+  ],
+  "count": 2
+ },
+ {
+  "text": "She went home.",
+  "source_text": "She went home.",
+  "kind": "E",
+  "slug": "she_went_home",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   51
+  ],
+  "count": 1
+ },
+ {
+  "text": "They went home.",
+  "source_text": "They went home.",
+  "kind": "E",
+  "slug": "they_went_home",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   51,
+   54
+  ],
+  "count": 2
+ },
+ {
+  "text": "We ate breakfast at home.",
+  "source_text": "We ate breakfast at home.",
+  "kind": "E",
+  "slug": "we_ate_breakfast_at_home",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   51
+  ],
+  "count": 1
+ },
+ {
+  "text": "He saw his friend yesterday.",
+  "source_text": "He saw his friend yesterday.",
+  "kind": "E",
+  "slug": "he_saw_his_friend_yesterday",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   51
+  ],
+  "count": 1
+ },
+ {
+  "text": "They bought a new book.",
+  "source_text": "They bought a new book.",
+  "kind": "E",
+  "slug": "they_bought_a_new_book",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   51
+  ],
+  "count": 1
+ },
+ {
+  "text": "I wrote a message last night.",
+  "source_text": "I wrote a message last night.",
+  "kind": "E",
+  "slug": "i_wrote_a_message_last_night",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   51
+  ],
+  "count": 1
+ },
+ {
+  "text": "Sara made a cake.",
+  "source_text": "Sara made a cake.",
+  "kind": "E",
+  "slug": "sara_made_a_cake",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   51
+  ],
+  "count": 1
+ },
+ {
+  "text": "in twenty twenty-three",
+  "source_text": "in 2023",
+  "kind": "D",
+  "slug": "in_twenty_twenty_three",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   51
+  ],
+  "count": 1
+ },
+ {
+  "text": "I went to the park yesterday.",
+  "source_text": "I went to the park yesterday.",
+  "kind": "E",
+  "slug": "i_went_to_the_park_yesterday",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   51
+  ],
+  "count": 1
+ },
+ {
+  "text": "We saw Anna last week.",
+  "source_text": "We saw Anna last week.",
+  "kind": "E",
+  "slug": "we_saw_anna_last_week",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   51
+  ],
+  "count": 1
+ },
+ {
+  "text": "I was at home.",
+  "source_text": "I was at home.",
+  "kind": "E",
+  "slug": "i_was_at_home",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   51
+  ],
+  "count": 1
+ },
+ {
+  "text": "They were happy.",
+  "source_text": "They were happy.",
+  "kind": "E",
+  "slug": "they_were_happy",
+  "units": [
+   "5",
+   "7"
+  ],
+  "lessons": [
+   51,
+   65
+  ],
+  "count": 2
+ },
+ {
+  "text": "They did not play football.",
+  "source_text": "They did not play football.",
+  "kind": "E",
+  "slug": "they_did_not_play_football",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   52
+  ],
+  "count": 1
+ },
+ {
+  "text": "I did my homework yesterday.",
+  "source_text": "I did my homework yesterday.",
+  "kind": "E",
+  "slug": "i_did_my_homework_yesterday",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   53
+  ],
+  "count": 1
+ },
+ {
+  "text": "She did the dishes last night.",
+  "source_text": "She did the dishes last night.",
+  "kind": "E",
+  "slug": "she_did_the_dishes_last_night",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   53
+  ],
+  "count": 1
+ },
+ {
+  "text": "Did you work yesterday?",
+  "source_text": "Did you work yesterday?",
+  "kind": "E",
+  "slug": "did_you_work_yesterday",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   53,
+   54,
+   55
+  ],
+  "count": 3
+ },
+ {
+  "text": "Did you do your homework?",
+  "source_text": "Did you do your homework?",
+  "kind": "E",
+  "slug": "did_you_do_your_homework",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   53
+  ],
+  "count": 1
+ },
+ {
+  "text": "Was she tired?",
+  "source_text": "Was she tired?",
+  "kind": "E",
+  "slug": "was_she_tired",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   53,
+   54
+  ],
+  "count": 2
+ },
+ {
+  "text": "Did she work?",
+  "source_text": "Did she work?",
+  "kind": "E",
+  "slug": "did_she_work",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   53
+  ],
+  "count": 1
+ },
+ {
+  "text": "You worked yesterday.",
+  "source_text": "You worked yesterday.",
+  "kind": "E",
+  "slug": "you_worked_yesterday",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   54
+  ],
+  "count": 1
+ },
+ {
+  "text": "Did I call you?",
+  "source_text": "Did I call you?",
+  "kind": "E",
+  "slug": "did_i_call_you",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   54
+  ],
+  "count": 1
+ },
+ {
+  "text": "Did he call you?",
+  "source_text": "Did he call you?",
+  "kind": "E",
+  "slug": "did_he_call_you",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   54
+  ],
+  "count": 1
+ },
+ {
+  "text": "Did they call you?",
+  "source_text": "Did they call you?",
+  "kind": "E",
+  "slug": "did_they_call_you",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   54
+  ],
+  "count": 1
+ },
+ {
+  "text": "Did Sara call you?",
+  "source_text": "Did Sara call you?",
+  "kind": "E",
+  "slug": "did_sara_call_you",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   54
+  ],
+  "count": 1
+ },
+ {
+  "text": "She played tennis.",
+  "source_text": "Darak: She played tennis.",
+  "kind": "E",
+  "slug": "she_played_tennis",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   54
+  ],
+  "count": 1
+ },
+ {
+  "text": "Did she play tennis?",
+  "source_text": "Savol: Did she play tennis?",
+  "kind": "E",
+  "slug": "did_she_play_tennis",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   54
+  ],
+  "count": 1
+ },
+ {
+  "text": "Did they go home?",
+  "source_text": "Savol: Did they go home?",
+  "kind": "E",
+  "slug": "did_they_go_home",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   54
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where did you go?",
+  "source_text": "Where did you go?",
+  "kind": "E",
+  "slug": "where_did_you_go",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   54
+  ],
+  "count": 1
+ },
+ {
+  "text": "What did she eat?",
+  "source_text": "What did she eat?",
+  "kind": "E",
+  "slug": "what_did_she_eat",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   54
+  ],
+  "count": 1
+ },
+ {
+  "text": "Why did he leave?",
+  "source_text": "Why did he leave?",
+  "kind": "E",
+  "slug": "why_did_he_leave",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   54
+  ],
+  "count": 1
+ },
+ {
+  "text": "Were they at home?",
+  "source_text": "Were they at home?",
+  "kind": "E",
+  "slug": "were_they_at_home",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   54
+  ],
+  "count": 1
+ },
+ {
+  "text": "Did she call?",
+  "source_text": "Did she call?",
+  "kind": "E",
+  "slug": "did_she_call",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   55
+  ],
+  "count": 1
+ },
+ {
+  "text": "Did they arrive on time?",
+  "source_text": "Did they arrive on time?",
+  "kind": "E",
+  "slug": "did_they_arrive_on_time",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   55
+  ],
+  "count": 1
+ },
+ {
+  "text": "Did you go home?",
+  "source_text": "Did you go home?",
+  "kind": "E",
+  "slug": "did_you_go_home",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   55
+  ],
+  "count": 2
+ },
+ {
+  "text": "Did she eat?",
+  "source_text": "Did she eat?",
+  "kind": "E",
+  "slug": "did_she_eat",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   55
+  ],
+  "count": 2
+ },
+ {
+  "text": "When did you arrive?",
+  "source_text": "When did you arrive?",
+  "kind": "E",
+  "slug": "when_did_you_arrive",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   55
+  ],
+  "count": 1
+ },
+ {
+  "text": "Where did she go?",
+  "source_text": "Where did she go?",
+  "kind": "E",
+  "slug": "where_did_she_go",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   55
+  ],
+  "count": 1
+ },
+ {
+  "text": "Was he tired?",
+  "source_text": "Was he tired?",
+  "kind": "E",
+  "slug": "was_he_tired",
+  "units": [
+   "5"
+  ],
+  "lessons": [
+   55
+  ],
+  "count": 1
+ },
+ {
+  "text": "I am going to visit my grandmother tomorrow.",
+  "source_text": "I am going to visit my grandmother tomorrow.",
+  "kind": "E",
+  "slug": "i_am_going_to_visit_my_grandmother_tomorrow",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "She is going to study tonight.",
+  "source_text": "She is going to study tonight.",
+  "kind": "E",
+  "slug": "she_is_going_to_study_tonight",
+  "units": [
+   "6",
+   "7"
+  ],
+  "lessons": [
+   56,
+   65
+  ],
+  "count": 2
+ },
+ {
+  "text": "They are going to play football.",
+  "source_text": "They are going to play football.",
+  "kind": "E",
+  "slug": "they_are_going_to_play_football",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "We are going to travel.",
+  "source_text": "We are going to travel.",
+  "kind": "E",
+  "slug": "we_are_going_to_travel",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "He is going to buy a phone.",
+  "source_text": "He is going to buy a phone.",
+  "kind": "E",
+  "slug": "he_is_going_to_buy_a_phone",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "I am going to cook dinner.",
+  "source_text": "I am going to cook dinner.",
+  "kind": "E",
+  "slug": "i_am_going_to_cook_dinner",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "tomorrow",
+  "source_text": "tomorrow",
+  "kind": "D",
+  "slug": "tomorrow",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "tonight",
+  "source_text": "tonight",
+  "kind": "D",
+  "slug": "tonight",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "next week",
+  "source_text": "next week",
+  "kind": "D",
+  "slug": "next_week",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "next year",
+  "source_text": "next year",
+  "kind": "D",
+  "slug": "next_year",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "this weekend",
+  "source_text": "this weekend",
+  "kind": "D",
+  "slug": "this_weekend",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "He is going to call me tonight.",
+  "source_text": "He is going to call me tonight.",
+  "kind": "E",
+  "slug": "he_is_going_to_call_me_tonight",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "I am not going to work tomorrow.",
+  "source_text": "I am not going to work tomorrow.",
+  "kind": "E",
+  "slug": "i_am_not_going_to_work_tomorrow",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "Are you going to study tonight?",
+  "source_text": "Are you going to study tonight?",
+  "kind": "E",
+  "slug": "are_you_going_to_study_tonight",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "Is Ali going to buy a car?",
+  "source_text": "Is Ali going to buy a car?",
+  "kind": "E",
+  "slug": "is_ali_going_to_buy_a_car",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "What are they going to do?",
+  "source_text": "What are they going to do?",
+  "kind": "E",
+  "slug": "what_are_they_going_to_do",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   56
+  ],
+  "count": 1
+ },
+ {
+  "text": "She will help her friend.",
+  "source_text": "She will help her friend.",
+  "kind": "E",
+  "slug": "she_will_help_her_friend",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "They will travel next month.",
+  "source_text": "They will travel next month.",
+  "kind": "E",
+  "slug": "they_will_travel_next_month",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "It will be cold tonight.",
+  "source_text": "It will be cold tonight.",
+  "kind": "E",
+  "slug": "it_will_be_cold_tonight",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "I will work.",
+  "source_text": "I will work.",
+  "kind": "E",
+  "slug": "i_will_work",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "He will work.",
+  "source_text": "He will work.",
+  "kind": "E",
+  "slug": "he_will_work",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "We will work.",
+  "source_text": "We will work.",
+  "kind": "E",
+  "slug": "we_will_work",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "They will work.",
+  "source_text": "They will work.",
+  "kind": "E",
+  "slug": "they_will_work",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "will go",
+  "source_text": "will go",
+  "kind": "D",
+  "slug": "will_go",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "will eat",
+  "source_text": "will eat",
+  "kind": "D",
+  "slug": "will_eat",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "will study",
+  "source_text": "will study",
+  "kind": "D",
+  "slug": "will_study",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "will be",
+  "source_text": "will be",
+  "kind": "D",
+  "slug": "will_be",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "I think it will rain tomorrow.",
+  "source_text": "I think it will rain tomorrow.",
+  "kind": "E",
+  "slug": "i_think_it_will_rain_tomorrow",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "She will be a good teacher.",
+  "source_text": "She will be a good teacher.",
+  "kind": "E",
+  "slug": "she_will_be_a_good_teacher",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "Will you come?",
+  "source_text": "Savol: Will you come?",
+  "kind": "E",
+  "slug": "will_you_come",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   57
+  ],
+  "count": 1
+ },
+ {
+  "text": "I will work tomorrow.",
+  "source_text": "I will work tomorrow.",
+  "kind": "E",
+  "slug": "i_will_work_tomorrow",
+  "units": [
+   "6",
+   "7"
+  ],
+  "lessons": [
+   57,
+   65
+  ],
+  "count": 2
+ },
+ {
+  "text": "I am going to visit my aunt on Saturday.",
+  "source_text": "I am going to visit my aunt on Saturday.",
+  "kind": "E",
+  "slug": "i_am_going_to_visit_my_aunt_on_saturday",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   58
+  ],
+  "count": 1
+ },
+ {
+  "text": "She is going to study medicine.",
+  "source_text": "She is going to study medicine.",
+  "kind": "E",
+  "slug": "she_is_going_to_study_medicine",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   58
+  ],
+  "count": 1
+ },
+ {
+  "text": "We are going to buy a new table.",
+  "source_text": "We are going to buy a new table.",
+  "kind": "E",
+  "slug": "we_are_going_to_buy_a_new_table",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   58
+  ],
+  "count": 1
+ },
+ {
+  "text": "This bag is heavy. I will help you.",
+  "source_text": "This bag is heavy. I will help you.",
+  "kind": "E",
+  "slug": "this_bag_is_heavy_i_will_help_you",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   58
+  ],
+  "count": 1
+ },
+ {
+  "text": "I will help you tomorrow.",
+  "source_text": "I will help you tomorrow.",
+  "kind": "E",
+  "slug": "i_will_help_you_tomorrow",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   58
+  ],
+  "count": 1
+ },
+ {
+  "text": "I think our team will win.",
+  "source_text": "I think our team will win.",
+  "kind": "E",
+  "slug": "i_think_our_team_will_win",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   58
+  ],
+  "count": 1
+ },
+ {
+  "text": "Maybe it will snow tonight.",
+  "source_text": "Maybe it will snow tonight.",
+  "kind": "E",
+  "slug": "maybe_it_will_snow_tonight",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   58
+  ],
+  "count": 1
+ },
+ {
+  "text": "Look at those dark clouds. It is going to rain.",
+  "source_text": "Look at those dark clouds. It is going to rain.",
+  "kind": "E",
+  "slug": "look_at_those_dark_clouds_it_is_going_to_rain",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   58
+  ],
+  "count": 1
+ },
+ {
+  "text": "Be careful! You are going to fall.",
+  "source_text": "Be careful! You are going to fall.",
+  "kind": "E",
+  "slug": "be_careful_you_are_going_to_fall",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   58
+  ],
+  "count": 1
+ },
+ {
+  "text": "My bag is heavier than your bag.",
+  "source_text": "My bag is heavier than your bag.",
+  "kind": "E",
+  "slug": "my_bag_is_heavier_than_your_bag",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   59
+  ],
+  "count": 1
+ },
+ {
+  "text": "This road is longer than that road.",
+  "source_text": "This road is longer than that road.",
+  "kind": "E",
+  "slug": "this_road_is_longer_than_that_road",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   59
+  ],
+  "count": 1
+ },
+ {
+  "text": "This book is more interesting than that book.",
+  "source_text": "This book is more interesting than that book.",
+  "kind": "E",
+  "slug": "this_book_is_more_interesting_than_that_book",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   59
+  ],
+  "count": 1
+ },
+ {
+  "text": "This restaurant is better than that one.",
+  "source_text": "This restaurant is better than that one.",
+  "kind": "E",
+  "slug": "this_restaurant_is_better_than_that_one",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   59
+  ],
+  "count": 1
+ },
+ {
+  "text": "Ali is tall.",
+  "source_text": "Ali is tall.",
+  "kind": "E",
+  "slug": "ali_is_tall",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   60
+  ],
+  "count": 1
+ },
+ {
+  "text": "Ali is taller than Sam.",
+  "source_text": "Ali is taller than Sam.",
+  "kind": "E",
+  "slug": "ali_is_taller_than_sam",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   60
+  ],
+  "count": 1
+ },
+ {
+  "text": "Ali is the tallest boy in the class.",
+  "source_text": "Ali is the tallest boy in the class.",
+  "kind": "E",
+  "slug": "ali_is_the_tallest_boy_in_the_class",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   60
+  ],
+  "count": 1
+ },
+ {
+  "text": "This is the most interesting book.",
+  "source_text": "This is the most interesting book.",
+  "kind": "E",
+  "slug": "this_is_the_most_interesting_book",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   60
+  ],
+  "count": 1
+ },
+ {
+  "text": "That is the worst answer.",
+  "source_text": "That is the worst answer.",
+  "kind": "E",
+  "slug": "that_is_the_worst_answer",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   60
+  ],
+  "count": 1
+ },
+ {
+  "text": "a red car",
+  "source_text": "a red car",
+  "kind": "E",
+  "slug": "a_red_car",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "a kind teacher",
+  "source_text": "a kind teacher",
+  "kind": "E",
+  "slug": "a_kind_teacher",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "an old house",
+  "source_text": "an old house",
+  "kind": "E",
+  "slug": "an_old_house",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "an interesting book",
+  "source_text": "an interesting book",
+  "kind": "E",
+  "slug": "an_interesting_book",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "the big house",
+  "source_text": "the big house",
+  "kind": "E",
+  "slug": "the_big_house",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "my new phone",
+  "source_text": "my new phone",
+  "kind": "E",
+  "slug": "my_new_phone",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "this red car",
+  "source_text": "this red car",
+  "kind": "E",
+  "slug": "this_red_car",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "those small cats",
+  "source_text": "those small cats",
+  "kind": "E",
+  "slug": "those_small_cats",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "The car is red.",
+  "source_text": "The car is red.",
+  "kind": "E",
+  "slug": "the_car_is_red",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "My teachers are kind.",
+  "source_text": "My teachers are kind.",
+  "kind": "E",
+  "slug": "my_teachers_are_kind",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "small dogs",
+  "source_text": "small dogs",
+  "kind": "D",
+  "slug": "small_dogs",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "red apples",
+  "source_text": "red apples",
+  "kind": "D",
+  "slug": "red_apples",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "a big red car",
+  "source_text": "a big red car",
+  "kind": "E",
+  "slug": "a_big_red_car",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "an old blue bag",
+  "source_text": "an old blue bag",
+  "kind": "E",
+  "slug": "an_old_blue_bag",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   61
+  ],
+  "count": 1
+ },
+ {
+  "text": "tea and coffee",
+  "source_text": "tea and coffee",
+  "kind": "E",
+  "slug": "tea_and_coffee",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   62
+  ],
+  "count": 1
+ },
+ {
+  "text": "a red and blue bag",
+  "source_text": "a red and blue bag",
+  "kind": "E",
+  "slug": "a_red_and_blue_bag",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   62
+  ],
+  "count": 1
+ },
+ {
+  "text": "I read and write.",
+  "source_text": "I read and write.",
+  "kind": "E",
+  "slug": "i_read_and_write",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   62
+  ],
+  "count": 1
+ },
+ {
+  "text": "The bag is small but heavy.",
+  "source_text": "The bag is small but heavy.",
+  "kind": "E",
+  "slug": "the_bag_is_small_but_heavy",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   62
+  ],
+  "count": 1
+ },
+ {
+  "text": "He is tired, but he is happy.",
+  "source_text": "He is tired, but he is happy.",
+  "kind": "E",
+  "slug": "he_is_tired_but_he_is_happy",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   62
+  ],
+  "count": 1
+ },
+ {
+  "text": "It is cold but sunny.",
+  "source_text": "It is cold but sunny.",
+  "kind": "E",
+  "slug": "it_is_cold_but_sunny",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   62
+  ],
+  "count": 1
+ },
+ {
+  "text": "You can call or text me.",
+  "source_text": "You can call or text me.",
+  "kind": "E",
+  "slug": "you_can_call_or_text_me",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   62
+  ],
+  "count": 1
+ },
+ {
+  "text": "Do you want an apple or a banana?",
+  "source_text": "Do you want an apple or a banana?",
+  "kind": "E",
+  "slug": "do_you_want_an_apple_or_a_banana",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   62
+  ],
+  "count": 1
+ },
+ {
+  "text": "We can go today or tomorrow.",
+  "source_text": "We can go today or tomorrow.",
+  "kind": "E",
+  "slug": "we_can_go_today_or_tomorrow",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   62
+  ],
+  "count": 1
+ },
+ {
+  "text": "She is happy because it is her birthday.",
+  "source_text": "She is happy because it is her birthday.",
+  "kind": "E",
+  "slug": "she_is_happy_because_it_is_her_birthday",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   63
+  ],
+  "count": 1
+ },
+ {
+  "text": "We are late because the bus is slow.",
+  "source_text": "We are late because the bus is slow.",
+  "kind": "E",
+  "slug": "we_are_late_because_the_bus_is_slow",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   63
+  ],
+  "count": 1
+ },
+ {
+  "text": "I was sick, so I stayed home.",
+  "source_text": "I was sick, so I stayed home.",
+  "kind": "E",
+  "slug": "i_was_sick_so_i_stayed_home",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   63
+  ],
+  "count": 1
+ },
+ {
+  "text": "It is raining, so we are at home.",
+  "source_text": "It is raining, so we are at home.",
+  "kind": "E",
+  "slug": "it_is_raining_so_we_are_at_home",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   63
+  ],
+  "count": 1
+ },
+ {
+  "text": "He was hungry, so he made a sandwich.",
+  "source_text": "He was hungry, so he made a sandwich.",
+  "kind": "E",
+  "slug": "he_was_hungry_so_he_made_a_sandwich",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   63
+  ],
+  "count": 1
+ },
+ {
+  "text": "I took a taxi because I was late.",
+  "source_text": "I took a taxi because I was late.",
+  "kind": "E",
+  "slug": "i_took_a_taxi_because_i_was_late",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   63
+  ],
+  "count": 1
+ },
+ {
+  "text": "I was late, so I took a taxi.",
+  "source_text": "I was late, so I took a taxi.",
+  "kind": "E",
+  "slug": "i_was_late_so_i_took_a_taxi",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   63
+  ],
+  "count": 1
+ },
+ {
+  "text": "It was cold, so I wore a coat.",
+  "source_text": "It was cold, so I wore a coat.",
+  "kind": "E",
+  "slug": "it_was_cold_so_i_wore_a_coat",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   63
+  ],
+  "count": 1
+ },
+ {
+  "text": "I wore a coat because it was cold.",
+  "source_text": "I wore a coat because it was cold.",
+  "kind": "E",
+  "slug": "i_wore_a_coat_because_it_was_cold",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   63
+  ],
+  "count": 1
+ },
+ {
+  "text": "I would like some tea.",
+  "source_text": "I would like some tea.",
+  "kind": "E",
+  "slug": "i_would_like_some_tea",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "She would like a sandwich.",
+  "source_text": "She would like a sandwich.",
+  "kind": "E",
+  "slug": "she_would_like_a_sandwich",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "They would like a table by the window.",
+  "source_text": "They would like a table by the window.",
+  "kind": "E",
+  "slug": "they_would_like_a_table_by_the_window",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "I would like to drink some water.",
+  "source_text": "I would like to drink some water.",
+  "kind": "E",
+  "slug": "i_would_like_to_drink_some_water",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "He would like to learn English.",
+  "source_text": "He would like to learn English.",
+  "kind": "E",
+  "slug": "he_would_like_to_learn_english",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "We would like to sit here.",
+  "source_text": "We would like to sit here.",
+  "kind": "E",
+  "slug": "we_would_like_to_sit_here",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "I would like a coffee.",
+  "source_text": "I would like a coffee.",
+  "kind": "E",
+  "slug": "i_would_like_a_coffee",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "She would like a coffee.",
+  "source_text": "She would like a coffee.",
+  "kind": "E",
+  "slug": "she_would_like_a_coffee",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "They would like a coffee.",
+  "source_text": "They would like a coffee.",
+  "kind": "E",
+  "slug": "they_would_like_a_coffee",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "I would like a menu.",
+  "source_text": "I would like a menu.",
+  "kind": "E",
+  "slug": "i_would_like_a_menu",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "She would like to order.",
+  "source_text": "She would like to order.",
+  "kind": "E",
+  "slug": "she_would_like_to_order",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "They would like some water.",
+  "source_text": "They would like some water.",
+  "kind": "E",
+  "slug": "they_would_like_some_water",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "Would you like a sandwich?",
+  "source_text": "Would you like a sandwich?",
+  "kind": "E",
+  "slug": "would_you_like_a_sandwich",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "Would you like to sit down?",
+  "source_text": "Would you like to sit down?",
+  "kind": "E",
+  "slug": "would_you_like_to_sit_down",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "Would you like a coffee?",
+  "source_text": "Would you like a coffee?",
+  "kind": "E",
+  "slug": "would_you_like_a_coffee",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "Would you like to come with us?",
+  "source_text": "Would you like to come with us?",
+  "kind": "E",
+  "slug": "would_you_like_to_come_with_us",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "I want water.",
+  "source_text": "I want water.",
+  "kind": "E",
+  "slug": "i_want_water",
+  "units": [
+   "6"
+  ],
+  "lessons": [
+   64
+  ],
+  "count": 1
+ },
+ {
+  "text": "I drink tea every morning.",
+  "source_text": "I drink tea every morning.",
+  "kind": "E",
+  "slug": "i_drink_tea_every_morning",
+  "units": [
+   "7"
+  ],
+  "lessons": [
+   65
+  ],
+  "count": 1
+ },
+ {
+  "text": "She works in a school.",
+  "source_text": "She works in a school.",
+  "kind": "E",
+  "slug": "she_works_in_a_school",
+  "units": [
+   "7"
+  ],
+  "lessons": [
+   65
+  ],
+  "count": 1
+ },
+ {
+  "text": "He is cooking.",
+  "source_text": "He is cooking.",
+  "kind": "E",
+  "slug": "he_is_cooking",
+  "units": [
+   "7"
+  ],
+  "lessons": [
+   65
+  ],
+  "count": 1
+ },
+ {
+  "text": "Are they working?",
+  "source_text": "Savol: Are they working?",
+  "kind": "E",
+  "slug": "are_they_working",
+  "units": [
+   "7"
+  ],
+  "lessons": [
+   65
+  ],
+  "count": 1
+ },
+ {
+  "text": "Were you at school?",
+  "source_text": "Savol: Were you at school?",
+  "kind": "E",
+  "slug": "were_you_at_school",
+  "units": [
+   "7"
+  ],
+  "lessons": [
+   65
+  ],
+  "count": 1
+ },
+ {
+  "text": "Did you work?",
+  "source_text": "Savol: Did you work?",
+  "kind": "E",
+  "slug": "did_you_work",
+  "units": [
+   "7"
+  ],
+  "lessons": [
+   65
+  ],
+  "count": 1
+ },
+ {
+  "text": "I am going to visit my aunt tomorrow.",
+  "source_text": "I am going to visit my aunt tomorrow.",
+  "kind": "E",
+  "slug": "i_am_going_to_visit_my_aunt_tomorrow",
+  "units": [
+   "7"
+  ],
+  "lessons": [
+   65
+  ],
+  "count": 1
+ },
+ {
+  "text": "I have two apples.",
+  "source_text": "I have two apples.",
+  "kind": "E",
+  "slug": "i_have_two_apples",
+  "units": [
+   "8"
+  ],
+  "lessons": [
+   67
+  ],
+  "count": 1
+ },
+ {
+  "text": "There are five books.",
+  "source_text": "There are five books.",
+  "kind": "E",
+  "slug": "there_are_five_books",
+  "units": [
+   "8"
+  ],
+  "lessons": [
+   67
+  ],
+  "count": 1
+ },
+ {
+  "text": "She has three sisters.",
+  "source_text": "She has three sisters.",
+  "kind": "E",
+  "slug": "she_has_three_sisters",
+  "units": [
+   "8"
+  ],
+  "lessons": [
+   67
+  ],
+  "count": 1
+ },
+ {
+  "text": "I am seventeen years old.",
+  "source_text": "I am seventeen years old.",
+  "kind": "E",
+  "slug": "i_am_seventeen_years_old",
+  "units": [
+   "8"
+  ],
+  "lessons": [
+   67
+  ],
+  "count": 1
+ },
+ {
+  "text": "There are fifteen students.",
+  "source_text": "There are fifteen students.",
+  "kind": "E",
+  "slug": "there_are_fifteen_students",
+  "units": [
+   "8"
+  ],
+  "lessons": [
+   67
+  ],
+  "count": 1
+ },
+ {
+  "text": "I am twenty-five years old.",
+  "source_text": "I am twenty-five years old.",
+  "kind": "E",
+  "slug": "i_am_twenty_five_years_old",
+  "units": [
+   "8"
+  ],
+  "lessons": [
+   67
+  ],
+  "count": 1
+ },
+ {
+  "text": "There are forty-two books.",
+  "source_text": "There are forty-two books.",
+  "kind": "E",
+  "slug": "there_are_forty_two_books",
+  "units": [
+   "8"
+  ],
+  "lessons": [
+   67
+  ],
+  "count": 1
+ },
+ {
+  "text": "What is your phone number?",
+  "source_text": "What is your phone number?",
+  "kind": "E",
+  "slug": "what_is_your_phone_number",
+  "units": [
+   "8"
+  ],
+  "lessons": [
+   67
+  ],
+  "count": 1
+ },
+ {
+  "text": "Nine-one, two-oh-five, six-seven.",
+  "source_text": "Nine-one, two-oh-five, six-seven.",
+  "kind": "E",
+  "slug": "nine_one_two_oh_five_six_seven",
+  "units": [
+   "8"
+  ],
+  "lessons": [
+   67
+  ],
+  "count": 1
+ },
+ {
+  "text": "There are one hundred people.",
+  "source_text": "There are one hundred people.",
+  "kind": "E",
+  "slug": "there_are_one_hundred_people",
+  "units": [
+   "8"
+  ],
+  "lessons": [
+   67
+  ],
+  "count": 1
+ }
+]

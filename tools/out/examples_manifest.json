@@ -1,0 +1,5034 @@
+[
+ {
+  "text": "ship",
+  "file": "grammar/UnitAllLessons/examples_opus/ship.opus",
+  "duration": 1.818,
+  "bytes": 5186,
+  "sha256": "94083e2934e476728be735c77270050eee07aaa3e4f8b21b3cc4cb58f28b03be",
+  "kind": "D"
+ },
+ {
+  "text": "chair",
+  "file": "grammar/UnitAllLessons/examples_opus/chair.opus",
+  "duration": 1.818,
+  "bytes": 5845,
+  "sha256": "3844d4f77109ffacdb96195558bbd8b848026b4c5d933f248ca474cb67e7f454",
+  "kind": "D"
+ },
+ {
+  "text": "phone",
+  "file": "grammar/UnitAllLessons/examples_opus/phone.opus",
+  "duration": 1.748,
+  "bytes": 5512,
+  "sha256": "5027dc704e814e6f8765078b9dbb65bdcdf50ac5a541c1ad61ea26682298d77d",
+  "kind": "D"
+ },
+ {
+  "text": "fish",
+  "file": "grammar/UnitAllLessons/examples_opus/fish.opus",
+  "duration": 1.818,
+  "bytes": 5302,
+  "sha256": "aea6c89638e7db1e91f173b7e2eea465327b6b8488461320e4fc1ce61c04a433",
+  "kind": "D"
+ },
+ {
+  "text": "she",
+  "file": "grammar/UnitAllLessons/examples_opus/she.opus",
+  "duration": 1.748,
+  "bytes": 5036,
+  "sha256": "99d18622eb29fd69705a4b3421d79c65fd8a3311722de9e0e9996ba4f38b67be",
+  "kind": "D"
+ },
+ {
+  "text": "shop",
+  "file": "grammar/UnitAllLessons/examples_opus/shop.opus",
+  "duration": 1.748,
+  "bytes": 4957,
+  "sha256": "b449593d5be1f7673588fb50ceb03954928b2eb464b82cb3dd88e54cc34ee3a2",
+  "kind": "D"
+ },
+ {
+  "text": "child",
+  "file": "grammar/UnitAllLessons/examples_opus/child.opus",
+  "duration": 1.818,
+  "bytes": 5815,
+  "sha256": "cb3477c0e5813a893d66009d2836cae064ebee83b39e023cb52bb167ebb7f4ee",
+  "kind": "D"
+ },
+ {
+  "text": "teacher",
+  "file": "grammar/UnitAllLessons/examples_opus/teacher.opus",
+  "duration": 1.818,
+  "bytes": 5295,
+  "sha256": "23bad9ee359dc95edbe57643f323eeafd70fdc8ca9be9c5e25fd699b1dfefdda",
+  "kind": "D"
+ },
+ {
+  "text": "much",
+  "file": "grammar/UnitAllLessons/examples_opus/much.opus",
+  "duration": 1.748,
+  "bytes": 5573,
+  "sha256": "33d655eb8e4aeab43cd927bd5831f0762773aa690b9e43c8835ea58210c78621",
+  "kind": "D"
+ },
+ {
+  "text": "photo",
+  "file": "grammar/UnitAllLessons/examples_opus/photo.opus",
+  "duration": 1.748,
+  "bytes": 5323,
+  "sha256": "bffb5d66be88ed296e8d8c8c95939def2004ff68ee1a72dcbe04346f9dcd940c",
+  "kind": "D"
+ },
+ {
+  "text": "elephant",
+  "file": "grammar/UnitAllLessons/examples_opus/elephant.opus",
+  "duration": 1.818,
+  "bytes": 5427,
+  "sha256": "9ea18f1fbd4eb1dade30726e97fc54e60f9211e4c3dd266ad4662ed24579a2b0",
+  "kind": "D"
+ },
+ {
+  "text": "what",
+  "file": "grammar/UnitAllLessons/examples_opus/what.opus",
+  "duration": 1.818,
+  "bytes": 5174,
+  "sha256": "1a0b67abcf2375724100e3163e116298c4b82e1fe9cb2c1f79b6926b7a0127c3",
+  "kind": "D"
+ },
+ {
+  "text": "white",
+  "file": "grammar/UnitAllLessons/examples_opus/white.opus",
+  "duration": 1.818,
+  "bytes": 5199,
+  "sha256": "eded4c0fc0060c61b5e5e84991fe210eda0d39a7b347103ac3034ec91180ca33",
+  "kind": "D"
+ },
+ {
+  "text": "where",
+  "file": "grammar/UnitAllLessons/examples_opus/where.opus",
+  "duration": 1.818,
+  "bytes": 5577,
+  "sha256": "7d7ac3e3daac6fe193a9dc6e1aeef47207cc3fd1cb6e05f29e8086232a061e71",
+  "kind": "D"
+ },
+ {
+  "text": "black",
+  "file": "grammar/UnitAllLessons/examples_opus/black.opus",
+  "duration": 1.818,
+  "bytes": 5624,
+  "sha256": "339139da40f8ad1ccdd4ee07ab2abbcbe2eba1e45a53a8ebc883148292b1e6d1",
+  "kind": "D"
+ },
+ {
+  "text": "clock",
+  "file": "grammar/UnitAllLessons/examples_opus/clock.opus",
+  "duration": 1.818,
+  "bytes": 5151,
+  "sha256": "41a5604849a774c4191bf0b625e195253a118d57833038888f6c5e6c0c36bba5",
+  "kind": "D"
+ },
+ {
+  "text": "duck",
+  "file": "grammar/UnitAllLessons/examples_opus/duck.opus",
+  "duration": 1.748,
+  "bytes": 5240,
+  "sha256": "f749fe9fb016ea0eb918c939dc94ec789f27c8eddb2c0f0eabf66260237d087c",
+  "kind": "D"
+ },
+ {
+  "text": "sing",
+  "file": "grammar/UnitAllLessons/examples_opus/sing.opus",
+  "duration": 1.818,
+  "bytes": 5594,
+  "sha256": "9206770870519f2149d7d221f5832f2cbaabe60913f8de37e140a52811c426f5",
+  "kind": "D"
+ },
+ {
+  "text": "long",
+  "file": "grammar/UnitAllLessons/examples_opus/long.opus",
+  "duration": 1.748,
+  "bytes": 5113,
+  "sha256": "b07b11cf92d395e4b4d42798e6766ae8c408ec0bab09bbef14bd08530c9e0f50",
+  "kind": "D"
+ },
+ {
+  "text": "song",
+  "file": "grammar/UnitAllLessons/examples_opus/song.opus",
+  "duration": 1.818,
+  "bytes": 5453,
+  "sha256": "46d17d02b83c7cdba738a13f9458612650775006cab0f400fb39805eaf5d21bb",
+  "kind": "D"
+ },
+ {
+  "text": "think",
+  "file": "grammar/UnitAllLessons/examples_opus/think.opus",
+  "duration": 1.818,
+  "bytes": 5082,
+  "sha256": "746d767033fb11712ca65df02bab9a9c792d4e12df0dcb2f0b8bab5bfd493ec6",
+  "kind": "D"
+ },
+ {
+  "text": "this",
+  "file": "grammar/UnitAllLessons/examples_opus/this.opus",
+  "duration": 1.818,
+  "bytes": 5227,
+  "sha256": "75482d04b9a1d3f47f44b89286a94f4b39406328de36a2e39272558a24df221a",
+  "kind": "D"
+ },
+ {
+  "text": "mother",
+  "file": "grammar/UnitAllLessons/examples_opus/mother.opus",
+  "duration": 1.818,
+  "bytes": 5319,
+  "sha256": "8f602485c73e2f3e6cd7e51ab3b15729611d3aaadda857d54a83f2e17c7832b1",
+  "kind": "D"
+ },
+ {
+  "text": "brother",
+  "file": "grammar/UnitAllLessons/examples_opus/brother.opus",
+  "duration": 1.818,
+  "bytes": 5197,
+  "sha256": "2119459c2fb8c978cad6446a65e3243e3ebcdf4d3d1a551655f16e0fb012322d",
+  "kind": "D"
+ },
+ {
+  "text": "He is a teacher.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_is_a_teacher.opus",
+  "duration": 2.166,
+  "bytes": 7100,
+  "sha256": "6e8365793203c56734a94172855e0003e61d8b2fd3daf2f9680b38b96f6cb4fb",
+  "kind": "E"
+ },
+ {
+  "text": "She is a doctor.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_is_a_doctor.opus",
+  "duration": 2.236,
+  "bytes": 7286,
+  "sha256": "182fe6c31254d92940c36100287316fa208a9670c5d491dbed57894404b82f61",
+  "kind": "E"
+ },
+ {
+  "text": "It is a cat.",
+  "file": "grammar/UnitAllLessons/examples_opus/it_is_a_cat.opus",
+  "duration": 2.027,
+  "bytes": 6370,
+  "sha256": "676af83a471c3a35b05ded732a8a330395cf7a53010149f3731f507d7e409c82",
+  "kind": "E"
+ },
+ {
+  "text": "The bag is black. It is black.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_bag_is_black_it_is_black.opus",
+  "duration": 3.49,
+  "bytes": 11706,
+  "sha256": "7f5d89e9e84616692f6936f49e3ab252241486147c59bf7837e048dbe3430124",
+  "kind": "E"
+ },
+ {
+  "text": "You are students.",
+  "file": "grammar/UnitAllLessons/examples_opus/you_are_students.opus",
+  "duration": 2.166,
+  "bytes": 7030,
+  "sha256": "4e0ba50fbfa7af368f5e976169b61ec2f6f6cddfafc2e9eb6c456931bb4e3e94",
+  "kind": "E"
+ },
+ {
+  "text": "Ali and Sam are friends.",
+  "file": "grammar/UnitAllLessons/examples_opus/ali_and_sam_are_friends.opus",
+  "duration": 2.793,
+  "bytes": 9375,
+  "sha256": "1ef93c5e5f2ce75fa44ffaf35463e118cc5504330e5f85753521f117c2678a04",
+  "kind": "E"
+ },
+ {
+  "text": "They are tired.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_are_tired.opus",
+  "duration": 2.027,
+  "bytes": 6295,
+  "sha256": "86b8781a2a295431d640f0d1c5032445ce068dc363a48c223f704cce485bfb68",
+  "kind": "E"
+ },
+ {
+  "text": "We are at home.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_are_at_home.opus",
+  "duration": 1.957,
+  "bytes": 6155,
+  "sha256": "fb1339b9fd2c97243abf9103d4f8e879b47a7c9860f95e1ce3dd64af479776d9",
+  "kind": "E"
+ },
+ {
+  "text": "I work.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_work.opus",
+  "duration": 1.818,
+  "bytes": 5162,
+  "sha256": "8ad18af25760a528721c2b5bcfd0f3b0624bc72c2256fd41c5a564ea30f38573",
+  "kind": "D"
+ },
+ {
+  "text": "She reads.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_reads.opus",
+  "duration": 1.818,
+  "bytes": 5780,
+  "sha256": "0a89e7b4a3931281ac7a0ef66a06400308713d3d25847815185057195c463fad",
+  "kind": "D"
+ },
+ {
+  "text": "She is not at home.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_is_not_at_home.opus",
+  "duration": 2.375,
+  "bytes": 7719,
+  "sha256": "d11fc75975637f7da83e4d177649f1ddd7efec868d2b58b53df782fc9eba2514",
+  "kind": "E"
+ },
+ {
+  "text": "They are not students.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_are_not_students.opus",
+  "duration": 2.584,
+  "bytes": 8623,
+  "sha256": "bb9b4c909ffde78ee46d19dd26314e181f431890507e83b084b64b95619c2f10",
+  "kind": "E"
+ },
+ {
+  "text": "He is not happy.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_is_not_happy.opus",
+  "duration": 2.166,
+  "bytes": 7263,
+  "sha256": "04c285be96255c293b08c2522b5d0c26fb8a8d9e791ad7c346727ce958f42da2",
+  "kind": "E"
+ },
+ {
+  "text": "You are ready.",
+  "file": "grammar/UnitAllLessons/examples_opus/you_are_ready.opus",
+  "duration": 1.957,
+  "bytes": 6081,
+  "sha256": "4eb6abea312d82cd986dc020dc2c87c8198daf9307d3293912be2c07b6ebe073",
+  "kind": "E"
+ },
+ {
+  "text": "Are you ready?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_you_ready.opus",
+  "duration": 1.887,
+  "bytes": 5900,
+  "sha256": "25ac5034ab5a9151f4f15c0ff0405b8aa1042fab327bb701c28a21a5a4aaf123",
+  "kind": "E"
+ },
+ {
+  "text": "Am I late?",
+  "file": "grammar/UnitAllLessons/examples_opus/am_i_late.opus",
+  "duration": 1.818,
+  "bytes": 5520,
+  "sha256": "f79e94550fcc8997ceeb9ca29bc0ca47613f46afb28a65ec507ed4e8f6e273b0",
+  "kind": "E"
+ },
+ {
+  "text": "Are you a student?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_you_a_student.opus",
+  "duration": 2.166,
+  "bytes": 7038,
+  "sha256": "fa6597a4c23f16870e4204fb6b4359c730ba3731430c3797aa636c6a27c3c6da",
+  "kind": "E"
+ },
+ {
+  "text": "Is he your brother?",
+  "file": "grammar/UnitAllLessons/examples_opus/is_he_your_brother.opus",
+  "duration": 2.166,
+  "bytes": 6975,
+  "sha256": "e8eb38a055d58410da86ce8a3813579bd88d3787f44ccbe173cf5f647d62889e",
+  "kind": "E"
+ },
+ {
+  "text": "Is she at home?",
+  "file": "grammar/UnitAllLessons/examples_opus/is_she_at_home.opus",
+  "duration": 2.027,
+  "bytes": 6400,
+  "sha256": "c6f872e1449b88aed31c4b11291586a591d4fe0c61be67546c41746932b3ddd9",
+  "kind": "E"
+ },
+ {
+  "text": "Is it new?",
+  "file": "grammar/UnitAllLessons/examples_opus/is_it_new.opus",
+  "duration": 1.818,
+  "bytes": 5433,
+  "sha256": "1e70c161f6b19deef7bfd1d79df3cfcbfec5158106aa121aba85d3cb7566dcea",
+  "kind": "E"
+ },
+ {
+  "text": "Are we ready?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_we_ready.opus",
+  "duration": 1.887,
+  "bytes": 5797,
+  "sha256": "1b236b648dfac4603d98643837c8b4194fadf76fbcec8bc15a03a3761bfad421",
+  "kind": "E"
+ },
+ {
+  "text": "Are they friends?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_they_friends.opus",
+  "duration": 2.096,
+  "bytes": 6564,
+  "sha256": "326f3cdbb728d50f2eefaa07e6ffb518acc76d869b0a53c8eef2e1cee4bb9e19",
+  "kind": "E"
+ },
+ {
+  "text": "Is he at home?",
+  "file": "grammar/UnitAllLessons/examples_opus/is_he_at_home.opus",
+  "duration": 1.957,
+  "bytes": 6091,
+  "sha256": "02b230d9940ce02432b6bf06480c1f808ad299cdfdf4b73eba090e2daa42c4c7",
+  "kind": "E"
+ },
+ {
+  "text": "Is she happy?",
+  "file": "grammar/UnitAllLessons/examples_opus/is_she_happy.opus",
+  "duration": 1.957,
+  "bytes": 6004,
+  "sha256": "759a4ca8d9cec2b180ee9ea82e1ac05673c128de8bc6b0d09a955ae03b9e0dfe",
+  "kind": "E"
+ },
+ {
+  "text": "Are they ready?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_they_ready.opus",
+  "duration": 1.957,
+  "bytes": 5946,
+  "sha256": "c7cb0e35058ac9704379e4fdc93a4058f192cfe121d545a0c7b6ef44b38d7e95",
+  "kind": "E"
+ },
+ {
+  "text": "Ali is not a teacher.",
+  "file": "grammar/UnitAllLessons/examples_opus/ali_is_not_a_teacher.opus",
+  "duration": 2.584,
+  "bytes": 8711,
+  "sha256": "848924ba0894815c252dcb6df89550751ad52645623a2c818ac672b8779eea69",
+  "kind": "E"
+ },
+ {
+  "text": "Is Ali at school?",
+  "file": "grammar/UnitAllLessons/examples_opus/is_ali_at_school.opus",
+  "duration": 2.375,
+  "bytes": 7623,
+  "sha256": "0f0a18e96a8e9935f3991676e4cfbbedd2cfb53cab802c631ab866845a7889f4",
+  "kind": "E"
+ },
+ {
+  "text": "Ali and Sara are friends.",
+  "file": "grammar/UnitAllLessons/examples_opus/ali_and_sara_are_friends.opus",
+  "duration": 2.932,
+  "bytes": 10011,
+  "sha256": "753e3e2797660d5718e6fb3cb55177de2e7d52d185ccc093e82b055e77061d7a",
+  "kind": "E"
+ },
+ {
+  "text": "Are Ali and Sara at home?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_ali_and_sara_at_home.opus",
+  "duration": 2.793,
+  "bytes": 9548,
+  "sha256": "0eb7cd778448edf125157ae073d2d32ecf2f4845cd03c8cf130868e00f7ed642",
+  "kind": "E"
+ },
+ {
+  "text": "the",
+  "file": "grammar/UnitAllLessons/examples_opus/the.opus",
+  "duration": 1.748,
+  "bytes": 5675,
+  "sha256": "e2e3aa561d8faaf1463c5e3dd2b92247642a8f9632c4476536c420016ff1a087",
+  "kind": "D"
+ },
+ {
+  "text": "a book",
+  "file": "grammar/UnitAllLessons/examples_opus/a_book.opus",
+  "duration": 1.818,
+  "bytes": 5880,
+  "sha256": "c004a026dd378e71363a9abb1183bf8f214542bbb64b2edefb163b4b2c0c0b3a",
+  "kind": "D"
+ },
+ {
+  "text": "a student",
+  "file": "grammar/UnitAllLessons/examples_opus/a_student.opus",
+  "duration": 1.818,
+  "bytes": 5538,
+  "sha256": "3c3bab4c6a25f80fe620e7398f009ba13dfd76eedd6c13b7c54776911c5667d8",
+  "kind": "D"
+ },
+ {
+  "text": "an apple",
+  "file": "grammar/UnitAllLessons/examples_opus/an_apple.opus",
+  "duration": 1.818,
+  "bytes": 5420,
+  "sha256": "d46359fefe4aa49f81cb44b43b6016ae716965c0ebee7516964f76e94a72a235",
+  "kind": "D"
+ },
+ {
+  "text": "a car",
+  "file": "grammar/UnitAllLessons/examples_opus/a_car.opus",
+  "duration": 1.818,
+  "bytes": 5378,
+  "sha256": "f9534285e023ebee0fa4ffe4ce7bb01ab7cff3f080b754654bb2bfb36599f8d5",
+  "kind": "D"
+ },
+ {
+  "text": "a dog",
+  "file": "grammar/UnitAllLessons/examples_opus/a_dog.opus",
+  "duration": 1.818,
+  "bytes": 6057,
+  "sha256": "0d6de7901e0aa3b3cefbd3b421278e681b159cffc28575bafdddebb38c3cbe58",
+  "kind": "D"
+ },
+ {
+  "text": "a teacher",
+  "file": "grammar/UnitAllLessons/examples_opus/a_teacher.opus",
+  "duration": 1.818,
+  "bytes": 5484,
+  "sha256": "ce549be4d364b765a91a9387126ed84f744144f3bf64b1ee2f88f5e9c9ffd0f0",
+  "kind": "D"
+ },
+ {
+  "text": "a house",
+  "file": "grammar/UnitAllLessons/examples_opus/a_house.opus",
+  "duration": 1.818,
+  "bytes": 5633,
+  "sha256": "249dbc8f81ebb2a5f7164f6a8cd68e7f75253700d8cd970ef4a66bd82f08c145",
+  "kind": "D"
+ },
+ {
+  "text": "an egg",
+  "file": "grammar/UnitAllLessons/examples_opus/an_egg.opus",
+  "duration": 1.818,
+  "bytes": 5227,
+  "sha256": "aaf82b3beb19fbf1083f2b925fe509bbb5fcd30f7bce27e796a13a63c76e61b0",
+  "kind": "D"
+ },
+ {
+  "text": "an orange",
+  "file": "grammar/UnitAllLessons/examples_opus/an_orange.opus",
+  "duration": 1.818,
+  "bytes": 5664,
+  "sha256": "c3fc105ed238ca53f0dc8269ba6c287a309b8975caf7e635b66dc74d393fe17d",
+  "kind": "D"
+ },
+ {
+  "text": "an umbrella",
+  "file": "grammar/UnitAllLessons/examples_opus/an_umbrella.opus",
+  "duration": 1.887,
+  "bytes": 5775,
+  "sha256": "e795c9ee93f6f4540e9b4f82287a50f5cc3f1b6cf24d4789020c7df4212a5324",
+  "kind": "D"
+ },
+ {
+  "text": "an animal",
+  "file": "grammar/UnitAllLessons/examples_opus/an_animal.opus",
+  "duration": 1.887,
+  "bytes": 5773,
+  "sha256": "a57faa8a2489bbb8baaea11ff47e1f0484d24381ff1d48b587a4af1ad62858a1",
+  "kind": "D"
+ },
+ {
+  "text": "a red apple",
+  "file": "grammar/UnitAllLessons/examples_opus/a_red_apple.opus",
+  "duration": 1.887,
+  "bytes": 6022,
+  "sha256": "6347f767a3ae403b4f2b16ef31c7ebd8eaee378fb18faf4bc73e29a04ab651dc",
+  "kind": "E"
+ },
+ {
+  "text": "an old book",
+  "file": "grammar/UnitAllLessons/examples_opus/an_old_book.opus",
+  "duration": 1.887,
+  "bytes": 5896,
+  "sha256": "11195302bf51881eef8a556f02f639309c0b101df58f9b83f05ab1c22e8ccaa0",
+  "kind": "E"
+ },
+ {
+  "text": "a small orange",
+  "file": "grammar/UnitAllLessons/examples_opus/a_small_orange.opus",
+  "duration": 2.166,
+  "bytes": 7173,
+  "sha256": "7800719a1f49ff82e7ddb06b2fe216f3ebe049899f8f29fc8e0206b836e2d2c0",
+  "kind": "E"
+ },
+ {
+  "text": "an interesting story",
+  "file": "grammar/UnitAllLessons/examples_opus/an_interesting_story.opus",
+  "duration": 2.514,
+  "bytes": 8429,
+  "sha256": "09a5ccad6b243f38778a0a40f4b2204a657a729cf6f015128c3fdb81ef0c0513",
+  "kind": "E"
+ },
+ {
+  "text": "a cat",
+  "file": "grammar/UnitAllLessons/examples_opus/a_cat.opus",
+  "duration": 1.818,
+  "bytes": 5396,
+  "sha256": "6ed89a10893118060cb254284868b9c253f2ca7f06d266f8906bb029c9964bfd",
+  "kind": "D"
+ },
+ {
+  "text": "cats",
+  "file": "grammar/UnitAllLessons/examples_opus/cats.opus",
+  "duration": 1.818,
+  "bytes": 5763,
+  "sha256": "542576b4af06b9a2316af6ebd3fca3adb2638c99b935a5dae4f6faf7b685df00",
+  "kind": "D"
+ },
+ {
+  "text": "two cats",
+  "file": "grammar/UnitAllLessons/examples_opus/two_cats.opus",
+  "duration": 1.818,
+  "bytes": 5731,
+  "sha256": "5a40d67f76cec75f57c127297a917ca094eaa459d80b1d144f727007064c0c3b",
+  "kind": "D"
+ },
+ {
+  "text": "Rice is good.",
+  "file": "grammar/UnitAllLessons/examples_opus/rice_is_good.opus",
+  "duration": 1.957,
+  "bytes": 6221,
+  "sha256": "ddd90f11a81e076ffcb7bc610d8dc7d8576d7ab23d7c355927fc5d37189bb8e6",
+  "kind": "E"
+ },
+ {
+  "text": "I see a dog.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_see_a_dog.opus",
+  "duration": 1.887,
+  "bytes": 5938,
+  "sha256": "5b7081dba7e0f3c053bacbc20d4d216bb84d9d865aee95c9f07ec6e61f757dbb",
+  "kind": "E"
+ },
+ {
+  "text": "Whose bags are these?",
+  "file": "grammar/UnitAllLessons/examples_opus/whose_bags_are_these.opus",
+  "duration": 2.445,
+  "bytes": 8140,
+  "sha256": "3885eb9d888ae5b80699248905e786d477279e0a87237603812342b9d512f274",
+  "kind": "E"
+ },
+ {
+  "text": "They live in Tashkent.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_live_in_tashkent.opus",
+  "duration": 2.514,
+  "bytes": 8206,
+  "sha256": "19ef058c5d6bbdb75bf7d6bd615545c8c0f2da15a1691afe775149b044ec987f",
+  "kind": "E"
+ },
+ {
+  "text": "one book",
+  "file": "grammar/UnitAllLessons/examples_opus/one_book.opus",
+  "duration": 1.818,
+  "bytes": 5742,
+  "sha256": "54baf841ceb451b9b1cbc01c1bae82b9450f8197f73522baa4ee333ae0830ec4",
+  "kind": "D"
+ },
+ {
+  "text": "one student",
+  "file": "grammar/UnitAllLessons/examples_opus/one_student.opus",
+  "duration": 1.887,
+  "bytes": 6066,
+  "sha256": "3a4baed00f72cf501a24c47042f446a6eb1dcbc81519b974661bdbe39d1009c8",
+  "kind": "D"
+ },
+ {
+  "text": "one dog",
+  "file": "grammar/UnitAllLessons/examples_opus/one_dog.opus",
+  "duration": 1.818,
+  "bytes": 5848,
+  "sha256": "c4ffc3cd0f44c514410e9241c81a09687bd1aa27dedbadddedd0fff21e04ad60",
+  "kind": "D"
+ },
+ {
+  "text": "one apple",
+  "file": "grammar/UnitAllLessons/examples_opus/one_apple.opus",
+  "duration": 1.818,
+  "bytes": 5873,
+  "sha256": "45f732f4847c5716e8425f4fa404254187ed73001e3cdf9c7a19bdcc495151fb",
+  "kind": "D"
+ },
+ {
+  "text": "one cat",
+  "file": "grammar/UnitAllLessons/examples_opus/one_cat.opus",
+  "duration": 1.818,
+  "bytes": 5428,
+  "sha256": "edf7c4b6395c89fd343cd00c04e894f4c2eb01a5102e26f630319b3d57a48a9c",
+  "kind": "D"
+ },
+ {
+  "text": "three books",
+  "file": "grammar/UnitAllLessons/examples_opus/three_books.opus",
+  "duration": 1.887,
+  "bytes": 5957,
+  "sha256": "453ce1f8be7e2e39d9d70cc8ee36eed54a9e577e5ead26abbf971c048e0a0803",
+  "kind": "D"
+ },
+ {
+  "text": "Ali is a boy. He is a student.",
+  "file": "grammar/UnitAllLessons/examples_opus/ali_is_a_boy_he_is_a_student.opus",
+  "duration": 3.768,
+  "bytes": 13021,
+  "sha256": "7408ab5183f9ceec78624d838ef2a999e76401f627aae69b94cd4cda0798526c",
+  "kind": "E"
+ },
+ {
+  "text": "Sara is a girl. She is a student.",
+  "file": "grammar/UnitAllLessons/examples_opus/sara_is_a_girl_she_is_a_student.opus",
+  "duration": 3.977,
+  "bytes": 13910,
+  "sha256": "d591158cd6e0efd6dee8a82026cc577c4c75584d2223e1bcefaa1f174aa41f25",
+  "kind": "E"
+ },
+ {
+  "text": "The book is new. It is new.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_book_is_new_it_is_new.opus",
+  "duration": 3.35,
+  "bytes": 11088,
+  "sha256": "294276e9f17a4500bb6f8466faf3a3737fb3262e2943df685fed14d20057832d",
+  "kind": "E"
+ },
+ {
+  "text": "Ali and I are friends. We are friends.",
+  "file": "grammar/UnitAllLessons/examples_opus/ali_and_i_are_friends_we_are_friends.opus",
+  "duration": 4.465,
+  "bytes": 15574,
+  "sha256": "936392aee4563ed674e044597e1369a23d7bdeb62fbffac87c7e1d44099f1b2d",
+  "kind": "E"
+ },
+ {
+  "text": "Ali and Sara are friends. They are friends.",
+  "file": "grammar/UnitAllLessons/examples_opus/ali_and_sara_are_friends_they_are_friends.opus",
+  "duration": 4.813,
+  "bytes": 17389,
+  "sha256": "4e2f84bac4bee8c0801e4da0af6832e369aca2f698aae409729165de1b154d2a",
+  "kind": "E"
+ },
+ {
+  "text": "The books are new. They are new.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_books_are_new_they_are_new.opus",
+  "duration": 3.629,
+  "bytes": 12215,
+  "sha256": "0e59dad727e16829a63a1d922be10c7ff03167014e55f2e0b93613477b55f88f",
+  "kind": "E"
+ },
+ {
+  "text": "She is at home.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_is_at_home.opus",
+  "duration": 2.096,
+  "bytes": 6798,
+  "sha256": "f5e1eb5bb69694aed61debada42e36b5827b96a7ba358dccd6766afdd773b7a3",
+  "kind": "E"
+ },
+ {
+  "text": "I read books.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_read_books.opus",
+  "duration": 1.957,
+  "bytes": 6239,
+  "sha256": "0e0d0ff9c249ba29e02727b8f499a01bc9395d139dbf4197f58354d00cd05eb9",
+  "kind": "E"
+ },
+ {
+  "text": "The dog likes milk.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_dog_likes_milk.opus",
+  "duration": 2.305,
+  "bytes": 7386,
+  "sha256": "0aa9eda960ade5eecefd42a28989890401de82451cdcc1e48443c791f02ecde4",
+  "kind": "E"
+ },
+ {
+  "text": "My sister reads.",
+  "file": "grammar/UnitAllLessons/examples_opus/my_sister_reads.opus",
+  "duration": 2.236,
+  "bytes": 7270,
+  "sha256": "7b8c2b7d52d026d326278fcda5e6c035a78e916608e10070506e7a5428d56eff",
+  "kind": "E"
+ },
+ {
+  "text": "They see the teacher.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_see_the_teacher.opus",
+  "duration": 2.375,
+  "bytes": 7601,
+  "sha256": "c25924ca27f90f7925d0bb30da5b20e98aa99a258fb35f3c39c6b1cbef415914",
+  "kind": "E"
+ },
+ {
+  "text": "We see them.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_see_them.opus",
+  "duration": 1.887,
+  "bytes": 5824,
+  "sha256": "a4669e73f5955543b92dff18ad2395b17d5201bcf3c4642a2761adfa9772697c",
+  "kind": "E"
+ },
+ {
+  "text": "I",
+  "file": "grammar/UnitAllLessons/examples_opus/i.opus",
+  "duration": 1.818,
+  "bytes": 5316,
+  "sha256": "ed8359774ce8919e42e8748f4ed740ffb579a1e3958cc7b88dafe63e1b7888c7",
+  "kind": "D"
+ },
+ {
+  "text": "I go to school every day.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_go_to_school_every_day.opus",
+  "duration": 2.793,
+  "bytes": 9713,
+  "sha256": "2794a8be3cbda38b9532525f4a997f66d7fade13899993ad380b69f8b217d4a1",
+  "kind": "E"
+ },
+ {
+  "text": "She reads before bed.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_reads_before_bed.opus",
+  "duration": 2.445,
+  "bytes": 8415,
+  "sha256": "67c619276893d6155bfabf53fb172d0d841c17d816528ee9db40c399867cf29c",
+  "kind": "E"
+ },
+ {
+  "text": "My father drives a car.",
+  "file": "grammar/UnitAllLessons/examples_opus/my_father_drives_a_car.opus",
+  "duration": 2.723,
+  "bytes": 9282,
+  "sha256": "115a8823b74b6a52d9f8006cf6ff16281e66a0510a8d99138c3b79a5af709648",
+  "kind": "E"
+ },
+ {
+  "text": "You work.",
+  "file": "grammar/UnitAllLessons/examples_opus/you_work.opus",
+  "duration": 1.818,
+  "bytes": 5444,
+  "sha256": "92bda6123a998a4ab10533cde42b34f303d8fcc72cec0961c09f55e141ba495b",
+  "kind": "D"
+ },
+ {
+  "text": "We work.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_work.opus",
+  "duration": 1.818,
+  "bytes": 5426,
+  "sha256": "3e30a3bb0bae14b6e495429dcf5bb0b3fd15a189f64823f65bc3df464072d0c8",
+  "kind": "D"
+ },
+ {
+  "text": "They work.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_work.opus",
+  "duration": 1.818,
+  "bytes": 5369,
+  "sha256": "07ac30a42374348fceeb4a032a01696dea6be20e638895e599bbc5c8f88b5bde",
+  "kind": "D"
+ },
+ {
+  "text": "The cat sleeps.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_cat_sleeps.opus",
+  "duration": 2.166,
+  "bytes": 6906,
+  "sha256": "6d66deb77f9b28517213142c52de50ab57bd421b91295efb9d666972e6d05974",
+  "kind": "E"
+ },
+ {
+  "text": "She studies English.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_studies_english.opus",
+  "duration": 2.514,
+  "bytes": 8857,
+  "sha256": "457fb4ccb5901fc82afc48d7d612ca03b2a1d71050725a16e8f8c2389d10e169",
+  "kind": "E"
+ },
+ {
+  "text": "He plays on Sundays.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_plays_on_sundays.opus",
+  "duration": 2.514,
+  "bytes": 8382,
+  "sha256": "24112115e56e462f3f45860d050f2e1a79801fd5a7df34820a9d88c749fd89fa",
+  "kind": "E"
+ },
+ {
+  "text": "I brush my teeth every morning.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_brush_my_teeth_every_morning.opus",
+  "duration": 3.141,
+  "bytes": 10839,
+  "sha256": "11276f88dd423c55b09f2bdd3b5160cb3baaa4314e47919930d0500d06511c36",
+  "kind": "E"
+ },
+ {
+  "text": "He plays football on Sundays.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_plays_football_on_sundays.opus",
+  "duration": 3.141,
+  "bytes": 11380,
+  "sha256": "b4cb79d7468330923f0218e31d1f3289e2cc12da5e00de633907fceb1bbddc1f",
+  "kind": "E"
+ },
+ {
+  "text": "We visit our grandmother every week.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_visit_our_grandmother_every_week.opus",
+  "duration": 3.49,
+  "bytes": 12204,
+  "sha256": "60eb7bc77378a7864a0d763981dd0a3787dd8f8d5939746dec9eabc5c5a8fd5c",
+  "kind": "E"
+ },
+ {
+  "text": "My father works at home.",
+  "file": "grammar/UnitAllLessons/examples_opus/my_father_works_at_home.opus",
+  "duration": 2.723,
+  "bytes": 9114,
+  "sha256": "982760bcadd0a06f9ad0fc9815c3b0b3ee276da907e9d9eb64705f77a8d640fe",
+  "kind": "E"
+ },
+ {
+  "text": "The cat eats fish.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_cat_eats_fish.opus",
+  "duration": 2.305,
+  "bytes": 7469,
+  "sha256": "b245a27437e9fafe8917236d6e0bf46d927f90ca63e4903baa6cc3e339945751",
+  "kind": "E"
+ },
+ {
+  "text": "He watches TV.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_watches_tv.opus",
+  "duration": 2.096,
+  "bytes": 7197,
+  "sha256": "9f2a13492934b98bb272a43471a5438535727f0261c9262d530bcb7dcc68380c",
+  "kind": "E"
+ },
+ {
+  "text": "She goes to school.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_goes_to_school.opus",
+  "duration": 2.445,
+  "bytes": 7875,
+  "sha256": "e1b8d351e20c5f6b362ec3202e2fce2acd6e3f4d8665e7a8b72637fe60beb9ec",
+  "kind": "E"
+ },
+ {
+  "text": "Tom does his homework.",
+  "file": "grammar/UnitAllLessons/examples_opus/tom_does_his_homework.opus",
+  "duration": 2.584,
+  "bytes": 8358,
+  "sha256": "1ffd75dd79efd8106c3f3643316a31d331ec99532cd6ea08d8687b829a85009d",
+  "kind": "E"
+ },
+ {
+  "text": "Anna studies English.",
+  "file": "grammar/UnitAllLessons/examples_opus/anna_studies_english.opus",
+  "duration": 2.584,
+  "bytes": 9003,
+  "sha256": "decde2134d9ce79fbe79a80d845f47ce09ed75be42150095355aa9b16b646334",
+  "kind": "E"
+ },
+ {
+  "text": "My boy enjoys music.",
+  "file": "grammar/UnitAllLessons/examples_opus/my_boy_enjoys_music.opus",
+  "duration": 2.584,
+  "bytes": 9110,
+  "sha256": "9931234169d3fe986abfef759c190d7c4e9db3b87d34c5a93d458a23387573b5",
+  "kind": "E"
+ },
+ {
+  "text": "He plays football.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_plays_football.opus",
+  "duration": 2.375,
+  "bytes": 7652,
+  "sha256": "06e284a0b21e675efecbb8766d1eb115be81ffbc753c0fe878468fb68931ab12",
+  "kind": "E"
+ },
+ {
+  "text": "She does her homework.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_does_her_homework.opus",
+  "duration": 2.445,
+  "bytes": 7851,
+  "sha256": "84b595cea76ce6f342c3e5ae89211fed38155bbc936ae32d15db0a3d8a93eaf5",
+  "kind": "E"
+ },
+ {
+  "text": "She likes tea.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_likes_tea.opus",
+  "duration": 2.027,
+  "bytes": 6408,
+  "sha256": "baf94b4b0b54ef8c45374d8c53061ebf2c516bd92d8cbfc481a020345e98043c",
+  "kind": "E"
+ },
+ {
+  "text": "She is not tired.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_is_not_tired.opus",
+  "duration": 2.236,
+  "bytes": 7334,
+  "sha256": "dc59972a1bd1eaad666533a3515b42d8bbcc7a709b106d06151e0edc51f830b9",
+  "kind": "E"
+ },
+ {
+  "text": "You like tea.",
+  "file": "grammar/UnitAllLessons/examples_opus/you_like_tea.opus",
+  "duration": 1.887,
+  "bytes": 6176,
+  "sha256": "c521e3a300a29fae96f1f9632ed0b379a17421e573ae53b39856f009fe07bcc1",
+  "kind": "E"
+ },
+ {
+  "text": "Do you like tea?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_you_like_tea.opus",
+  "duration": 1.957,
+  "bytes": 6210,
+  "sha256": "4819687defaf55a4826278744fa72835d5dc8c7b62d6ea7f774cc6fc165b6b5b",
+  "kind": "E"
+ },
+ {
+  "text": "Does he do his homework?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_he_do_his_homework.opus",
+  "duration": 2.445,
+  "bytes": 8104,
+  "sha256": "edd45d55fe4a063e4084bf18a00778d6f28f562911c2e0161727d249d6ae4c43",
+  "kind": "E"
+ },
+ {
+  "text": "Does she like tea?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_she_like_tea.opus",
+  "duration": 2.236,
+  "bytes": 7417,
+  "sha256": "866cd3fbe0fe6e43bad9b0b1bac929448c95fae01502a9c3697ba5709e213035",
+  "kind": "E"
+ },
+ {
+  "text": "Do I need a pen?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_i_need_a_pen.opus",
+  "duration": 1.957,
+  "bytes": 6271,
+  "sha256": "33d2079095198fea6e9ff5c070d9f7727e5f39c97377d62a979da6f73a95d943",
+  "kind": "E"
+ },
+ {
+  "text": "Do you speak English?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_you_speak_english.opus",
+  "duration": 2.375,
+  "bytes": 7807,
+  "sha256": "cef576ce077df47d91ca2f24135f9cdf02976296c3c0d786d121fb9362faf93d",
+  "kind": "E"
+ },
+ {
+  "text": "Do we start now?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_we_start_now.opus",
+  "duration": 1.957,
+  "bytes": 6444,
+  "sha256": "55650c84d76a0949b2c81730c075756d646eb7d637e972c87255c10955548b0c",
+  "kind": "E"
+ },
+ {
+  "text": "Do they live here?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_they_live_here.opus",
+  "duration": 2.027,
+  "bytes": 6619,
+  "sha256": "efde20ac3a21f6996660aef05ad08169445e84c7cdb3cbe71b44abca64d7c776",
+  "kind": "E"
+ },
+ {
+  "text": "Does he work here?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_he_work_here.opus",
+  "duration": 2.096,
+  "bytes": 6812,
+  "sha256": "7aa6c98fe39bfe5d5ce4ef8c44385642e3c4f2a73e54b61ddcb966aaaf8e99e5",
+  "kind": "E"
+ },
+ {
+  "text": "Does Sara like music?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_sara_like_music.opus",
+  "duration": 2.514,
+  "bytes": 8307,
+  "sha256": "e8c80e4420d844514539ddbafd0ff46a0628f40d35330161939ce4a76f048b34",
+  "kind": "E"
+ },
+ {
+  "text": "Does the bus stop here?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_the_bus_stop_here.opus",
+  "duration": 2.514,
+  "bytes": 8200,
+  "sha256": "9225751a85e089b9f63693c82bfbf92730379ac21755bfa63f624ec40363fcfe",
+  "kind": "E"
+ },
+ {
+  "text": "She reads books.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_reads_books.opus",
+  "duration": 2.166,
+  "bytes": 6855,
+  "sha256": "10a72e789c3cdcdd4d929149abee465d9e37c42a82229a39cfd73abd3431c8c3",
+  "kind": "E"
+ },
+ {
+  "text": "Does she read books?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_she_read_books.opus",
+  "duration": 2.375,
+  "bytes": 7463,
+  "sha256": "6f421c41fec068b301b91972cc38afa8d206ea69192e66d8d8f79f8f86e277bb",
+  "kind": "E"
+ },
+ {
+  "text": "Does Tom play tennis?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_tom_play_tennis.opus",
+  "duration": 2.514,
+  "bytes": 8250,
+  "sha256": "d17cdcc15375c752d474638a0baac4160dd9f36c2d69adbbb88ffdf8e9781e4b",
+  "kind": "E"
+ },
+ {
+  "text": "Does your sister read?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_your_sister_read.opus",
+  "duration": 2.445,
+  "bytes": 8025,
+  "sha256": "63b07d08fa3a5882d3bf4707df41856d004bb46aa20b0848c308754e79c2b735",
+  "kind": "E"
+ },
+ {
+  "text": "Do Ali and Sam work here?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_ali_and_sam_work_here.opus",
+  "duration": 2.654,
+  "bytes": 8930,
+  "sha256": "d5bf7de6094c8b298cd09ef50c946a7114666e9571b2f0727e062eb31ff1ef84",
+  "kind": "E"
+ },
+ {
+  "text": "What do you eat?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_do_you_eat.opus",
+  "duration": 1.957,
+  "bytes": 6105,
+  "sha256": "c9a5670737683bcf375188ba09eed6ab196d90aae75da2ee2dbc7a8e6c6309e7",
+  "kind": "E"
+ },
+ {
+  "text": "Where does she live?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_does_she_live.opus",
+  "duration": 2.305,
+  "bytes": 7385,
+  "sha256": "3ff896cde38e00efd778ecf102a52e0bedd62775312c7e694d5e3f689a333a7e",
+  "kind": "E"
+ },
+ {
+  "text": "When do they study?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_do_they_study.opus",
+  "duration": 2.096,
+  "bytes": 6751,
+  "sha256": "9d677aff3e2aa130d0ff6b49b8e78b032ddc66d2f0e2bec2121473f910d45134",
+  "kind": "E"
+ },
+ {
+  "text": "Why does he run?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_does_he_run.opus",
+  "duration": 1.957,
+  "bytes": 6370,
+  "sha256": "47ea1820d8af3ac3d19b0e989b4bafccf8b04a5b77607469ba70e031b6022433",
+  "kind": "E"
+ },
+ {
+  "text": "Are you happy?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_you_happy.opus",
+  "duration": 1.957,
+  "bytes": 6099,
+  "sha256": "13180eb0ad8c61763447b68120c5435fa86d8eaf6dc55d0e8d23577c4ad3280e",
+  "kind": "E"
+ },
+ {
+  "text": "Do you like music?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_you_like_music.opus",
+  "duration": 2.096,
+  "bytes": 6715,
+  "sha256": "06a480da2e8f4e4111b195ad3e781a8bd25065a18d040f2baf9f885f060d96f3",
+  "kind": "E"
+ },
+ {
+  "text": "Is she a teacher?",
+  "file": "grammar/UnitAllLessons/examples_opus/is_she_a_teacher.opus",
+  "duration": 2.236,
+  "bytes": 7002,
+  "sha256": "00fb620ded30e0ebc7f63c92d2d2985bf5e8b9334fa9df6bced7744fcfefaee1",
+  "kind": "E"
+ },
+ {
+  "text": "Does she teach English?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_she_teach_english.opus",
+  "duration": 2.584,
+  "bytes": 8877,
+  "sha256": "a08578ed052482558a7f5ee9a2e410b3d174924ae118c8826308050dce8d8dae",
+  "kind": "E"
+ },
+ {
+  "text": "Do we need a ticket?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_we_need_a_ticket.opus",
+  "duration": 2.236,
+  "bytes": 7054,
+  "sha256": "b29a78e029b0e6d0e39e3f6c1dfdb0d200b610dbd917dadbb8786e8c32e287fb",
+  "kind": "E"
+ },
+ {
+  "text": "Does he play football?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_he_play_football.opus",
+  "duration": 2.514,
+  "bytes": 8372,
+  "sha256": "02377ba372a12f49991c02a5a9ad2cca516c70aa70528a35f4b45346c373f775",
+  "kind": "E"
+ },
+ {
+  "text": "Does Sara speak English?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_sara_speak_english.opus",
+  "duration": 2.723,
+  "bytes": 9081,
+  "sha256": "506e826cefdfbeb984a88dc388311f7f0317fae3e10a04832494ce0b0eef7888",
+  "kind": "E"
+ },
+ {
+  "text": "Does the shop open early?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_the_shop_open_early.opus",
+  "duration": 2.584,
+  "bytes": 8766,
+  "sha256": "66182c06817818bb7afb987e05f85154faf8a61a19225353442d6196e8667bc7",
+  "kind": "E"
+ },
+ {
+  "text": "Do you work here?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_you_work_here.opus",
+  "duration": 1.957,
+  "bytes": 6115,
+  "sha256": "6930ef7ba12a188022c1132d5e4c714882b9c57bc73ecfafdd27ac93f49fe440",
+  "kind": "E"
+ },
+ {
+  "text": "Do you like apples?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_you_like_apples.opus",
+  "duration": 2.166,
+  "bytes": 7014,
+  "sha256": "fb8474597918ab988ae812e2349c0ba66f405e7879242c29f38c683185440d28",
+  "kind": "E"
+ },
+ {
+  "text": "Does Ali study English?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_ali_study_english.opus",
+  "duration": 2.654,
+  "bytes": 8998,
+  "sha256": "e5024ae7c304e61874e5e6fa193b44edcd8d4c9454f83e495cff7c8018f1c126",
+  "kind": "E"
+ },
+ {
+  "text": "Does Madina work here?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_madina_work_here.opus",
+  "duration": 2.445,
+  "bytes": 8193,
+  "sha256": "8836690c7691150b87f5f5882bae1f11f95be9b355decf73fcf75bf4d2b098cc",
+  "kind": "E"
+ },
+ {
+  "text": "Do Ali and Sam play?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_ali_and_sam_play.opus",
+  "duration": 2.375,
+  "bytes": 8000,
+  "sha256": "7b13d1669b342fd7ed81d9e9573f1079c57a3775108c6fbf66f18edfcb7da62d",
+  "kind": "E"
+ },
+ {
+  "text": "Do you read books?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_you_read_books.opus",
+  "duration": 2.096,
+  "bytes": 6727,
+  "sha256": "7a73bfa48f9bd1140e897d842683869324d49f73453be56f004b6b5c9beb788b",
+  "kind": "E"
+ },
+ {
+  "text": "Does she work?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_she_work.opus",
+  "duration": 1.957,
+  "bytes": 6072,
+  "sha256": "cdbc895e356a372364a7d889adf3b98c85cf9d89f37739f563640365c0457c2a",
+  "kind": "E"
+ },
+ {
+  "text": "Are you tired?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_you_tired.opus",
+  "duration": 1.887,
+  "bytes": 5933,
+  "sha256": "7afaf79c6800269917c4432fae5af17f9200a62d8716e0f2261ef4ddda17bb9a",
+  "kind": "E"
+ },
+ {
+  "text": "I sometimes read.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_sometimes_read.opus",
+  "duration": 2.236,
+  "bytes": 7307,
+  "sha256": "e7c1325a7a7f62f8524e0c489370ff99b6225f6715030cfd0172801910df71bd",
+  "kind": "E"
+ },
+ {
+  "text": "I always drink water.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_always_drink_water.opus",
+  "duration": 2.584,
+  "bytes": 8771,
+  "sha256": "992617d1dde615b0dd1d101291e253e387d44db9b33fb78cab0dd804af12e915",
+  "kind": "E"
+ },
+ {
+  "text": "We usually walk to school.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_usually_walk_to_school.opus",
+  "duration": 2.863,
+  "bytes": 9789,
+  "sha256": "9afc04b035bdabfba9bd1be9aef7c2b5595c1b4f5354700cb4c7cdbf70c6f28e",
+  "kind": "E"
+ },
+ {
+  "text": "They often play football.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_often_play_football.opus",
+  "duration": 2.723,
+  "bytes": 9014,
+  "sha256": "08650c657adfc9dda6e413671289a48d88676dbffe459f6049402b970e5693af",
+  "kind": "E"
+ },
+ {
+  "text": "She sometimes reads at night.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_sometimes_reads_at_night.opus",
+  "duration": 3.072,
+  "bytes": 10756,
+  "sha256": "a40e88e01d8049d6874f569b1d459e21c9e2131669db7c55300d60b58453d2fe",
+  "kind": "E"
+ },
+ {
+  "text": "He rarely watches TV.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_rarely_watches_tv.opus",
+  "duration": 2.654,
+  "bytes": 9141,
+  "sha256": "4d66efdfec4666d8ac153e6997d9631b7bed96483e585894ea36eb11db04059f",
+  "kind": "E"
+ },
+ {
+  "text": "I never eat meat.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_never_eat_meat.opus",
+  "duration": 2.166,
+  "bytes": 7264,
+  "sha256": "8563b838509d37d9e5700872337916f88d8749ef208a8dc5b9650244a43acbac",
+  "kind": "E"
+ },
+ {
+  "text": "I am always busy.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_am_always_busy.opus",
+  "duration": 2.305,
+  "bytes": 7627,
+  "sha256": "de7cb1a35d1c1a0a5f19582281452539409336046737f83724d5a4ea63ddafbc",
+  "kind": "E"
+ },
+ {
+  "text": "She is usually happy.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_is_usually_happy.opus",
+  "duration": 2.584,
+  "bytes": 8871,
+  "sha256": "2ff0b8c548e73aa2c68cb555c1dc89ce9a726387021a551608ef3753bce89b12",
+  "kind": "E"
+ },
+ {
+  "text": "They are often at home.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_are_often_at_home.opus",
+  "duration": 2.445,
+  "bytes": 7888,
+  "sha256": "782d907162e44b6b49133cec5fb27593b7b0481c441e6e07a84c0ee22f8ec947",
+  "kind": "E"
+ },
+ {
+  "text": "every day",
+  "file": "grammar/UnitAllLessons/examples_opus/every_day.opus",
+  "duration": 1.818,
+  "bytes": 5665,
+  "sha256": "5fddd5f9bc7f71ea1ac05c6a46338aa27eba63e561937dd878f78a75714798f9",
+  "kind": "D"
+ },
+ {
+  "text": "every morning",
+  "file": "grammar/UnitAllLessons/examples_opus/every_morning.opus",
+  "duration": 1.957,
+  "bytes": 6225,
+  "sha256": "f4cf957d62f1c439138beffd8a84e60951eea1723b6b08477c3f7d7cbe0beca2",
+  "kind": "D"
+ },
+ {
+  "text": "once a week",
+  "file": "grammar/UnitAllLessons/examples_opus/once_a_week.opus",
+  "duration": 1.887,
+  "bytes": 6081,
+  "sha256": "b3a77b79e7a3a50fd727f8ddafc49b3d37aab4fec8d609f6ce2a0375d41d7380",
+  "kind": "E"
+ },
+ {
+  "text": "twice a month",
+  "file": "grammar/UnitAllLessons/examples_opus/twice_a_month.opus",
+  "duration": 1.957,
+  "bytes": 6089,
+  "sha256": "a9eb6edfde7c7a67b7bdb56c2790ebf2890cdca571a541b8eaca4c1b4693735f",
+  "kind": "E"
+ },
+ {
+  "text": "on Sundays",
+  "file": "grammar/UnitAllLessons/examples_opus/on_sundays.opus",
+  "duration": 1.887,
+  "bytes": 6087,
+  "sha256": "befa328807c4c4e1431e125ea48a77a32a36f5594c95975b41c4a8f8fcaebb0f",
+  "kind": "D"
+ },
+ {
+  "text": "I call my grandmother every week.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_call_my_grandmother_every_week.opus",
+  "duration": 3.35,
+  "bytes": 11504,
+  "sha256": "de39ba548649d9fc21f2c5bf332c4c02d5ac01a4d3636c74783276c3ecb3e0b5",
+  "kind": "E"
+ },
+ {
+  "text": "He plays tennis on Sundays.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_plays_tennis_on_sundays.opus",
+  "duration": 2.932,
+  "bytes": 10629,
+  "sha256": "ed7c203b90e9de6f4bcdbd0ddbce4485ba345997ac901a2c1fd5a65a5c76dc0b",
+  "kind": "E"
+ },
+ {
+  "text": "She is cooking.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_is_cooking.opus",
+  "duration": 2.096,
+  "bytes": 6611,
+  "sha256": "c8996f583af811bf2147a56def0e0404c5f708b3d9c90a2e9723485e20216d50",
+  "kind": "E"
+ },
+ {
+  "text": "They are playing football.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_are_playing_football.opus",
+  "duration": 2.793,
+  "bytes": 9139,
+  "sha256": "a7d03dc2d6fbb2ee19d9221c78d6ca265ad62e2afb0afae88e3959e8d0e892d7",
+  "kind": "E"
+ },
+ {
+  "text": "We are watching a film.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_are_watching_a_film.opus",
+  "duration": 2.584,
+  "bytes": 9142,
+  "sha256": "6b8466230537a63e1964ddcf83694b77e967c19af87b661a77fd2a32a26bc794",
+  "kind": "E"
+ },
+ {
+  "text": "The baby is eating.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_baby_is_eating.opus",
+  "duration": 2.445,
+  "bytes": 7813,
+  "sha256": "bbcdb84ce581a63f9a25ef633b4573815cc8a0440955a142a6571ca02b5237d2",
+  "kind": "E"
+ },
+ {
+  "text": "She is making dinner.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_is_making_dinner.opus",
+  "duration": 2.445,
+  "bytes": 8158,
+  "sha256": "416dd319f706150b5cb492c207f0587cff89dbf6af700fd0826b609ce963c066",
+  "kind": "E"
+ },
+ {
+  "text": "The boy is running.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_boy_is_running.opus",
+  "duration": 2.305,
+  "bytes": 7343,
+  "sha256": "29accc35ab1bde6b281f830127abc4a718c344dac95192769882ba2757c6361b",
+  "kind": "E"
+ },
+ {
+  "text": "now",
+  "file": "grammar/UnitAllLessons/examples_opus/now.opus",
+  "duration": 1.748,
+  "bytes": 4970,
+  "sha256": "f6bbc57f944cd215c64fb880ead3f2a1a2ebc906b2e1b9a31785950f6813751c",
+  "kind": "D"
+ },
+ {
+  "text": "right now",
+  "file": "grammar/UnitAllLessons/examples_opus/right_now.opus",
+  "duration": 1.818,
+  "bytes": 5483,
+  "sha256": "4c4debaf57c6b8fd69a7e548b6edcb62f9d401084305a404ef298d3ff2e28ac3",
+  "kind": "D"
+ },
+ {
+  "text": "at the moment",
+  "file": "grammar/UnitAllLessons/examples_opus/at_the_moment.opus",
+  "duration": 1.957,
+  "bytes": 6031,
+  "sha256": "e459a5bb1e57b9c03c3c7807cbf65d0f043be1b8393bb7a9b4414ca0cfa3f1c8",
+  "kind": "E"
+ },
+ {
+  "text": "today",
+  "file": "grammar/UnitAllLessons/examples_opus/today.opus",
+  "duration": 1.818,
+  "bytes": 5289,
+  "sha256": "16d27a5139adb6da346b16b65081b36ca8369ce59eeba411f979f9b2260fe2eb",
+  "kind": "D"
+ },
+ {
+  "text": "I am studying English now.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_am_studying_english_now.opus",
+  "duration": 2.863,
+  "bytes": 10237,
+  "sha256": "bb77e608f8cdc5b35ae9386659235834036b77af3368b6c0ed2d58abece6c8f7",
+  "kind": "E"
+ },
+ {
+  "text": "He is working at the moment.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_is_working_at_the_moment.opus",
+  "duration": 2.793,
+  "bytes": 9538,
+  "sha256": "e290ee0fd758ec58ae5e5fbf92b8be49de9a44e4cea79c65992d9ece793ef96f",
+  "kind": "E"
+ },
+ {
+  "text": "She works every day.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_works_every_day.opus",
+  "duration": 2.445,
+  "bytes": 8106,
+  "sha256": "587651bed1865ec4f4bf7183471de304aaf6508df7fde061a31f88980f675ff8",
+  "kind": "E"
+ },
+ {
+  "text": "I am staying with my aunt this week.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_am_staying_with_my_aunt_this_week.opus",
+  "duration": 3.629,
+  "bytes": 12809,
+  "sha256": "3dc00ac02e165e0a2355d15c807ed8f4184b5b574fc38b68cac8f4b460bf2a22",
+  "kind": "E"
+ },
+ {
+  "text": "every day, usually, often",
+  "file": "grammar/UnitAllLessons/examples_opus/every_day_usually_often.opus",
+  "duration": 3.072,
+  "bytes": 10452,
+  "sha256": "badc45b1a6a322a934584df4aa495cb9dda0472656e98dfcc3f7a066e66f01a2",
+  "kind": "E"
+ },
+ {
+  "text": "now, right now, at the moment",
+  "file": "grammar/UnitAllLessons/examples_opus/now_right_now_at_the_moment.opus",
+  "duration": 3.002,
+  "bytes": 10166,
+  "sha256": "05769b298ce7b53a272bb6ebfde2d7382e6fec40b525b923d260d48c12511c85",
+  "kind": "E"
+ },
+ {
+  "text": "on Sundays, every morning",
+  "file": "grammar/UnitAllLessons/examples_opus/on_sundays_every_morning.opus",
+  "duration": 2.863,
+  "bytes": 9822,
+  "sha256": "9c6fcdb5df5b77cea583833f002a612daf4bae7832eaf72758d3856f075e216c",
+  "kind": "E"
+ },
+ {
+  "text": "He usually walks to work.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_usually_walks_to_work.opus",
+  "duration": 2.723,
+  "bytes": 9294,
+  "sha256": "2d089b157e218663f38029dde86e8d5df1dd9913b77ec08f591f1114778cfa4f",
+  "kind": "E"
+ },
+ {
+  "text": "He is walking to work now.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_is_walking_to_work_now.opus",
+  "duration": 2.654,
+  "bytes": 8959,
+  "sha256": "485c3fe0ed3e84c85f344e2f9285cbc8e3b0f458ecfd8b264c5b54dcf7787c6b",
+  "kind": "E"
+ },
+ {
+  "text": "I like this song.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_like_this_song.opus",
+  "duration": 2.166,
+  "bytes": 6891,
+  "sha256": "f9f0d96bf7b4e26521841b034e1b81505a254e6ec090cafff8f72581c2415038",
+  "kind": "E"
+ },
+ {
+  "text": "They want some water.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_want_some_water.opus",
+  "duration": 2.375,
+  "bytes": 8080,
+  "sha256": "20c976d826c0a3070ebe67a0b2f06875bb5760f1c5569b21bd9dab75911ada2f",
+  "kind": "E"
+ },
+ {
+  "text": "Where are you?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_are_you.opus",
+  "duration": 1.887,
+  "bytes": 5808,
+  "sha256": "1b2a93c104c2f822bc83d3e74a7c9433451e68e5773cc0e50431de681ecc0592",
+  "kind": "E"
+ },
+ {
+  "text": "Who is she?",
+  "file": "grammar/UnitAllLessons/examples_opus/who_is_she.opus",
+  "duration": 1.818,
+  "bytes": 5676,
+  "sha256": "b99ececb3550e5748a2e110caffb9f7d9201618555d222ad05ccf8ad01de0862",
+  "kind": "E"
+ },
+ {
+  "text": "When is the lesson?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_is_the_lesson.opus",
+  "duration": 2.236,
+  "bytes": 7163,
+  "sha256": "5743308da9d42521b8cbbbdae50a6c8981e7e5662e05e68915cc34bc6d59fa2b",
+  "kind": "E"
+ },
+ {
+  "text": "Why are you here?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_are_you_here.opus",
+  "duration": 2.027,
+  "bytes": 6484,
+  "sha256": "6976608308ea178016d35ed256327a4477f8b79349d1c738432f5d959fcf63be",
+  "kind": "E"
+ },
+ {
+  "text": "How do you go to school?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_do_you_go_to_school.opus",
+  "duration": 2.514,
+  "bytes": 8702,
+  "sha256": "e47880b4120231f5d398b172ae0846a15fb73cec20950b3383f4093a252c59c9",
+  "kind": "E"
+ },
+ {
+  "text": "Where are they?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_are_they.opus",
+  "duration": 1.887,
+  "bytes": 5852,
+  "sha256": "cac5ed467f2f4513e83f30d6c162be67b330a60524723791cf8dcfd9f429866e",
+  "kind": "E"
+ },
+ {
+  "text": "Where does he work?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_does_he_work.opus",
+  "duration": 2.096,
+  "bytes": 6761,
+  "sha256": "5381a26ab3a95366b8ca7e9e376ec779f1753e9a50abaceca4dbdd52700d3e2b",
+  "kind": "E"
+ },
+ {
+  "text": "Who",
+  "file": "grammar/UnitAllLessons/examples_opus/who.opus",
+  "duration": 1.748,
+  "bytes": 4955,
+  "sha256": "563b03567c4935867e04526baced31666431d0253b0ee61d3b3f4b5eeab8f282",
+  "kind": "D"
+ },
+ {
+  "text": "When",
+  "file": "grammar/UnitAllLessons/examples_opus/when.opus",
+  "duration": 1.748,
+  "bytes": 4954,
+  "sha256": "db17b3a9b98bf867aa18666ca37013162c2001daa2e4eaeb1bbc5c8c9e32a08a",
+  "kind": "D"
+ },
+ {
+  "text": "Why",
+  "file": "grammar/UnitAllLessons/examples_opus/why.opus",
+  "duration": 1.748,
+  "bytes": 5540,
+  "sha256": "34e43184b27907680abd6fba9e4f1fb24c93d1b2986125d44b594dbee9f56d9d",
+  "kind": "D"
+ },
+ {
+  "text": "How",
+  "file": "grammar/UnitAllLessons/examples_opus/how.opus",
+  "duration": 1.748,
+  "bytes": 5089,
+  "sha256": "7499160ce278899cc06e2030026616f004beca0d3af528d633ba84c271e6c018",
+  "kind": "D"
+ },
+ {
+  "text": "What is that?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_is_that.opus",
+  "duration": 1.887,
+  "bytes": 5764,
+  "sha256": "319d3890f7611f2fe91d898fca4d51861f047f20d418a5bb2055057870d481d9",
+  "kind": "E"
+ },
+ {
+  "text": "What are these?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_are_these.opus",
+  "duration": 1.957,
+  "bytes": 6202,
+  "sha256": "36b932afc43f4c1250667e769326580742b829709bf9342c249eaaca0a29678e",
+  "kind": "E"
+ },
+ {
+  "text": "What is your name?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_is_your_name.opus",
+  "duration": 2.096,
+  "bytes": 6768,
+  "sha256": "886c8853fe75fb2bc0be67c719993dfc39dfc7753dfcdd3738e99da797670295",
+  "kind": "E"
+ },
+ {
+  "text": "What is your favorite color?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_is_your_favorite_color.opus",
+  "duration": 2.793,
+  "bytes": 9250,
+  "sha256": "ee22b387d9a80518b4c841eea76d763e179e5fc4ef347236d8c2f0532180f5c3",
+  "kind": "E"
+ },
+ {
+  "text": "What are your favorite foods?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_are_your_favorite_foods.opus",
+  "duration": 2.863,
+  "bytes": 9533,
+  "sha256": "b00f893018732445bd92b0974acaf8efe302c92a5d4d8c6da6c6afba9bd59bb0",
+  "kind": "E"
+ },
+ {
+  "text": "What is in the bag?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_is_in_the_bag.opus",
+  "duration": 2.236,
+  "bytes": 7266,
+  "sha256": "5a0056c3321843e58923d699ed8af76205f5de8b11ef6b0e22b3064c47424f2d",
+  "kind": "E"
+ },
+ {
+  "text": "What do you eat for breakfast?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_do_you_eat_for_breakfast.opus",
+  "duration": 2.793,
+  "bytes": 9487,
+  "sha256": "37c5346fc022e49763aae97a922e43e2b23f29a37404a7031359abf07c50707c",
+  "kind": "E"
+ },
+ {
+  "text": "What do they study?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_do_they_study.opus",
+  "duration": 2.096,
+  "bytes": 6819,
+  "sha256": "6bd332b7141cabc1ab31638c8d8bde0ec61bac13df0c507c30f148160ec1b15b",
+  "kind": "E"
+ },
+ {
+  "text": "What does he like?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_does_he_like.opus",
+  "duration": 2.096,
+  "bytes": 6589,
+  "sha256": "aa8c7518b5ec4f6722839a7ccb4de550ec27948f24a157c493817b63c3535f8d",
+  "kind": "E"
+ },
+ {
+  "text": "What does Sara read?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_does_sara_read.opus",
+  "duration": 2.375,
+  "bytes": 7691,
+  "sha256": "80aba671d33ccfeb0f5c45f0275ae1d71b1c9b2b2cf3a99d59e85e396082deaa",
+  "kind": "E"
+ },
+ {
+  "text": "What day is it today?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_day_is_it_today.opus",
+  "duration": 2.445,
+  "bytes": 8113,
+  "sha256": "b8eb7de04ff9bb14fc6b6c499837ce257060b788d0df8b2dcfcd959550695ea7",
+  "kind": "E"
+ },
+ {
+  "text": "What color is your bag?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_color_is_your_bag.opus",
+  "duration": 2.445,
+  "bytes": 8055,
+  "sha256": "e3be766e541e88ff652ba65fc15657da62a92c7c5c7b38cc02ff8bd7c033dafb",
+  "kind": "E"
+ },
+ {
+  "text": "What do you do after school?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_do_you_do_after_school.opus",
+  "duration": 2.723,
+  "bytes": 9150,
+  "sha256": "7a3b64a131515572e57944ba571ba73cc70ebf878e46714307e48fe99c77855a",
+  "kind": "E"
+ },
+ {
+  "text": "Where is my phone?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_is_my_phone.opus",
+  "duration": 2.166,
+  "bytes": 6803,
+  "sha256": "c6871676c2530ab00641d1c1f3b9004a278757a56a6b7ae012b03a3b6868a5fa",
+  "kind": "E"
+ },
+ {
+  "text": "Where is Ali?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_is_ali.opus",
+  "duration": 1.887,
+  "bytes": 6098,
+  "sha256": "852ab65fdb7ced45f7d4a564f6f493a439d1cf6d9215d75423106a962abe7ac7",
+  "kind": "E"
+ },
+ {
+  "text": "Where are the children?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_are_the_children.opus",
+  "duration": 2.375,
+  "bytes": 7573,
+  "sha256": "19ac42b341ff47e104f21e198e9c240fa1d93e955467ac11e45f880c21a66ff5",
+  "kind": "E"
+ },
+ {
+  "text": "Where do they study?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_do_they_study.opus",
+  "duration": 2.166,
+  "bytes": 7121,
+  "sha256": "c023648c8fa35edeef58f5a7894fced22d2199384ef2edec54eec9810a326b64",
+  "kind": "E"
+ },
+ {
+  "text": "Where does your father work?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_does_your_father_work.opus",
+  "duration": 2.654,
+  "bytes": 8764,
+  "sha256": "b58aa38f8aedb484360a7f00ea92bccf7a43267e850eadc02476b1d429a6165a",
+  "kind": "E"
+ },
+ {
+  "text": "Where does this bus stop?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_does_this_bus_stop.opus",
+  "duration": 2.654,
+  "bytes": 9357,
+  "sha256": "77f99a7c2b9103b312dde60a361a2a4013b34c1ef7c5d9ed94066cc6018f94b1",
+  "kind": "E"
+ },
+ {
+  "text": "Where do you go after school?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_do_you_go_after_school.opus",
+  "duration": 2.723,
+  "bytes": 9072,
+  "sha256": "1ec78803f5da1cbc4c5ee539df2993ddd92d997709b99ad6a0310fac1281a878",
+  "kind": "E"
+ },
+ {
+  "text": "Where does he go on Sundays?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_does_he_go_on_sundays.opus",
+  "duration": 2.723,
+  "bytes": 9321,
+  "sha256": "a0e802a9493e9816d17dab68a6a9a5189b4bca63a5aebaa56509b3949f97c316",
+  "kind": "E"
+ },
+ {
+  "text": "I go to the park.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_go_to_the_park.opus",
+  "duration": 2.096,
+  "bytes": 6780,
+  "sha256": "6be7a126031f82015ec9e6514c2bb9b165dc7142034738988c6155fc5ca46c82",
+  "kind": "E"
+ },
+ {
+  "text": "Who is he?",
+  "file": "grammar/UnitAllLessons/examples_opus/who_is_he.opus",
+  "duration": 1.818,
+  "bytes": 5469,
+  "sha256": "79fa68d7591947071494f11f78dbee032272107d24e2e3bd26becc4b8bf83f8b",
+  "kind": "E"
+ },
+ {
+  "text": "Who are they?",
+  "file": "grammar/UnitAllLessons/examples_opus/who_are_they.opus",
+  "duration": 1.887,
+  "bytes": 5913,
+  "sha256": "ceb26b5ddfe3df71ea24d15a34b4863dca7944527f122822113a4babae76bf38",
+  "kind": "E"
+ },
+ {
+  "text": "Who is that woman?",
+  "file": "grammar/UnitAllLessons/examples_opus/who_is_that_woman.opus",
+  "duration": 2.096,
+  "bytes": 6741,
+  "sha256": "6e30ca862164cb7babc5ad50ff2de732266b810f2214d732ddf19d4fac97b065",
+  "kind": "E"
+ },
+ {
+  "text": "Who do you visit?",
+  "file": "grammar/UnitAllLessons/examples_opus/who_do_you_visit.opus",
+  "duration": 2.027,
+  "bytes": 6573,
+  "sha256": "4ae688272cd7a9fc3488e0c5f69551e0d63d34f6d61c66a9051d58f270c2e336",
+  "kind": "E"
+ },
+ {
+  "text": "Who does she call?",
+  "file": "grammar/UnitAllLessons/examples_opus/who_does_she_call.opus",
+  "duration": 2.236,
+  "bytes": 7249,
+  "sha256": "8d486699d88fca48d853273ca98492c4336e6f511d7c98c09894dc261a2ea158",
+  "kind": "E"
+ },
+ {
+  "text": "Who do they help?",
+  "file": "grammar/UnitAllLessons/examples_opus/who_do_they_help.opus",
+  "duration": 1.957,
+  "bytes": 6269,
+  "sha256": "b66b66dc87518e510e5dbfb06993697221161e5683e2ddbb34360622f2c37beb",
+  "kind": "E"
+ },
+ {
+  "text": "Who lives here?",
+  "file": "grammar/UnitAllLessons/examples_opus/who_lives_here.opus",
+  "duration": 1.957,
+  "bytes": 6193,
+  "sha256": "20bb27c9c5e742315bcb4e8e45fd27e2c5f0cd76213dac02974918bdc7f58dbf",
+  "kind": "E"
+ },
+ {
+  "text": "Who works at this school?",
+  "file": "grammar/UnitAllLessons/examples_opus/who_works_at_this_school.opus",
+  "duration": 2.723,
+  "bytes": 9032,
+  "sha256": "ac07cf14ab6aae424183a60767d87977718e9b36e85351db6c6cbb3dc0d13728",
+  "kind": "E"
+ },
+ {
+  "text": "Who wants tea?",
+  "file": "grammar/UnitAllLessons/examples_opus/who_wants_tea.opus",
+  "duration": 1.957,
+  "bytes": 6309,
+  "sha256": "c3c98da2c3e40cbbc3a0567eaf20e65b0dac903e65a5f3778c19b8de82c18bf7",
+  "kind": "E"
+ },
+ {
+  "text": "Who is this?",
+  "file": "grammar/UnitAllLessons/examples_opus/who_is_this.opus",
+  "duration": 1.887,
+  "bytes": 6011,
+  "sha256": "c8f63ac1794a98ec3e5626d73af41af56db5c4fc1e71c6b1c779cabe61a629e7",
+  "kind": "E"
+ },
+ {
+  "text": "Who is your friend?",
+  "file": "grammar/UnitAllLessons/examples_opus/who_is_your_friend.opus",
+  "duration": 2.166,
+  "bytes": 7098,
+  "sha256": "2c1b657d8b67eac4ec5e814aa4276b120c1813d314ad8a88a704e2f706082f95",
+  "kind": "E"
+ },
+ {
+  "text": "What is your favorite food?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_is_your_favorite_food.opus",
+  "duration": 2.723,
+  "bytes": 9886,
+  "sha256": "1b1cfd47b98dfcdce3d1d7610e63daffe9b293a7ccae35b544867248fb9bdbc1",
+  "kind": "E"
+ },
+ {
+  "text": "When is your birthday?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_is_your_birthday.opus",
+  "duration": 2.305,
+  "bytes": 7603,
+  "sha256": "93408c05b1b4fe37220e3eb3c49ee63d5d724123c43fde44ff8f0cb031e23cbc",
+  "kind": "E"
+ },
+ {
+  "text": "When are your holidays?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_are_your_holidays.opus",
+  "duration": 2.375,
+  "bytes": 8100,
+  "sha256": "864796fc4aa8e5b6551745e8573d1f4a08e7a0f9beec2c3d20e7b2a54aa14881",
+  "kind": "E"
+ },
+ {
+  "text": "When are they free?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_are_they_free.opus",
+  "duration": 2.096,
+  "bytes": 6575,
+  "sha256": "f6173bcbf8de11d1689c372647ea431aa9cf44ea0820dbf49b8c48e02d06c7df",
+  "kind": "E"
+ },
+ {
+  "text": "When do you wake up?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_do_you_wake_up.opus",
+  "duration": 2.166,
+  "bytes": 6955,
+  "sha256": "891034ee15514f532a43e03461d2307096ea709a15f7ac6e9bf3cbea11d8a283",
+  "kind": "E"
+ },
+ {
+  "text": "When does she go to work?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_does_she_go_to_work.opus",
+  "duration": 2.584,
+  "bytes": 8488,
+  "sha256": "6b82e9a2fb339b2151ee8a848645174813351da04b31f040e7ddcc8d810470a7",
+  "kind": "E"
+ },
+ {
+  "text": "When does the bus arrive?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_does_the_bus_arrive.opus",
+  "duration": 2.584,
+  "bytes": 9432,
+  "sha256": "bdcba368b10156f2df9f2e1b115a4d8b1ab5641fc9c0fcdf08b8c02a1e0c54a9",
+  "kind": "E"
+ },
+ {
+  "text": "When do you study?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_do_you_study.opus",
+  "duration": 2.096,
+  "bytes": 6859,
+  "sha256": "45fce690a21849eb5197010f53bcecec41e79612abcc7d6ca7efe4321bfd05de",
+  "kind": "E"
+ },
+ {
+  "text": "When does the film start?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_does_the_film_start.opus",
+  "duration": 2.584,
+  "bytes": 8683,
+  "sha256": "7ef96330d42ba4fc0f0db7f8b47e76910334abe1558610b990b5a3d198112c93",
+  "kind": "E"
+ },
+ {
+  "text": "in the morning",
+  "file": "grammar/UnitAllLessons/examples_opus/in_the_morning.opus",
+  "duration": 1.957,
+  "bytes": 6023,
+  "sha256": "2741f0ff584f0de958aefc1627877de0e6e78a38a74cbd6ea11ec0b36988c584",
+  "kind": "E"
+ },
+ {
+  "text": "in the evening",
+  "file": "grammar/UnitAllLessons/examples_opus/in_the_evening.opus",
+  "duration": 2.027,
+  "bytes": 6847,
+  "sha256": "0a53a38d86f7ce4bb4d824a52517bf784a40432a9970262266d1a40987790b41",
+  "kind": "E"
+ },
+ {
+  "text": "at seven",
+  "file": "grammar/UnitAllLessons/examples_opus/at_seven.opus",
+  "duration": 1.818,
+  "bytes": 5548,
+  "sha256": "fe0998daef00938d40f5c5b0b4693763d45e39dfb81170e655740c06db06cc40",
+  "kind": "D"
+ },
+ {
+  "text": "on Monday",
+  "file": "grammar/UnitAllLessons/examples_opus/on_monday.opus",
+  "duration": 1.818,
+  "bytes": 5755,
+  "sha256": "7bac758f10a9b770c699556a59837ffc83c0e820ec89ba756f722cbb998ecef8",
+  "kind": "D"
+ },
+ {
+  "text": "Where do you study?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_do_you_study.opus",
+  "duration": 2.166,
+  "bytes": 6894,
+  "sha256": "1d4975055f91073f8f963b9a13d571f269c66693082fccee3362130614eb81ef",
+  "kind": "E"
+ },
+ {
+  "text": "When is the meeting?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_is_the_meeting.opus",
+  "duration": 2.166,
+  "bytes": 6937,
+  "sha256": "4466b8430a7d47edde2e11e7900e5640807ba3ba7047e2626c14838d6e25426d",
+  "kind": "E"
+ },
+ {
+  "text": "Where is the meeting?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_is_the_meeting.opus",
+  "duration": 2.236,
+  "bytes": 7139,
+  "sha256": "44616aeb681ab9d260a1d076fece73a49653339444887ab43795164f1eb76588",
+  "kind": "E"
+ },
+ {
+  "text": "Why are you happy?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_are_you_happy.opus",
+  "duration": 2.166,
+  "bytes": 7132,
+  "sha256": "d57b59f48f5fbf36f577bcd5f6eb27c9ec84089ee12741f4aa081fd5a89a5182",
+  "kind": "E"
+ },
+ {
+  "text": "Why is she at home?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_is_she_at_home.opus",
+  "duration": 2.305,
+  "bytes": 7481,
+  "sha256": "0b2abeaf9a8faf761df26bff6911bd8b45b3f8b01f040abb668eb971a4548a54",
+  "kind": "E"
+ },
+ {
+  "text": "Why do you study English?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_do_you_study_english.opus",
+  "duration": 2.654,
+  "bytes": 9005,
+  "sha256": "b89139719ba175520973afe533409ab88be4a0939ad5c9512484176c0163c1fa",
+  "kind": "E"
+ },
+ {
+  "text": "Why does he walk to work?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_does_he_walk_to_work.opus",
+  "duration": 2.584,
+  "bytes": 8455,
+  "sha256": "ff34c353412d060c55563d1d52e3db705a4365d0ce4fc239982b552b4a152d8e",
+  "kind": "E"
+ },
+ {
+  "text": "Why are they late?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_are_they_late.opus",
+  "duration": 2.166,
+  "bytes": 6974,
+  "sha256": "2685ebd7e96d1614848c0ef306daf2bf17fdab74c07cbb5c8287121659b01546",
+  "kind": "E"
+ },
+ {
+  "text": "Why is the baby crying?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_is_the_baby_crying.opus",
+  "duration": 2.514,
+  "bytes": 9020,
+  "sha256": "41ee6646570186627555f6ffdb460c612e6a3970681849ca5dcfe2a8332331ee",
+  "kind": "E"
+ },
+ {
+  "text": "Why am I here?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_am_i_here.opus",
+  "duration": 1.887,
+  "bytes": 5973,
+  "sha256": "8ff7b5cd7f52bae2a6197a28c33d70331802b35b5fde313476bf6cbeeec0b9a0",
+  "kind": "E"
+ },
+ {
+  "text": "Why do you get up early?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_do_you_get_up_early.opus",
+  "duration": 2.514,
+  "bytes": 8253,
+  "sha256": "e789b9e740450081428c986adbf88fed69c1826ae5b1eaf39ff6b2fd4dcd7cec",
+  "kind": "E"
+ },
+ {
+  "text": "Why do they learn English?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_do_they_learn_english.opus",
+  "duration": 2.584,
+  "bytes": 8650,
+  "sha256": "0c41228b0b7d3f7ce4c2857f3e112e1710ce9e73a728f98ae8f122a0db498a98",
+  "kind": "E"
+ },
+ {
+  "text": "Why does she work at night?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_does_she_work_at_night.opus",
+  "duration": 2.793,
+  "bytes": 9949,
+  "sha256": "34599ddf8e4f323b890eedb4cc3a4e561e92b2227869fdbb2c65b35cef5bc9d2",
+  "kind": "E"
+ },
+ {
+  "text": "What do you study?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_do_you_study.opus",
+  "duration": 2.096,
+  "bytes": 6823,
+  "sha256": "5c64cc70e9f88c22a34ae736fe951623739351f964ae664a9cd8d846f1ae4e26",
+  "kind": "E"
+ },
+ {
+  "text": "Why do you study?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_do_you_study.opus",
+  "duration": 2.027,
+  "bytes": 6723,
+  "sha256": "107a4b49cfafbaef4ca5fd1125a16e449f48b0c4aec6d35883a04b3df591f320",
+  "kind": "E"
+ },
+ {
+  "text": "Why is he at home?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_is_he_at_home.opus",
+  "duration": 2.166,
+  "bytes": 7084,
+  "sha256": "16dbf27359f8e7743d678c119de73459165e6c7ff5c751e1894813cd418bb115",
+  "kind": "E"
+ },
+ {
+  "text": "How is your mother?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_is_your_mother.opus",
+  "duration": 2.166,
+  "bytes": 7051,
+  "sha256": "69f03db69cffbbdcca6bf01ab2e13eecccc44ea7edaa37ed6be85113aef984bb",
+  "kind": "E"
+ },
+ {
+  "text": "How are the children?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_are_the_children.opus",
+  "duration": 2.236,
+  "bytes": 7457,
+  "sha256": "0f3fbe13ddded3addf9a8a5cef3a5d03ca3cf1a950f26f69779083d9dfb29862",
+  "kind": "E"
+ },
+ {
+  "text": "How is the food?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_is_the_food.opus",
+  "duration": 2.027,
+  "bytes": 6713,
+  "sha256": "5ab437563c30bf6199d23d852721ef533af368412e12e0fadf8cf4396592cf9b",
+  "kind": "E"
+ },
+ {
+  "text": "How are you today?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_are_you_today.opus",
+  "duration": 2.096,
+  "bytes": 6854,
+  "sha256": "e157716ade205a32efd37a12590071f294c7f25eb55c70d38a91d56cb3f02ee5",
+  "kind": "E"
+ },
+ {
+  "text": "How does he cook rice?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_does_he_cook_rice.opus",
+  "duration": 2.375,
+  "bytes": 7972,
+  "sha256": "1156a61bdc9b55002f6a432667cc038b99d4d637bad26251a8e1d8b0932c7396",
+  "kind": "E"
+ },
+ {
+  "text": "How do they learn English?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_do_they_learn_english.opus",
+  "duration": 2.584,
+  "bytes": 8708,
+  "sha256": "c2f4a1f8f665681efc049f6193d2e8c3c40be813c91b767871396b2e85d086a9",
+  "kind": "E"
+ },
+ {
+  "text": "How do you go to work?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_do_you_go_to_work.opus",
+  "duration": 2.236,
+  "bytes": 7355,
+  "sha256": "8820adc2207bb3394d03c4238720682c034b5e64ffb6fb482d2ec9a2b88e2e59",
+  "kind": "E"
+ },
+ {
+  "text": "How old?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_old.opus",
+  "duration": 1.818,
+  "bytes": 5627,
+  "sha256": "5b60256fe6fb2739f74a460955bfd2d0f42863229b03b5874e779eecfa7134af",
+  "kind": "D"
+ },
+ {
+  "text": "How long?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_long.opus",
+  "duration": 1.818,
+  "bytes": 5541,
+  "sha256": "ff476704f30b413bd9a01c3664193b1aac10802941e73ca2e02f7b7186598c9b",
+  "kind": "D"
+ },
+ {
+  "text": "How many?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_many.opus",
+  "duration": 1.818,
+  "bytes": 5756,
+  "sha256": "123215143bac1e44cfbb421fb66f466e4efa8e56600afbc30ddfaf1848736bee",
+  "kind": "D"
+ },
+ {
+  "text": "How much?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_much.opus",
+  "duration": 1.818,
+  "bytes": 5458,
+  "sha256": "3c4d9d44f020b45faa8861d6028d55201382627403bf2d468c198b0e8a12021b",
+  "kind": "D"
+ },
+ {
+  "text": "How old is your brother?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_old_is_your_brother.opus",
+  "duration": 2.514,
+  "bytes": 8837,
+  "sha256": "b3255d49ecf6b71b6b16707d123b739aa17fe4e2fe3e41fe328fff12dfbb3805",
+  "kind": "E"
+ },
+ {
+  "text": "How old is Sara?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_old_is_sara.opus",
+  "duration": 2.166,
+  "bytes": 7167,
+  "sha256": "01e114d14d9eee6f5dc11af0cd5a1dc10e11b4858e7d00d8d8f5d8fddc8c4ef0",
+  "kind": "E"
+ },
+ {
+  "text": "How old are they?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_old_are_they.opus",
+  "duration": 2.027,
+  "bytes": 6854,
+  "sha256": "38aa84fb28f16c670a07f6b553065dd2ddcd1d23c763fd0392d570a9e02f6dbb",
+  "kind": "E"
+ },
+ {
+  "text": "I am twelve years old.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_am_twelve_years_old.opus",
+  "duration": 2.584,
+  "bytes": 8807,
+  "sha256": "7727833836288dd57d14edc37ec22953651a485001497326fa55adaece548c7f",
+  "kind": "E"
+ },
+ {
+  "text": "He is eight years old.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_is_eight_years_old.opus",
+  "duration": 2.584,
+  "bytes": 8844,
+  "sha256": "0a5dbd2f506a74e5abd52769acb2d48660223db0d5700f05ad30da18676a8938",
+  "kind": "E"
+ },
+ {
+  "text": "My sister is twenty.",
+  "file": "grammar/UnitAllLessons/examples_opus/my_sister_is_twenty.opus",
+  "duration": 2.514,
+  "bytes": 8496,
+  "sha256": "0734202073453723f8d4a34a15e68025e34849fa6b8c48c48dedca18f004c203",
+  "kind": "E"
+ },
+ {
+  "text": "How long is the lesson?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_long_is_the_lesson.opus",
+  "duration": 2.514,
+  "bytes": 8599,
+  "sha256": "ba5412d57c6586aefd24ccdca097e924ba4b362e5105196e27c407e889da39f4",
+  "kind": "E"
+ },
+ {
+  "text": "How long do you study every day?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_long_do_you_study_every_day.opus",
+  "duration": 3.072,
+  "bytes": 10596,
+  "sha256": "b9492d38b9a47d01922ecc2d28e2a543ea430cd23d5eb1ec81af7599e2ebda84",
+  "kind": "E"
+ },
+ {
+  "text": "How long does the film last?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_long_does_the_film_last.opus",
+  "duration": 2.793,
+  "bytes": 9522,
+  "sha256": "3cfcf56f0179cbff66b9708268fa7c5c945836151930bc62a8fdf77f8d723a2c",
+  "kind": "E"
+ },
+ {
+  "text": "For thirty minutes.",
+  "file": "grammar/UnitAllLessons/examples_opus/for_thirty_minutes.opus",
+  "duration": 2.305,
+  "bytes": 7845,
+  "sha256": "92acfad3f1a7af824909e2d62cad114df49c1ca6a337160b2878815b317eb808",
+  "kind": "D"
+ },
+ {
+  "text": "For two hours.",
+  "file": "grammar/UnitAllLessons/examples_opus/for_two_hours.opus",
+  "duration": 1.957,
+  "bytes": 6366,
+  "sha256": "af220b7ce53d4e5a848ae1d96240b532bc3a0b7a4ee1d8566e169cc7d47e6a96",
+  "kind": "E"
+ },
+ {
+  "text": "For three days.",
+  "file": "grammar/UnitAllLessons/examples_opus/for_three_days.opus",
+  "duration": 2.027,
+  "bytes": 6507,
+  "sha256": "83246dea9e2e000e64ff21d9af8f358f9fa37f3d0ede86271b39875d7655981f",
+  "kind": "E"
+ },
+ {
+  "text": "How long is this table?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_long_is_this_table.opus",
+  "duration": 2.514,
+  "bytes": 8499,
+  "sha256": "9f747dd100935c40064700d853ddf4a4aa1b7d44550e461a34d658fd5a77c340",
+  "kind": "E"
+ },
+ {
+  "text": "It is two metres long.",
+  "file": "grammar/UnitAllLessons/examples_opus/it_is_two_metres_long.opus",
+  "duration": 2.514,
+  "bytes": 8520,
+  "sha256": "0599ce87f4d8f2b605dc3949acc9413b169c2a31e51fe5fd5788dc4f7a231892",
+  "kind": "E"
+ },
+ {
+  "text": "How long is the river?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_long_is_the_river.opus",
+  "duration": 2.375,
+  "bytes": 7826,
+  "sha256": "5819b5c088e695c6df79e8b884d8603b118aca4a0e248eb76cffafd2f8a78dc1",
+  "kind": "E"
+ },
+ {
+  "text": "When does the lesson start?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_does_the_lesson_start.opus",
+  "duration": 2.723,
+  "bytes": 9283,
+  "sha256": "38f4cd853c5cbef2e368e4adf135241b633e01fe76a6f0fd06f4cc60769c935e",
+  "kind": "E"
+ },
+ {
+  "text": "water",
+  "file": "grammar/UnitAllLessons/examples_opus/water.opus",
+  "duration": 1.818,
+  "bytes": 5246,
+  "sha256": "1cf1a0167831e7c5bb74d07220b472448d30b44d5aca78c95c6ffcb37cff2779",
+  "kind": "D"
+ },
+ {
+  "text": "milk",
+  "file": "grammar/UnitAllLessons/examples_opus/milk.opus",
+  "duration": 1.818,
+  "bytes": 5046,
+  "sha256": "5f53ebe35a361966762f5b8006e943c0eec153054453a0e2f36d4d660c9a1135",
+  "kind": "D"
+ },
+ {
+  "text": "rice",
+  "file": "grammar/UnitAllLessons/examples_opus/rice.opus",
+  "duration": 1.818,
+  "bytes": 5307,
+  "sha256": "8101ce314f2dd45f6263e7dbb9080d789a22f46e9266712c85868396a53f51d9",
+  "kind": "D"
+ },
+ {
+  "text": "money",
+  "file": "grammar/UnitAllLessons/examples_opus/money.opus",
+  "duration": 1.818,
+  "bytes": 5174,
+  "sha256": "6605ea8d8cc63b8223f004c9fd1ee3cffff36b73644413ed4d4374e065efddc6",
+  "kind": "D"
+ },
+ {
+  "text": "time",
+  "file": "grammar/UnitAllLessons/examples_opus/time.opus",
+  "duration": 1.818,
+  "bytes": 5250,
+  "sha256": "51c8f13f41e0a105abd4468927fde994f8b8be583f07c41bb0593b77c59125c7",
+  "kind": "D"
+ },
+ {
+  "text": "How many apples does she eat?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_many_apples_does_she_eat.opus",
+  "duration": 3.002,
+  "bytes": 10174,
+  "sha256": "fa5f4e078a1b2a9a197adc7a82184defcddfa5e0f31bfc48ec2c9a60eb2e9288",
+  "kind": "E"
+ },
+ {
+  "text": "How many students are in the class?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_many_students_are_in_the_class.opus",
+  "duration": 3.42,
+  "bytes": 12159,
+  "sha256": "165e2ede484cb0353ad1097e1500dc4c69b161f168f1ebbb49749dd5b7e86ecf",
+  "kind": "E"
+ },
+ {
+  "text": "How many brothers do they have?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_many_brothers_do_they_have.opus",
+  "duration": 2.932,
+  "bytes": 9982,
+  "sha256": "3d81ac6a89658b54f90677a2823072794174469fc9f66cb80d34e71f7d9a5c4a",
+  "kind": "E"
+ },
+ {
+  "text": "How much water do you drink?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_much_water_do_you_drink.opus",
+  "duration": 2.654,
+  "bytes": 8947,
+  "sha256": "9772292179d87377d049bcb9e054b2498ac05c36913912ecbbe256bbb0e44b10",
+  "kind": "E"
+ },
+ {
+  "text": "How much rice do we need?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_much_rice_do_we_need.opus",
+  "duration": 2.514,
+  "bytes": 8589,
+  "sha256": "632fc4b85cf8bff7f4ee513ea0059bfb494b8f7567c38675ec1d0f25a308e7a6",
+  "kind": "E"
+ },
+ {
+  "text": "How much money does he have?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_much_money_does_he_have.opus",
+  "duration": 2.654,
+  "bytes": 9093,
+  "sha256": "0ddb7eb071c265bb87162f67108b7f0133e7650379651baa9dc3a665f17d4869",
+  "kind": "E"
+ },
+ {
+  "text": "How much time do you need?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_much_time_do_you_need.opus",
+  "duration": 2.514,
+  "bytes": 8410,
+  "sha256": "dcb85ed6dfeba7cb9f0a10e9ac26ed95145443132f0b0dd6928e67ef2e98538a",
+  "kind": "E"
+ },
+ {
+  "text": "How much is this book?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_much_is_this_book.opus",
+  "duration": 2.514,
+  "bytes": 8067,
+  "sha256": "3146a505ec0f3cab8265c65a52e476a9dcf3d7a1995f61a2f5e095eeb757c513",
+  "kind": "E"
+ },
+ {
+  "text": "How much are these shoes?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_much_are_these_shoes.opus",
+  "duration": 2.654,
+  "bytes": 8886,
+  "sha256": "3d71879062b81ef85efb0ffee9e16b8b05f33c5effa46b48562d10db6e9525f5",
+  "kind": "E"
+ },
+ {
+  "text": "How much is the ticket?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_much_is_the_ticket.opus",
+  "duration": 2.584,
+  "bytes": 8809,
+  "sha256": "fcdc07c7465e24bfc1c32cf2a8c7ba8bda89f9a643dc683f64f9b144eb9e386d",
+  "kind": "E"
+ },
+ {
+  "text": "How many books do they read?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_many_books_do_they_read.opus",
+  "duration": 2.723,
+  "bytes": 9259,
+  "sha256": "f2e75a2171d2e63e4fd5b8e96ae4008a3e9e00fcd12c87cdf91cbc6091d6921f",
+  "kind": "E"
+ },
+ {
+  "text": "How much milk does the baby drink?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_much_milk_does_the_baby_drink.opus",
+  "duration": 3.211,
+  "bytes": 10995,
+  "sha256": "b93cd8801b909078414eeaabdb99d9e9cd2956c90cc6f2da2d64f6c71c4846d5",
+  "kind": "E"
+ },
+ {
+  "text": "There is a book on the table.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_is_a_book_on_the_table.opus",
+  "duration": 2.932,
+  "bytes": 9595,
+  "sha256": "4c8f48d7c6fb28ff90b6efa40da8a73b4d5d998b5bc2810f4d736e56b83fe5a1",
+  "kind": "E"
+ },
+ {
+  "text": "There is an apple in the bag.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_is_an_apple_in_the_bag.opus",
+  "duration": 3.002,
+  "bytes": 10477,
+  "sha256": "40ea2c1782a5fe4222ffb37cd37d0fc4b8e585e843f780bda67d34851f48c1ba",
+  "kind": "E"
+ },
+ {
+  "text": "There is a student in the room.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_is_a_student_in_the_room.opus",
+  "duration": 3.072,
+  "bytes": 10362,
+  "sha256": "2dfd9f667387688cbede0a598d8631948156b11e50691beee969d6a359a34d2f",
+  "kind": "E"
+ },
+ {
+  "text": "There are two books on the table.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_are_two_books_on_the_table.opus",
+  "duration": 3.141,
+  "bytes": 10622,
+  "sha256": "de468984f564c8d81404455b27adeaecbeeb09b8b886b4748dcae6e293413b9a",
+  "kind": "E"
+ },
+ {
+  "text": "There are three apples in the bag.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_are_three_apples_in_the_bag.opus",
+  "duration": 3.281,
+  "bytes": 11301,
+  "sha256": "a73b1736bc6516bab4f36e157827c2aa8eb68ee4bd3f78abd699a51e9b826fb4",
+  "kind": "E"
+ },
+ {
+  "text": "There are students in the room.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_are_students_in_the_room.opus",
+  "duration": 3.072,
+  "bytes": 10622,
+  "sha256": "33f51fa76298295eb6ddeabda75557ab5b4fe052fb2a020b47f07f03bd9317f4",
+  "kind": "E"
+ },
+ {
+  "text": "There is water in the glass.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_is_water_in_the_glass.opus",
+  "duration": 2.863,
+  "bytes": 9719,
+  "sha256": "cbb7ca3e0b08b363e29a81682fb872148188445c63adb273ff80edc28570391e",
+  "kind": "E"
+ },
+ {
+  "text": "There is milk in the fridge.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_is_milk_in_the_fridge.opus",
+  "duration": 2.793,
+  "bytes": 9363,
+  "sha256": "1c295fe870d8b501ce7b207af10e4d0cc452927ec09a7d7a21a2d4a3f6ddd3dd",
+  "kind": "E"
+ },
+ {
+  "text": "There is rice on the plate.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_is_rice_on_the_plate.opus",
+  "duration": 2.793,
+  "bytes": 9284,
+  "sha256": "7cab8104300f76eb885899f35a26b8f253d208008f62897a6ed729cc2c1c7e43",
+  "kind": "E"
+ },
+ {
+  "text": "Is there a bank near here?",
+  "file": "grammar/UnitAllLessons/examples_opus/is_there_a_bank_near_here.opus",
+  "duration": 2.654,
+  "bytes": 8826,
+  "sha256": "d6d7dd0ff00cfc92913059c2e1daacf58a19e1f79560756f8353e7bb75732b03",
+  "kind": "E"
+ },
+ {
+  "text": "Are there two windows in the room?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_there_two_windows_in_the_room.opus",
+  "duration": 3.141,
+  "bytes": 11404,
+  "sha256": "fe06f5fccd19d52cb1636c4952cba91946d5d48b408a92d645f34a756534da58",
+  "kind": "E"
+ },
+ {
+  "text": "Is there water in the bottle?",
+  "file": "grammar/UnitAllLessons/examples_opus/is_there_water_in_the_bottle.opus",
+  "duration": 2.793,
+  "bytes": 9836,
+  "sha256": "81e11f4c8e95366c7c49d9284928946b9ba69c5358b2c7e4803df5b5a7f58013",
+  "kind": "E"
+ },
+ {
+  "text": "Is there a shop nearby?",
+  "file": "grammar/UnitAllLessons/examples_opus/is_there_a_shop_nearby.opus",
+  "duration": 2.584,
+  "bytes": 9195,
+  "sha256": "f08d4dff266bc01d8e2a489e86a1eb2cc3376e8d4afcb201480bbce9bd566d96",
+  "kind": "E"
+ },
+ {
+  "text": "Are there any apples?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_there_any_apples.opus",
+  "duration": 2.445,
+  "bytes": 8550,
+  "sha256": "8dc89751b5cdba49685dea65dd01cdf1911d9ce22fa4f4530b8779b0f090a587",
+  "kind": "E"
+ },
+ {
+  "text": "It is my book.",
+  "file": "grammar/UnitAllLessons/examples_opus/it_is_my_book.opus",
+  "duration": 2.027,
+  "bytes": 6315,
+  "sha256": "ac2a18ae06608415edabe48b3a4ff01324e5458bb6a0a774f19c2c26e6ec6b45",
+  "kind": "E"
+ },
+ {
+  "text": "She can cook.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_can_cook.opus",
+  "duration": 1.957,
+  "bytes": 5872,
+  "sha256": "fefc2249ea34a2f3378396bed8d53d87928b5befd1d839588b57b1a97af7a633",
+  "kind": "E"
+ },
+ {
+  "text": "I can read.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_can_read.opus",
+  "duration": 1.887,
+  "bytes": 5869,
+  "sha256": "1e6c0b2ad0101443efec6ab2a6347059ef723df0e8fee0ca22419136d01910b9",
+  "kind": "E"
+ },
+ {
+  "text": "You can read.",
+  "file": "grammar/UnitAllLessons/examples_opus/you_can_read.opus",
+  "duration": 1.887,
+  "bytes": 5833,
+  "sha256": "462e9e09af0e4642fff50b461bda161188743ef4a46469d19d4d59c086e9a538",
+  "kind": "E"
+ },
+ {
+  "text": "She can read.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_can_read.opus",
+  "duration": 1.957,
+  "bytes": 6194,
+  "sha256": "c6e9e6d485df80b12aca22b11f81ad898bd2c8e44d1db6e50f4b3ee6f65aa0c6",
+  "kind": "E"
+ },
+ {
+  "text": "They can read.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_can_read.opus",
+  "duration": 1.957,
+  "bytes": 6039,
+  "sha256": "04565a868568f417ed368cfe9f740b1a449b111cc1454d3c562ed21bc89339e9",
+  "kind": "E"
+ },
+ {
+  "text": "She can sing.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_can_sing.opus",
+  "duration": 1.957,
+  "bytes": 6069,
+  "sha256": "57a5c3557bcdf14b38692a94143598adebb91ad953a997d037653d7b801bfd9f",
+  "kind": "E"
+ },
+ {
+  "text": "He can speak English.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_can_speak_english.opus",
+  "duration": 2.584,
+  "bytes": 8488,
+  "sha256": "4d135790af89ad0cccc7a1e3e974878f6ed32ed86d30eed1000f862a46c79b9b",
+  "kind": "E"
+ },
+ {
+  "text": "We can help.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_can_help.opus",
+  "duration": 1.887,
+  "bytes": 5733,
+  "sha256": "7c8f604247e70907bf76252a0215a6528065dbf69011d4f636d905ff35e303d8",
+  "kind": "E"
+ },
+ {
+  "text": "We cannot come today.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_cannot_come_today.opus",
+  "duration": 2.445,
+  "bytes": 8023,
+  "sha256": "6797085ca014ef6b39c79d5d805657006ac980753aa3a168dd1ecc8b906a550a",
+  "kind": "E"
+ },
+ {
+  "text": "A fish can swim.",
+  "file": "grammar/UnitAllLessons/examples_opus/a_fish_can_swim.opus",
+  "duration": 2.166,
+  "bytes": 6898,
+  "sha256": "8e49d82daa01e673c0614a9d462395c5ec36cb103b3e803e3cc623c114409957",
+  "kind": "E"
+ },
+ {
+  "text": "An adult can drive a car.",
+  "file": "grammar/UnitAllLessons/examples_opus/an_adult_can_drive_a_car.opus",
+  "duration": 2.793,
+  "bytes": 9423,
+  "sha256": "35a97de2ccebd711a6a50adaa1c5d46f10153dce495a218f5b03aeed4b8d93fc",
+  "kind": "E"
+ },
+ {
+  "text": "You can swim.",
+  "file": "grammar/UnitAllLessons/examples_opus/you_can_swim.opus",
+  "duration": 1.957,
+  "bytes": 6040,
+  "sha256": "f6b98f6f0f1008ea1bfaf68bbe2adf79e2d05f18ef242f40cb3ddb64bb56b310",
+  "kind": "E"
+ },
+ {
+  "text": "Can you swim?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_you_swim.opus",
+  "duration": 1.887,
+  "bytes": 5809,
+  "sha256": "9ddcdfd1689d5edf8df7cda738fffbe60ca70f56b692ca9c97afb6e48c1d9487",
+  "kind": "E"
+ },
+ {
+  "text": "Can she drive?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_she_drive.opus",
+  "duration": 1.957,
+  "bytes": 6543,
+  "sha256": "a92a47baa40f115987f4b174b2de9b7cab05ed33cbbc83dff3690606215671e4",
+  "kind": "E"
+ },
+ {
+  "text": "Can birds fly?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_birds_fly.opus",
+  "duration": 1.957,
+  "bytes": 6282,
+  "sha256": "6b06cf30c22f3354f4e6271bf8d37d31742b417900e5c9a414a70498def8bf15",
+  "kind": "E"
+ },
+ {
+  "text": "Can you speak English?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_you_speak_english.opus",
+  "duration": 2.514,
+  "bytes": 8553,
+  "sha256": "52f2bf363ca3555df8f809f3a6494549a02e4d9d282380094fcbcedcbe2e4f04",
+  "kind": "E"
+ },
+ {
+  "text": "Can your brother cook?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_your_brother_cook.opus",
+  "duration": 2.305,
+  "bytes": 7265,
+  "sha256": "2b2bb94deec36d019e9c01f4f9b5927e803a3fb64be4d7bdb44efb7d8eee7b90",
+  "kind": "E"
+ },
+ {
+  "text": "Can the baby walk?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_the_baby_walk.opus",
+  "duration": 2.096,
+  "bytes": 7241,
+  "sha256": "816389b212082cb7508823570d3b109271d64ce54f3bff77d4fa905b4839e169",
+  "kind": "E"
+ },
+ {
+  "text": "Can he drive?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_he_drive.opus",
+  "duration": 1.887,
+  "bytes": 6324,
+  "sha256": "aa0ba127d4724159d6f757529ec626bfa8e400ff50ea7eb82b3acdf24ea072d7",
+  "kind": "E"
+ },
+ {
+  "text": "Can they help?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_they_help.opus",
+  "duration": 1.887,
+  "bytes": 5723,
+  "sha256": "9cff5501fba5b1ee72078832b39dc0c2228805599ab1bac409356d441fff1d27",
+  "kind": "E"
+ },
+ {
+  "text": "Can you open the window, please?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_you_open_the_window_please.opus",
+  "duration": 3.002,
+  "bytes": 10223,
+  "sha256": "920e977b735821d14802d8ac7387ab5dc9200d3e5bb992cc5b5b715f723c98af",
+  "kind": "E"
+ },
+ {
+  "text": "Can you help me?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_you_help_me.opus",
+  "duration": 1.957,
+  "bytes": 6168,
+  "sha256": "fc68905f88e79fd5b7af970198bbbd5f5cee1d873a09e008ef472ec478d45b05",
+  "kind": "E"
+ },
+ {
+  "text": "Can you repeat that, please?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_you_repeat_that_please.opus",
+  "duration": 2.793,
+  "bytes": 9170,
+  "sha256": "fef194beebe4bc7d1d1a19027667ba9f48fb4c26b7b8af706288c79ead4ee793",
+  "kind": "E"
+ },
+ {
+  "text": "Can I come in?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_i_come_in.opus",
+  "duration": 1.887,
+  "bytes": 5832,
+  "sha256": "9c274ae920f1a0872d8c026b69869a77606bf81235795c019c165b1dbaac885e",
+  "kind": "E"
+ },
+ {
+  "text": "Can I use your pen?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_i_use_your_pen.opus",
+  "duration": 2.166,
+  "bytes": 7103,
+  "sha256": "c21d169ca2ff218a7ea99bd6c24a7097cf4ac8cba653a351bd5bb7786c063a1e",
+  "kind": "E"
+ },
+ {
+  "text": "Can I sit here?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_i_sit_here.opus",
+  "duration": 1.957,
+  "bytes": 6193,
+  "sha256": "3f2a200a6f3347d52219eb744f34bc0ed2cf1daddab415c3900d0f480ececb18",
+  "kind": "E"
+ },
+ {
+  "text": "Close the door.",
+  "file": "grammar/UnitAllLessons/examples_opus/close_the_door.opus",
+  "duration": 1.957,
+  "bytes": 6336,
+  "sha256": "97acb1024c43957fa8ff3b6e9015168fed74f4b4fe4e2a8445063b44773a150d",
+  "kind": "E"
+ },
+ {
+  "text": "Sit down.",
+  "file": "grammar/UnitAllLessons/examples_opus/sit_down.opus",
+  "duration": 1.818,
+  "bytes": 5662,
+  "sha256": "710e9fd44098c373a37676d1e6889d07858313a2ac2626c82aace54adf26e685",
+  "kind": "D"
+ },
+ {
+  "text": "Stand up.",
+  "file": "grammar/UnitAllLessons/examples_opus/stand_up.opus",
+  "duration": 1.818,
+  "bytes": 5450,
+  "sha256": "8610f93733b03e8c4ee7dfb2aa53736acdfbfd9508aabbb7afa0cbba0c0aaec7",
+  "kind": "D"
+ },
+ {
+  "text": "Please open the window.",
+  "file": "grammar/UnitAllLessons/examples_opus/please_open_the_window.opus",
+  "duration": 2.514,
+  "bytes": 8519,
+  "sha256": "70d193e4bbc505cfaf31d32eb5b95ba1df320dfcd161b84f9e60754e9e97fa70",
+  "kind": "E"
+ },
+ {
+  "text": "Please help me.",
+  "file": "grammar/UnitAllLessons/examples_opus/please_help_me.opus",
+  "duration": 2.027,
+  "bytes": 6474,
+  "sha256": "913eaf8d0c5afef043fedcb38f398867441f5c7dfb3f9aa375bfa080405b8f8d",
+  "kind": "E"
+ },
+ {
+  "text": "Read the sentence.",
+  "file": "grammar/UnitAllLessons/examples_opus/read_the_sentence.opus",
+  "duration": 2.236,
+  "bytes": 7349,
+  "sha256": "5c845cdfe63f7bbab88652a3be4a3f500a50b6f767539a5d74ee50aedab7e892",
+  "kind": "E"
+ },
+ {
+  "text": "Write your name.",
+  "file": "grammar/UnitAllLessons/examples_opus/write_your_name.opus",
+  "duration": 2.027,
+  "bytes": 6598,
+  "sha256": "2ddc86c095e8d324dff2d130d28a7fb57bb904e81af3ec2fa6ea0ec200c26917",
+  "kind": "E"
+ },
+ {
+  "text": "Repeat the word.",
+  "file": "grammar/UnitAllLessons/examples_opus/repeat_the_word.opus",
+  "duration": 2.027,
+  "bytes": 6536,
+  "sha256": "af54b07bfb380dde7837530480fec17938c67c594acd79e8dda0ab956544915c",
+  "kind": "E"
+ },
+ {
+  "text": "Turn to page ten.",
+  "file": "grammar/UnitAllLessons/examples_opus/turn_to_page_ten.opus",
+  "duration": 2.096,
+  "bytes": 6848,
+  "sha256": "db605de1fa06a4d1daa6cc2f3d065788895ae771b4f9a16f2519de8cef450b93",
+  "kind": "E"
+ },
+ {
+  "text": "The cat is under the chair.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_cat_is_under_the_chair.opus",
+  "duration": 2.793,
+  "bytes": 9922,
+  "sha256": "46a5ebc253047bc0461639987d6ee723dcfdcfbc180d1c633c58caaecc3c80a4",
+  "kind": "E"
+ },
+ {
+  "text": "The keys are in the bag.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_keys_are_in_the_bag.opus",
+  "duration": 2.654,
+  "bytes": 8898,
+  "sha256": "431272456826a3379986d7b174f3f45bf019f9cee72957c608788c0433c3b586",
+  "kind": "E"
+ },
+ {
+  "text": "The children are in the room.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_children_are_in_the_room.opus",
+  "duration": 2.863,
+  "bytes": 9607,
+  "sha256": "d63455c1bdc3f405c0e0613d4f72718f6b63e7ef1b6596fc126249d4b99d2332",
+  "kind": "E"
+ },
+ {
+  "text": "My family lives in Tashkent.",
+  "file": "grammar/UnitAllLessons/examples_opus/my_family_lives_in_tashkent.opus",
+  "duration": 3.141,
+  "bytes": 10973,
+  "sha256": "47b3b983775a42269104cf4308fa43b69ab0ade2e74b3d6d879d5c190aaad9ed",
+  "kind": "E"
+ },
+ {
+  "text": "The shoes are under the bed.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_shoes_are_under_the_bed.opus",
+  "duration": 2.863,
+  "bytes": 10225,
+  "sha256": "1a04480e4c68a6e47aaf94fac4fbfb085c872aca99fbaf3938c98fa5bb0ae6ee",
+  "kind": "E"
+ },
+ {
+  "text": "The bank is next to the shop.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_bank_is_next_to_the_shop.opus",
+  "duration": 2.932,
+  "bytes": 9815,
+  "sha256": "325c7f43aa07407cbba7ba4f77216f3e683636a88fed4a74b6def4b7f11e0043",
+  "kind": "E"
+ },
+ {
+  "text": "The garden is behind the house.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_garden_is_behind_the_house.opus",
+  "duration": 3.002,
+  "bytes": 10236,
+  "sha256": "ff2cf67790423ca916ddaf2baf0ba9ae6854dab668558c38d06b79f7447933c7",
+  "kind": "E"
+ },
+ {
+  "text": "The car is in front of the house.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_car_is_in_front_of_the_house.opus",
+  "duration": 3.141,
+  "bytes": 10933,
+  "sha256": "2f065683e5e5232cb742e4413e95fb442a661b6db0167394a6603dd51067347e",
+  "kind": "E"
+ },
+ {
+  "text": "The school is near my home.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_school_is_near_my_home.opus",
+  "duration": 3.002,
+  "bytes": 10168,
+  "sha256": "38429a374d50f77b1f37f42db20070fca48cf5e31fc7e3b2a7cde62635585984",
+  "kind": "E"
+ },
+ {
+  "text": "Where is the phone?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_is_the_phone.opus",
+  "duration": 2.166,
+  "bytes": 7459,
+  "sha256": "b7c00bdbbdd2505ab5e53f67dcf808b2ed5a5bd52d4fc98b027a9f8c858cd21e",
+  "kind": "E"
+ },
+ {
+  "text": "It is on the desk.",
+  "file": "grammar/UnitAllLessons/examples_opus/it_is_on_the_desk.opus",
+  "duration": 2.305,
+  "bytes": 7519,
+  "sha256": "b4ad48a7ffe253f78c1cd05c9521c65b4a3435e4377ec84ed2dc726184fc673d",
+  "kind": "E"
+ },
+ {
+  "text": "They are in the park.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_are_in_the_park.opus",
+  "duration": 2.375,
+  "bytes": 8315,
+  "sha256": "f1ee8eeecb712fce42346eee0e4d7af6f16219697452f1237eb72cdca0f81faa",
+  "kind": "E"
+ },
+ {
+  "text": "at noon",
+  "file": "grammar/UnitAllLessons/examples_opus/at_noon.opus",
+  "duration": 1.818,
+  "bytes": 5404,
+  "sha256": "c647a60471c632f7c4ce342296452ae264d4177551b08eb8e1d9ec6f16f24442",
+  "kind": "D"
+ },
+ {
+  "text": "at night",
+  "file": "grammar/UnitAllLessons/examples_opus/at_night.opus",
+  "duration": 1.818,
+  "bytes": 5328,
+  "sha256": "ca2df6312f71f42a946bae996061cdefdd1276251320853feb4e1c3334f41e05",
+  "kind": "D"
+ },
+ {
+  "text": "on Fridays",
+  "file": "grammar/UnitAllLessons/examples_opus/on_fridays.opus",
+  "duration": 1.887,
+  "bytes": 6051,
+  "sha256": "90258b11270ec6780f64ae704d1ebe749fb4e075e21e800f3e6d2a6faf25bff5",
+  "kind": "D"
+ },
+ {
+  "text": "on the fifth of May",
+  "file": "grammar/UnitAllLessons/examples_opus/on_the_fifth_of_may.opus",
+  "duration": 2.305,
+  "bytes": 7584,
+  "sha256": "33d8b509e1942c055e0042aed4558fd068b55183051ad0b17509c261e08da8e5",
+  "kind": "D"
+ },
+ {
+  "text": "on Monday morning",
+  "file": "grammar/UnitAllLessons/examples_opus/on_monday_morning.opus",
+  "duration": 2.166,
+  "bytes": 7273,
+  "sha256": "1cb61d48930b9ccfd38f419e8ac8cbf51c97e7ce07d9f6373d0ecc463c4f4531",
+  "kind": "E"
+ },
+ {
+  "text": "We have English on Tuesday.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_have_english_on_tuesday.opus",
+  "duration": 2.863,
+  "bytes": 10304,
+  "sha256": "f9182fdac2d41428735f068aad8fac62c421e3b46d3e103d4b22e43697469ce9",
+  "kind": "E"
+ },
+ {
+  "text": "Her birthday is on the fifth of May.",
+  "file": "grammar/UnitAllLessons/examples_opus/her_birthday_is_on_the_fifth_of_may.opus",
+  "duration": 3.49,
+  "bytes": 12220,
+  "sha256": "1eba2cea1917afe245ef553b628ff49a4b1d1d42dfbe0633cde48ccaf719df1c",
+  "kind": "E"
+ },
+ {
+  "text": "in May",
+  "file": "grammar/UnitAllLessons/examples_opus/in_may.opus",
+  "duration": 1.818,
+  "bytes": 5274,
+  "sha256": "82ee0fe316ff92debe3a89e36549bbe4adf70a7bdf7abb70baa929070c0406c4",
+  "kind": "D"
+ },
+ {
+  "text": "in twenty twenty-six",
+  "file": "grammar/UnitAllLessons/examples_opus/in_twenty_twenty_six.opus",
+  "duration": 2.445,
+  "bytes": 8136,
+  "sha256": "b1deedf90ecb931ed19c29b5d6b1e91cd64d93dce09c8e4f581111f2ccbed239",
+  "kind": "D"
+ },
+ {
+  "text": "in summer",
+  "file": "grammar/UnitAllLessons/examples_opus/in_summer.opus",
+  "duration": 1.818,
+  "bytes": 5544,
+  "sha256": "d42b2eba9252929314c516bcf743287cd11140138c0e61621aba5c425b4a2471",
+  "kind": "D"
+ },
+ {
+  "text": "in the afternoon",
+  "file": "grammar/UnitAllLessons/examples_opus/in_the_afternoon.opus",
+  "duration": 2.096,
+  "bytes": 6720,
+  "sha256": "71889f5be9b1b47aae6962d8048264b6c80951cfc85b10b7b3700c3c453799a7",
+  "kind": "E"
+ },
+ {
+  "text": "I was born in May.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_was_born_in_may.opus",
+  "duration": 2.305,
+  "bytes": 7526,
+  "sha256": "c9b16479123bc8946d67346c3ce8b7cabaf353e529f7d09fe5c895100fca36c9",
+  "kind": "E"
+ },
+ {
+  "text": "We travel in summer.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_travel_in_summer.opus",
+  "duration": 2.445,
+  "bytes": 8235,
+  "sha256": "0ff8090323da13475628abccd9f75cc3fed28756c526e334c75d4f1991e87f10",
+  "kind": "E"
+ },
+ {
+  "text": "this Monday",
+  "file": "grammar/UnitAllLessons/examples_opus/this_monday.opus",
+  "duration": 1.887,
+  "bytes": 5922,
+  "sha256": "7963bf7807db09a7beb26204b5e5d7fd11d1e083e656e71036ef16909824c07b",
+  "kind": "D"
+ },
+ {
+  "text": "next Friday",
+  "file": "grammar/UnitAllLessons/examples_opus/next_friday.opus",
+  "duration": 1.957,
+  "bytes": 6205,
+  "sha256": "6cdb3b32b7797357accb2fdf5d60b04a61e6be82c2223296153e015cb73cd8ec",
+  "kind": "D"
+ },
+ {
+  "text": "every Tuesday",
+  "file": "grammar/UnitAllLessons/examples_opus/every_tuesday.opus",
+  "duration": 2.027,
+  "bytes": 6719,
+  "sha256": "1b9f6398f682df24c67c94d8dd952649e966e909b1053887a0cbbeae330ee9da",
+  "kind": "D"
+ },
+ {
+  "text": "bread",
+  "file": "grammar/UnitAllLessons/examples_opus/bread.opus",
+  "duration": 1.818,
+  "bytes": 5847,
+  "sha256": "bcd0fc40c38d84f33d18d1430d9e16ac2125c00418dee4a232b11f956e3ced7b",
+  "kind": "D"
+ },
+ {
+  "text": "a glass of water",
+  "file": "grammar/UnitAllLessons/examples_opus/a_glass_of_water.opus",
+  "duration": 2.305,
+  "bytes": 7544,
+  "sha256": "cf83dde23ecd3b56d9cf5504c2d7cbe6a6ebd534831a35ff25ac305976abffdb",
+  "kind": "E"
+ },
+ {
+  "text": "two bottles of milk",
+  "file": "grammar/UnitAllLessons/examples_opus/two_bottles_of_milk.opus",
+  "duration": 2.375,
+  "bytes": 8160,
+  "sha256": "85fe48f762bf8fedd593f68b23dc59da947db00fb435472bc5d1875355685cb4",
+  "kind": "E"
+ },
+ {
+  "text": "a piece of bread",
+  "file": "grammar/UnitAllLessons/examples_opus/a_piece_of_bread.opus",
+  "duration": 2.166,
+  "bytes": 7336,
+  "sha256": "9ffa3be5047fde27ddca604d62f174a3c03016f54d40882d1695bb6d9af878ef",
+  "kind": "E"
+ },
+ {
+  "text": "three cups of tea",
+  "file": "grammar/UnitAllLessons/examples_opus/three_cups_of_tea.opus",
+  "duration": 2.305,
+  "bytes": 7775,
+  "sha256": "a0e2ef4023efe3ec7429873596d08ee6b4cb1fed6591d984b276b2edaa786be6",
+  "kind": "E"
+ },
+ {
+  "text": "some chicken",
+  "file": "grammar/UnitAllLessons/examples_opus/some_chicken.opus",
+  "duration": 1.957,
+  "bytes": 6113,
+  "sha256": "ec5cd36776a02b82c985f08b8469482197b569b4626f3aab72b012a1319bf4c3",
+  "kind": "D"
+ },
+ {
+  "text": "a chicken",
+  "file": "grammar/UnitAllLessons/examples_opus/a_chicken.opus",
+  "duration": 1.818,
+  "bytes": 5354,
+  "sha256": "014f188f9b591b64d3d89b01982b182b6f79886a9159589e726ae754d8e5a19c",
+  "kind": "D"
+ },
+ {
+  "text": "some paper",
+  "file": "grammar/UnitAllLessons/examples_opus/some_paper.opus",
+  "duration": 1.887,
+  "bytes": 6084,
+  "sha256": "166d93911c9604dd91abccd7144fa484a09131b4ba6c2f6a1dda1d39239fc002",
+  "kind": "D"
+ },
+ {
+  "text": "a paper",
+  "file": "grammar/UnitAllLessons/examples_opus/a_paper.opus",
+  "duration": 1.818,
+  "bytes": 5341,
+  "sha256": "317b9152e44ca9b0157235bf549c6855adc9898738dabac565e0f89479cba863",
+  "kind": "D"
+ },
+ {
+  "text": "apples",
+  "file": "grammar/UnitAllLessons/examples_opus/apples.opus",
+  "duration": 1.818,
+  "bytes": 5408,
+  "sha256": "8c9c97f18f1ec5a2d1dba99eef85d04895bcc4f17ae39484e617d1c633ec29de",
+  "kind": "D"
+ },
+ {
+  "text": "I have some apples.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_have_some_apples.opus",
+  "duration": 2.445,
+  "bytes": 8649,
+  "sha256": "28a1e3815ab561dc06c7b4b4022665f92ea0b3f97f344f52f25a2fffd5fd54eb",
+  "kind": "E"
+ },
+ {
+  "text": "We have some books.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_have_some_books.opus",
+  "duration": 2.375,
+  "bytes": 7505,
+  "sha256": "4c3e6682459a3f4623e38dff7ce5e4ca3f4662b306324e3cbe5bdeb0f74031ab",
+  "kind": "E"
+ },
+ {
+  "text": "There is some water.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_is_some_water.opus",
+  "duration": 2.445,
+  "bytes": 8374,
+  "sha256": "ecf04567a91047cf7933cf8b11375aff1d3be285cb74ae252d3b01c02bab6e70",
+  "kind": "E"
+ },
+ {
+  "text": "She wants some rice.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_wants_some_rice.opus",
+  "duration": 2.445,
+  "bytes": 7950,
+  "sha256": "4da8f48d3262c0edd98ac3aba0f512519afc4663ff2e2e39937819837bff7408",
+  "kind": "E"
+ },
+ {
+  "text": "Do you have any brothers?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_you_have_any_brothers.opus",
+  "duration": 2.514,
+  "bytes": 8424,
+  "sha256": "aa9c70d73ba8d1194b18cdd41362b7a8c77f42bc6868071186d3fdfbb13a9069",
+  "kind": "E"
+ },
+ {
+  "text": "Does she have any questions?",
+  "file": "grammar/UnitAllLessons/examples_opus/does_she_have_any_questions.opus",
+  "duration": 2.793,
+  "bytes": 9247,
+  "sha256": "aa927332707644fe27cb3d4b2c90fffc09bf18c1ad028515e2434c6360c51175",
+  "kind": "E"
+ },
+ {
+  "text": "Is there any milk?",
+  "file": "grammar/UnitAllLessons/examples_opus/is_there_any_milk.opus",
+  "duration": 2.166,
+  "bytes": 6906,
+  "sha256": "c99d20492924cd5788e0438040b31ef6f1908d087e3938818a91ad4c852d1139",
+  "kind": "E"
+ },
+ {
+  "text": "Are there any chairs?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_there_any_chairs.opus",
+  "duration": 2.375,
+  "bytes": 7742,
+  "sha256": "59d3fac267510be0d212c9a72848b38041d5df93d41cb04636cb5ba11df41246",
+  "kind": "E"
+ },
+ {
+  "text": "There are some books.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_are_some_books.opus",
+  "duration": 2.514,
+  "bytes": 7941,
+  "sha256": "d6e442fc8bae349e6bdfba8b640564e2efc5ae2077e7feea16685a11888084b7",
+  "kind": "E"
+ },
+ {
+  "text": "Are there any books?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_there_any_books.opus",
+  "duration": 2.236,
+  "bytes": 7115,
+  "sha256": "3cd46738a939998dd2f6335ff0c9e6f546431852d90e9df777a6531f3c42f801",
+  "kind": "E"
+ },
+ {
+  "text": "Would you like some tea?",
+  "file": "grammar/UnitAllLessons/examples_opus/would_you_like_some_tea.opus",
+  "duration": 2.514,
+  "bytes": 8110,
+  "sha256": "2ed03b0dfa7ff0ea0b1b4e5d6230e35d64f35b3c29e87c59374cbfce36389ea9",
+  "kind": "E"
+ },
+ {
+  "text": "Can I have some water, please?",
+  "file": "grammar/UnitAllLessons/examples_opus/can_i_have_some_water_please.opus",
+  "duration": 3.072,
+  "bytes": 10449,
+  "sha256": "7b9c988379632981fb0d663417d67392244e2299bcb73a1b8eeba8f3316f3168",
+  "kind": "E"
+ },
+ {
+  "text": "many books",
+  "file": "grammar/UnitAllLessons/examples_opus/many_books.opus",
+  "duration": 1.818,
+  "bytes": 5657,
+  "sha256": "5f17040dd7696dba845f01a6933160cea1b70af3fb689fc3e0568ad55f6e6d28",
+  "kind": "D"
+ },
+ {
+  "text": "many students",
+  "file": "grammar/UnitAllLessons/examples_opus/many_students.opus",
+  "duration": 2.027,
+  "bytes": 6585,
+  "sha256": "09666ac1ceae5c8f33f8f490ec15d0749047be391973365b5dae647e4dad0770",
+  "kind": "D"
+ },
+ {
+  "text": "many apples",
+  "file": "grammar/UnitAllLessons/examples_opus/many_apples.opus",
+  "duration": 1.957,
+  "bytes": 6210,
+  "sha256": "b7ad169b2e3992c10aea2508830a64670abf6b3724f3a6524604ae82c66044cc",
+  "kind": "D"
+ },
+ {
+  "text": "much water",
+  "file": "grammar/UnitAllLessons/examples_opus/much_water.opus",
+  "duration": 1.887,
+  "bytes": 5953,
+  "sha256": "95bc7fc598cb0cf7cbb953b761eda6b90bac13d44f72657485c893e8cf70a367",
+  "kind": "D"
+ },
+ {
+  "text": "much time",
+  "file": "grammar/UnitAllLessons/examples_opus/much_time.opus",
+  "duration": 1.818,
+  "bytes": 5708,
+  "sha256": "7b18244b901459464354a653df842d2b7da9a06f031ce189eb13308245a49779",
+  "kind": "D"
+ },
+ {
+  "text": "much money",
+  "file": "grammar/UnitAllLessons/examples_opus/much_money.opus",
+  "duration": 1.818,
+  "bytes": 5647,
+  "sha256": "fdd427d4dd89f85c7a6d59c42778d1a014cf75aa4552d4a25fe61d10c42d9031",
+  "kind": "D"
+ },
+ {
+  "text": "She has a lot of books.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_has_a_lot_of_books.opus",
+  "duration": 2.654,
+  "bytes": 8739,
+  "sha256": "420e73507a575b77e9a065b699f5fe26ed47d835ad3bd86b2fe71b1cf0ba2d4b",
+  "kind": "E"
+ },
+ {
+  "text": "They drink a lot of water.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_drink_a_lot_of_water.opus",
+  "duration": 2.654,
+  "bytes": 9069,
+  "sha256": "aeb77156fedddf7c91742bef649ac44b9dbe2e1e758d001397992598468415b7",
+  "kind": "E"
+ },
+ {
+  "text": "I have a lot of friends.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_have_a_lot_of_friends.opus",
+  "duration": 2.584,
+  "bytes": 8582,
+  "sha256": "29eba9fb4a2b4f2d96600be7e3976d78fa7a6eb76e8e410df32e38ce848a74ce",
+  "kind": "E"
+ },
+ {
+  "text": "Do you have many friends?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_you_have_many_friends.opus",
+  "duration": 2.584,
+  "bytes": 8670,
+  "sha256": "8645ee8edc3271c5c8c6bec13e1a4e75228cdf9c5a240f5dd1984ca9fdb328d3",
+  "kind": "E"
+ },
+ {
+  "text": "How many eggs?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_many_eggs.opus",
+  "duration": 1.957,
+  "bytes": 6497,
+  "sha256": "266db0adc0af4df83f7296689a7327171bcf541cfa08055ce2e303b95e074554",
+  "kind": "E"
+ },
+ {
+  "text": "How much milk?",
+  "file": "grammar/UnitAllLessons/examples_opus/how_much_milk.opus",
+  "duration": 1.887,
+  "bytes": 5938,
+  "sha256": "d210804a0ce113cd1ced15372b61d8cad4fdb2b1bdb93136b0e383f5e3b04980",
+  "kind": "E"
+ },
+ {
+  "text": "Ali helps me.",
+  "file": "grammar/UnitAllLessons/examples_opus/ali_helps_me.opus",
+  "duration": 1.957,
+  "bytes": 6367,
+  "sha256": "4df1a877e4af3bfb45621730342fae8605ba726947524e3682e8d4cbf20bcdef",
+  "kind": "E"
+ },
+ {
+  "text": "She likes me.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_likes_me.opus",
+  "duration": 1.957,
+  "bytes": 6253,
+  "sha256": "61af7a020186972711c096186bb07aef2a9d5174689bc4266c75595bd5d760ad",
+  "kind": "E"
+ },
+ {
+  "text": "I see him.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_see_him.opus",
+  "duration": 1.818,
+  "bytes": 5617,
+  "sha256": "cbe3d8ddcf6c39eeb7086beab6fbf7e56e7af7b63ba5cf3e1780bf418151d60f",
+  "kind": "E"
+ },
+ {
+  "text": "We help her.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_help_her.opus",
+  "duration": 1.887,
+  "bytes": 5828,
+  "sha256": "a55e4be871563da1e133f9b685ca8b0a88858e6a3344c3e501a4f2e453ea03ae",
+  "kind": "E"
+ },
+ {
+  "text": "They know us.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_know_us.opus",
+  "duration": 1.887,
+  "bytes": 5977,
+  "sha256": "b8fee51283bd0ccf385f28713786b490f0e5e086bc8fb7f37caac534c700591a",
+  "kind": "E"
+ },
+ {
+  "text": "Tom calls them.",
+  "file": "grammar/UnitAllLessons/examples_opus/tom_calls_them.opus",
+  "duration": 2.027,
+  "bytes": 6517,
+  "sha256": "0a8647fb960b1a7aa2fa24d8944dfc4a11944aabee6823c93b651866a2fdb0a4",
+  "kind": "E"
+ },
+ {
+  "text": "Come with me.",
+  "file": "grammar/UnitAllLessons/examples_opus/come_with_me.opus",
+  "duration": 1.887,
+  "bytes": 5898,
+  "sha256": "f57cefe75fdf51b21af03f3cf7e5359dcf4606c8087731fd17312ede0a36bf85",
+  "kind": "E"
+ },
+ {
+  "text": "This is for you.",
+  "file": "grammar/UnitAllLessons/examples_opus/this_is_for_you.opus",
+  "duration": 2.166,
+  "bytes": 7015,
+  "sha256": "678ec00563fdc7909a05ed4502d1650af638a1f7e78736394deb2ab36c63c9af",
+  "kind": "E"
+ },
+ {
+  "text": "Give it to him.",
+  "file": "grammar/UnitAllLessons/examples_opus/give_it_to_him.opus",
+  "duration": 2.096,
+  "bytes": 6532,
+  "sha256": "590e3205c94dd0c7fc23943a57e0b4eeee9dfd1063417f91eef55aeb58b6397b",
+  "kind": "E"
+ },
+ {
+  "text": "She sits next to us.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_sits_next_to_us.opus",
+  "duration": 2.514,
+  "bytes": 8450,
+  "sha256": "af14a57363d908895799492bbd4d80d82200690fd15cde54a9287999bf6599fb",
+  "kind": "E"
+ },
+ {
+  "text": "I see her.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_see_her.opus",
+  "duration": 1.818,
+  "bytes": 5569,
+  "sha256": "4d582df9fc0bde559d741b0143cad6345e1758ab9f4e156aa0f50769199c0ad7",
+  "kind": "E"
+ },
+ {
+  "text": "I see her bag.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_see_her_bag.opus",
+  "duration": 1.957,
+  "bytes": 6292,
+  "sha256": "7f27d3887fca466b9efe640403bdc21ba3f58b7785ab66a4b5be5f9b862dfac0",
+  "kind": "E"
+ },
+ {
+  "text": "a big house",
+  "file": "grammar/UnitAllLessons/examples_opus/a_big_house.opus",
+  "duration": 1.887,
+  "bytes": 5894,
+  "sha256": "fede388fa9a8afd2d01ae492cd08173fe1ba2162cb2712abc6259940a73769c1",
+  "kind": "E"
+ },
+ {
+  "text": "a good book",
+  "file": "grammar/UnitAllLessons/examples_opus/a_good_book.opus",
+  "duration": 1.887,
+  "bytes": 5666,
+  "sha256": "3c19712046efb086bc48209db6f712f0d5356c0609a53c81f21b99ec3f346be2",
+  "kind": "E"
+ },
+ {
+  "text": "a small black cat",
+  "file": "grammar/UnitAllLessons/examples_opus/a_small_black_cat.opus",
+  "duration": 2.514,
+  "bytes": 8127,
+  "sha256": "aeea0e2d91769c8e906617840edb79f7bb69a175f552737683cbe6d368949145",
+  "kind": "E"
+ },
+ {
+  "text": "an old car",
+  "file": "grammar/UnitAllLessons/examples_opus/an_old_car.opus",
+  "duration": 1.887,
+  "bytes": 6212,
+  "sha256": "acd72b9c460973f3df9e6ac1bf1873a15cabb26b432a4e36249ce5c26fd5263d",
+  "kind": "E"
+ },
+ {
+  "text": "a happy child",
+  "file": "grammar/UnitAllLessons/examples_opus/a_happy_child.opus",
+  "duration": 2.027,
+  "bytes": 6642,
+  "sha256": "e4c28fad5d9bbf5e1e6053ded562490cc08bb040bc18cf93d115f7e47323ab8b",
+  "kind": "E"
+ },
+ {
+  "text": "I am tired.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_am_tired.opus",
+  "duration": 1.887,
+  "bytes": 6012,
+  "sha256": "9e1e0b4e5582be3ff5540adcfaa2873760fc52407a4003d83cd38cfd3d081e57",
+  "kind": "E"
+ },
+ {
+  "text": "The rooms are clean.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_rooms_are_clean.opus",
+  "duration": 2.445,
+  "bytes": 8546,
+  "sha256": "32acdc410f635054caf9670be2287c9b6db122f05b65b1f7999443fb2a2dc388",
+  "kind": "E"
+ },
+ {
+  "text": "a small dog",
+  "file": "grammar/UnitAllLessons/examples_opus/a_small_dog.opus",
+  "duration": 1.957,
+  "bytes": 6215,
+  "sha256": "0b975c580ea8aca6c6d72a6354a54d30ce8dd02db06c2649b78781333efd6b76",
+  "kind": "E"
+ },
+ {
+  "text": "two small dogs",
+  "file": "grammar/UnitAllLessons/examples_opus/two_small_dogs.opus",
+  "duration": 2.166,
+  "bytes": 7066,
+  "sha256": "81fb3c72126736d33712ab6524a9620bc8f5f26bbe93acc817d0eb1b1cbf913d",
+  "kind": "E"
+ },
+ {
+  "text": "an old red book",
+  "file": "grammar/UnitAllLessons/examples_opus/an_old_red_book.opus",
+  "duration": 2.027,
+  "bytes": 6545,
+  "sha256": "b22e31351f5c246a1d4b6aec1b375d79f4d26e4e17f11c78e505a2b3bd554600",
+  "kind": "E"
+ },
+ {
+  "text": "The old red book is interesting.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_old_red_book_is_interesting.opus",
+  "duration": 3.211,
+  "bytes": 11558,
+  "sha256": "3bf11e266dadc585c33e3a15c8c08c1f079431ddc8857c0499f328ff0e6b3036",
+  "kind": "E"
+ },
+ {
+  "text": "I was a student.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_was_a_student.opus",
+  "duration": 2.236,
+  "bytes": 7275,
+  "sha256": "b09639ba565328ca0d562a6368b6e56707fa0daa2f0c9502f66371bd1f1da643",
+  "kind": "E"
+ },
+ {
+  "text": "He was a doctor.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_was_a_doctor.opus",
+  "duration": 2.166,
+  "bytes": 7020,
+  "sha256": "d4a76096a8af8cc4e1c8e10536a2e416e2e30c16c35ba496d8ceb46798c4b589",
+  "kind": "E"
+ },
+ {
+  "text": "She was happy.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_was_happy.opus",
+  "duration": 2.027,
+  "bytes": 6515,
+  "sha256": "9663475e88aef1396c8b10e49e04f797a0856e1be21a47dcbaa8c21fefda922c",
+  "kind": "E"
+ },
+ {
+  "text": "We were tired.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_were_tired.opus",
+  "duration": 1.957,
+  "bytes": 6236,
+  "sha256": "79529d17bf201457b4617cb5a181157573439ac0906ea1cb9cb3a460319597b5",
+  "kind": "E"
+ },
+ {
+  "text": "They were at school.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_were_at_school.opus",
+  "duration": 2.375,
+  "bytes": 7521,
+  "sha256": "6b4c7983615d9d2d1a39b597313cd368de421e33be588adc06fa6e0c8049449d",
+  "kind": "E"
+ },
+ {
+  "text": "yesterday",
+  "file": "grammar/UnitAllLessons/examples_opus/yesterday.opus",
+  "duration": 1.818,
+  "bytes": 5713,
+  "sha256": "7e6dc704cc7bf8612188595db2e29a354098b0e2addd73ef9a7425f1c9fa106d",
+  "kind": "D"
+ },
+ {
+  "text": "last night",
+  "file": "grammar/UnitAllLessons/examples_opus/last_night.opus",
+  "duration": 1.887,
+  "bytes": 5887,
+  "sha256": "e5d4a3df3d580f7948688724efd763a485ecb8bb58bfe00a94936f8430434bb6",
+  "kind": "D"
+ },
+ {
+  "text": "last week",
+  "file": "grammar/UnitAllLessons/examples_opus/last_week.opus",
+  "duration": 1.818,
+  "bytes": 5701,
+  "sha256": "150c7dba6085ebefd9086f01437b81114a9b4b3921a4cd70e80215e505d2617d",
+  "kind": "D"
+ },
+ {
+  "text": "last year",
+  "file": "grammar/UnitAllLessons/examples_opus/last_year.opus",
+  "duration": 1.818,
+  "bytes": 5645,
+  "sha256": "63b69269590d70d8e47f3faf3050aa2623869ba1e84c21eb04b7252f212110cf",
+  "kind": "D"
+ },
+ {
+  "text": "two days ago",
+  "file": "grammar/UnitAllLessons/examples_opus/two_days_ago.opus",
+  "duration": 2.027,
+  "bytes": 6394,
+  "sha256": "1fb3f426f08eeb9b057b6fcb64602ef8aeedfcf52c2dd1920566e5d0c0733295",
+  "kind": "E"
+ },
+ {
+  "text": "She was busy yesterday.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_was_busy_yesterday.opus",
+  "duration": 2.584,
+  "bytes": 8930,
+  "sha256": "a53bc25f09db0bdf1a428997bb4fd753fc127935f9ad8eb669c453882e87e8a6",
+  "kind": "E"
+ },
+ {
+  "text": "We were at the park last Sunday.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_were_at_the_park_last_sunday.opus",
+  "duration": 3.211,
+  "bytes": 11045,
+  "sha256": "4ca1c8ab09c9727fab84bd9b12f621c7aa4074ead57c1d3c6644fb1856b772da",
+  "kind": "E"
+ },
+ {
+  "text": "I was not tired.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_was_not_tired.opus",
+  "duration": 2.096,
+  "bytes": 6939,
+  "sha256": "44c25d598610aa8f14d160909f2dd0c6446fa46d4ed5af168596e8b545c9fad0",
+  "kind": "E"
+ },
+ {
+  "text": "He was not at school.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_was_not_at_school.opus",
+  "duration": 2.584,
+  "bytes": 8401,
+  "sha256": "7492e8ab455e1ee4c9a56fa52d1916c3ea8d4e5fbd31e0b7bcd89b69c3ee70f7",
+  "kind": "E"
+ },
+ {
+  "text": "They were not ready.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_were_not_ready.opus",
+  "duration": 2.236,
+  "bytes": 7322,
+  "sha256": "23fa1df0108b43e94953136724a47e68fdecc3d2d104ba1860b2a9bd4787707b",
+  "kind": "E"
+ },
+ {
+  "text": "Was she at home?",
+  "file": "grammar/UnitAllLessons/examples_opus/was_she_at_home.opus",
+  "duration": 2.096,
+  "bytes": 6620,
+  "sha256": "1e2f39d19836d3caa102da9f57e4aaed9db7d0045fe3b55d4f4a09cfc432fc6e",
+  "kind": "E"
+ },
+ {
+  "text": "Were you tired?",
+  "file": "grammar/UnitAllLessons/examples_opus/were_you_tired.opus",
+  "duration": 1.957,
+  "bytes": 6188,
+  "sha256": "f955a87df3a477c2e43129be06f1f74011fd8407fa428cbb236dea8757d7a6aa",
+  "kind": "E"
+ },
+ {
+  "text": "Were they friends?",
+  "file": "grammar/UnitAllLessons/examples_opus/were_they_friends.opus",
+  "duration": 2.096,
+  "bytes": 6682,
+  "sha256": "6d5c9b5b6194d7a077e294d013d851c2cb6c99cd9b41b85979c1e51e13b2064e",
+  "kind": "E"
+ },
+ {
+  "text": "Was he sick?",
+  "file": "grammar/UnitAllLessons/examples_opus/was_he_sick.opus",
+  "duration": 1.887,
+  "bytes": 5854,
+  "sha256": "eb20b9c6af9020c410d6b334837a5117d4e9a4141028c98bca26afc3d626a2f7",
+  "kind": "E"
+ },
+ {
+  "text": "Were you at home?",
+  "file": "grammar/UnitAllLessons/examples_opus/were_you_at_home.opus",
+  "duration": 2.027,
+  "bytes": 6396,
+  "sha256": "8d4423ac315dcd895deed20ab194f797dad35daf2d4ba4c546a7d09f1b8663b5",
+  "kind": "E"
+ },
+ {
+  "text": "Were they late?",
+  "file": "grammar/UnitAllLessons/examples_opus/were_they_late.opus",
+  "duration": 1.957,
+  "bytes": 6101,
+  "sha256": "6e83e2eda7cc32b84168ca4900d928a6ccf84146769a431e263deea47bfe20ed",
+  "kind": "E"
+ },
+ {
+  "text": "I worked yesterday.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_worked_yesterday.opus",
+  "duration": 2.236,
+  "bytes": 7332,
+  "sha256": "0587467d566adde2ed7667434b75666f09f529d3ae18a9ce5fddf2f2322cb0de",
+  "kind": "E"
+ },
+ {
+  "text": "She worked yesterday.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_worked_yesterday.opus",
+  "duration": 2.445,
+  "bytes": 8437,
+  "sha256": "bdefb943f8553076730d30e0f7f43977e599d0beb86541f8ca51e1720483c51a",
+  "kind": "E"
+ },
+ {
+  "text": "They worked yesterday.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_worked_yesterday.opus",
+  "duration": 2.445,
+  "bytes": 8342,
+  "sha256": "a5a99c554cdbe4c0af7abc2c95ad0dcafef8251a578bc7afea0431b31f89fc72",
+  "kind": "E"
+ },
+ {
+  "text": "We visited our grandmother.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_visited_our_grandmother.opus",
+  "duration": 2.863,
+  "bytes": 9746,
+  "sha256": "5917070c49fbbcf7511f9dd9b24f76bf430e1bc116f0a4ddf650fcec315548f8",
+  "kind": "E"
+ },
+ {
+  "text": "He opened the window.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_opened_the_window.opus",
+  "duration": 2.305,
+  "bytes": 7893,
+  "sha256": "e50d4d19ddf1b77f66b74f86fdfdcae4048ec83220e1ddea30b41b09ccfcad60",
+  "kind": "E"
+ },
+ {
+  "text": "We lived in Tashkent.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_lived_in_tashkent.opus",
+  "duration": 2.514,
+  "bytes": 8237,
+  "sha256": "2db9c27ddaab13d4f8d7b567e70e735d2f94dd251a84b3b4a35a1345c94226db",
+  "kind": "E"
+ },
+ {
+  "text": "The bus stopped here.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_bus_stopped_here.opus",
+  "duration": 2.514,
+  "bytes": 8965,
+  "sha256": "9d44e2cfc87558b28e7142b6116ed7bf53f1b8d0e6f8f42f599f2cd4a0b76b41",
+  "kind": "E"
+ },
+ {
+  "text": "in twenty twenty-four",
+  "file": "grammar/UnitAllLessons/examples_opus/in_twenty_twenty_four.opus",
+  "duration": 2.445,
+  "bytes": 8243,
+  "sha256": "ef71135ffd50f665db3790eb272f898440ff9c0e0869ff7dbf26f78ef9656ef2",
+  "kind": "D"
+ },
+ {
+  "text": "She visited her friend.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_visited_her_friend.opus",
+  "duration": 2.584,
+  "bytes": 8520,
+  "sha256": "0254e2f1afde16fae73246950b0e6a665b9cf981dbb34bf319c660779016ba3a",
+  "kind": "E"
+ },
+ {
+  "text": "They played football last week.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_played_football_last_week.opus",
+  "duration": 3.072,
+  "bytes": 10375,
+  "sha256": "05d4a892a25770e82a842ed3af081fdcea51fc5d500c2aed2d88d9707295f22b",
+  "kind": "E"
+ },
+ {
+  "text": "I went home.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_went_home.opus",
+  "duration": 1.818,
+  "bytes": 5849,
+  "sha256": "2c9ff1288365bf5167c733cde63bf2b147e8df2a7ffd19f98933fcb321b74475",
+  "kind": "E"
+ },
+ {
+  "text": "She went home.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_went_home.opus",
+  "duration": 1.887,
+  "bytes": 5998,
+  "sha256": "6c30ba39a20a2e9cd2bdae137bf836cba3ad1e038ad3417a200d856d8d0d2ab8",
+  "kind": "E"
+ },
+ {
+  "text": "They went home.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_went_home.opus",
+  "duration": 1.957,
+  "bytes": 6083,
+  "sha256": "073f302b220d1e8ccc9d539a6efaaee05437307b3d0d3e0b6942a3db08ac9d9d",
+  "kind": "E"
+ },
+ {
+  "text": "We ate breakfast at home.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_ate_breakfast_at_home.opus",
+  "duration": 2.654,
+  "bytes": 8758,
+  "sha256": "99f90b22ac68ca9d64fe6dbea02d1d82f5ccc23a00cccd14c1f194f29db2f24f",
+  "kind": "E"
+ },
+ {
+  "text": "He saw his friend yesterday.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_saw_his_friend_yesterday.opus",
+  "duration": 2.863,
+  "bytes": 9814,
+  "sha256": "2d7bbc017195d3b8cf2be7eacf390a7009811df8f760e2028a0d450832a9f558",
+  "kind": "E"
+ },
+ {
+  "text": "They bought a new book.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_bought_a_new_book.opus",
+  "duration": 2.514,
+  "bytes": 8266,
+  "sha256": "aa804f928c4be2ef1e2374b0f37f1f055c6859a25de8d0dad7edf6f3195e33f9",
+  "kind": "E"
+ },
+ {
+  "text": "I wrote a message last night.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_wrote_a_message_last_night.opus",
+  "duration": 3.072,
+  "bytes": 10475,
+  "sha256": "4be04be89bd449e9f32aba9e116743e24d09e21d96f80d7b8c5645cc9dde5bb6",
+  "kind": "E"
+ },
+ {
+  "text": "Sara made a cake.",
+  "file": "grammar/UnitAllLessons/examples_opus/sara_made_a_cake.opus",
+  "duration": 2.305,
+  "bytes": 7501,
+  "sha256": "1fa8312322686cb9e90b0e67bdaafe6095f8b1fbead507d1d87ffe47d1d13cf3",
+  "kind": "E"
+ },
+ {
+  "text": "in twenty twenty-three",
+  "file": "grammar/UnitAllLessons/examples_opus/in_twenty_twenty_three.opus",
+  "duration": 2.445,
+  "bytes": 8234,
+  "sha256": "efd3c50f16ae9a20d90b9a29ef4f6cd5f13aea6b03ce9ee0dc8cce3f42c5ec24",
+  "kind": "D"
+ },
+ {
+  "text": "I went to the park yesterday.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_went_to_the_park_yesterday.opus",
+  "duration": 2.863,
+  "bytes": 9867,
+  "sha256": "49216eabe49914c2fbbdb89f51ae3bd538539a4d5835346477b84c1fb240f4e1",
+  "kind": "E"
+ },
+ {
+  "text": "We saw Anna last week.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_saw_anna_last_week.opus",
+  "duration": 2.584,
+  "bytes": 8856,
+  "sha256": "3ae54090d7cf826823cf446f1a95a5846af0dad846d68a0ea0c8a76ee99b610f",
+  "kind": "E"
+ },
+ {
+  "text": "I was at home.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_was_at_home.opus",
+  "duration": 2.027,
+  "bytes": 6787,
+  "sha256": "6a4536558810918b4b2a7b1c1337ea5f4c10b1dcc5f9b8aefaca74dad5969c95",
+  "kind": "E"
+ },
+ {
+  "text": "They were happy.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_were_happy.opus",
+  "duration": 2.027,
+  "bytes": 6276,
+  "sha256": "e721ea1c1ac36e448e9e9127774c3930a2a43cffe276b5bd4c03b2dc5f39fb0b",
+  "kind": "E"
+ },
+ {
+  "text": "They did not play football.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_did_not_play_football.opus",
+  "duration": 2.863,
+  "bytes": 9920,
+  "sha256": "d8dcef6430d1ebff216940c20d5c2b308305031724feeb9234e38d7f6a9e48fa",
+  "kind": "E"
+ },
+ {
+  "text": "I did my homework yesterday.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_did_my_homework_yesterday.opus",
+  "duration": 2.932,
+  "bytes": 10429,
+  "sha256": "650c353b25e156197d26ada2396909eb89d5af8ac3d7d3fbf145bc7bb3d033e4",
+  "kind": "E"
+ },
+ {
+  "text": "She did the dishes last night.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_did_the_dishes_last_night.opus",
+  "duration": 3.002,
+  "bytes": 10151,
+  "sha256": "7b93075f6bf5267b5ad03a567a21c4bbd3d8419894ad380a0613c6db338ebedc",
+  "kind": "E"
+ },
+ {
+  "text": "Did you work yesterday?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_you_work_yesterday.opus",
+  "duration": 2.375,
+  "bytes": 7929,
+  "sha256": "4a3af5c212e9ede56af85f3d9c219195ee57671384ee8c1a49647d8d5e4ad464",
+  "kind": "E"
+ },
+ {
+  "text": "Did you do your homework?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_you_do_your_homework.opus",
+  "duration": 2.445,
+  "bytes": 8052,
+  "sha256": "3e7de8b48dd26cc6e06dccf1960d91d3465b01ec8b9019883d59708fdb042f9e",
+  "kind": "E"
+ },
+ {
+  "text": "Was she tired?",
+  "file": "grammar/UnitAllLessons/examples_opus/was_she_tired.opus",
+  "duration": 1.957,
+  "bytes": 6019,
+  "sha256": "260198e3bcceff4d24fd17c7e9b409ce2749527ecfcb192b6abc339059ddcc78",
+  "kind": "E"
+ },
+ {
+  "text": "Did she work?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_she_work.opus",
+  "duration": 1.887,
+  "bytes": 5792,
+  "sha256": "1c0ff5516a8ad59244e97030460c8896b4893166de1cc18cd2b0e748c1b620f6",
+  "kind": "E"
+ },
+ {
+  "text": "You worked yesterday.",
+  "file": "grammar/UnitAllLessons/examples_opus/you_worked_yesterday.opus",
+  "duration": 2.305,
+  "bytes": 7901,
+  "sha256": "426480ee0ecb285b7c669b641fd9e0d80ca6e2759e4e2c017f656245f8a7d019",
+  "kind": "E"
+ },
+ {
+  "text": "Did I call you?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_i_call_you.opus",
+  "duration": 1.957,
+  "bytes": 6369,
+  "sha256": "4fbbef6f986a57fd19eb36d7786aff723591367c6896d6579c67ad1d01c1ca98",
+  "kind": "E"
+ },
+ {
+  "text": "Did he call you?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_he_call_you.opus",
+  "duration": 1.957,
+  "bytes": 6080,
+  "sha256": "fc892c157785de4b6479e6961e39f7ca0d23b49b83186745e4afeb51c4a5d639",
+  "kind": "E"
+ },
+ {
+  "text": "Did they call you?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_they_call_you.opus",
+  "duration": 2.027,
+  "bytes": 6423,
+  "sha256": "22b2ca1d04ad0eed29103bd0e4af2f51e23e2a1b8414b86bff68769314121b5d",
+  "kind": "E"
+ },
+ {
+  "text": "Did Sara call you?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_sara_call_you.opus",
+  "duration": 2.166,
+  "bytes": 7297,
+  "sha256": "9bf937d06416310ba5a7415eb46337e68dc4744c45d7386c5267fac4ccb300fb",
+  "kind": "E"
+ },
+ {
+  "text": "She played tennis.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_played_tennis.opus",
+  "duration": 2.236,
+  "bytes": 7111,
+  "sha256": "4bb3f10e167adc602dc3882c69bb81fa7b5072042d864d05defe070198656ae4",
+  "kind": "E"
+ },
+ {
+  "text": "Did she play tennis?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_she_play_tennis.opus",
+  "duration": 2.375,
+  "bytes": 7736,
+  "sha256": "ad668c5de998612a5b3d1f60fd73ff547aebe2b2e469526d188bcefe2d94ce1c",
+  "kind": "E"
+ },
+ {
+  "text": "Did they go home?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_they_go_home.opus",
+  "duration": 1.957,
+  "bytes": 6137,
+  "sha256": "93bc252500bdfeec4c51c697c8e8a736c600bb18164c7a6d790db3dad466f990",
+  "kind": "E"
+ },
+ {
+  "text": "Where did you go?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_did_you_go.opus",
+  "duration": 1.957,
+  "bytes": 6412,
+  "sha256": "e7924717d21d6e9770127562694c37e956f81a896d05ce17f3b6a66abdf91534",
+  "kind": "E"
+ },
+ {
+  "text": "What did she eat?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_did_she_eat.opus",
+  "duration": 2.096,
+  "bytes": 6536,
+  "sha256": "8dcdd2c44739f1cdb4a85331ff8ee77f0e0b6d5bd79e382c55195c0fe6f3ab9d",
+  "kind": "E"
+ },
+ {
+  "text": "Why did he leave?",
+  "file": "grammar/UnitAllLessons/examples_opus/why_did_he_leave.opus",
+  "duration": 2.096,
+  "bytes": 6741,
+  "sha256": "786047563b294ef3d479aaf7b6d7de10a875230895b4fc8a1c62315bdd553967",
+  "kind": "E"
+ },
+ {
+  "text": "Were they at home?",
+  "file": "grammar/UnitAllLessons/examples_opus/were_they_at_home.opus",
+  "duration": 2.027,
+  "bytes": 6588,
+  "sha256": "d54f8248cfb238a50fb7e1beb7459d83f82d269c21af11c6dd243091f22fd52b",
+  "kind": "E"
+ },
+ {
+  "text": "Did she call?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_she_call.opus",
+  "duration": 1.957,
+  "bytes": 5931,
+  "sha256": "02e6f699e629ee62a01f944e30a7300d73c2ee1bf9e57a0e2c5713c341ab8d7e",
+  "kind": "E"
+ },
+ {
+  "text": "Did they arrive on time?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_they_arrive_on_time.opus",
+  "duration": 2.514,
+  "bytes": 8285,
+  "sha256": "a6f7f7735980343d7be643e78e95ddce6544c25da54146bd35e10f0b1dec0b6e",
+  "kind": "E"
+ },
+ {
+  "text": "Did you go home?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_you_go_home.opus",
+  "duration": 1.957,
+  "bytes": 6127,
+  "sha256": "0240013034907f727c723244ef88c5a094068c42dd934cda626fa1ec6f90a9c8",
+  "kind": "E"
+ },
+ {
+  "text": "Did she eat?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_she_eat.opus",
+  "duration": 1.887,
+  "bytes": 5804,
+  "sha256": "5fb883add78dd9350dc73f72a47ec34062903757eb6c081fcfd2d203519455db",
+  "kind": "E"
+ },
+ {
+  "text": "When did you arrive?",
+  "file": "grammar/UnitAllLessons/examples_opus/when_did_you_arrive.opus",
+  "duration": 2.236,
+  "bytes": 7209,
+  "sha256": "767203f41aa3e6a271e3b0544c30b57d171ada22b9ccc4b769c7e1d359e62d90",
+  "kind": "E"
+ },
+ {
+  "text": "Where did she go?",
+  "file": "grammar/UnitAllLessons/examples_opus/where_did_she_go.opus",
+  "duration": 2.096,
+  "bytes": 6823,
+  "sha256": "67144fda799c09ec505f18a01e5cb46e7bd72fe9f4fda3ecd6665b2235d8d934",
+  "kind": "E"
+ },
+ {
+  "text": "Was he tired?",
+  "file": "grammar/UnitAllLessons/examples_opus/was_he_tired.opus",
+  "duration": 1.887,
+  "bytes": 5923,
+  "sha256": "14b7418e8115b6e89e383d505da30f553d78880b0f7d7cbda8917eb0f0929a49",
+  "kind": "E"
+ },
+ {
+  "text": "I am going to visit my grandmother tomorrow.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_am_going_to_visit_my_grandmother_tomorrow.opus",
+  "duration": 4.325,
+  "bytes": 15872,
+  "sha256": "8133cb2c0e4d870b2caf2dc8806186ea2c042da13bb60c1961d810ae147f4b84",
+  "kind": "E"
+ },
+ {
+  "text": "She is going to study tonight.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_is_going_to_study_tonight.opus",
+  "duration": 3.072,
+  "bytes": 10708,
+  "sha256": "b9209bd67e100bedf27383cfeb8bbb304a7c501fb4ddc7a65de8538e0fb39bbf",
+  "kind": "E"
+ },
+ {
+  "text": "They are going to play football.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_are_going_to_play_football.opus",
+  "duration": 3.211,
+  "bytes": 11431,
+  "sha256": "f2ac41f0b10e8f28e1478fdb2db79270747b159dbc7004088d20646d092523fe",
+  "kind": "E"
+ },
+ {
+  "text": "We are going to travel.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_are_going_to_travel.opus",
+  "duration": 2.584,
+  "bytes": 8364,
+  "sha256": "0b255725c941d289a0306512b2271fb8c988280d770b9c38ba28607de81f11a4",
+  "kind": "E"
+ },
+ {
+  "text": "He is going to buy a phone.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_is_going_to_buy_a_phone.opus",
+  "duration": 2.863,
+  "bytes": 9691,
+  "sha256": "724b20c053c77a42de222f27831ff95b8e7f1da2573d0b0733cd54fa7a6f8fc2",
+  "kind": "E"
+ },
+ {
+  "text": "I am going to cook dinner.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_am_going_to_cook_dinner.opus",
+  "duration": 2.723,
+  "bytes": 9129,
+  "sha256": "5f20e78801551e322b4cb142c5f952d2ef96571fba79b5a7edbf9c0e5824f3c7",
+  "kind": "E"
+ },
+ {
+  "text": "tomorrow",
+  "file": "grammar/UnitAllLessons/examples_opus/tomorrow.opus",
+  "duration": 1.818,
+  "bytes": 5597,
+  "sha256": "428c3bba2abe0b061ffad5b9bc62873aed1df3bcca5b300c010df9c2459837e3",
+  "kind": "D"
+ },
+ {
+  "text": "tonight",
+  "file": "grammar/UnitAllLessons/examples_opus/tonight.opus",
+  "duration": 1.818,
+  "bytes": 5303,
+  "sha256": "1546532dcd3e29831ba9511fb50df3c6bdf1af5bd4c384d6ebcda380c257dab3",
+  "kind": "D"
+ },
+ {
+  "text": "next week",
+  "file": "grammar/UnitAllLessons/examples_opus/next_week.opus",
+  "duration": 1.818,
+  "bytes": 5540,
+  "sha256": "1c718221602d8710232012da79ac4bff717b43a3b538fe41e9ea0db780b09b11",
+  "kind": "D"
+ },
+ {
+  "text": "next year",
+  "file": "grammar/UnitAllLessons/examples_opus/next_year.opus",
+  "duration": 1.818,
+  "bytes": 5692,
+  "sha256": "c6161d909d893b090ed6d3c122d7e6b48d3a294b7647e1ede65cdc6a7b8f8a36",
+  "kind": "D"
+ },
+ {
+  "text": "this weekend",
+  "file": "grammar/UnitAllLessons/examples_opus/this_weekend.opus",
+  "duration": 1.887,
+  "bytes": 5953,
+  "sha256": "00277eb7beb1ba4bb9c34f9f1d31b59abe91cd22a86fc23b2003318d692f7156",
+  "kind": "D"
+ },
+ {
+  "text": "He is going to call me tonight.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_is_going_to_call_me_tonight.opus",
+  "duration": 3.002,
+  "bytes": 10257,
+  "sha256": "97b43fe7fdd2835cc9c7d0a59a829171047df8dee5a274d8e01f56196e5aa715",
+  "kind": "E"
+ },
+ {
+  "text": "I am not going to work tomorrow.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_am_not_going_to_work_tomorrow.opus",
+  "duration": 3.141,
+  "bytes": 10884,
+  "sha256": "7ffca4a277691b5c18eb94b47942ee4a76a10dbba0046a9740e272ce13047868",
+  "kind": "E"
+ },
+ {
+  "text": "Are you going to study tonight?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_you_going_to_study_tonight.opus",
+  "duration": 3.002,
+  "bytes": 10752,
+  "sha256": "723bbd055c604d25a41b9dee03d1c840cbde981f67c7e6851c1ee8b89cff1626",
+  "kind": "E"
+ },
+ {
+  "text": "Is Ali going to buy a car?",
+  "file": "grammar/UnitAllLessons/examples_opus/is_ali_going_to_buy_a_car.opus",
+  "duration": 2.863,
+  "bytes": 9739,
+  "sha256": "27971ab0c963f883908be672e998254d4802209fed341610677923a53b4b8e2f",
+  "kind": "E"
+ },
+ {
+  "text": "What are they going to do?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_are_they_going_to_do.opus",
+  "duration": 2.514,
+  "bytes": 8238,
+  "sha256": "9ec9e2ce3578213bb328e2ccb6a9c136ba94991b046f1eea38ddea263e687d4c",
+  "kind": "E"
+ },
+ {
+  "text": "She will help her friend.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_will_help_her_friend.opus",
+  "duration": 2.584,
+  "bytes": 8691,
+  "sha256": "624df65416a4f7d81b82cc97101911713324a9ff1272a5a3d6ee72668ea71682",
+  "kind": "E"
+ },
+ {
+  "text": "They will travel next month.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_will_travel_next_month.opus",
+  "duration": 2.793,
+  "bytes": 9320,
+  "sha256": "56eeb47d1f494facd9daafa774a7961494634e17e712ea7d628f1f2a93045a9a",
+  "kind": "E"
+ },
+ {
+  "text": "It will be cold tonight.",
+  "file": "grammar/UnitAllLessons/examples_opus/it_will_be_cold_tonight.opus",
+  "duration": 2.584,
+  "bytes": 8385,
+  "sha256": "1856a4ca253677956463b6bb98d4717c0b8ea6e88336be6d1fcf882b4a8f3994",
+  "kind": "E"
+ },
+ {
+  "text": "I will work.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_will_work.opus",
+  "duration": 1.887,
+  "bytes": 5906,
+  "sha256": "d96459fe80b55a6f6e766f404aa329ddfd4fc6486f394f1eb280a60f9787beb8",
+  "kind": "E"
+ },
+ {
+  "text": "He will work.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_will_work.opus",
+  "duration": 1.887,
+  "bytes": 6435,
+  "sha256": "f80d13a154dda9bf79060e7c8c49018d75af5a7f040054176818c6066b3d66dd",
+  "kind": "E"
+ },
+ {
+  "text": "We will work.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_will_work.opus",
+  "duration": 1.887,
+  "bytes": 5864,
+  "sha256": "198514c89fe56bf834eb3bf5a5ffb1dc47c111a978eefd01683f691b4038a180",
+  "kind": "E"
+ },
+ {
+  "text": "They will work.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_will_work.opus",
+  "duration": 1.957,
+  "bytes": 6049,
+  "sha256": "9fab217a034d82d13fff09590c081ff788f434419f102069e2e52c82f9b4ec89",
+  "kind": "E"
+ },
+ {
+  "text": "will go",
+  "file": "grammar/UnitAllLessons/examples_opus/will_go.opus",
+  "duration": 1.818,
+  "bytes": 5667,
+  "sha256": "c019c1bc03e44e7433a15d5a5b60fd937de83ea605b7e3c69b73d24c33dfdfee",
+  "kind": "D"
+ },
+ {
+  "text": "will eat",
+  "file": "grammar/UnitAllLessons/examples_opus/will_eat.opus",
+  "duration": 1.818,
+  "bytes": 5491,
+  "sha256": "d7328cc6ad2021e83fe66d5a2d466bf5b0de087ce4ee154401f63575e6b1118c",
+  "kind": "D"
+ },
+ {
+  "text": "will study",
+  "file": "grammar/UnitAllLessons/examples_opus/will_study.opus",
+  "duration": 1.887,
+  "bytes": 5877,
+  "sha256": "85ae3fff863ead6ac0bbbe0a89a826dde6bf31ee718876ab28ccf19fe2d11f00",
+  "kind": "D"
+ },
+ {
+  "text": "will be",
+  "file": "grammar/UnitAllLessons/examples_opus/will_be.opus",
+  "duration": 1.818,
+  "bytes": 5473,
+  "sha256": "892744764f60da19720396738b3958c4a56b6c385f821bba6961f8fefcb9161f",
+  "kind": "D"
+ },
+ {
+  "text": "I think it will rain tomorrow.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_think_it_will_rain_tomorrow.opus",
+  "duration": 2.932,
+  "bytes": 10112,
+  "sha256": "651418382013ede35de8ecba8542be0193b9a79183a880ee298680d67416ae61",
+  "kind": "E"
+ },
+ {
+  "text": "She will be a good teacher.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_will_be_a_good_teacher.opus",
+  "duration": 2.863,
+  "bytes": 9339,
+  "sha256": "0137211c1db5ac622a43e5ee9cdecebffae07b21d424fd53fe21f8cca57f2ccf",
+  "kind": "E"
+ },
+ {
+  "text": "Will you come?",
+  "file": "grammar/UnitAllLessons/examples_opus/will_you_come.opus",
+  "duration": 1.887,
+  "bytes": 5597,
+  "sha256": "b8f9fb511b34bbf456b5f7dd92ba4477def2d3b69f0a3e9b815009df5d60be66",
+  "kind": "E"
+ },
+ {
+  "text": "I will work tomorrow.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_will_work_tomorrow.opus",
+  "duration": 2.305,
+  "bytes": 7743,
+  "sha256": "721aec4e773bebfb754d12760abb07ae45eb40a14194b895b608a179456c3fb9",
+  "kind": "E"
+ },
+ {
+  "text": "I am going to visit my aunt on Saturday.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_am_going_to_visit_my_aunt_on_saturday.opus",
+  "duration": 4.116,
+  "bytes": 14831,
+  "sha256": "6bd15431665afee76758bbf040c2a4ee3ec3577d98ca26e155e1c465218635c7",
+  "kind": "E"
+ },
+ {
+  "text": "She is going to study medicine.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_is_going_to_study_medicine.opus",
+  "duration": 3.141,
+  "bytes": 11071,
+  "sha256": "e68075b8db553169563e679fc475c313a6f53bc87259bd0c10bd80d81d491eb7",
+  "kind": "E"
+ },
+ {
+  "text": "We are going to buy a new table.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_are_going_to_buy_a_new_table.opus",
+  "duration": 3.141,
+  "bytes": 10657,
+  "sha256": "d666213333e450158cd07466d5f1baf3bc03fb011d2b272bcd9db8c003b87468",
+  "kind": "E"
+ },
+ {
+  "text": "This bag is heavy. I will help you.",
+  "file": "grammar/UnitAllLessons/examples_opus/this_bag_is_heavy_i_will_help_you.opus",
+  "duration": 4.116,
+  "bytes": 13967,
+  "sha256": "dbb3c0d1f0e0d42a211215cb0be499850fcb6689240b6e7a169014019ee962e1",
+  "kind": "E"
+ },
+ {
+  "text": "I will help you tomorrow.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_will_help_you_tomorrow.opus",
+  "duration": 2.584,
+  "bytes": 8860,
+  "sha256": "d617ee6aa7a8c61bd5149bc1807e95faea44b0455324df0d721f75c142585b68",
+  "kind": "E"
+ },
+ {
+  "text": "I think our team will win.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_think_our_team_will_win.opus",
+  "duration": 2.654,
+  "bytes": 8913,
+  "sha256": "3e38b0e6cd0a23ac13013c0cc4ffb962cd506d28a88b1a211009d9811d7def54",
+  "kind": "E"
+ },
+ {
+  "text": "Maybe it will snow tonight.",
+  "file": "grammar/UnitAllLessons/examples_opus/maybe_it_will_snow_tonight.opus",
+  "duration": 2.793,
+  "bytes": 9564,
+  "sha256": "98e6a073a84f217cec1efaee98a7f6254306f700bceff5ebe1830ff19a7b6aec",
+  "kind": "E"
+ },
+ {
+  "text": "Look at those dark clouds. It is going to rain.",
+  "file": "grammar/UnitAllLessons/examples_opus/look_at_those_dark_clouds_it_is_going_to_rain.opus",
+  "duration": 4.952,
+  "bytes": 18154,
+  "sha256": "d177211b51b081be32e9314afbf3928c1e98e611b460deb83ccade6ef19a861e",
+  "kind": "E"
+ },
+ {
+  "text": "Be careful! You are going to fall.",
+  "file": "grammar/UnitAllLessons/examples_opus/be_careful_you_are_going_to_fall.opus",
+  "duration": 4.047,
+  "bytes": 13794,
+  "sha256": "524f68e83e80a5b1a643832f2998e09fa2641be52ce624f056f429c7805b87d7",
+  "kind": "E"
+ },
+ {
+  "text": "My bag is heavier than your bag.",
+  "file": "grammar/UnitAllLessons/examples_opus/my_bag_is_heavier_than_your_bag.opus",
+  "duration": 3.211,
+  "bytes": 11137,
+  "sha256": "f219ef0a26ec4116f79f0dc5e1e6ecb7ea2d6eeb586f5da08d867f3d55405048",
+  "kind": "E"
+ },
+ {
+  "text": "This road is longer than that road.",
+  "file": "grammar/UnitAllLessons/examples_opus/this_road_is_longer_than_that_road.opus",
+  "duration": 3.35,
+  "bytes": 11663,
+  "sha256": "1fc5b1e19d8da42edb9fca707f406204a103c74d439c60fbc9bd1df0c02a75bf",
+  "kind": "E"
+ },
+ {
+  "text": "This book is more interesting than that book.",
+  "file": "grammar/UnitAllLessons/examples_opus/this_book_is_more_interesting_than_that_book.opus",
+  "duration": 4.047,
+  "bytes": 13854,
+  "sha256": "a11905813258501de3f2272faebe0f4f50b3871199c7fdee8067b2d27bef5ec2",
+  "kind": "E"
+ },
+ {
+  "text": "This restaurant is better than that one.",
+  "file": "grammar/UnitAllLessons/examples_opus/this_restaurant_is_better_than_that_one.opus",
+  "duration": 3.768,
+  "bytes": 13084,
+  "sha256": "6ab9db3c5ca49956e79c2c4fba6b69250c3717a69939871580498ce6fa500ded",
+  "kind": "E"
+ },
+ {
+  "text": "Ali is tall.",
+  "file": "grammar/UnitAllLessons/examples_opus/ali_is_tall.opus",
+  "duration": 1.957,
+  "bytes": 6344,
+  "sha256": "8c0ea43c89020d84aa8a88457b77679e9767212651435873a7ceb690471237ce",
+  "kind": "E"
+ },
+ {
+  "text": "Ali is taller than Sam.",
+  "file": "grammar/UnitAllLessons/examples_opus/ali_is_taller_than_sam.opus",
+  "duration": 2.723,
+  "bytes": 9190,
+  "sha256": "abe687aee861ca3c5658966fd110834a9c2252d072fc3fa526fdeda667eef61a",
+  "kind": "E"
+ },
+ {
+  "text": "Ali is the tallest boy in the class.",
+  "file": "grammar/UnitAllLessons/examples_opus/ali_is_the_tallest_boy_in_the_class.opus",
+  "duration": 3.629,
+  "bytes": 13479,
+  "sha256": "36cf42e81286e5f94d770d89a30462907c355051e1fc529f4e906415ea8aa5d8",
+  "kind": "E"
+ },
+ {
+  "text": "This is the most interesting book.",
+  "file": "grammar/UnitAllLessons/examples_opus/this_is_the_most_interesting_book.opus",
+  "duration": 3.35,
+  "bytes": 11687,
+  "sha256": "967c74ea293f4f258d03affbf7bb6b5674bbae4b1e6117ef5434bd12d1d11c16",
+  "kind": "E"
+ },
+ {
+  "text": "That is the worst answer.",
+  "file": "grammar/UnitAllLessons/examples_opus/that_is_the_worst_answer.opus",
+  "duration": 2.723,
+  "bytes": 9718,
+  "sha256": "ca4a97cde706ffe23b4c920d58a1326e798f6f7ae66ae9fe725121c7904138cc",
+  "kind": "E"
+ },
+ {
+  "text": "a red car",
+  "file": "grammar/UnitAllLessons/examples_opus/a_red_car.opus",
+  "duration": 1.818,
+  "bytes": 5910,
+  "sha256": "5f8ae84604f9344fe5649071f1dd346ecefc0bae6d2ef7f4967e94f8eb6e65f4",
+  "kind": "E"
+ },
+ {
+  "text": "a kind teacher",
+  "file": "grammar/UnitAllLessons/examples_opus/a_kind_teacher.opus",
+  "duration": 2.027,
+  "bytes": 6580,
+  "sha256": "a6270333d60269c50c1870ca9513082a981b4f797e1ebe878732c7268da984ea",
+  "kind": "E"
+ },
+ {
+  "text": "an old house",
+  "file": "grammar/UnitAllLessons/examples_opus/an_old_house.opus",
+  "duration": 1.887,
+  "bytes": 6247,
+  "sha256": "6c67e3347d27467d81afe99e6dc6ee36de9d396b888630c42f41fe289a19fb6e",
+  "kind": "E"
+ },
+ {
+  "text": "an interesting book",
+  "file": "grammar/UnitAllLessons/examples_opus/an_interesting_book.opus",
+  "duration": 2.375,
+  "bytes": 7541,
+  "sha256": "ba499764c8e90eacbfd2f168adfde59a77e1963b00416bab8b397dbe4841d755",
+  "kind": "E"
+ },
+ {
+  "text": "the big house",
+  "file": "grammar/UnitAllLessons/examples_opus/the_big_house.opus",
+  "duration": 1.957,
+  "bytes": 6028,
+  "sha256": "23c842f69186bd76b31fe7b8741d7d65212ac318f64dc3a43ef4d4540cf450c6",
+  "kind": "E"
+ },
+ {
+  "text": "my new phone",
+  "file": "grammar/UnitAllLessons/examples_opus/my_new_phone.opus",
+  "duration": 1.887,
+  "bytes": 6165,
+  "sha256": "1dad0131003791e2731f23085920da057b0bcefcaa30bf8d099cfe47ad97384d",
+  "kind": "E"
+ },
+ {
+  "text": "this red car",
+  "file": "grammar/UnitAllLessons/examples_opus/this_red_car.opus",
+  "duration": 1.957,
+  "bytes": 6165,
+  "sha256": "8fb69cb54687d435b34dc1661e64822860df3bcd20a414c6ebab9e68f8b7e615",
+  "kind": "E"
+ },
+ {
+  "text": "those small cats",
+  "file": "grammar/UnitAllLessons/examples_opus/those_small_cats.opus",
+  "duration": 2.375,
+  "bytes": 7699,
+  "sha256": "95b28129d7fcf43ddb713a3ee4eef7306263cfd8e83b85e41085f2018b655580",
+  "kind": "E"
+ },
+ {
+  "text": "The car is red.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_car_is_red.opus",
+  "duration": 2.027,
+  "bytes": 6617,
+  "sha256": "65456ccc0af26a9aeeb2a4ceac37cba5155d2445a8ebe3c1b45cf1f69f6c6abe",
+  "kind": "E"
+ },
+ {
+  "text": "My teachers are kind.",
+  "file": "grammar/UnitAllLessons/examples_opus/my_teachers_are_kind.opus",
+  "duration": 2.584,
+  "bytes": 8986,
+  "sha256": "c308ae866fcd6f4231981bafb7fc28be4d460a3007938e14dba6d5a175f27781",
+  "kind": "E"
+ },
+ {
+  "text": "small dogs",
+  "file": "grammar/UnitAllLessons/examples_opus/small_dogs.opus",
+  "duration": 1.887,
+  "bytes": 6197,
+  "sha256": "0f0e01c73b888d8adeaf09a9d0c9635d5ebf9a5b7ff7be4bc9146a9e2fe72a4a",
+  "kind": "D"
+ },
+ {
+  "text": "red apples",
+  "file": "grammar/UnitAllLessons/examples_opus/red_apples.opus",
+  "duration": 1.887,
+  "bytes": 6071,
+  "sha256": "d75868b7ca59a8c64e5995765913534126abf29e6aab8d0a322d17e064737f14",
+  "kind": "D"
+ },
+ {
+  "text": "a big red car",
+  "file": "grammar/UnitAllLessons/examples_opus/a_big_red_car.opus",
+  "duration": 1.957,
+  "bytes": 6333,
+  "sha256": "0597b08dc5bc3c369d9520f9322a16824a7511da0f8e6c561066f40441615155",
+  "kind": "E"
+ },
+ {
+  "text": "an old blue bag",
+  "file": "grammar/UnitAllLessons/examples_opus/an_old_blue_bag.opus",
+  "duration": 2.096,
+  "bytes": 6975,
+  "sha256": "ab72cd6e83c34f7f1f7f4ee9813d9ebd29fbae5124e0099cda4292830bddfb44",
+  "kind": "E"
+ },
+ {
+  "text": "tea and coffee",
+  "file": "grammar/UnitAllLessons/examples_opus/tea_and_coffee.opus",
+  "duration": 2.027,
+  "bytes": 6664,
+  "sha256": "f5e250229f143e8fef860bc79e16cfe26300c5a5fd5f811efc80635c85c62ca3",
+  "kind": "E"
+ },
+ {
+  "text": "a red and blue bag",
+  "file": "grammar/UnitAllLessons/examples_opus/a_red_and_blue_bag.opus",
+  "duration": 2.305,
+  "bytes": 7827,
+  "sha256": "f760ef4b05d14740125302f13112dee82a24dfc26d4983f600bcc02f8d57da92",
+  "kind": "E"
+ },
+ {
+  "text": "I read and write.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_read_and_write.opus",
+  "duration": 2.166,
+  "bytes": 7098,
+  "sha256": "ba11baa8b4d6a9eadd82a7335cfc4a3623aa48b55edd8f16edb13069e6d82f24",
+  "kind": "E"
+ },
+ {
+  "text": "The bag is small but heavy.",
+  "file": "grammar/UnitAllLessons/examples_opus/the_bag_is_small_but_heavy.opus",
+  "duration": 2.932,
+  "bytes": 10801,
+  "sha256": "4f59f0fcd3b6230dbf824a4221008be42d3c190bd23c51a80c5a622f22689c85",
+  "kind": "E"
+ },
+ {
+  "text": "He is tired, but he is happy.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_is_tired_but_he_is_happy.opus",
+  "duration": 3.002,
+  "bytes": 10378,
+  "sha256": "31a8f765e1dbb372a2cb22e03ec211bd38b0bf271034c48af9ca2dd43c458675",
+  "kind": "E"
+ },
+ {
+  "text": "It is cold but sunny.",
+  "file": "grammar/UnitAllLessons/examples_opus/it_is_cold_but_sunny.opus",
+  "duration": 2.514,
+  "bytes": 8362,
+  "sha256": "6fe618b44059edff1e8f250053f97fb3fdae0d47898a5786b70f5fa9fc90968f",
+  "kind": "E"
+ },
+ {
+  "text": "You can call or text me.",
+  "file": "grammar/UnitAllLessons/examples_opus/you_can_call_or_text_me.opus",
+  "duration": 2.654,
+  "bytes": 8932,
+  "sha256": "7f70a5fbe7adf80fe1dd64782f4f6e89a75ac290f58c67ff0c0de0785ff5bbca",
+  "kind": "E"
+ },
+ {
+  "text": "Do you want an apple or a banana?",
+  "file": "grammar/UnitAllLessons/examples_opus/do_you_want_an_apple_or_a_banana.opus",
+  "duration": 3.211,
+  "bytes": 11177,
+  "sha256": "d681fbffa8a78ad58469735cc63611313d0ffbbd117bc4c54553fe9cc5f76c87",
+  "kind": "E"
+ },
+ {
+  "text": "We can go today or tomorrow.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_can_go_today_or_tomorrow.opus",
+  "duration": 2.932,
+  "bytes": 10127,
+  "sha256": "8e25c0f422f60abdaa1458da3eeeffef5538f5b535d4cbc248a2d8b48e842d48",
+  "kind": "E"
+ },
+ {
+  "text": "She is happy because it is her birthday.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_is_happy_because_it_is_her_birthday.opus",
+  "duration": 3.977,
+  "bytes": 13653,
+  "sha256": "14d693db6790fc6be9e083d67bcd8026e029acee093d2e7df2309d2909175974",
+  "kind": "E"
+ },
+ {
+  "text": "We are late because the bus is slow.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_are_late_because_the_bus_is_slow.opus",
+  "duration": 3.559,
+  "bytes": 12235,
+  "sha256": "1774eb7a51c596e2b35297fdae1280e83ea31112e260dd8027e5cb753fe8f12b",
+  "kind": "E"
+ },
+ {
+  "text": "I was sick, so I stayed home.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_was_sick_so_i_stayed_home.opus",
+  "duration": 3.002,
+  "bytes": 10551,
+  "sha256": "c9886185af8e9a7c37396f05683ad165857f570da8f35fc0cff747515df4cc98",
+  "kind": "E"
+ },
+ {
+  "text": "It is raining, so we are at home.",
+  "file": "grammar/UnitAllLessons/examples_opus/it_is_raining_so_we_are_at_home.opus",
+  "duration": 3.35,
+  "bytes": 11616,
+  "sha256": "6335ec2da0bfcdb284df255a6285fdc3db2d1efb22c05b86106358c467977586",
+  "kind": "E"
+ },
+ {
+  "text": "He was hungry, so he made a sandwich.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_was_hungry_so_he_made_a_sandwich.opus",
+  "duration": 3.629,
+  "bytes": 12895,
+  "sha256": "92daaf6383abc2cd18e31e46ec20307dbdec03a6b1bf98542fbdaacf52f16761",
+  "kind": "E"
+ },
+ {
+  "text": "I took a taxi because I was late.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_took_a_taxi_because_i_was_late.opus",
+  "duration": 3.35,
+  "bytes": 11901,
+  "sha256": "444e486b9b3c88f76817c46b8cb3e242d2c5a6e8cb9c7656d63aed76f15919cd",
+  "kind": "E"
+ },
+ {
+  "text": "I was late, so I took a taxi.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_was_late_so_i_took_a_taxi.opus",
+  "duration": 3.141,
+  "bytes": 11031,
+  "sha256": "af78c788bc450a5a7b9b86bab8550d750b682f698627d111b05201faf64c80b7",
+  "kind": "E"
+ },
+ {
+  "text": "It was cold, so I wore a coat.",
+  "file": "grammar/UnitAllLessons/examples_opus/it_was_cold_so_i_wore_a_coat.opus",
+  "duration": 3.211,
+  "bytes": 10933,
+  "sha256": "e62483f77553100b4bf1beeeec8a2a1f72557f6e8ec4cd0c668f3ee60089b748",
+  "kind": "E"
+ },
+ {
+  "text": "I wore a coat because it was cold.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_wore_a_coat_because_it_was_cold.opus",
+  "duration": 3.42,
+  "bytes": 11907,
+  "sha256": "ac255911f3b3ebc7ae08c9d9087e73313377f3ff0383639b7ca7c97adb72639a",
+  "kind": "E"
+ },
+ {
+  "text": "I would like some tea.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_would_like_some_tea.opus",
+  "duration": 2.514,
+  "bytes": 8390,
+  "sha256": "618ba64dd1b657c98a22e8c13581dcacb5fe536e25dcbcaea3f164f500b141a7",
+  "kind": "E"
+ },
+ {
+  "text": "She would like a sandwich.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_would_like_a_sandwich.opus",
+  "duration": 2.793,
+  "bytes": 9694,
+  "sha256": "c552ccbf55f1ee152bf266071c004047e16bbdcf9687a75468864ddab0f2d35d",
+  "kind": "E"
+ },
+ {
+  "text": "They would like a table by the window.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_would_like_a_table_by_the_window.opus",
+  "duration": 3.559,
+  "bytes": 12347,
+  "sha256": "2be5b26b5e2fa1ecc9b9d3a750a649bc130f90589125033c56134eab4a90450f",
+  "kind": "E"
+ },
+ {
+  "text": "I would like to drink some water.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_would_like_to_drink_some_water.opus",
+  "duration": 3.211,
+  "bytes": 11080,
+  "sha256": "4951097566f56a3d2cf9c02ab4be4ba3f7761ec7c3497c8464ef1d878afaec23",
+  "kind": "E"
+ },
+ {
+  "text": "He would like to learn English.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_would_like_to_learn_english.opus",
+  "duration": 3.072,
+  "bytes": 10527,
+  "sha256": "5717a19556a4f0cfcde07a6f1aef0954ae2e014c601fd1803036540a6bd58da4",
+  "kind": "E"
+ },
+ {
+  "text": "We would like to sit here.",
+  "file": "grammar/UnitAllLessons/examples_opus/we_would_like_to_sit_here.opus",
+  "duration": 2.654,
+  "bytes": 8658,
+  "sha256": "95040583e7f753bac83dea3867c4a8d3f1e97141bfc9e98384d706f1bc0aa6d4",
+  "kind": "E"
+ },
+ {
+  "text": "I would like a coffee.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_would_like_a_coffee.opus",
+  "duration": 2.445,
+  "bytes": 7959,
+  "sha256": "4401c3558304a4a0285a3a6dabd18466e2aacc38b1cb72b34cf5d2d54182c7da",
+  "kind": "E"
+ },
+ {
+  "text": "She would like a coffee.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_would_like_a_coffee.opus",
+  "duration": 2.584,
+  "bytes": 8617,
+  "sha256": "80b26e45ef4113027ea1cb0dd265e49326c63624d328661a4861190c4d6eef55",
+  "kind": "E"
+ },
+ {
+  "text": "They would like a coffee.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_would_like_a_coffee.opus",
+  "duration": 2.584,
+  "bytes": 8571,
+  "sha256": "c27525e9771de627ae1cd18ceaadb3f4f0b8a55dbbe8615cd65e1ba7fa8e0d92",
+  "kind": "E"
+ },
+ {
+  "text": "I would like a menu.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_would_like_a_menu.opus",
+  "duration": 2.305,
+  "bytes": 7571,
+  "sha256": "e216a5afcf42540449d7ff059bf3e4ea3bf1339ee7ac33f6a5f4cf2b658bd2fc",
+  "kind": "E"
+ },
+ {
+  "text": "She would like to order.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_would_like_to_order.opus",
+  "duration": 2.584,
+  "bytes": 8828,
+  "sha256": "6f3da1ab8f33357a5c310834a97f3495e284a651dd0dddf389abe2d654b8963f",
+  "kind": "E"
+ },
+ {
+  "text": "They would like some water.",
+  "file": "grammar/UnitAllLessons/examples_opus/they_would_like_some_water.opus",
+  "duration": 2.723,
+  "bytes": 9648,
+  "sha256": "14c96654814dbf03abd8a385e758518f11a451f7f7fb228a582f1aed6d0a9a90",
+  "kind": "E"
+ },
+ {
+  "text": "Would you like a sandwich?",
+  "file": "grammar/UnitAllLessons/examples_opus/would_you_like_a_sandwich.opus",
+  "duration": 2.654,
+  "bytes": 9346,
+  "sha256": "a7099e0e1ee9504dedf6bd97e0d950434627440e319a34e85f7c5cf175416f90",
+  "kind": "E"
+ },
+ {
+  "text": "Would you like to sit down?",
+  "file": "grammar/UnitAllLessons/examples_opus/would_you_like_to_sit_down.opus",
+  "duration": 2.584,
+  "bytes": 8604,
+  "sha256": "3980af4825b6c536eca6d6b4b81e0efa454121da6803e41fb773a7d5b88ca217",
+  "kind": "E"
+ },
+ {
+  "text": "Would you like a coffee?",
+  "file": "grammar/UnitAllLessons/examples_opus/would_you_like_a_coffee.opus",
+  "duration": 2.445,
+  "bytes": 8739,
+  "sha256": "34c1cbc424b00bc4a0133e48b106926abeee47b442947a150d7dad850e713a77",
+  "kind": "E"
+ },
+ {
+  "text": "Would you like to come with us?",
+  "file": "grammar/UnitAllLessons/examples_opus/would_you_like_to_come_with_us.opus",
+  "duration": 2.863,
+  "bytes": 9502,
+  "sha256": "d0645cf24d488d6f53a75d4a4240d8883fb9fca92e699609e4f71c7140b5c60b",
+  "kind": "E"
+ },
+ {
+  "text": "I want water.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_want_water.opus",
+  "duration": 1.887,
+  "bytes": 6394,
+  "sha256": "866d46cf1d763f2eeb27b80581f6433d2c104937707a5dbc230607fb165c6d1c",
+  "kind": "E"
+ },
+ {
+  "text": "I drink tea every morning.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_drink_tea_every_morning.opus",
+  "duration": 2.793,
+  "bytes": 9727,
+  "sha256": "3455a4094cb6ca3be8ac102791684e7b0151a01d1a781e644b5378098a2c9405",
+  "kind": "E"
+ },
+ {
+  "text": "She works in a school.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_works_in_a_school.opus",
+  "duration": 2.654,
+  "bytes": 8708,
+  "sha256": "2f6700de83b099027d4dbcf1b6b4f786a34869771d116ddf30e8559153efb461",
+  "kind": "E"
+ },
+ {
+  "text": "He is cooking.",
+  "file": "grammar/UnitAllLessons/examples_opus/he_is_cooking.opus",
+  "duration": 2.027,
+  "bytes": 6403,
+  "sha256": "0ea4fd91cd15ea2edc587860a79cccb584b0ca05600c037b0326532e2ea9bbf6",
+  "kind": "E"
+ },
+ {
+  "text": "Are they working?",
+  "file": "grammar/UnitAllLessons/examples_opus/are_they_working.opus",
+  "duration": 2.027,
+  "bytes": 6410,
+  "sha256": "b6d59f9e2b30ce8768115633eef4b63372ef71c3653feeddfb38bbe4ee2f1a26",
+  "kind": "E"
+ },
+ {
+  "text": "Were you at school?",
+  "file": "grammar/UnitAllLessons/examples_opus/were_you_at_school.opus",
+  "duration": 2.236,
+  "bytes": 7455,
+  "sha256": "cb89350af188557599ac23e3c3265a1095f326049a6087a20d907bd5dcd47d97",
+  "kind": "E"
+ },
+ {
+  "text": "Did you work?",
+  "file": "grammar/UnitAllLessons/examples_opus/did_you_work.opus",
+  "duration": 1.887,
+  "bytes": 5915,
+  "sha256": "a1a40b7d78c3cfb212333484b97cb7631d4189cc8dd5d55f614a140e3edc1b27",
+  "kind": "E"
+ },
+ {
+  "text": "I am going to visit my aunt tomorrow.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_am_going_to_visit_my_aunt_tomorrow.opus",
+  "duration": 3.768,
+  "bytes": 13828,
+  "sha256": "92540de356b2312f1913385086571e921d08dd3a6a8d1d3e50ccddaf11262d2b",
+  "kind": "E"
+ },
+ {
+  "text": "I have two apples.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_have_two_apples.opus",
+  "duration": 2.305,
+  "bytes": 7647,
+  "sha256": "59fb5e0067245815e17de900f81a245d4b5bec97dbf92b5edd658eb2927342f8",
+  "kind": "E"
+ },
+ {
+  "text": "There are five books.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_are_five_books.opus",
+  "duration": 2.514,
+  "bytes": 7940,
+  "sha256": "addf6a074a28d86e04278058538e968a472837d1f614641b5440ee345bd9d3d6",
+  "kind": "E"
+ },
+ {
+  "text": "She has three sisters.",
+  "file": "grammar/UnitAllLessons/examples_opus/she_has_three_sisters.opus",
+  "duration": 2.654,
+  "bytes": 8917,
+  "sha256": "784315018f0d66103f84c10c1402e2805c889c2633950815507faf9ce3527932",
+  "kind": "E"
+ },
+ {
+  "text": "I am seventeen years old.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_am_seventeen_years_old.opus",
+  "duration": 2.863,
+  "bytes": 9657,
+  "sha256": "dcf5f0dc5bef4eb9020e0fddc3d5f6e4ed06d2eae65700ccf011f28c562ca0d9",
+  "kind": "E"
+ },
+ {
+  "text": "There are fifteen students.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_are_fifteen_students.opus",
+  "duration": 2.793,
+  "bytes": 9378,
+  "sha256": "0cc41c9b04779185c4322e6716ca9fac4d2e712bfdf7db7eb01627360be1cf6c",
+  "kind": "E"
+ },
+ {
+  "text": "I am twenty-five years old.",
+  "file": "grammar/UnitAllLessons/examples_opus/i_am_twenty_five_years_old.opus",
+  "duration": 2.932,
+  "bytes": 9942,
+  "sha256": "59b251b38e330fa026c539d1e8f236d431a9f648c4b7564b22435f94395200e6",
+  "kind": "E"
+ },
+ {
+  "text": "There are forty-two books.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_are_forty_two_books.opus",
+  "duration": 2.723,
+  "bytes": 8854,
+  "sha256": "14c0249f3bc753da82601e009b2f5fa894885d632fba7fc87d964044e2839c6a",
+  "kind": "E"
+ },
+ {
+  "text": "What is your phone number?",
+  "file": "grammar/UnitAllLessons/examples_opus/what_is_your_phone_number.opus",
+  "duration": 2.584,
+  "bytes": 8581,
+  "sha256": "0851db223d099420fd66355cf3e7a4935fbfd7ee615503555686efa1bddbb56c",
+  "kind": "E"
+ },
+ {
+  "text": "Nine-one, two-oh-five, six-seven.",
+  "file": "grammar/UnitAllLessons/examples_opus/nine_one_two_oh_five_six_seven.opus",
+  "duration": 3.698,
+  "bytes": 12911,
+  "sha256": "615765a8281e31677be2110f7266db2dd3fb106a70a99df184d0055fef26fe4d",
+  "kind": "E"
+ },
+ {
+  "text": "There are one hundred people.",
+  "file": "grammar/UnitAllLessons/examples_opus/there_are_one_hundred_people.opus",
+  "duration": 2.863,
+  "bytes": 9610,
+  "sha256": "68f0bf05ad091f5ca1d689f7d55583469d417c3def6a372d5a87ca3dfab85691",
+  "kind": "E"
+ }
+]
