@@ -1,0 +1,6824 @@
+{
+ "1": {
+  "text": "I am a student.",
+  "duration": 2.027,
+  "bytes": 6553,
+  "sha256": "73aa64998707dc5089b31f90561b4e304c8b218b797077ef0306d04cea26f909"
+ },
+ "2": {
+  "text": "Ali lives in Tashkent.",
+  "duration": 2.514,
+  "bytes": 8458,
+  "sha256": "6254b52758effa176f5ad5e67ffe8881b0f0d8a92f50b752402aa945535ccacd"
+ },
+ "3": {
+  "text": "Monday is a school day.",
+  "duration": 2.584,
+  "bytes": 8764,
+  "sha256": "90cdcce23c0c07f8adc02c5d65f573d363beb69eea32e9141d9307ac1c196c50"
+ },
+ "4": {
+  "text": "I study English.",
+  "duration": 2.027,
+  "bytes": 6556,
+  "sha256": "e73111f85382f56c6d1ce540a38288c6104deb3c59ca5f84e2a791145fa5c7c9"
+ },
+ "5": {
+  "text": "I have a book.",
+  "duration": 1.887,
+  "bytes": 5728,
+  "sha256": "667780cf615e9c6863be77a69b6373a7792b8a31a30f049a0c686329834a8a61"
+ },
+ "6": {
+  "text": "I see a cat.",
+  "duration": 1.818,
+  "bytes": 5871,
+  "sha256": "c23e7012a072567031ca3840b631476289e2645a3e7c1d44e37bba3a7dbc6e49"
+ },
+ "7": {
+  "text": "The city is big.",
+  "duration": 1.957,
+  "bytes": 6251,
+  "sha256": "9b1749e43f2ca260f5c22e9686340e46bece195428143b1879623dc51a2f331f"
+ },
+ "8": {
+  "text": "The chair is new.",
+  "duration": 2.096,
+  "bytes": 6758,
+  "sha256": "28d4bb829fad6a9a9ac80d70d83b9e7b0426b2edd934c9ee723c8fc9d8d7447b"
+ },
+ "9": {
+  "text": "Listen to me.",
+  "duration": 1.818,
+  "bytes": 5833,
+  "sha256": "1aadf37ac543f95be9da22da1813a835dcfcbd0138365a9a946f692bfddcb2d7"
+ },
+ "10": {
+  "text": "I like cake.",
+  "duration": 1.818,
+  "bytes": 5743,
+  "sha256": "6e9f1ce90ab257c335e54f5e57701bda2e68d36686adbba0a21d2e89b5110a96"
+ },
+ "11": {
+  "text": "The phone is black.",
+  "duration": 2.236,
+  "bytes": 7190,
+  "sha256": "aeadb92f783bc7b63782a583e8f0ac6c1ff593e6b1b187eba806a2db43a369c3"
+ },
+ "12": {
+  "text": "The ship is big.",
+  "duration": 2.027,
+  "bytes": 6412,
+  "sha256": "f13d9e6cdb15655863779628fa25786d85eda1871af6891b56e196eb6bf2a548"
+ },
+ "13": {
+  "text": "I think so.",
+  "duration": 1.748,
+  "bytes": 5556,
+  "sha256": "ba99a73cbdd625c20b7c358e7169c409f0faae812acdafffe81229f8523ba46e"
+ },
+ "14": {
+  "text": "The cat is black.",
+  "duration": 2.096,
+  "bytes": 6699,
+  "sha256": "a0d6f1be842e4c6ddf004adb893d11c3475e27bd7567894dfb9f8beb9fd92486"
+ },
+ "15": {
+  "text": "I sing a song.",
+  "duration": 1.887,
+  "bytes": 5997,
+  "sha256": "0b55ec52f94ca243b196ef406f4e7ff92099e126700cfef577e07cd835a1c275"
+ },
+ "16": {
+  "text": "I know Ali.",
+  "duration": 1.748,
+  "bytes": 5586,
+  "sha256": "3bd1c273a39c2d9db81edae3ecb9c97b288318a5fbecdaed62737fcb74350801"
+ },
+ "17": {
+  "text": "The lamb is small.",
+  "duration": 2.236,
+  "bytes": 7248,
+  "sha256": "3da9969700e44d1927957cce2cea9a0688bf24c2dcc0ca4f7b118d31a06523b4"
+ },
+ "18": {
+  "text": "My name is Ali.",
+  "duration": 2.027,
+  "bytes": 6754,
+  "sha256": "97d3c0dd97f4b1abd0bd94eef6fd4f709d68c512686024432eaf294ce5afa2d0"
+ },
+ "19": {
+  "text": "The night is dark.",
+  "duration": 2.096,
+  "bytes": 6720,
+  "sha256": "7b01245f2010a8749a70330df6a4cbdb9d4af0edbdd6f566192dd873134bdc86"
+ },
+ "20": {
+  "text": "She lives in Tashkent, Uzbekistan.",
+  "duration": 3.35,
+  "bytes": 11894,
+  "sha256": "e372efef42a3f7b78a0b3cbe2f49033fe1edae5e2a6fdc43a6447c5a763bf836"
+ },
+ "21": {
+  "text": "Monday is my favorite day.",
+  "duration": 2.793,
+  "bytes": 9528,
+  "sha256": "4a443b009de48bdf1cb061545d8f9c55c0add565ce0a7a36dbae60a5cb6af433"
+ },
+ "22": {
+  "text": "Navruz is in March.",
+  "duration": 2.584,
+  "bytes": 8573,
+  "sha256": "bf1d9efb4392276afb454908b4731bfa60160c0f972a381aae91ee34b970f671"
+ },
+ "23": {
+  "text": "My teacher speaks English.",
+  "duration": 2.793,
+  "bytes": 9456,
+  "sha256": "c57838f0774e9dfa88ecd39ffab62a170a96ecf6c89a507628d0fcb6cdd33fbb"
+ },
+ "24": {
+  "text": "The apple is red.",
+  "duration": 2.096,
+  "bytes": 6831,
+  "sha256": "d67ee4c020de125eeb2e74bbde278a4346a6aed17e179e14b539d2b9668681b1"
+ },
+ "25": {
+  "text": "This book is new.",
+  "duration": 2.096,
+  "bytes": 6705,
+  "sha256": "0a154fb9cfaba1be7833ac6849cd261dc747c7b00aeaef5ba04b72b0767c6c4b"
+ },
+ "26": {
+  "text": "The dog is big.",
+  "duration": 1.887,
+  "bytes": 6213,
+  "sha256": "248f7e0fcc63ba939bbe4974b78c9d5ad3518a0a5189a44de5842f73bae82f6b"
+ },
+ "27": {
+  "text": "It is a pen.",
+  "duration": 1.818,
+  "bytes": 5907,
+  "sha256": "022a208b97f5bfdb72a63cf73b3e158872333cd19cc82bf21e3eb77fd1d708cb"
+ },
+ "28": {
+  "text": "I eat an egg.",
+  "duration": 1.818,
+  "bytes": 5796,
+  "sha256": "2a250f69647d739d4d536bd6387dda8ff7f9e68966dd56c7af5e869d625cb12f"
+ },
+ "29": {
+  "text": "The fish is small.",
+  "duration": 2.305,
+  "bytes": 7719,
+  "sha256": "3fd5f445d9d7ae8edb4ad2ee67d3349867eba0b92d22988cc2f4e5d9ef23e755"
+ },
+ "30": {
+  "text": "The girl is happy.",
+  "duration": 2.166,
+  "bytes": 7040,
+  "sha256": "a61cc1fa4e507044411f9fbfdf805710638af44bb0d5c19199c420f2cf09b441"
+ },
+ "31": {
+  "text": "This is my hand.",
+  "duration": 2.096,
+  "bytes": 6825,
+  "sha256": "8a0e4e58ab88d57de6aca97d0dc1e3f87b1b80627741866db009904e30f0caf9"
+ },
+ "32": {
+  "text": "The ice is cold.",
+  "duration": 2.027,
+  "bytes": 6576,
+  "sha256": "435debbcc652a0e73a4fe265c9c1cde92a220fa14f02e313fa853df85535f3d5"
+ },
+ "33": {
+  "text": "I drink juice.",
+  "duration": 1.887,
+  "bytes": 6309,
+  "sha256": "70f8417e765a5f32b2022c397330256c3db36d089c536d9fcc63dfd1c4eeed2b"
+ },
+ "34": {
+  "text": "This is my key.",
+  "duration": 2.027,
+  "bytes": 6642,
+  "sha256": "dae86e013a40d384a81ce6311585341b128f4614c88c0581ee23b66a709e1c4a"
+ },
+ "35": {
+  "text": "The lion is big.",
+  "duration": 1.957,
+  "bytes": 6492,
+  "sha256": "dd168c4e14f5da555abffce0d9a24401e055590cd5b13e528a4d1c9d69e53a3e"
+ },
+ "36": {
+  "text": "The moon is white.",
+  "duration": 2.027,
+  "bytes": 6579,
+  "sha256": "be7dc74a95600d7a0c5090640900b87ac1150430949e335ae68d9cb37333e3c7"
+ },
+ "37": {
+  "text": "This is my nose.",
+  "duration": 2.166,
+  "bytes": 7041,
+  "sha256": "83fc22abda5615d98dd7dd10282064009d3673f93c583130a980df7cc815a985"
+ },
+ "38": {
+  "text": "The orange is sweet.",
+  "duration": 2.305,
+  "bytes": 7621,
+  "sha256": "dbfb22be98a0a71b2ba9dcbe5a4f2ce569f6311a9e91950cbf4327afeb861ef5"
+ },
+ "39": {
+  "text": "This is a pen.",
+  "duration": 1.957,
+  "bytes": 6115,
+  "sha256": "79055a77d4406cb9c413de9c40d3c30a044a2d2204b7d2999de0d42f4381211d"
+ },
+ "40": {
+  "text": "The queen is kind.",
+  "duration": 2.027,
+  "bytes": 6739,
+  "sha256": "71ea3ea080475ca4b80248c6cf4e50c1dd0b123d812d3ba570ef6166abf468dd"
+ },
+ "41": {
+  "text": "I like rain.",
+  "duration": 1.748,
+  "bytes": 5587,
+  "sha256": "fe2ccdcec6685b44e734604dbf408704f874589b3644fd8bf02359b441396a5a"
+ },
+ "42": {
+  "text": "The sun is hot.",
+  "duration": 1.957,
+  "bytes": 6243,
+  "sha256": "b95a8f085d9312fa817e52dfed65ad55d6720b9bd0efcc41ab6384633affb9c9"
+ },
+ "43": {
+  "text": "The tree is tall.",
+  "duration": 2.027,
+  "bytes": 6618,
+  "sha256": "70d6b5cd314259241255eaffc9a7b4a498b5b46bbceddd8953b1823b4b1b3fce"
+ },
+ "44": {
+  "text": "My umbrella is red.",
+  "duration": 2.305,
+  "bytes": 7712,
+  "sha256": "bf45b42ac6bcccb9050de32b17a0ca6c1020edf99d9e1a7bdfd6ab2fe42664f1"
+ },
+ "45": {
+  "text": "The van is white.",
+  "duration": 2.096,
+  "bytes": 6742,
+  "sha256": "9ae19c2c30e370db184ecaa54a67f1e996908069cca94b414c58ef3a6a823be5"
+ },
+ "46": {
+  "text": "I drink water.",
+  "duration": 1.818,
+  "bytes": 5976,
+  "sha256": "9b49f8a58319fe98d1f13376ebd77747bfca09ae11ede1ac6f72d32fe3dd10c2"
+ },
+ "47": {
+  "text": "The box is big.",
+  "duration": 2.027,
+  "bytes": 6449,
+  "sha256": "20abac0677497c05a3203f4920177c3a691ba02a3af2f15f85039c7d9b5f9748"
+ },
+ "48": {
+  "text": "The sun is yellow.",
+  "duration": 2.096,
+  "bytes": 6915,
+  "sha256": "3297be5995cdb8c36c9abaff50bf765d99fe461273608583c1b8633c25ce210b"
+ },
+ "49": {
+  "text": "The zebra is black and white.",
+  "duration": 2.863,
+  "bytes": 9705,
+  "sha256": "b7c24b04eb2fc13f22f1f2f68e270d593419ad59ccfe5eb11db77cfa17702507"
+ },
+ "50": {
+  "text": "The boy is happy.",
+  "duration": 2.096,
+  "bytes": 6870,
+  "sha256": "90e083269fb415cde2556fb87f0271ce8ce9e28a735e79333f1266a704bca553"
+ },
+ "51": {
+  "text": "My teacher is kind.",
+  "duration": 2.305,
+  "bytes": 7773,
+  "sha256": "3b88678b3e74042115f28aeb3db1e441bc65cbe99abea271b7b2eba36b2b0966"
+ },
+ "52": {
+  "text": "Ali is a student.",
+  "duration": 2.236,
+  "bytes": 7356,
+  "sha256": "1d7a73a729de05954e7b92355f986935f77d133ebd374863ec276296f5710039"
+ },
+ "53": {
+  "text": "My mother is kind.",
+  "duration": 2.166,
+  "bytes": 7096,
+  "sha256": "8447828a3f5860b623cd957e47b0995ad0151e2fa3bdccb119fcec539595a929"
+ },
+ "54": {
+  "text": "My father is tall.",
+  "duration": 2.236,
+  "bytes": 7312,
+  "sha256": "226b09b150c8f7779a7611a569f351f9ddede6949b53d4d4725686575ec387d4"
+ },
+ "55": {
+  "text": "Ali is my friend.",
+  "duration": 2.166,
+  "bytes": 7094,
+  "sha256": "5e7c1216c700d8d42b5fa5f2b83c6f02e700b390f6b6b72e11c9e2c065e41a7b"
+ },
+ "56": {
+  "text": "The child is small.",
+  "duration": 2.305,
+  "bytes": 7475,
+  "sha256": "29e8672cdf3db6f5cbfa70584b9f74cdf65aec770905ca33633f95c5c12a7ea6"
+ },
+ "57": {
+  "text": "The bird can fly.",
+  "duration": 2.027,
+  "bytes": 6710,
+  "sha256": "68cbef0528c20db61711385bb80ca30f538f3ad6572c34369f9ee97ca49ec7f0"
+ },
+ "58": {
+  "text": "The table is big.",
+  "duration": 2.027,
+  "bytes": 6501,
+  "sha256": "97f56ed47db2e0f1c29f109b4b09d9a15583b7c20c55aa6f484821eb35998055"
+ },
+ "59": {
+  "text": "My house is small.",
+  "duration": 2.305,
+  "bytes": 7611,
+  "sha256": "4ce8ace49eeee01cb3be8ac944dff0f1aa324f779b19df38be4c3e56acb544ab"
+ },
+ "60": {
+  "text": "My school is big.",
+  "duration": 2.236,
+  "bytes": 7294,
+  "sha256": "52b0ddcedf19798e60c5d70bc9d65a790a374fe828791cd06c4b2ab2abfd5493"
+ },
+ "61": {
+  "text": "The park is green.",
+  "duration": 2.096,
+  "bytes": 6827,
+  "sha256": "a07477a025d877310d77eba068f5d2057302e096cda725f2e472390ef9bc4432"
+ },
+ "62": {
+  "text": "My room is clean.",
+  "duration": 2.166,
+  "bytes": 7260,
+  "sha256": "eee0c132a98a75ea90a03055981f2dc782185cd06969d4828fbbeebb18c3710e"
+ },
+ "63": {
+  "text": "I am happy.",
+  "duration": 1.748,
+  "bytes": 5823,
+  "sha256": "ec017d21069891cec38895eb4f675b019cf56459bfd30ca49b87c4ac06bca323"
+ },
+ "64": {
+  "text": "The gym is big.",
+  "duration": 1.887,
+  "bytes": 6143,
+  "sha256": "f89296c4bd39ff9ba12478c075cee129c894d35b9bee99a679827eed634f6acf"
+ },
+ "65": {
+  "text": "This myth is old.",
+  "duration": 2.096,
+  "bytes": 7013,
+  "sha256": "992ae0458a05ee3900bacdad081cc6253c03aed0a5cf12e2bea5673e89399c48"
+ },
+ "66": {
+  "text": "The system is new.",
+  "duration": 2.236,
+  "bytes": 7307,
+  "sha256": "0d48e8c79817c7c5405a5e1322013e3b4f9faef69723cc29941db219e50a4b95"
+ },
+ "67": {
+  "text": "This symbol is a star.",
+  "duration": 2.584,
+  "bytes": 8611,
+  "sha256": "bee87930a1f38a89a4372ffd0535d35bf7c3327778c642588e65175edd82054c"
+ },
+ "68": {
+  "text": "She is happy.",
+  "duration": 1.818,
+  "bytes": 5952,
+  "sha256": "e6cc3a365804f0c02f971523afecae1a2cb7d5ef4feed8970b7ef6e8d523e31d"
+ },
+ "69": {
+  "text": "The baby is small.",
+  "duration": 2.305,
+  "bytes": 7436,
+  "sha256": "3808f81a633340f59627ad1fc3ceea26c54a26253aa04486f019f233399dfc24"
+ },
+ "70": {
+  "text": "English is easy.",
+  "duration": 2.096,
+  "bytes": 6887,
+  "sha256": "8eceea5ce04aa9321878c524a2a7c541d98af03d7b1c757210b95d411547953a"
+ },
+ "71": {
+  "text": "This is my book.",
+  "duration": 2.096,
+  "bytes": 6482,
+  "sha256": "831297a0a67679cdec817b92de2771fc8a432408ebdf2d4be76f5233c85db308"
+ },
+ "72": {
+  "text": "Birds can fly.",
+  "duration": 1.887,
+  "bytes": 6144,
+  "sha256": "3c8e1f6f0e0080537def841f28fe9bee625ab96225929133af6fe244c000f3c2"
+ },
+ "73": {
+  "text": "The sky is blue.",
+  "duration": 2.027,
+  "bytes": 6583,
+  "sha256": "4f056d40b394434002ed545fe041da916152e1366ed1a64066f4dc6773acd278"
+ },
+ "74": {
+  "text": "Try again.",
+  "duration": 1.748,
+  "bytes": 5464,
+  "sha256": "80f4d0c1c5b8cfc85f8396cb7c014b0ef27ddc5e3f90743134976debda9de55c"
+ },
+ "75": {
+  "text": "Ali and I are friends.",
+  "duration": 2.445,
+  "bytes": 8110,
+  "sha256": "38f81e5f4b098e5f734a5a52dec1741663de4c49de9e5d103b66eda4630feeca"
+ },
+ "76": {
+  "text": "Madina is my friend.",
+  "duration": 2.375,
+  "bytes": 7867,
+  "sha256": "189539ff04b2753c381cb639b649a88df8b9b61c71896c106c50d2896da0200e"
+ },
+ "77": {
+  "text": "I live in Tashkent.",
+  "duration": 2.236,
+  "bytes": 7338,
+  "sha256": "959bec8f2abb9e6b27100ab296b52ea074cfff99c620f2bd2f507a14838408ae"
+ },
+ "78": {
+  "text": "I live in Uzbekistan.",
+  "duration": 2.514,
+  "bytes": 8391,
+  "sha256": "0866d808eec4d55bd6db5311008526d4cb99cfe667a0506bf226582b63eed1ec"
+ },
+ "79": {
+  "text": "I like Monday.",
+  "duration": 1.887,
+  "bytes": 6470,
+  "sha256": "5f1deb66a2dcfc1bbecffe5941ccd974018f95c646929bac63ba6717cb789a6f"
+ },
+ "80": {
+  "text": "I like Tuesday.",
+  "duration": 1.957,
+  "bytes": 6468,
+  "sha256": "d1c6c5f761cbffd7c7398bab981525901eb93ca22250ec06aabc9eea61a0107a"
+ },
+ "81": {
+  "text": "January is cold.",
+  "duration": 2.096,
+  "bytes": 7095,
+  "sha256": "854acb9809827d286752e2eab4eeb03fc1c2f6f40633f0e6fb3a377cd90d4470"
+ },
+ "82": {
+  "text": "May is warm.",
+  "duration": 1.818,
+  "bytes": 5790,
+  "sha256": "a4fe389d37f9f60e9e6137cacd647ae83693b69676f267bfdddb39eaa80d80cf"
+ },
+ "83": {
+  "text": "A vowel is a speech sound.",
+  "duration": 2.723,
+  "bytes": 9286,
+  "sha256": "bf38cefbc2f6a7a73aefdc10e9c177655559768e5d666e4018dd45d870820d7f"
+ },
+ "84": {
+  "text": "B is a consonant.",
+  "duration": 2.166,
+  "bytes": 7359,
+  "sha256": "af44b9d6c35317c0a26ecf3beee521266565c3e7405d1f821c66200cd2116b86"
+ },
+ "85": {
+  "text": "She is my friend.",
+  "duration": 2.096,
+  "bytes": 6894,
+  "sha256": "ab52124c5100678a9fe4e2c6405b3ed4e0b2f34f9bc01a9fbb03bbfeea12b3ed"
+ },
+ "86": {
+  "text": "I like it very much.",
+  "duration": 2.305,
+  "bytes": 7436,
+  "sha256": "6dba885845d34fe18d963e80ef38a61915cd1aec20dfbbd25815f51ed11962ef"
+ },
+ "87": {
+  "text": "This photo is nice.",
+  "duration": 2.305,
+  "bytes": 7729,
+  "sha256": "f432db059513b90e6c631be71ca19e0ab0dc2ca050f6b38cb76f8e2d1a2c10f4"
+ },
+ "88": {
+  "text": "What is this?",
+  "duration": 1.818,
+  "bytes": 5961,
+  "sha256": "ec8190ca9d50dec034ddcff20ea143271ca80977e41597006cc7d745ae07ac5f"
+ },
+ "89": {
+  "text": "Where is my book?",
+  "duration": 1.957,
+  "bytes": 6129,
+  "sha256": "806bc768585079e7c51efa63afb405cce61d636a11a231caba46656ba4d8fb92"
+ },
+ "90": {
+  "text": "The clock is white.",
+  "duration": 2.166,
+  "bytes": 6999,
+  "sha256": "842ed3f81a7e07cc18a6783eefea29a11176496639dced5b9ebe71e2736735c0"
+ },
+ "91": {
+  "text": "The duck is yellow.",
+  "duration": 2.166,
+  "bytes": 6934,
+  "sha256": "bf2182b33d384c3677c3b95ebc7e286f23bf58b7486645b5b11149e688286608"
+ },
+ "92": {
+  "text": "The song is long.",
+  "duration": 2.027,
+  "bytes": 6612,
+  "sha256": "54f936695ee8f330f7abda139d4d70aed0ad1b0b3f2f3e63526d19fcfc7e5828"
+ },
+ "93": {
+  "text": "The song is nice.",
+  "duration": 2.096,
+  "bytes": 6913,
+  "sha256": "b57fddfdb31bad5d8d23e7d427ee20e6d700d7f92c8bb8b19afa040a7ac9d92d"
+ },
+ "94": {
+  "text": "I speak English.",
+  "duration": 2.096,
+  "bytes": 6944,
+  "sha256": "c4e9737944b7f08441a29f894ac89260cafd6ed5d7229ab094d05c9e5fc6a62d"
+ },
+ "95": {
+  "text": "The paper is white.",
+  "duration": 2.166,
+  "bytes": 7071,
+  "sha256": "f0eeab652a0697e2546f2f05aa6753632a4ce55d76a1fa8e08db10ed21833d48"
+ },
+ "96": {
+  "text": "The word \"night\" has silent letters.",
+  "duration": 3.281,
+  "bytes": 11596,
+  "sha256": "12635957dd64fe4de28a8e557af6c00c650a559120a90a59de2b49664fd67f52"
+ },
+ "97": {
+  "text": "The chef is happy.",
+  "duration": 2.096,
+  "bytes": 6874,
+  "sha256": "9b4bc807dfaae20e593c784b5c64aa998e3d1a63d2cbef9f8abc77a7360f24e5"
+ },
+ "98": {
+  "text": "A, E, I, O, U are vowels.",
+  "duration": 3.002,
+  "bytes": 10572,
+  "sha256": "113834632b3e6f539c04b5e48aa5b76b1fee7826e67ca36d9f071dde36801461"
+ },
+ "99": {
+  "text": "I like English.",
+  "duration": 1.957,
+  "bytes": 6447,
+  "sha256": "bf5911ae7b125663df85ed3e9ddad5cc99713b0f1a259e94b8a659f2a3a7522c"
+ },
+ "100": {
+  "text": "I am Uzbek.",
+  "duration": 1.818,
+  "bytes": 5746,
+  "sha256": "614a45b775127d456f1668bb632f31800468e566727d6dc70d806035e8a983d4"
+ },
+ "101": {
+  "text": "My friend is from Uzbekistan.",
+  "duration": 3.141,
+  "bytes": 10883,
+  "sha256": "a64be54f2ee293b7b0c969f6f9424e1c3633919afd8edfd9076981c7002a67b0"
+ },
+ "102": {
+  "text": "I am Ali.",
+  "duration": 1.678,
+  "bytes": 5359,
+  "sha256": "e39fc6b7f19efa2412a112e2fcd84ce7eec5f4eaebab6ecc41e9408d80ca4c69"
+ },
+ "103": {
+  "text": "She lives in Tashkent.",
+  "duration": 2.445,
+  "bytes": 7963,
+  "sha256": "37ba7e248a5bf52441a423647d7cc5ba3159a4de6de16f7981821ba8b4ab2d47"
+ },
+ "104": {
+  "text": "We study English on Monday.",
+  "duration": 2.723,
+  "bytes": 9153,
+  "sha256": "5f057f1c0791ccc5abad788af50973e544aa2c3003adf48ddb82d7bb6d5e0355"
+ },
+ "105": {
+  "text": "I see a CAT.",
+  "duration": 1.818,
+  "bytes": 6094,
+  "sha256": "e10f93572231cbee880321b010a20a2d77b3f30ff5dc52b30b64a6a9c4b681e7"
+ },
+ "106": {
+  "text": "This is a PEN.",
+  "duration": 2.096,
+  "bytes": 6537,
+  "sha256": "c54d1b66515913d3ef762faeba28d2ab2d7fd1bd0dfa4edbcdef9244958c464b"
+ },
+ "107": {
+  "text": "The BOX is big.",
+  "duration": 2.793,
+  "bytes": 9745,
+  "sha256": "0e3e1728f085cfdca1c2f1d77609c14e869e2c69a294b18906a721ce54c94df6"
+ },
+ "108": {
+  "text": "My friend lives in Tashkent.",
+  "duration": 2.932,
+  "bytes": 9954,
+  "sha256": "8bd0d8a8f7c4bae490303f5f46adcd9ced7b65f76d7732916a93d3b8026e1342"
+ },
+ "109": {
+  "text": "I can read A, B, C, D, E.",
+  "duration": 2.793,
+  "bytes": 9844,
+  "sha256": "e53d910edb1e992b52a6063319d78a90373926efa021e5fcf4967d26a765186b"
+ },
+ "110": {
+  "text": "I can read F, G, H, I, J.",
+  "duration": 3.002,
+  "bytes": 10474,
+  "sha256": "29466cecfd9237716102f02a83fec388c8a9e860fb8fc5bb5438812ad1afef1f"
+ },
+ "111": {
+  "text": "ALI is a name.",
+  "duration": 2.027,
+  "bytes": 6806,
+  "sha256": "f92e80ed6c764c0174dc26d9e02ff5bd5e314f1d2024bc0a8fd9f62bf180514b"
+ },
+ "112": {
+  "text": "March is a spring month.",
+  "duration": 2.584,
+  "bytes": 8727,
+  "sha256": "cf67a654a719f3010aeae04bb04c3ff45a1fc8d855bbd87987569b137d1e07ba"
+ },
+ "113": {
+  "text": "I can read A, B, C.",
+  "duration": 2.305,
+  "bytes": 7964,
+  "sha256": "4f140576ef85f1b5c3abbe34c8bd6dd0e13066a6c45f13418dfaec49a72cf6b6"
+ },
+ "114": {
+  "text": "I can say a, b, c, d!",
+  "duration": 2.584,
+  "bytes": 9002,
+  "sha256": "9c67eefbb94939d8ec8e8cd4e56b3f96a238198af14ea3754900114374f1c97f"
+ },
+ "115": {
+  "text": "The letter \"a\" is in \"cat\".",
+  "duration": 2.793,
+  "bytes": 9483,
+  "sha256": "2a0a5102ba0968d62657bf861c1899b4ce299132d101a8eaeda9d5a0f8d05168"
+ },
+ "116": {
+  "text": "The letter \"A\" is first.",
+  "duration": 2.654,
+  "bytes": 9232,
+  "sha256": "1ca5389c9aad3637bbf24a607d504b2a3569720c6f14ac0ed861c804ac1cd753"
+ },
+ "117": {
+  "text": "Yes, I can.",
+  "duration": 1.748,
+  "bytes": 5740,
+  "sha256": "0a0bc30e873d5f9f725d75ea2a9dc4e4c5653719780d6105608cd1d2caa46e50"
+ },
+ "118": {
+  "text": "The letter \"O\" is in \"box\".",
+  "duration": 2.863,
+  "bytes": 9511,
+  "sha256": "3aaea7c6a7189d0b5294a5ebc98acb9c0b3043bc06c8ebed0d8d178cc081d259"
+ },
+ "119": {
+  "text": "The letter \"E\" is in \"pen\".",
+  "duration": 2.863,
+  "bytes": 9636,
+  "sha256": "92ae5f1c441d7f37fe4b67864f46e90856818e23e1bcdb0c82ff90a625865932"
+ },
+ "120": {
+  "text": "A is a vowel.",
+  "duration": 1.887,
+  "bytes": 6065,
+  "sha256": "04c67abf777e7721af87b37e54e30c7b8d4f5d699c2786d8db25107e242f74e8"
+ },
+ "121": {
+  "text": "The letter \"s\" is in \"sun\".",
+  "duration": 2.793,
+  "bytes": 9643,
+  "sha256": "53cd79beb8af7e5c1c396cb865287f1c79475446398c3635b8060748b05fd54c"
+ },
+ "122": {
+  "text": "The letter \"h\" is in \"house\".",
+  "duration": 2.863,
+  "bytes": 9806,
+  "sha256": "91e920e10a338cf69a013a6919fdb669828153e569b3604bcbc5128455cbe2c4"
+ },
+ "123": {
+  "text": "The letter \"i\" is in \"fish\".",
+  "duration": 2.793,
+  "bytes": 9531,
+  "sha256": "dc5340053948bb492198e1cf19a4ea1e469b23fb57c10b62b12c46dffc3340ef"
+ },
+ "124": {
+  "text": "The letter \"p\" is in \"pen\".",
+  "duration": 2.793,
+  "bytes": 9295,
+  "sha256": "55869039f85c8c64876553cc89ae869093f364d5318c704529853f6c533a693e"
+ },
+ "125": {
+  "text": "The shop is big.",
+  "duration": 2.027,
+  "bytes": 6364,
+  "sha256": "c8d8c5f8f7c76a5bf5a55edbe347fdb9b0473b62140675ff7766d1b4a84c7a52"
+ },
+ "126": {
+  "text": "The chorus is loud.",
+  "duration": 2.236,
+  "bytes": 7410,
+  "sha256": "0d078d0a479ce8bb8f32d925cf95aa98c2ab05381f37507ddc913285383f3a28"
+ },
+ "127": {
+  "text": "The elephant is big.",
+  "duration": 2.236,
+  "bytes": 7333,
+  "sha256": "1ba8b4c1e08dcaf4f31d2baa994976b8b75e126e81b971435cc57c7af561b081"
+ },
+ "128": {
+  "text": "He is my brother.",
+  "duration": 2.027,
+  "bytes": 6678,
+  "sha256": "4b47da8294d527e85bc4280ce1a40008211707950d7d99d6ef57422292bc633e"
+ },
+ "129": {
+  "text": "The sound \"sh\" is in \"ship\".",
+  "duration": 2.863,
+  "bytes": 9960,
+  "sha256": "7cbe7008a997f643cbb4315e2ff3471f83d85db8196c403e9f8c68ccef59b6f2"
+ },
+ "130": {
+  "text": "The sound \"ch\" is in \"chair\".",
+  "duration": 2.932,
+  "bytes": 10169,
+  "sha256": "e71446fde554ff682b9f414b5c7d260655af54579e2c4a9e7fe7a875cb3f41cb"
+ },
+ "131": {
+  "text": "The sheep is white.",
+  "duration": 2.236,
+  "bytes": 7545,
+  "sha256": "44f805e2f6dfc4b7acfce5b2db1669dc54599df18372cad65bc143f5e9908469"
+ },
+ "132": {
+  "text": "I take a bath.",
+  "duration": 1.887,
+  "bytes": 6000,
+  "sha256": "ef7a1fa1184d4e5d57aa8301f5d4b9ac75f3fa0f453d9c1387ae33c1e937e7aa"
+ },
+ "133": {
+  "text": "I make a cake.",
+  "duration": 1.887,
+  "bytes": 5863,
+  "sha256": "4f62878aa11213d5941198f53e659bcdda2bce80e48aeced42fcf79918c28883"
+ },
+ "134": {
+  "text": "What time is it?",
+  "duration": 1.957,
+  "bytes": 6288,
+  "sha256": "910a9f9c0d717ad57c53ddb6c41ba69f1aea27673b984e87648657591c99842f"
+ },
+ "135": {
+  "text": "I go home.",
+  "duration": 1.678,
+  "bytes": 5269,
+  "sha256": "f3e84b520117bf98d5e02ae5572622d7b7de07f3c379406da8b44571e173cb24"
+ },
+ "136": {
+  "text": "I have five books.",
+  "duration": 2.166,
+  "bytes": 7019,
+  "sha256": "9e23ba2f71942b78d8168a83a6ff937a696813a4df5f2098ba8b8730ad293a3c"
+ },
+ "137": {
+  "text": "This is my thumb.",
+  "duration": 2.096,
+  "bytes": 6877,
+  "sha256": "2bfec6cfc3dad1ba7e29e2d85020616594a4fe49a74877bfd368971c7444fd33"
+ },
+ "138": {
+  "text": "I can climb a tree.",
+  "duration": 2.236,
+  "bytes": 7340,
+  "sha256": "614acb49a479cf3d97aa04764b38e1a48618238db51d54c3473aa907818cd152"
+ },
+ "139": {
+  "text": "The comb is black.",
+  "duration": 2.166,
+  "bytes": 6943,
+  "sha256": "c48ca67be11d649818bc70ce043e77cfd0eb606e801fee9fe40e714447c058f7"
+ },
+ "140": {
+  "text": "The tree is high.",
+  "duration": 1.957,
+  "bytes": 6410,
+  "sha256": "c9528f08aff571a3de47f5ba3e1bb518fbb29448d9ba9caafc05664b84445464"
+ },
+ "141": {
+  "text": "The light is on.",
+  "duration": 1.957,
+  "bytes": 6259,
+  "sha256": "125ac1e7c7a850748d959baf0d1e7eb1859faf9283971ab4762c961c72c9179c"
+ },
+ "142": {
+  "text": "This is right.",
+  "duration": 1.957,
+  "bytes": 6229,
+  "sha256": "5a9ec69d8a429d5d44ea80b7275edaffea3c17cd2a9f5b87c4e061827122c17c"
+ },
+ "143": {
+  "text": "I like it, though it is cold.",
+  "duration": 2.723,
+  "bytes": 9161,
+  "sha256": "29fe3e06ca47b9e9e49eb96aaec75008427e5254acd77c1daa8988b4d513230d"
+ },
+ "144": {
+  "text": "This is my knee.",
+  "duration": 2.096,
+  "bytes": 6720,
+  "sha256": "21d63f3d726515cdfa9b8e2a24ae8a38a2a44d947a00f14d600563e67610bdfe"
+ },
+ "145": {
+  "text": "I write my name.",
+  "duration": 2.027,
+  "bytes": 6667,
+  "sha256": "715e474cacf4c5e7d748f3d9921adee9ea64c09dde9fc78f6d43f2add553cf11"
+ },
+ "146": {
+  "text": "This is wrong.",
+  "duration": 1.887,
+  "bytes": 5960,
+  "sha256": "bee980cbd776e14443e2c38835a1072da471a56ed90f8a2df78167e95468a0e2"
+ },
+ "147": {
+  "text": "I could swim.",
+  "duration": 1.818,
+  "bytes": 5775,
+  "sha256": "0cd1f9c855bb18199e0b23324e6d1b03dd8d0b34f3d5b6f730635e6e2054452c"
+ },
+ "148": {
+  "text": "I would like tea.",
+  "duration": 1.957,
+  "bytes": 6345,
+  "sha256": "8bc2f8a8d3ac440a6cba21b9304433adba846b5803e58460ae0dadf23c48e426"
+ },
+ "149": {
+  "text": "I should go home.",
+  "duration": 1.957,
+  "bytes": 6325,
+  "sha256": "7d1968e9af24b22348b1a0bffe1d5f8e570781eda053cc02d60479055f0023e7"
+ },
+ "150": {
+  "text": "Autumn is cool.",
+  "duration": 1.957,
+  "bytes": 6323,
+  "sha256": "0a21b9bb4e0f4208edba3aad6e833dc772b2c098ca9c58804ee24bd550601c7c"
+ },
+ "151": {
+  "text": "The column is tall.",
+  "duration": 2.236,
+  "bytes": 7317,
+  "sha256": "7d8f8ea0d570f93a0c11aa708e40ce598fd134bd734c8685a251c9f118eccb93"
+ },
+ "152": {
+  "text": "The hymn is slow.",
+  "duration": 2.027,
+  "bytes": 6595,
+  "sha256": "bfc59a5b30f3cb1d1856e56ab24f8b3f266eb6d570ae1656a1b6c155fd1ee9ac"
+ },
+ "153": {
+  "text": "The ballet is nice.",
+  "duration": 2.236,
+  "bytes": 7538,
+  "sha256": "3236450faf9c90170e4256399df0678d273109f2b6475d0775cfe54c4aa1addb"
+ },
+ "154": {
+  "text": "The buffet is big.",
+  "duration": 2.027,
+  "bytes": 6433,
+  "sha256": "8c577e6a1cedbf26ffa72cb64fdc2117bb17bd036ffa09b5a8be5c5260589019"
+ },
+ "155": {
+  "text": "The debut is new.",
+  "duration": 2.027,
+  "bytes": 6685,
+  "sha256": "00970fb31467a5e1aeeb66b6178db349e8d261574cdd5c24cdd4034899132a71"
+ },
+ "156": {
+  "text": "I can read \"name lamb listen knee write\".",
+  "duration": 3.698,
+  "bytes": 12893,
+  "sha256": "a354eb74780ca76fe2ea79f606cbafc7d04acc30165effb35b3aa26501124180"
+ },
+ "157": {
+  "text": "I cough in winter.",
+  "duration": 2.027,
+  "bytes": 6733,
+  "sha256": "71e370dabb0e8a86c511443f6c31f0e1e7340c40e8d4849d8c63f08941f66e8f"
+ },
+ "158": {
+  "text": "He is an actor.",
+  "duration": 2.027,
+  "bytes": 6509,
+  "sha256": "86a8db47f8e9a0ee50434d49686820d09f4c0d22d50c0a65cd3f1f45dcc41fe1"
+ },
+ "159": {
+  "text": "Ali is my friend.",
+  "duration": 2.166,
+  "bytes": 7061,
+  "sha256": "ee3e5809cd7cee4105a35ab880cffa5f5b75a6598f180a73644cc9a0972ed2dc"
+ },
+ "160": {
+  "text": "This is Ali's pen.",
+  "duration": 2.096,
+  "bytes": 6910,
+  "sha256": "4676f035328ed62c37f73f27ff86c56e1a625f7121777925d5d4ba1d79be2bd5"
+ },
+ "161": {
+  "text": "I am happy.",
+  "duration": 1.748,
+  "bytes": 5473,
+  "sha256": "2adb73e2cb9149201a1ca58e759d61d3ac6c522ecc24fe99f3f6c534ff0a3ae2"
+ },
+ "162": {
+  "text": "The dog is an animal.",
+  "duration": 2.375,
+  "bytes": 8393,
+  "sha256": "9a67b5c179e39e5406f9063ea22d6d0120696d242e74cf0d2d2c6f84a445ef39"
+ },
+ "163": {
+  "text": "This is an apple.",
+  "duration": 2.236,
+  "bytes": 7042,
+  "sha256": "0b223d2f001525e1b5e357bb5238c3103749c33df0f719c974a4ecdbeba0d790"
+ },
+ "164": {
+  "text": "These apples are sweet.",
+  "duration": 2.584,
+  "bytes": 8581,
+  "sha256": "0a3b4a146a93f75125f4ee35246b86aa6974bc03e9055ef30c3139943ce9fea2"
+ },
+ "165": {
+  "text": "We are friends.",
+  "duration": 1.957,
+  "bytes": 6311,
+  "sha256": "0b3e282014b7b137daa77a395fe7210e751baf3ba1740a0d9863922c61d0a044"
+ },
+ "166": {
+  "text": "This is my bag.",
+  "duration": 2.027,
+  "bytes": 6478,
+  "sha256": "e71f26797b866a31f69b499bd06949fefc5db1d1cdab28f7317f2f09c004c5dd"
+ },
+ "167": {
+  "text": "These bags are new.",
+  "duration": 2.236,
+  "bytes": 7445,
+  "sha256": "85ab30eb9ede1b513552a7b4f93c751789b8006cccca83ec03cc3de3bd792daa"
+ },
+ "168": {
+  "text": "The ball is blue.",
+  "duration": 2.096,
+  "bytes": 6621,
+  "sha256": "7443ed06e3d750cfe48cefbab21b9bc37022734fb160abf0d5405b5d8e7aebc1"
+ },
+ "169": {
+  "text": "This is a banana.",
+  "duration": 2.236,
+  "bytes": 7157,
+  "sha256": "14401913cf97cea1278b7d8816fd3cf477b8a13e514055c253e0425a0389d439"
+ },
+ "170": {
+  "text": "The house is big.",
+  "duration": 2.027,
+  "bytes": 6479,
+  "sha256": "dff435c21be203573aae969b65517a50a4d443ea820a8db663709005ba7080eb"
+ },
+ "171": {
+  "text": "The cat is black.",
+  "duration": 2.096,
+  "bytes": 6789,
+  "sha256": "69fc2624a9b90e4fb602ccbb270987d49c69d5b07a0eeb353efce4da38cca936"
+ },
+ "172": {
+  "text": "This ball is blue.",
+  "duration": 2.166,
+  "bytes": 7069,
+  "sha256": "e90bede1f0051901933fdaa64993e866043546dbbbf274b706176d55f711fb65"
+ },
+ "173": {
+  "text": "This is a book.",
+  "duration": 2.027,
+  "bytes": 6440,
+  "sha256": "97e7f489ae3408bcdc0c6bec333f96a50d20a922f14407e6a08d259ceaa78fc4"
+ },
+ "174": {
+  "text": "These books are new.",
+  "duration": 2.305,
+  "bytes": 7389,
+  "sha256": "5b797fd4c5ddd5b6e18425bf44ce5fba167d4cc9c7cf09f44d56753fb2becca3"
+ },
+ "175": {
+  "text": "The box is big.",
+  "duration": 2.027,
+  "bytes": 6349,
+  "sha256": "f8259996d975cd18d63454833a29e1ad4120e337a1053a890aaf50d3b567f13b"
+ },
+ "176": {
+  "text": "Those boxes are old.",
+  "duration": 2.375,
+  "bytes": 7774,
+  "sha256": "1e486edb763c64d0955356f56c853184360e89fbbf64257980d75224722ad364"
+ },
+ "177": {
+  "text": "He is a boy.",
+  "duration": 1.818,
+  "bytes": 5720,
+  "sha256": "92c461db432a8e6cb734b5b54fc08e2f99937b01f68e7e64c0849967fd59a681"
+ },
+ "178": {
+  "text": "They are boys.",
+  "duration": 1.887,
+  "bytes": 6035,
+  "sha256": "7d0813df7f96d699b28299d6e857b479a8c2179a0642321b2df3bc75464ef801"
+ },
+ "179": {
+  "text": "This is the boys' room.",
+  "duration": 2.375,
+  "bytes": 7824,
+  "sha256": "741c870e2a1ab212a3692f4001e906381c0873e7fbe4da690c40f7275e03a9d8"
+ },
+ "180": {
+  "text": "This is the boy's bag.",
+  "duration": 2.305,
+  "bytes": 7634,
+  "sha256": "980c3cf59523e6e6c4ad7515ef842b62d1ea2aea737d4e2bc0ad01a232081429"
+ },
+ "181": {
+  "text": "He is my brother.",
+  "duration": 2.027,
+  "bytes": 6620,
+  "sha256": "3a478c823c20a1ea46cab28dbfc7846af8c1c2b29ecf66fbf21624290fe82a20"
+ },
+ "182": {
+  "text": "The bus is new.",
+  "duration": 1.957,
+  "bytes": 6351,
+  "sha256": "3163d8704c3ac3eb6890f45d1b34d9197fdb8a8bc39bf9c83f885296c7e231fa"
+ },
+ "183": {
+  "text": "Those buses are red.",
+  "duration": 2.305,
+  "bytes": 7581,
+  "sha256": "40fe2fc769e46d4dade6bf8a2928402da28029dcbd15b868f9480070c51e463f"
+ },
+ "184": {
+  "text": "My parents have a car.",
+  "duration": 2.514,
+  "bytes": 8494,
+  "sha256": "603492b037d9a328bc8a5f50028f6d0de6039350f34004e4dec071dbc6e8fd74"
+ },
+ "185": {
+  "text": "The cat is small.",
+  "duration": 2.166,
+  "bytes": 6901,
+  "sha256": "b33279cf68f953f7d243177d6c6a98174548957704de5a70b383ee6c22c4b5c9"
+ },
+ "186": {
+  "text": "Those cats are white.",
+  "duration": 2.375,
+  "bytes": 7798,
+  "sha256": "bbb26768e722ee1235fe326edbb7759b105446e739a6131a5491d891297fcea9"
+ },
+ "187": {
+  "text": "She has a child.",
+  "duration": 2.027,
+  "bytes": 6797,
+  "sha256": "18c005fd4d2ad285fa0422de94b48417c261ba01e0fe761b52a94d88451674ce"
+ },
+ "188": {
+  "text": "These children are happy.",
+  "duration": 2.514,
+  "bytes": 8449,
+  "sha256": "f775291968a7e7c7bc8129b11ba878773cdc10c17415fe28b230288a1e4a9a54"
+ },
+ "189": {
+  "text": "Tashkent is a big city.",
+  "duration": 2.514,
+  "bytes": 8617,
+  "sha256": "09ee57b9221bec0f1ea164eefbdfd271c2e27fad9ae3a71a5d32296ceb97bac0"
+ },
+ "190": {
+  "text": "Our class is big.",
+  "duration": 2.236,
+  "bytes": 7651,
+  "sha256": "d92c0509f6f662158e90f29d91844fa2410597eb59e131db9fd2b05b2a73c6e0"
+ },
+ "191": {
+  "text": "These classes are big.",
+  "duration": 2.514,
+  "bytes": 8249,
+  "sha256": "f0a01e0d12b68598f393faff75d2a8b166d2dd6e8dd6f85e776f71032b86c391"
+ },
+ "192": {
+  "text": "The cup is on the table.",
+  "duration": 2.514,
+  "bytes": 8096,
+  "sha256": "36cc22f41cdf10cda9f870d5c1ffa1ebde35ed572822297cf2970f56b244df19"
+ },
+ "193": {
+  "text": "This dish is clean.",
+  "duration": 2.305,
+  "bytes": 7470,
+  "sha256": "dba8897c57abdd08a7f1ca254b5cd3ab3c832570276c2b8a81933a20b18f66dc"
+ },
+ "194": {
+  "text": "These dishes are clean.",
+  "duration": 2.514,
+  "bytes": 8329,
+  "sha256": "44484b74c3ac0bce6068f50916321fd70ad4bd9dd292450d9c266749ad000039"
+ },
+ "195": {
+  "text": "Do you like tea?",
+  "duration": 1.818,
+  "bytes": 5961,
+  "sha256": "71830b7dc5ff5f617d4a967d17dd1cde3b38a380563741b365a1bc8e47358f38"
+ },
+ "196": {
+  "text": "He is a doctor.",
+  "duration": 2.027,
+  "bytes": 6448,
+  "sha256": "da51aa2d1a714057c16fead7ce6c12bfa32e913a97307e1507078c80b065daa3"
+ },
+ "197": {
+  "text": "Does she like tea?",
+  "duration": 2.096,
+  "bytes": 6838,
+  "sha256": "9a12e26e8e01ff319f8aeab278cfb2650102c7efd1f6cf92815026438a758886"
+ },
+ "198": {
+  "text": "She doesn't like tea.",
+  "duration": 2.166,
+  "bytes": 7216,
+  "sha256": "186619c4ca5bbde15d39c44c3bfe18139e4917c864355037c78f1fa5ee6a194d"
+ },
+ "199": {
+  "text": "The dog is big.",
+  "duration": 1.887,
+  "bytes": 6076,
+  "sha256": "07f161f9e29b8a9e5abe01daeae5fda7f8a250570db4b36623d8f4278b7ec571"
+ },
+ "200": {
+  "text": "These dogs are small.",
+  "duration": 2.514,
+  "bytes": 8284,
+  "sha256": "87c2840ba209acdb25697280290b8a5fef28e07fb49eca1ca121e179f9c681f5"
+ },
+ "201": {
+  "text": "We don't have a car.",
+  "duration": 2.096,
+  "bytes": 6898,
+  "sha256": "a35580a5ee9f26559e37b2bffe55bda9177cb7fd01520e0d7571e5b9e2f481fe"
+ },
+ "202": {
+  "text": "The door is open.",
+  "duration": 2.027,
+  "bytes": 6455,
+  "sha256": "e793c9539dea8b85998465af6a9838bc448f9fb7beb6a7e414333c5c634858cc"
+ },
+ "203": {
+  "text": "I drink water.",
+  "duration": 1.818,
+  "bytes": 6034,
+  "sha256": "bd3d5c3818cbbdf979eda0d62ab9275f720e6d0e80c11d60c56aec3271a5ebe1"
+ },
+ "204": {
+  "text": "He is a driver.",
+  "duration": 2.027,
+  "bytes": 6566,
+  "sha256": "9075aac5fa3965d4bf75adedbbb1866b09abae450af1456d6aa31fa6daa1c4bb"
+ },
+ "205": {
+  "text": "This is an egg.",
+  "duration": 2.027,
+  "bytes": 6402,
+  "sha256": "076577f8a978b93205c94a7baeeb2af9238ec3416cdc5f68e721c7114a02dcc2"
+ },
+ "206": {
+  "text": "He is an engineer.",
+  "duration": 2.166,
+  "bytes": 7102,
+  "sha256": "4bc47a169f5f7ee0df04c107c9a7cbeb0afed6f0f16f61284553ff42c01ec803"
+ },
+ "207": {
+  "text": "My feet are cold.",
+  "duration": 2.096,
+  "bytes": 7075,
+  "sha256": "c0b870fd37e9532c440adefc1bd137d91e195450f4feba0f37150dc20fc5bdd8"
+ },
+ "208": {
+  "text": "I have five books.",
+  "duration": 2.166,
+  "bytes": 6977,
+  "sha256": "ecdd4ed345654712ab07aa64603700d85b4d2d5f436441b137f36d1cd3431695"
+ },
+ "209": {
+  "text": "This flower is beautiful.",
+  "duration": 2.584,
+  "bytes": 8607,
+  "sha256": "fea7afa98483dc2816bd24da26727023ad1b2c8658cce99d220bd6062f2db25d"
+ },
+ "210": {
+  "text": "This is my foot.",
+  "duration": 2.166,
+  "bytes": 7115,
+  "sha256": "1c041a47ac2b68c706309c322df7c1865a366749fe7287c7ad767ae7755da899"
+ },
+ "211": {
+  "text": "She is my friend.",
+  "duration": 2.096,
+  "bytes": 6652,
+  "sha256": "ea2994112b11f8300821a83a228ada0e7a3661331d1b946850ece3da5013860e"
+ },
+ "212": {
+  "text": "They are my friends.",
+  "duration": 2.305,
+  "bytes": 8029,
+  "sha256": "83d9288d280bc9dd700e12bc36351569f315732c82feb72eb93a0756dcffe602"
+ },
+ "213": {
+  "text": "They are in the garden.",
+  "duration": 2.305,
+  "bytes": 7509,
+  "sha256": "5fa2bcf0084cb11c38e1d4108544434018f8e3358f9863aa6d06037aee1616f6"
+ },
+ "214": {
+  "text": "Those geese are white.",
+  "duration": 2.305,
+  "bytes": 7883,
+  "sha256": "4af2a43991a7c1740148817420824d9ce50f7a6e7ed4758033feb7ee7bb6cdcc"
+ },
+ "215": {
+  "text": "She is a girl.",
+  "duration": 1.957,
+  "bytes": 6380,
+  "sha256": "b7c6dc92c3ecabeb5e857b654075b6e550ac1753fce8943a721ac89d4dcedb94"
+ },
+ "216": {
+  "text": "The book is good.",
+  "duration": 2.027,
+  "bytes": 6403,
+  "sha256": "e432320b2f2467f5aa8a988a28c90a590c8eefb0460a9e9c3ac7009045bcc1ec"
+ },
+ "217": {
+  "text": "That goose is big.",
+  "duration": 2.166,
+  "bytes": 7145,
+  "sha256": "efa67a195659295ffbc025b1b251e3c7d60c21eabff5f6846c84d0448b3863aa"
+ },
+ "218": {
+  "text": "The apple is green.",
+  "duration": 2.166,
+  "bytes": 7168,
+  "sha256": "81efb5e6de26a8670eddadbaa5712e8e3abec6f060d6e0ea0991f15a93e7edfc"
+ },
+ "219": {
+  "text": "She has a cat.",
+  "duration": 1.957,
+  "bytes": 6327,
+  "sha256": "459319b644aa03ff1863ad5c2365ff8779662308e1dfd29f6e5a6b96c160238c"
+ },
+ "220": {
+  "text": "I have a book.",
+  "duration": 1.887,
+  "bytes": 5728,
+  "sha256": "cf492e5aee68ce41facf0390ca6ab997cfe35f04d1579aa47d3744dde0e9947e"
+ },
+ "221": {
+  "text": "He is happy.",
+  "duration": 1.818,
+  "bytes": 5693,
+  "sha256": "3c3b24fb749f1375cc443cdf7faca5eee916bdf48529842b893886b80506548a"
+ },
+ "222": {
+  "text": "This is her bag.",
+  "duration": 2.027,
+  "bytes": 6467,
+  "sha256": "5d5f4439b0167fde43e74f77cc1074ed229b9f55c6fa21a25d472466e7e42afd"
+ },
+ "223": {
+  "text": "We are here.",
+  "duration": 1.748,
+  "bytes": 5553,
+  "sha256": "786efbd942c61551e206de8d87fca47f54a6007a72c790d6c06f61deb2bdbb1f"
+ },
+ "224": {
+  "text": "This pen is hers.",
+  "duration": 2.096,
+  "bytes": 7070,
+  "sha256": "68a4a85cef9165060e31e592054510136e5c629c7c20b779bdf8e4e061bcae5b"
+ },
+ "225": {
+  "text": "This is his book.",
+  "duration": 2.166,
+  "bytes": 6703,
+  "sha256": "29ff3de440e179c66ac694ada0c7479c33c7c8943ff863f93b0e586d82e5002c"
+ },
+ "226": {
+  "text": "I am at home.",
+  "duration": 1.818,
+  "bytes": 5857,
+  "sha256": "8c658f617c718a0a78ebcda8b60c0789f51e0863ca74ec90c7f798e91d237b0e"
+ },
+ "227": {
+  "text": "The film is an hour long.",
+  "duration": 2.514,
+  "bytes": 8377,
+  "sha256": "ef8b9ab8d12a5d9973031fb0e1cbf149cb3bde02b3f9eb05b9e6d1646a3896c5"
+ },
+ "228": {
+  "text": "This is our house.",
+  "duration": 2.236,
+  "bytes": 7130,
+  "sha256": "4c8fcd3b29a20753ab32fa113734ebad713c53bf732bf7bde522e645ababbb28"
+ },
+ "229": {
+  "text": "I am a student.",
+  "duration": 2.027,
+  "bytes": 6610,
+  "sha256": "8c36cba86c65f12a045ddb366ebcb47b372f7144605bd85ca34f8a220d50c3a0"
+ },
+ "230": {
+  "text": "Water is important.",
+  "duration": 2.305,
+  "bytes": 7598,
+  "sha256": "d6ca7a9063f070aa38e175cb3d65b6c0efe3a11768115dd593155e747c8fe3ab"
+ },
+ "231": {
+  "text": "The book is interesting.",
+  "duration": 2.514,
+  "bytes": 8227,
+  "sha256": "7dd102d1bbcaefab9e3d808dd28c85483e1dc1fb9b323dbe18e47ab418f766f0"
+ },
+ "232": {
+  "text": "She is a teacher.",
+  "duration": 2.166,
+  "bytes": 6916,
+  "sha256": "c4e81b926a86deed0873c603529e0f00d9f8fd48a5baa83fa3ec340f2e80c42f"
+ },
+ "233": {
+  "text": "It is new.",
+  "duration": 1.748,
+  "bytes": 5557,
+  "sha256": "bdfb9c3d7b82046768ebc63f8307761d37b888f5863260d7eef902f5b7db8820"
+ },
+ "234": {
+  "text": "Its tail is long.",
+  "duration": 2.236,
+  "bytes": 7352,
+  "sha256": "e9e338de9c57673cd432bdf95aaca9f58ca6c38689900755f4baac1e2fd5c02d"
+ },
+ "235": {
+  "text": "She is kind.",
+  "duration": 1.818,
+  "bytes": 5830,
+  "sha256": "af76d7f830bb50fdf4a1cde183a1eac806e0973e2365aa3706a933b09a4955ae"
+ },
+ "236": {
+  "text": "We are late.",
+  "duration": 1.748,
+  "bytes": 5510,
+  "sha256": "d1828dad6d51393263147b1100b6ca8bee4b6f92655edf88db356cce55966775"
+ },
+ "237": {
+  "text": "London is a big city.",
+  "duration": 2.375,
+  "bytes": 7956,
+  "sha256": "85882c6c58163b40df0e6c5e2a0851babbbd7d96012f875226744c03d798bf5c"
+ },
+ "238": {
+  "text": "Madina is my friend.",
+  "duration": 2.375,
+  "bytes": 7918,
+  "sha256": "4cc73ef9c01c9097a0fd33f82e059590f1552eb852e01367fa3286b81b9cbdd8"
+ },
+ "239": {
+  "text": "He is a man.",
+  "duration": 1.818,
+  "bytes": 5745,
+  "sha256": "92370fb75014c23ddda8960148e7910b29d4aeac33eb97a0af70817a4da93c76"
+ },
+ "240": {
+  "text": "They are men.",
+  "duration": 1.748,
+  "bytes": 5463,
+  "sha256": "0cca65de92c6bb315ac33adbdaa39259d35fff8a6b9970820343ff4da1a52b2c"
+ },
+ "241": {
+  "text": "These mice are small.",
+  "duration": 2.445,
+  "bytes": 8387,
+  "sha256": "16fb02b067c0a03cc425ec7f437f3d0d4265d7833919f6aa0443c606ba4a3134"
+ },
+ "242": {
+  "text": "I drink milk.",
+  "duration": 1.818,
+  "bytes": 5716,
+  "sha256": "32f43776a549b5f6f25a038ce3f17e528681a2d196ada2b66ede842ac6dd3358"
+ },
+ "243": {
+  "text": "This book is mine.",
+  "duration": 2.166,
+  "bytes": 6962,
+  "sha256": "19c8f4e22e73354909aa419f2de01b88b0fa2eb5b6a8dc308425f8e0e568c180"
+ },
+ "244": {
+  "text": "She is my mother.",
+  "duration": 2.096,
+  "bytes": 6711,
+  "sha256": "09091b9dc1bc748167f3f0bc0f122581475f747f3f768edb18c20b628b342d23"
+ },
+ "245": {
+  "text": "That mouse is small.",
+  "duration": 2.445,
+  "bytes": 8505,
+  "sha256": "b2ad74d4b7ccb89448a8d2b29f7ce02d1c20cc31ec2064df2cc86954c5479ab5"
+ },
+ "246": {
+  "text": "This is my pen.",
+  "duration": 2.027,
+  "bytes": 6819,
+  "sha256": "26428095fd875e947a5c40d3258ab82cd85ea6de0b5ddd23da93ca62256e7bfd"
+ },
+ "247": {
+  "text": "This is my mother's car.",
+  "duration": 2.514,
+  "bytes": 8528,
+  "sha256": "780d5386ebbc5edcfaa54fd6f96aac743dee4993511ef1e46b161e6f6e97f3ea"
+ },
+ "248": {
+  "text": "My name is Ali.",
+  "duration": 2.027,
+  "bytes": 6840,
+  "sha256": "ffded2106cde643eb9404a1e3193595839c3fb4bf6cd16460da61f4eb9e7888b"
+ },
+ "249": {
+  "text": "The phone is new.",
+  "duration": 2.027,
+  "bytes": 6573,
+  "sha256": "6197fc62f1aa6b3c3c9549043d03dbcd49da25c4a6061592e084630a251fd7ba"
+ },
+ "250": {
+  "text": "The birds are noisy.",
+  "duration": 2.375,
+  "bytes": 7997,
+  "sha256": "d01214bafac8c4835dea4fad3f5217a75897131e7b4e44e994f74f0c18ca7da8"
+ },
+ "251": {
+  "text": "I am not tired.",
+  "duration": 1.887,
+  "bytes": 6136,
+  "sha256": "3851600ddbf0aa3e6bc5704c1ae1e4d7a25d110fb1a561d3857697f191275fef"
+ },
+ "252": {
+  "text": "The house is old.",
+  "duration": 2.096,
+  "bytes": 6878,
+  "sha256": "ee7030e34e43d41685d95f8222c7f657d9c2b1299ff426377f663e86871a470a"
+ },
+ "253": {
+  "text": "I have one pen.",
+  "duration": 1.887,
+  "bytes": 6192,
+  "sha256": "774c16eb43900793d7296c5798b52d642fc7bbf7c99ca8546918c57483e9720e"
+ },
+ "254": {
+  "text": "This orange is sweet.",
+  "duration": 2.445,
+  "bytes": 8051,
+  "sha256": "14d7ffe83b34a631a12b38a19f20f735f3c11cb21ccc7dfff240d97bd71bd0f1"
+ },
+ "255": {
+  "text": "This house is ours.",
+  "duration": 2.305,
+  "bytes": 7731,
+  "sha256": "b9264c984f6173895938d9d098f309281c7239123c2a349a7a5402bbbce69508"
+ },
+ "256": {
+  "text": "The park is green.",
+  "duration": 2.096,
+  "bytes": 6873,
+  "sha256": "b6d41bdaa9cfbb11a1ebcb1dcc3b98915a660a33a9bb822a667d800e61cc0668"
+ },
+ "257": {
+  "text": "I have a pencil.",
+  "duration": 2.027,
+  "bytes": 6628,
+  "sha256": "6e049a91b8d615764dad0a56678e82982d81da31ac25f472d9fbb2732db6099b"
+ },
+ "258": {
+  "text": "These pens are blue.",
+  "duration": 2.305,
+  "bytes": 7424,
+  "sha256": "53e3395b232833d9cb0b5bef972c9823a4e1dbfb04763a1fd79c49d1105ad72d"
+ },
+ "259": {
+  "text": "They are good people.",
+  "duration": 2.305,
+  "bytes": 7308,
+  "sha256": "5e7fac4df98433a4cef7766f33fa7a66c8a77a5569aaadf78b1ceb0fd8397fdc"
+ },
+ "260": {
+  "text": "He is a good person.",
+  "duration": 2.375,
+  "bytes": 7731,
+  "sha256": "9146f2c7a0fc7dcdca62b35748ea351ef977ea882c5f208eba0a6ac311e4b160"
+ },
+ "261": {
+  "text": "My sister reads books.",
+  "duration": 2.514,
+  "bytes": 8399,
+  "sha256": "1e4ad2c952e00fbac23e2229231a78b92d223d6b6355c00d62afcacbdaec3337"
+ },
+ "262": {
+  "text": "We are ready.",
+  "duration": 1.818,
+  "bytes": 5745,
+  "sha256": "70c391577a7505861c3f73028b86f7aa0f013e1eea5d87d267327362b68ce825"
+ },
+ "263": {
+  "text": "The apple is red.",
+  "duration": 2.096,
+  "bytes": 6866,
+  "sha256": "c2fe7bcf5c17fadee5588d9ac065abf4c32d3cc2c312dae87722b90c710cc90a"
+ },
+ "264": {
+  "text": "Rice is white.",
+  "duration": 1.887,
+  "bytes": 6090,
+  "sha256": "d86bf5d5ff5248d517be2f9455d4987a90e37337ebf33a6ffc77c824879e5a35"
+ },
+ "265": {
+  "text": "Sam is my friend.",
+  "duration": 2.166,
+  "bytes": 7260,
+  "sha256": "f2cfe0227c701c4e42438e70ce13da3cc73b20542b61a62be4042554383374a5"
+ },
+ "266": {
+  "text": "Sara is kind.",
+  "duration": 1.887,
+  "bytes": 6490,
+  "sha256": "9767c0ee2407106709b439218726cde07836552100f42a3e7af734a12673b5ef"
+ },
+ "267": {
+  "text": "They are at school.",
+  "duration": 2.236,
+  "bytes": 7098,
+  "sha256": "50ab9a9038ca930a0af77a206950a363e4ac58c1ffac822e4910baef6e7922e1"
+ },
+ "268": {
+  "text": "I see a bird.",
+  "duration": 1.818,
+  "bytes": 6015,
+  "sha256": "31701a523b1461032925d2f4d901be84e50d0fafaee2c27f2ab2e1fa1d61954d"
+ },
+ "269": {
+  "text": "She is happy.",
+  "duration": 1.818,
+  "bytes": 5906,
+  "sha256": "827fb809fbe9cefa7a1304eeaea10d67ea1d85879544c38bef77aa18d7f52127"
+ },
+ "270": {
+  "text": "The books are on the shelf.",
+  "duration": 2.654,
+  "bytes": 8689,
+  "sha256": "731c408ab9b7b0db99b71c413735a58f5a1f0912770db2646a344e04c732d733"
+ },
+ "271": {
+  "text": "The soup is hot.",
+  "duration": 2.027,
+  "bytes": 6526,
+  "sha256": "f8a4b64bcc93affd192a5476f4eb506c07e51928b52936d43b3551d66eda80a1"
+ },
+ "272": {
+  "text": "This story is interesting.",
+  "duration": 2.793,
+  "bytes": 9434,
+  "sha256": "3e9a56228cd63114cb8495bdb1543b0849c7a1f92e52a61cf5c756072b7d6512"
+ },
+ "273": {
+  "text": "They are students.",
+  "duration": 2.166,
+  "bytes": 6907,
+  "sha256": "d5632a085e54e89817f6cad6826405a95a47d92cb48d5385378218e3d9dcbb65"
+ },
+ "274": {
+  "text": "The orange is sweet.",
+  "duration": 2.305,
+  "bytes": 7570,
+  "sha256": "732a612c9e905ba46d8bea5ad21d7abfc0cbdd992bf0955ab42628e217479d82"
+ },
+ "275": {
+  "text": "The book is on the table.",
+  "duration": 2.514,
+  "bytes": 8661,
+  "sha256": "01211f54b3d445351342b7d62ab71d5ee0019a0d1bbdce825fef2dc5bfe3bd8e"
+ },
+ "276": {
+  "text": "The cat's tail is long.",
+  "duration": 2.375,
+  "bytes": 8253,
+  "sha256": "de2a9a8fd5048dc144faac2845c322470c44fe044e53ec7656700405b17b2184"
+ },
+ "277": {
+  "text": "I live in Tashkent.",
+  "duration": 2.236,
+  "bytes": 7234,
+  "sha256": "3dfe304707f514f1d4ba133773c9687e0c3a7b23a1301ab8b613a8b920652bb8"
+ },
+ "278": {
+  "text": "My teeth are white.",
+  "duration": 2.166,
+  "bytes": 7029,
+  "sha256": "ecf4924240537ea7f10f285d3e50e389e670d589425e117c034ddcc868a6cd0f"
+ },
+ "279": {
+  "text": "That is my book.",
+  "duration": 2.027,
+  "bytes": 6353,
+  "sha256": "06ce14e5012d6b378809d9c94703ca8e34671c126622df7e7caf965d7da7084d"
+ },
+ "280": {
+  "text": "The girl's bag is pink.",
+  "duration": 2.375,
+  "bytes": 7857,
+  "sha256": "724a3ee98cc12a58f714a1807f334cf6e3018589633c797b5a2cb8f215253abc"
+ },
+ "281": {
+  "text": "These are their books.",
+  "duration": 2.375,
+  "bytes": 7687,
+  "sha256": "0092449e030b14b77bb0b4ecb3c6408578e6105105aecb0a62211dcb4f2168ab"
+ },
+ "282": {
+  "text": "These books are theirs.",
+  "duration": 2.514,
+  "bytes": 8338,
+  "sha256": "1627375a52be8b23faff844cb8face2bde66663ea3d08b0a9a21ce2f167c8c54"
+ },
+ "283": {
+  "text": "These are my keys.",
+  "duration": 2.166,
+  "bytes": 7103,
+  "sha256": "c4f8615120c235a26250edd7679dc1de66669533c84e0efea62cedbace1c0976"
+ },
+ "284": {
+  "text": "They are friends.",
+  "duration": 2.027,
+  "bytes": 6534,
+  "sha256": "0412e93587d26b90ab724caad5aa9db80e498d99a302b9e61942663830602ccb"
+ },
+ "285": {
+  "text": "This is a pen.",
+  "duration": 1.957,
+  "bytes": 6266,
+  "sha256": "fc0b1be5e30dfeffa7a300778a7d8b9c68bc59bd92c18f860f3b197c5255dbdb"
+ },
+ "286": {
+  "text": "Those are birds.",
+  "duration": 2.027,
+  "bytes": 6620,
+  "sha256": "633052e10068dc8535ee868673e44a80aab42fad570770f35e8c68ded172cb0b"
+ },
+ "287": {
+  "text": "She has three boxes.",
+  "duration": 2.305,
+  "bytes": 7672,
+  "sha256": "35a73932f2fbcd1f04ffb1c8afcec89194f5558f4e31187a4e5c269db62a7204"
+ },
+ "288": {
+  "text": "We are tired.",
+  "duration": 1.818,
+  "bytes": 5943,
+  "sha256": "5e7930931a424f1532c9fc8e2b9afd41a1bf635db0519f8967efecac49c837b6"
+ },
+ "289": {
+  "text": "Tom is a boy.",
+  "duration": 1.887,
+  "bytes": 6064,
+  "sha256": "a64ba0c143cef65bb003eddfeb1f4469dc53d771ec8c2dbf15e2b27836dd5db2"
+ },
+ "290": {
+  "text": "This tooth is white.",
+  "duration": 2.236,
+  "bytes": 7238,
+  "sha256": "e3815bf2f08b9f876a13a892b839a7e0bc1265dfa897b1bb2e2b7c8bcf729d08"
+ },
+ "291": {
+  "text": "I have two sisters.",
+  "duration": 2.305,
+  "bytes": 7979,
+  "sha256": "aa8734981c6a478cab78dd724a01a91452a0f02b8bdf6bd06e3b0012f13946c3"
+ },
+ "292": {
+  "text": "This is an umbrella.",
+  "duration": 2.445,
+  "bytes": 7996,
+  "sha256": "a9a2dea271b8655daeaf8220c5f87bbdca69fa195b45ecc4eceea2668cd145fb"
+ },
+ "293": {
+  "text": "This is a university.",
+  "duration": 2.514,
+  "bytes": 8446,
+  "sha256": "2d205dac83315272f581b231a1ac5b7fe88d50057cfe8367268c4fb7735e7ea3"
+ },
+ "294": {
+  "text": "I live in Uzbekistan.",
+  "duration": 2.514,
+  "bytes": 8472,
+  "sha256": "be7318cd3da97f4bb5ca4ed5a72d4d6808fd9b049b667951b2de0487be1ec0e9"
+ },
+ "295": {
+  "text": "The milk is warm.",
+  "duration": 2.027,
+  "bytes": 6679,
+  "sha256": "d84f449dac70048933da88b8cca6bf5083f6bb3c7aacddc7f27c46391f077831"
+ },
+ "296": {
+  "text": "This is my watch.",
+  "duration": 2.166,
+  "bytes": 6874,
+  "sha256": "cae5d2048b17de06d09024abf4627bae668eda940107dbb530c7fa97f1ffa9e5"
+ },
+ "297": {
+  "text": "These watches are new.",
+  "duration": 2.375,
+  "bytes": 7892,
+  "sha256": "4c9b107f82dc27fa3c134a1cd70fb7f79adb2ddd70ddb85d3a39c4be6a7fdf3b"
+ },
+ "298": {
+  "text": "Whose book is this?",
+  "duration": 2.096,
+  "bytes": 6831,
+  "sha256": "7d5b29669328e49e5d8cc5a4d92bddabc37a1e75b3ef382b4000e7003a443423"
+ },
+ "299": {
+  "text": "The window is open.",
+  "duration": 2.166,
+  "bytes": 7305,
+  "sha256": "b04fbc12958c1c70da337908eae7fccf10e50d0106f48d37d155ee20d70938a8"
+ },
+ "300": {
+  "text": "She is a woman.",
+  "duration": 1.957,
+  "bytes": 6200,
+  "sha256": "26c748124f894375f94b4284a0d785ea1b034646a1567ae648921171b8fa7564"
+ },
+ "301": {
+  "text": "They are women.",
+  "duration": 1.818,
+  "bytes": 5698,
+  "sha256": "30ee5ffa1471872c081ef76c374c752fb689c466508b6928a898f620b0bae471"
+ },
+ "302": {
+  "text": "We work at school.",
+  "duration": 2.166,
+  "bytes": 7035,
+  "sha256": "a8a5e3372bb8f6126e7dc0e9fc3f4696f1d67a6cdbc79eef63c45898904ae1f4"
+ },
+ "303": {
+  "text": "You are my friend.",
+  "duration": 2.096,
+  "bytes": 6824,
+  "sha256": "2312a442249f456904d41b2057975e33ff39bd31907272a7c3b713c9eca92c39"
+ },
+ "304": {
+  "text": "This is your bag.",
+  "duration": 2.096,
+  "bytes": 6662,
+  "sha256": "b68f62c9a82445793fd4b3f994f6e02fb2fe1a2b4f008339d61d59ad87891bb9"
+ },
+ "305": {
+  "text": "This pen is yours.",
+  "duration": 2.166,
+  "bytes": 7193,
+  "sha256": "dabfcb4022587f6e49a2ebb9a310b7ea0873a171a8678c4fcb6e34da89489bbe"
+ },
+ "306": {
+  "text": "Ali plays football.",
+  "duration": 2.375,
+  "bytes": 7730,
+  "sha256": "ad83a61582d6b1d68a4d74eaacacfdf1277634f2c1f1f25ac2dfaa5ed525acbf"
+ },
+ "307": {
+  "text": "I always drink tea.",
+  "duration": 2.305,
+  "bytes": 7824,
+  "sha256": "3ce3ef22fe61c2c022e6a0f88c691996eb20f9ff54dac23f5dd560ccb057b99e"
+ },
+ "308": {
+  "text": "I am happy.",
+  "duration": 1.748,
+  "bytes": 5607,
+  "sha256": "13844d7481c5ffe4063a8d6479a6e30c984169ef64615c2648683b8979da67da"
+ },
+ "309": {
+  "text": "Anna is my friend.",
+  "duration": 2.236,
+  "bytes": 7339,
+  "sha256": "cd0b122fe8acc55b7c7065fedc31ef18381e240a2eb6e02d12d25af0ced33aee"
+ },
+ "310": {
+  "text": "I eat apples.",
+  "duration": 1.887,
+  "bytes": 6092,
+  "sha256": "e67dfe31f0bd8ed0480b9cde0f7b4d345b55fbd65a10a02586e2f5ea14adcbf3"
+ },
+ "311": {
+  "text": "My aunt is kind.",
+  "duration": 2.096,
+  "bytes": 6968,
+  "sha256": "7b1703cced683db627d12d3dfcc2c47f89fafd47a3986e35cd0f34d3a124c4e1"
+ },
+ "312": {
+  "text": "The baby sleeps.",
+  "duration": 2.096,
+  "bytes": 6742,
+  "sha256": "7eac94422d9b7c96105365a31242a5e2ed033e46922a9c5fd705eecb2ed6dc92"
+ },
+ "313": {
+  "text": "I go to bed at ten.",
+  "duration": 2.027,
+  "bytes": 6714,
+  "sha256": "a02c22070dfe8fb2c651bfa3be1b822dcf73bd647587ff9e2c50bb4f9f17ccbd"
+ },
+ "314": {
+  "text": "I read before bed.",
+  "duration": 2.027,
+  "bytes": 7164,
+  "sha256": "85623103e170146585ae2423274d8249be4fbf88e7a4fcac0b600f78e4df4be6"
+ },
+ "315": {
+  "text": "Birds fly.",
+  "duration": 1.748,
+  "bytes": 5668,
+  "sha256": "1ba18a448859ae669cc6bf45b36eb65490b6a9972fd68de4386aadf8464e187a"
+ },
+ "316": {
+  "text": "This is a book.",
+  "duration": 2.027,
+  "bytes": 6493,
+  "sha256": "0923b7ed0c85c058f121e940602bf83f9bb432737eda7a01909dfbb309d3d35c"
+ },
+ "317": {
+  "text": "These books are new.",
+  "duration": 2.305,
+  "bytes": 7419,
+  "sha256": "9cfa3c819690022ff56d5462ed4b73b3a787ab53f513e5f103a1c674a1a98dc7"
+ },
+ "318": {
+  "text": "He is a boy.",
+  "duration": 1.818,
+  "bytes": 5746,
+  "sha256": "1447ba513ca3dd56ccc1c75f53b06be69ffcd7c05c4f9a17a55f114be938f885"
+ },
+ "319": {
+  "text": "My brother is tall.",
+  "duration": 2.236,
+  "bytes": 7408,
+  "sha256": "26ebcc70e9626ab0447518b7ce700f5e123e3a0e9a9f29afc5d770afbfdf8ab0"
+ },
+ "320": {
+  "text": "My brothers are students.",
+  "duration": 2.723,
+  "bytes": 9163,
+  "sha256": "2fd696909ad0b0354a33848566052ee79733e7050b583aa7344a208ecaaa8d90"
+ },
+ "321": {
+  "text": "I brush my teeth.",
+  "duration": 2.027,
+  "bytes": 6778,
+  "sha256": "ec1a25e1597aebd647eae5eda3aa6a05f06580e601d6946edc7e64c9e304ef39"
+ },
+ "322": {
+  "text": "The bus is new.",
+  "duration": 1.957,
+  "bytes": 6335,
+  "sha256": "4a1fd07f38cf6b9f09a626b1257084c1c9423dad125cc96f71af93c3f35da803"
+ },
+ "323": {
+  "text": "We are busy today.",
+  "duration": 2.096,
+  "bytes": 6952,
+  "sha256": "ef88638109a4985962ece080ae066394ea286767013fdc2eb338c5de7f372ec4"
+ },
+ "324": {
+  "text": "I buy bread every day.",
+  "duration": 2.375,
+  "bytes": 8182,
+  "sha256": "a3b437cd4b8f4407745ad3754b58bd62c551f57e65beb8b3cbd874ae61458d0d"
+ },
+ "325": {
+  "text": "He buys a phone.",
+  "duration": 2.027,
+  "bytes": 6681,
+  "sha256": "ad20368886f9ccb2982449a80730b64ec9a33334a189e10fa24b6d987d602e1f"
+ },
+ "326": {
+  "text": "She calls me every evening.",
+  "duration": 2.723,
+  "bytes": 9263,
+  "sha256": "24fda56ad83483aeb2f619897eb7c81d647f7ebdc8dbde628acb2873fcf15a26"
+ },
+ "327": {
+  "text": "My father's car is red.",
+  "duration": 2.445,
+  "bytes": 8421,
+  "sha256": "6aaa60fdb196af739d691bd8c44b8735b27c6bf21e23dc2f217bcc238ed15222"
+ },
+ "328": {
+  "text": "She carries a bag.",
+  "duration": 2.236,
+  "bytes": 7304,
+  "sha256": "f1671b1cb238d614d5d1d45fcd3b4659c1fa177fdc6609102f5aaeec799b5570"
+ },
+ "329": {
+  "text": "I carry books to school.",
+  "duration": 2.654,
+  "bytes": 8692,
+  "sha256": "88367feab9efc3f54f52fdd15ae8e12e785eef297f0ebb4826260d97b08684f5"
+ },
+ "330": {
+  "text": "The cat is small.",
+  "duration": 2.166,
+  "bytes": 6906,
+  "sha256": "685af717f3ad2afdcb59ee6c7599cce9a3407da914751e92286897235c7ddd07"
+ },
+ "331": {
+  "text": "I drink coffee in the morning.",
+  "duration": 2.654,
+  "bytes": 9088,
+  "sha256": "85c07918252b8b4b3dc55c32a32dc553d44af16cd8e6f255506367b24f111284"
+ },
+ "332": {
+  "text": "Come here, please.",
+  "duration": 2.027,
+  "bytes": 6561,
+  "sha256": "ff4583eea848228157c7c7b55f24de534cb1b1f673c974ee0f7abf7b283e2537"
+ },
+ "333": {
+  "text": "She is coming now.",
+  "duration": 2.096,
+  "bytes": 6911,
+  "sha256": "62bb1c024f1bac7b38829681d3a5202ff188f18e1f29155bbafdc09f5063a695"
+ },
+ "334": {
+  "text": "My mother is cooking dinner.",
+  "duration": 2.723,
+  "bytes": 9090,
+  "sha256": "635a21eadab4927763f2f586e4d61f1cd3cf8d1257034a5fa1054aa974c3cb8f"
+ },
+ "335": {
+  "text": "The baby cries at night.",
+  "duration": 2.584,
+  "bytes": 8738,
+  "sha256": "4b7b01b977c5a20d6db34b45b410e13cf6c86a14f2cb55b0914a45f11c38f605"
+ },
+ "336": {
+  "text": "Babies cry.",
+  "duration": 1.748,
+  "bytes": 5947,
+  "sha256": "d03f9d2f77a91981267a3d79732fe5d49eb8cab89a610ebbf92bc6a79a64023a"
+ },
+ "337": {
+  "text": "I read every day.",
+  "duration": 2.027,
+  "bytes": 6579,
+  "sha256": "d4f0774bc13720621536e9fa00196e1ddafb5bdbdccf262fa278f7a2ebc5e6ae"
+ },
+ "338": {
+  "text": "We eat dinner at seven.",
+  "duration": 2.445,
+  "bytes": 8008,
+  "sha256": "ca58e43f703571ea07d312439d3768252e4a432a653e87dbf5fd19602e5f33ea"
+ },
+ "339": {
+  "text": "Do you like tea?",
+  "duration": 1.818,
+  "bytes": 5881,
+  "sha256": "1bd20c51ad32a20a03619221fd16497821104426761a16cd531a53cdfb2915d0"
+ },
+ "340": {
+  "text": "Does he play tennis?",
+  "duration": 2.166,
+  "bytes": 6971,
+  "sha256": "733e4f568ea2e93463ec3a22fb49fca1194eaa2e25a431f851a864218244796d"
+ },
+ "341": {
+  "text": "She doesn't like coffee.",
+  "duration": 2.305,
+  "bytes": 7742,
+  "sha256": "86c48620960352f89552535c63ffdcd5d1190e9cdca410edc8a19a5c4aa83043"
+ },
+ "342": {
+  "text": "The dog is big.",
+  "duration": 1.887,
+  "bytes": 6114,
+  "sha256": "d608e236391f32e9821e8045d451aaa6bf0dd9be71aebfe2f749ce5196d4be25"
+ },
+ "343": {
+  "text": "We don't watch TV.",
+  "duration": 2.027,
+  "bytes": 6924,
+  "sha256": "bb52539cc3df638b524e2e52109d3d41af723b2f0a4199098410ac62d8313fce"
+ },
+ "344": {
+  "text": "I drink water.",
+  "duration": 1.818,
+  "bytes": 5937,
+  "sha256": "cff6e048eda7cdd4c831b12d0ce084e5b2c174f6cc7f9d336941ac0562aafc9b"
+ },
+ "345": {
+  "text": "He drives a car.",
+  "duration": 2.096,
+  "bytes": 7054,
+  "sha256": "47f2821f18c76e3b4c4f0d2848736efb2cace2e69763489547bc39097b0ba9df"
+ },
+ "346": {
+  "text": "I get up early.",
+  "duration": 1.887,
+  "bytes": 6048,
+  "sha256": "47a5353999b51c625a09a7e16589575177d6c99ee638960b9c765d62edfd5c6f"
+ },
+ "347": {
+  "text": "The sun rises in the east.",
+  "duration": 2.654,
+  "bytes": 8975,
+  "sha256": "a441429df715725fd67217e78c6cae885cc75c41b6d59e31272680190db8ddf3"
+ },
+ "348": {
+  "text": "I eat rice.",
+  "duration": 1.748,
+  "bytes": 5774,
+  "sha256": "d6b989a7aa953892240c11d27f653bd1712890ef55fbc9e0de29dd3898273126"
+ },
+ "349": {
+  "text": "They are eating now.",
+  "duration": 2.166,
+  "bytes": 7091,
+  "sha256": "779a3fef49a9c83bfe95fa68a1013776bc9963e30839acb9d75aacbb54ef61c3"
+ },
+ "350": {
+  "text": "He eats an apple.",
+  "duration": 2.166,
+  "bytes": 7200,
+  "sha256": "5bdf0118d71e3bdb41efafdf5ff4d0c4d5aba1289c4e56d645702aa0f058b6ad"
+ },
+ "351": {
+  "text": "I study English.",
+  "duration": 2.027,
+  "bytes": 6794,
+  "sha256": "c096265b584fbf19aab862122b125baf24b6f355f42ab53a56a9ea58d9998c0e"
+ },
+ "352": {
+  "text": "I enjoy music.",
+  "duration": 1.887,
+  "bytes": 6373,
+  "sha256": "5a87fc08f81be9e8984868b8cd74b7d5dc20d222dfbfad3b69ff87d32a522b8d"
+ },
+ "353": {
+  "text": "She enjoys reading.",
+  "duration": 2.236,
+  "bytes": 7388,
+  "sha256": "74e6700c126c6443e3326fa52966ba56a1f2dd6ac620462765bd50e55167b035"
+ },
+ "354": {
+  "text": "I study in the evening.",
+  "duration": 2.514,
+  "bytes": 8380,
+  "sha256": "08622f29fb70fa94cfd4f3361692225a658a7e24822548e4608cf5a1b34d0fd5"
+ },
+ "355": {
+  "text": "Every day I read.",
+  "duration": 2.096,
+  "bytes": 6979,
+  "sha256": "7ba22d986267063eb93246986f9b513b7dbc6b940c93697976bb8d135b711048"
+ },
+ "356": {
+  "text": "My father works in a bank.",
+  "duration": 2.723,
+  "bytes": 9415,
+  "sha256": "cef90930702363308eb465edc0b94a2809253be2b7b47d1806e348a9c64119de"
+ },
+ "357": {
+  "text": "We watch a film.",
+  "duration": 1.957,
+  "bytes": 6210,
+  "sha256": "5de72acc46df3d39b4d92c156f34973037a134e2d0b1b21fef4e2c389cbec4ac"
+ },
+ "358": {
+  "text": "The fish is small.",
+  "duration": 2.305,
+  "bytes": 7438,
+  "sha256": "33bf82a57861157b5750aa10149dae94ddbb9c7249cfe4ef39d0fabfc6b4373d"
+ },
+ "359": {
+  "text": "He fixes bikes.",
+  "duration": 2.027,
+  "bytes": 6750,
+  "sha256": "81a60edee62b3bd114879401231fde885e80080e8a6701cffc4b1edf35023647"
+ },
+ "360": {
+  "text": "My brother fixes bicycles.",
+  "duration": 2.723,
+  "bytes": 9409,
+  "sha256": "9118721562c24552335407e87de10afae2215a300198fabb2836e1cd6a9b28ed"
+ },
+ "361": {
+  "text": "Birds can fly.",
+  "duration": 1.887,
+  "bytes": 6372,
+  "sha256": "ee96a7e1d9b38084bf865c3aea87e3703a299b543ef9119265f79628c5ad5910"
+ },
+ "362": {
+  "text": "They play football on Sundays.",
+  "duration": 2.932,
+  "bytes": 10532,
+  "sha256": "5f8b1fc8def8365969a1d329bd2793c2db8b6ef061ebf44529380a27c9dca50e"
+ },
+ "363": {
+  "text": "I go to school.",
+  "duration": 1.957,
+  "bytes": 6169,
+  "sha256": "afd917d8ce29cc2a286118b017c3409b69d82b6e4555d45e2bdfcb853a9f5101"
+ },
+ "364": {
+  "text": "He goes to work by bus.",
+  "duration": 2.514,
+  "bytes": 8642,
+  "sha256": "e0f626acf1e9ecb2773210f074b82ebfa36a46b97b22ddcd0e1eca2c37ef050d"
+ },
+ "365": {
+  "text": "My grandmother is kind.",
+  "duration": 2.514,
+  "bytes": 8478,
+  "sha256": "d0cb9992eddb6fba0b7604117eb86d8b5e67d8429ff57ff1663ea9eecddbfe81"
+ },
+ "366": {
+  "text": "She is happy.",
+  "duration": 1.818,
+  "bytes": 5936,
+  "sha256": "8c94c6d677aea1e55eff706ab249b2c424f1012f5c3c33c5fd2c2c9dd36077b5"
+ },
+ "367": {
+  "text": "I have a pen.",
+  "duration": 1.818,
+  "bytes": 5750,
+  "sha256": "96b9ca062d0feee6293e49bda0898c7ee22716f4b7ea3ed5c307778b37cfb999"
+ },
+ "368": {
+  "text": "He is Ali.",
+  "duration": 1.748,
+  "bytes": 5583,
+  "sha256": "693716a3a3c5d43729aacf1f4ba76cad7cf3c1a3824ea2bf4e52e41cab6716b6"
+ },
+ "369": {
+  "text": "She helps me.",
+  "duration": 1.818,
+  "bytes": 6003,
+  "sha256": "92dc42956a13a683ac8b08075350dd030ad5aabd433db2eab6cadd7607e78e49"
+ },
+ "370": {
+  "text": "This is her book.",
+  "duration": 2.096,
+  "bytes": 6481,
+  "sha256": "df0d8541e0b47787d547a0ce793c14673f0a06ef7fb15a87223d7f387322b5ed"
+ },
+ "371": {
+  "text": "I am here.",
+  "duration": 1.678,
+  "bytes": 5348,
+  "sha256": "f7fb49df1fa0761295d551637b361b743dfa9b6dadb457e1e9795b99e32b515a"
+ },
+ "372": {
+  "text": "I know him.",
+  "duration": 1.748,
+  "bytes": 5500,
+  "sha256": "c14bc026475414adf5a2df263eaffd3f1b033260b64241c5c7490a906e9f99e6"
+ },
+ "373": {
+  "text": "She knows my name.",
+  "duration": 2.236,
+  "bytes": 7402,
+  "sha256": "0fb2e71de35be2bc92014bf81947f7a950df68b09dd94d6043fa11dec070f710"
+ },
+ "374": {
+  "text": "She likes music.",
+  "duration": 2.027,
+  "bytes": 6757,
+  "sha256": "d5969d5308e92bc91434e7681e4525c8556a6a23f3ee42bc6916db32990b37dc"
+ },
+ "375": {
+  "text": "He likes tea.",
+  "duration": 1.818,
+  "bytes": 5857,
+  "sha256": "d4d75f23c263735577550b70da7b391ab8525ab1048f7d1d0d7f25313d44752d"
+ },
+ "376": {
+  "text": "I live in Tashkent.",
+  "duration": 2.236,
+  "bytes": 7572,
+  "sha256": "3e045c5c61294ad6221877c87323d71ef78e5ae71dc95ac2badff26bbdfa5936"
+ },
+ "377": {
+  "text": "He lives here.",
+  "duration": 1.887,
+  "bytes": 6073,
+  "sha256": "29e512f80b61ea54d9654c7569ca7df84e8b94d9cfad855cb64f4735458b8144"
+ },
+ "378": {
+  "text": "London is a big city.",
+  "duration": 2.375,
+  "bytes": 8171,
+  "sha256": "80ac69d49d471bb1f9a474fb6b26ee2064dcdeafd2ce1221dff1f876ca59fffb"
+ },
+ "379": {
+  "text": "Madina is happy.",
+  "duration": 2.096,
+  "bytes": 6944,
+  "sha256": "3bb04cb2f492691229f4142300f7afd2d9cd57e84a8ac11d9e67b0a23fe08da9"
+ },
+ "380": {
+  "text": "I make tea.",
+  "duration": 1.748,
+  "bytes": 5680,
+  "sha256": "9426601344af000ea583bd442a994443a1938b04eea10191ca8c4b0417953184"
+ },
+ "381": {
+  "text": "I am making breakfast.",
+  "duration": 2.445,
+  "bytes": 8273,
+  "sha256": "7ab005b30b5aa333d9eda17565061d725ef81c493d98979aa5a4f0f02ba8397a"
+ },
+ "382": {
+  "text": "I like meat.",
+  "duration": 1.748,
+  "bytes": 5560,
+  "sha256": "ccff273ee98eee594e9924fda82b04612371daed5bd2701138975d1466958c77"
+ },
+ "383": {
+  "text": "I drink milk.",
+  "duration": 1.818,
+  "bytes": 5887,
+  "sha256": "476abcd29b6379c386dacacf09c61ef395c909fbd1c9b450d43ff25e873c6d15"
+ },
+ "384": {
+  "text": "Look! It is raining.",
+  "duration": 2.793,
+  "bytes": 8915,
+  "sha256": "3e44ff0d9a2cac75776618a89681e0b9e1d178908d0bb321721e4a021d533c30"
+ },
+ "385": {
+  "text": "I visit him once a month.",
+  "duration": 2.514,
+  "bytes": 8473,
+  "sha256": "58ac1b2c1e3771f6b18bcd35ede9f5d672f032a0aad072745a1112b09b8f8240"
+ },
+ "386": {
+  "text": "I get up in the morning.",
+  "duration": 2.375,
+  "bytes": 7784,
+  "sha256": "564268fe21cac436d394cff22a051efac522b577f150e15e599867c3a7f2b68c"
+ },
+ "387": {
+  "text": "I like music.",
+  "duration": 1.818,
+  "bytes": 6054,
+  "sha256": "25fee13d1749273cf3e1b0eae224577cceb3a8e5c1ae786ce1c61cf9061c2202"
+ },
+ "388": {
+  "text": "This is my book.",
+  "duration": 2.096,
+  "bytes": 6502,
+  "sha256": "20ec73188fed4c495c7fbe28277fcda9f7952fdc1684d5140669e5e34bab52f5"
+ },
+ "389": {
+  "text": "My name is Sara.",
+  "duration": 2.166,
+  "bytes": 7254,
+  "sha256": "32e4be2d663dd95bbb0384e95806067987cdf42db1c87a90358f84ec56f33986"
+ },
+ "390": {
+  "text": "I need a pen.",
+  "duration": 1.818,
+  "bytes": 5892,
+  "sha256": "e9b7f4f7e36b805d61ca050c1f5732e146189e9209be6e5d5953efc8dfa9291c"
+ },
+ "391": {
+  "text": "We are never late.",
+  "duration": 2.096,
+  "bytes": 6934,
+  "sha256": "c234620bca61176df825987c6045d3b70ea0990861c0ab05c860f479b4765d5d"
+ },
+ "392": {
+  "text": "The night is dark.",
+  "duration": 2.096,
+  "bytes": 6791,
+  "sha256": "598771f637d775641f74e4436e9753735132c1d22f7bbebfd8afa3080ef9d662"
+ },
+ "393": {
+  "text": "I am reading now.",
+  "duration": 1.957,
+  "bytes": 6705,
+  "sha256": "28b24ca58912248c23bc0b6181253c846965a0d969da3d7341af552b6c15f18e"
+ },
+ "394": {
+  "text": "We often play chess.",
+  "duration": 2.305,
+  "bytes": 7766,
+  "sha256": "5ee3b341c95965a706a6d5a9f1211edd1f250912975dd7f33d6ffb97274cc6e6"
+ },
+ "395": {
+  "text": "I call my aunt once a week.",
+  "duration": 2.793,
+  "bytes": 9504,
+  "sha256": "87f28360971660ce04cdf603a55151c90f33fba1f1728accf01d8f59352570c1"
+ },
+ "396": {
+  "text": "Open the book.",
+  "duration": 1.887,
+  "bytes": 6473,
+  "sha256": "5420e109841a4a7c8c1636045ebd7ac4d063e3fb34652105ee3d78133e0deb25"
+ },
+ "397": {
+  "text": "This is our school.",
+  "duration": 2.375,
+  "bytes": 7699,
+  "sha256": "03f11c1440baa39db5bdb80e052d9a34a01d2145e471038fe000b26bdfdf445f"
+ },
+ "398": {
+  "text": "The bus passes our house.",
+  "duration": 2.654,
+  "bytes": 9529,
+  "sha256": "adfb8e220e8e07ddf1d3697ed0bfbc7f339cdedecfe7d09ea7bac1c2f21cc5b9"
+ },
+ "399": {
+  "text": "This is my pen.",
+  "duration": 2.027,
+  "bytes": 6456,
+  "sha256": "d03a1b5b55ff9c446b8d539b3b2ba509fa8b4bf376a7eb367121b91663e5d414"
+ },
+ "400": {
+  "text": "Plants need water.",
+  "duration": 2.096,
+  "bytes": 6945,
+  "sha256": "4de8a619bd70b75a21f9e77f1b28ff0b152a32a4f2559282f466adb3e68d0aa0"
+ },
+ "401": {
+  "text": "I play football.",
+  "duration": 2.096,
+  "bytes": 6605,
+  "sha256": "a5e775dbf0f05cda6a0c362e079ebd44a0ade3430853c4998fef4aefb3e753d7"
+ },
+ "402": {
+  "text": "They are playing now.",
+  "duration": 2.236,
+  "bytes": 7213,
+  "sha256": "ced82920b16da5d6576fc3c16656c8719ac73cfd528dc5ce20619b3f458eec8a"
+ },
+ "403": {
+  "text": "He plays tennis every week.",
+  "duration": 2.723,
+  "bytes": 9169,
+  "sha256": "ac9f030e79a94ab0c9a03f05d63584ea595290db9984a82e116ed55b35b43d59"
+ },
+ "404": {
+  "text": "We rarely watch TV.",
+  "duration": 2.305,
+  "bytes": 8016,
+  "sha256": "d4bed6bacdc5c4f0597026f7028327ab0111d4bc4c4ee02a4975a57e630849e8"
+ },
+ "405": {
+  "text": "I read a book every day.",
+  "duration": 2.514,
+  "bytes": 8345,
+  "sha256": "140aca735834a19ad94b51067661fe5f124c25a8efbcb4b71d966d038c622abc"
+ },
+ "406": {
+  "text": "She is reading now.",
+  "duration": 2.166,
+  "bytes": 6961,
+  "sha256": "4a1c7cf85fa4869fb4d4e87061d5896d9539b7d5420a7b2d52e7053c670c3f83"
+ },
+ "407": {
+  "text": "Sara reads at night.",
+  "duration": 2.375,
+  "bytes": 7921,
+  "sha256": "32a67f87eeab0762b269c70df3ed917b13d2318b7f59ecd560d51746cc4ae530"
+ },
+ "408": {
+  "text": "You are right.",
+  "duration": 1.818,
+  "bytes": 5746,
+  "sha256": "1c2dc77d0cb3bca1ee5f3f9a47d6436314e5ac58251b1511dc23ed9468a8fcf4"
+ },
+ "409": {
+  "text": "The sun rises early.",
+  "duration": 2.375,
+  "bytes": 8081,
+  "sha256": "20c5d0d00c418e802a0f44f8013d35eaeab6a9dd6ef0a12621b673453c41c7a7"
+ },
+ "410": {
+  "text": "I run every morning.",
+  "duration": 2.236,
+  "bytes": 7223,
+  "sha256": "8bb79f0d99c010c4ef465e499863292089a1a44fa5728c7dd303787f2908103a"
+ },
+ "411": {
+  "text": "They are running in the park.",
+  "duration": 2.654,
+  "bytes": 9305,
+  "sha256": "0b26d1fe8407afc5d9e64020f7ee4bc22f39870b44debb0f1c1a94f593fbda1a"
+ },
+ "412": {
+  "text": "Sam is my friend.",
+  "duration": 2.166,
+  "bytes": 7244,
+  "sha256": "e550cf577b70e60d5cc513543c1716b1e88c5538de54457dbb31d3557468c536"
+ },
+ "413": {
+  "text": "Sara studies English.",
+  "duration": 2.514,
+  "bytes": 8598,
+  "sha256": "9334d62f67c6af270e8a20a00f8864dd28beae1157ff60bee8ffa66b0ba514f0"
+ },
+ "414": {
+  "text": "I see a bird.",
+  "duration": 1.818,
+  "bytes": 5843,
+  "sha256": "1477cd82bbbf8ae948e48704e7c6e4d0194222633702fe6df034883bf9b87ef3"
+ },
+ "415": {
+  "text": "Birds eat seeds.",
+  "duration": 2.166,
+  "bytes": 7189,
+  "sha256": "ac0704452938d74f5ec02a1581d41414e3e5aecf9f276c64a203068ce1b89fd1"
+ },
+ "416": {
+  "text": "The shop is open.",
+  "duration": 2.096,
+  "bytes": 6654,
+  "sha256": "24ed81ad4d61ebeef551857ed22fd9ab3971cb867898f4b4a1a840d8d5809fef"
+ },
+ "417": {
+  "text": "My sister is kind.",
+  "duration": 2.305,
+  "bytes": 7660,
+  "sha256": "e5c2f599a027df76eb7e15cbbd537d2b47590febe551756fdc96a479e39c5752"
+ },
+ "418": {
+  "text": "Sit down, please.",
+  "duration": 2.096,
+  "bytes": 6854,
+  "sha256": "3c6605f2f523b328eb63779e3bfc5a32ab1101e6e522c410da64c5f2aac0cc58"
+ },
+ "419": {
+  "text": "He is sitting by the window.",
+  "duration": 2.723,
+  "bytes": 9625,
+  "sha256": "a9305f1c6b38c6702c1639d6b9ddc5dcced7668bcd346dcdd96630a8487b4b6d"
+ },
+ "420": {
+  "text": "Cats sleep.",
+  "duration": 1.748,
+  "bytes": 5399,
+  "sha256": "a3913d51c3402e436edfd40736ea28564efd3f144f8eb9f1f0321fd1fc016bfb"
+ },
+ "421": {
+  "text": "The baby is sleeping.",
+  "duration": 2.445,
+  "bytes": 8158,
+  "sha256": "629e6e87a524d38c75b79ffec8d5aeeceb6d30caa081c2896e3571a39237ed80"
+ },
+ "422": {
+  "text": "My father sleeps early.",
+  "duration": 2.584,
+  "bytes": 8716,
+  "sha256": "5a197c7745c23a9f106772e7f3beef09f9184d09056d8127201c3929513fc147"
+ },
+ "423": {
+  "text": "I like some tea.",
+  "duration": 1.957,
+  "bytes": 6474,
+  "sha256": "43a51401e22e6a66f505ca0e87bfce88fb3a9461b7bcef15aa7a7b6569bac2d5"
+ },
+ "424": {
+  "text": "We sometimes watch films.",
+  "duration": 2.584,
+  "bytes": 8752,
+  "sha256": "f747549f5bb24e2937e6e7ff77e550fa7122cc25f38cdba9a9097835a912009f"
+ },
+ "425": {
+  "text": "I sing a song.",
+  "duration": 1.887,
+  "bytes": 6114,
+  "sha256": "c14ef7c3963699753809af7c3167fdb8c0dbe7dfb29ddb6a25041900ad0c5da7"
+ },
+ "426": {
+  "text": "They speak English.",
+  "duration": 2.236,
+  "bytes": 7308,
+  "sha256": "c8145240cc497ed953fd0d87a5acdb0f5c7758749cf87f4157b157b6ac345579"
+ },
+ "427": {
+  "text": "We start at nine.",
+  "duration": 2.096,
+  "bytes": 6978,
+  "sha256": "960286e4642f7750e30b83fb36256121b99f1782e1cba720d4af8ffd10ca0762"
+ },
+ "428": {
+  "text": "She is staying with us this week.",
+  "duration": 3.072,
+  "bytes": 10441,
+  "sha256": "a9a0627cc78b1cee616a48bef352a09353c6517129282744687093a2574d2a6a"
+ },
+ "429": {
+  "text": "The bus stops here.",
+  "duration": 2.236,
+  "bytes": 7193,
+  "sha256": "c8179979bb824d7adf900d5b49c2d2e4f576afd3187ccbbdf7458968f472e551"
+ },
+ "430": {
+  "text": "He is a student.",
+  "duration": 2.096,
+  "bytes": 6736,
+  "sha256": "2262393c344bd70cd5090bf6fba51b1728036ccbb7021a452615817613cc3e37"
+ },
+ "431": {
+  "text": "She studies every evening.",
+  "duration": 2.723,
+  "bytes": 9295,
+  "sha256": "bdc10e48b651dd436dfb0578f01c579990a4006ed1635d1b593138ee72daeb92"
+ },
+ "432": {
+  "text": "They are studying now.",
+  "duration": 2.305,
+  "bytes": 7534,
+  "sha256": "b6341144155c4fe9312ec5f41232dfe632721d4e0c567c746c82047887ce8338"
+ },
+ "433": {
+  "text": "The sun is hot.",
+  "duration": 1.957,
+  "bytes": 6237,
+  "sha256": "87cb9bdec46c163f77b963c768afc6bbcf6196ef35f55d44380b608b63e85586"
+ },
+ "434": {
+  "text": "They play on Sundays.",
+  "duration": 2.375,
+  "bytes": 8002,
+  "sha256": "f8daf07a34e719da51fc3d9f452678a5777d5a43806c709b373a6dca3dbee07d"
+ },
+ "435": {
+  "text": "I can swim.",
+  "duration": 1.748,
+  "bytes": 5655,
+  "sha256": "e9895ce307dfd166bfa6a3375e1ef0ba19340916ee8543826ce7bfcb2afaf3db"
+ },
+ "436": {
+  "text": "They are swimming now.",
+  "duration": 2.305,
+  "bytes": 7649,
+  "sha256": "bdf0c1c4e3e267ac9c141b4ede3e76a9b55437bd72771c18bf85d14ff44ec949"
+ },
+ "437": {
+  "text": "I drink tea.",
+  "duration": 1.748,
+  "bytes": 5712,
+  "sha256": "101da2d34707946b6a49b03c290402503f42c205fcf22c5ac63b346d6dd2242d"
+ },
+ "438": {
+  "text": "He teaches English.",
+  "duration": 2.236,
+  "bytes": 7471,
+  "sha256": "ef7f003e37cf6580532e1b63a1f68deedd919ee1fb605aafbcab52fc9484af33"
+ },
+ "439": {
+  "text": "She is a teacher.",
+  "duration": 2.166,
+  "bytes": 6903,
+  "sha256": "ba9e045a570aeaf7db27244683c6e1604b762762212fff6598e0ad131e66b588"
+ },
+ "440": {
+  "text": "They play tennis.",
+  "duration": 2.027,
+  "bytes": 7141,
+  "sha256": "5555b63c9a64986aef7eae93abaf9dcaddc53b77d64ec31ee9491f7d85cbb827"
+ },
+ "441": {
+  "text": "They are friends.",
+  "duration": 2.027,
+  "bytes": 6505,
+  "sha256": "d52460ee549cbff92fc42b4a049930f78b32245b7bbc58e8fc7ca7e90eb842e6"
+ },
+ "442": {
+  "text": "I need a ticket.",
+  "duration": 1.957,
+  "bytes": 6263,
+  "sha256": "c1ab7f367357fd7d142d3a9bbaafaf2e8b0c2eef5d48c443f116c74fb041d366"
+ },
+ "443": {
+  "text": "We are tired.",
+  "duration": 1.818,
+  "bytes": 5920,
+  "sha256": "8abf6d6fc038bcccaabc942b9b5d7a88296e594e80ae7cb79ef0b9b1a046c8db"
+ },
+ "444": {
+  "text": "Today is sunny.",
+  "duration": 1.957,
+  "bytes": 6455,
+  "sha256": "ceeba72fa980609ca5a5771ed71a09f9c2cafc0a0561e78c484507ef17fb1d13"
+ },
+ "445": {
+  "text": "Tom is a student.",
+  "duration": 2.236,
+  "bytes": 7363,
+  "sha256": "c1f697b83d0cb4f228310be7b7a2784ab2e02db54f7d64c6a7b924fdaa96477f"
+ },
+ "446": {
+  "text": "We watch TV in the evening.",
+  "duration": 2.793,
+  "bytes": 9437,
+  "sha256": "4d7865e6a3239fb266f80255dc48011350d34cabb1d7d031970aabc8595e5e3f"
+ },
+ "447": {
+  "text": "I visit my grandmother twice a week.",
+  "duration": 3.42,
+  "bytes": 11963,
+  "sha256": "42412ceb6deb6376d2c1856cc6f80414abdf4c655b9d6248a348f101faa931c3"
+ },
+ "448": {
+  "text": "I usually get up at seven.",
+  "duration": 2.723,
+  "bytes": 9371,
+  "sha256": "427413d298d3d664fe6352c7160137bb75e0bf7291e39b61eff83f5025d0ffc6"
+ },
+ "449": {
+  "text": "I visit my aunt.",
+  "duration": 2.096,
+  "bytes": 6940,
+  "sha256": "7f02ea73c1cd885e08c1606b489b6aca2a03b62cb537a707a784a85e16335af5"
+ },
+ "450": {
+  "text": "Birds walk.",
+  "duration": 1.748,
+  "bytes": 5519,
+  "sha256": "c01d718e3db37a5a342ea0885a407cf42bc73ca2fb23a407dd895b7ed7ef048b"
+ },
+ "451": {
+  "text": "She is walking to school.",
+  "duration": 2.654,
+  "bytes": 8807,
+  "sha256": "669e6dbeb65fa4d317dd8175656ab09db59a55e1b93d3cd97b0d895e0d2df219"
+ },
+ "452": {
+  "text": "He walks to work.",
+  "duration": 2.027,
+  "bytes": 6631,
+  "sha256": "2a233430f3cc1c5acb89dd6c7db8ec0a95c477848be5a75b7015257957eb29ef"
+ },
+ "453": {
+  "text": "I want tea.",
+  "duration": 1.748,
+  "bytes": 5989,
+  "sha256": "732edac1335d1745644cb213179d9d5d6d4cab11553a45ed4a3f20bf2c96d55b"
+ },
+ "454": {
+  "text": "I wash my hands.",
+  "duration": 2.027,
+  "bytes": 6883,
+  "sha256": "a6a4a8fcea81e9acfe72cf49de1a1a4479f249ec0c90bf1a34a6abfdd09f3ebc"
+ },
+ "455": {
+  "text": "She washes dishes.",
+  "duration": 2.236,
+  "bytes": 7574,
+  "sha256": "e5c3116a9935b21fc3259868a290ecfb862b83cd04d7c7703de2df507b7fb3c5"
+ },
+ "456": {
+  "text": "I watch TV.",
+  "duration": 1.748,
+  "bytes": 5881,
+  "sha256": "7eeb14da6f9d1607e2c2779a42565356b16ac0628d6d9a8421235336a6c0ee15"
+ },
+ "457": {
+  "text": "He watches football.",
+  "duration": 2.305,
+  "bytes": 7565,
+  "sha256": "5b2dd9e1600dee004a8f41f07eae3560ee524db10632e508c1b6e86766d6b35a"
+ },
+ "458": {
+  "text": "We are watching a film now.",
+  "duration": 2.654,
+  "bytes": 8900,
+  "sha256": "8687fa913ef127581667e4bee27e82968f5e083e05c3b8c08a2ba88750497a05"
+ },
+ "459": {
+  "text": "We are students.",
+  "duration": 2.027,
+  "bytes": 6690,
+  "sha256": "58d9472202c94a745a9456388f59bda7d5c1bc100a394b754ae1929213b6ab42"
+ },
+ "460": {
+  "text": "This week is busy.",
+  "duration": 2.166,
+  "bytes": 7016,
+  "sha256": "8e658d6d5f6b803c77ece991b77dd2bc33881d8e30d150e826b3b2b0770e1a38"
+ },
+ "461": {
+  "text": "Birds have wings.",
+  "duration": 2.096,
+  "bytes": 6988,
+  "sha256": "6c3a0a674b64400d447fc88adfab59716080df6aacf15194995f44d50a962e8e"
+ },
+ "462": {
+  "text": "I work every day.",
+  "duration": 2.027,
+  "bytes": 6688,
+  "sha256": "359810651bf01265ff74744e79f17c28e8be5831a9c3fc654c66c381d1bc560a"
+ },
+ "463": {
+  "text": "She is working now.",
+  "duration": 2.166,
+  "bytes": 7344,
+  "sha256": "df0afd0c93a626b631860270a483da82b69494e0abef05a774a34f9650d59d72"
+ },
+ "464": {
+  "text": "He works here.",
+  "duration": 1.818,
+  "bytes": 5852,
+  "sha256": "18463d05a68b02a74dc067933f216efad81e66a643767e0526551d831093ea9a"
+ },
+ "465": {
+  "text": "I write my name.",
+  "duration": 2.027,
+  "bytes": 6725,
+  "sha256": "7df597340a452910fcbc8c89f097b17e375ca8a2387e5fa0698aa4b255dd149d"
+ },
+ "466": {
+  "text": "Mina is writing a letter.",
+  "duration": 2.654,
+  "bytes": 8890,
+  "sha256": "eef81de8254673e219e414c29f4140c8aad0832b9bf2db9c8db24a51ad30474d"
+ },
+ "467": {
+  "text": "You are kind.",
+  "duration": 1.818,
+  "bytes": 5722,
+  "sha256": "2ebf69c2a55fcc5712eeae701b78b179f0e32e89dc0ab79db26794941fd6791a"
+ },
+ "468": {
+  "text": "This is your book.",
+  "duration": 2.166,
+  "bytes": 6668,
+  "sha256": "be8b5f56968e495c9d2b4f1f382dbdd7fb31555492bc2a5a1a24264bb83e8a52"
+ },
+ "469": {
+  "text": "I am at home now.",
+  "duration": 2.027,
+  "bytes": 6804,
+  "sha256": "0a311fb29d8687a92be57084dca40a83389e745e206f48e0b70a9fc98d3460f0"
+ },
+ "470": {
+  "text": "I do my homework every day.",
+  "duration": 2.654,
+  "bytes": 9189,
+  "sha256": "6a823a732e41133c3f20d459fb4d3c3834ffe29393de58743837de8e0157393e"
+ },
+ "471": {
+  "text": "They are playing at the moment.",
+  "duration": 2.793,
+  "bytes": 9186,
+  "sha256": "6cd93477b518c644d4718b3b006a0d82844e4bc38a0e634bcccdf16536217854"
+ },
+ "472": {
+  "text": "I get up after seven.",
+  "duration": 2.375,
+  "bytes": 7886,
+  "sha256": "a8ea1e79dbf28bf74fad4635fac55bfb023b41cc1cc26a3d531d7a3d74413c8b"
+ },
+ "473": {
+  "text": "Ali is my friend.",
+  "duration": 2.166,
+  "bytes": 7431,
+  "sha256": "5443281877f99075f624aa290ec212c2d77cdb6ab99953aff1c9f76e7998d555"
+ },
+ "474": {
+  "text": "This is an apple.",
+  "duration": 2.236,
+  "bytes": 7595,
+  "sha256": "ef98a516ed92f85372eb17e62d164df655d1f23be73b24eb3b922c8c1b2c9b07"
+ },
+ "475": {
+  "text": "These apples are sweet.",
+  "duration": 2.584,
+  "bytes": 9088,
+  "sha256": "c0c2072ea93796196cad7e166c2025d7189afb43e160558a7fa9752d315fe230"
+ },
+ "476": {
+  "text": "They arrive at six.",
+  "duration": 2.305,
+  "bytes": 7668,
+  "sha256": "e8a152dd9ac3ef75e6f594987e4bba39201715da3eea8be40a143f833412e60e"
+ },
+ "477": {
+  "text": "The baby sleeps.",
+  "duration": 2.096,
+  "bytes": 6796,
+  "sha256": "6c9d43941d10baede094ac81d821326df930ec1d4fbe3c13b29d07b5f48e9e93"
+ },
+ "478": {
+  "text": "This is my bag.",
+  "duration": 2.027,
+  "bytes": 6517,
+  "sha256": "7d7a4bbb3d4fed938f6b4c83e0b6244519d38a2227509c97d98b8d71f09b25b8"
+ },
+ "479": {
+  "text": "I stay home because I am sick.",
+  "duration": 3.072,
+  "bytes": 10999,
+  "sha256": "ceca2373ac3e427607ee1d70a03d71bad4bd0c4e3f403ab98a81a1ff5d785f73"
+ },
+ "480": {
+  "text": "My birthday is in May.",
+  "duration": 2.514,
+  "bytes": 8554,
+  "sha256": "82304bdfdc9143b63a53f0e58bb0f9e8c67beaeff127c9b68bcc477c961550e2"
+ },
+ "481": {
+  "text": "This is a book.",
+  "duration": 2.027,
+  "bytes": 6112,
+  "sha256": "64a3c44fa5e5abb2b21480e66a224aec8e94da9a751f11d14bda05e80e9c23ea"
+ },
+ "482": {
+  "text": "These books are new.",
+  "duration": 2.305,
+  "bytes": 7504,
+  "sha256": "b4ad997f30f9a5bb6f8351abdb98813eee4fdfb1b03ce61aafb55fafc4acff0e"
+ },
+ "483": {
+  "text": "I eat breakfast at seven.",
+  "duration": 2.584,
+  "bytes": 8670,
+  "sha256": "1046c5215e4517e6862b94839fec1718e350b9db9cde1fd02a926111ad8f28bc"
+ },
+ "484": {
+  "text": "My brother is tall.",
+  "duration": 2.236,
+  "bytes": 7324,
+  "sha256": "f826b559b1fc3f3c9ed371b6aa9ea134d4d3bc44f6d890ea0650720505582844"
+ },
+ "485": {
+  "text": "My brothers are students.",
+  "duration": 2.723,
+  "bytes": 9186,
+  "sha256": "1ff49f2431be7dca6d0ecc75abaf07660e58745cd69d25a2ab857aafff7883f7"
+ },
+ "486": {
+  "text": "The bag is brown.",
+  "duration": 2.027,
+  "bytes": 6779,
+  "sha256": "a4926473c8f6415bc286864f4bc936bf93e7494f175a37d69796441ca3d22ec4"
+ },
+ "487": {
+  "text": "The bus is new.",
+  "duration": 1.957,
+  "bytes": 6116,
+  "sha256": "ea809c43410e61c42fb862ea0fe7487b0cef2f124f42004578dd4f202b68cae0"
+ },
+ "488": {
+  "text": "She calls me every day.",
+  "duration": 2.445,
+  "bytes": 8108,
+  "sha256": "621f98f8c2b9707008eacfb1cebd35fb3df7101d7acde7905074d6d9c3dd0fae"
+ },
+ "489": {
+  "text": "The cat is small.",
+  "duration": 2.166,
+  "bytes": 7050,
+  "sha256": "7ca9119990b48fb14aa390a73bc70085ee75a5a5c4bbef6f0276830403fd8f7b"
+ },
+ "490": {
+  "text": "She has a child.",
+  "duration": 2.027,
+  "bytes": 6730,
+  "sha256": "4788a5954f34f229e483a947a5ebe50174c12dbaf5971a7d78da8d4e32b1a42b"
+ },
+ "491": {
+  "text": "These children are happy.",
+  "duration": 2.514,
+  "bytes": 8319,
+  "sha256": "6a0e73db1de40744f35e63a9503f4a85283456f55a961224f0533190f0ce8825"
+ },
+ "492": {
+  "text": "Our class is big.",
+  "duration": 2.236,
+  "bytes": 7215,
+  "sha256": "82d2f06256e80a413c5b2cff816266704d4368e55dfb66f40c5a4eb3cae9bcba"
+ },
+ "493": {
+  "text": "My favorite color is blue.",
+  "duration": 2.793,
+  "bytes": 9671,
+  "sha256": "991c436b2b6d042807154bc58b9262dbb117eabbd91c73ac24227878cb6540b3"
+ },
+ "494": {
+  "text": "She cooks dinner.",
+  "duration": 2.096,
+  "bytes": 6560,
+  "sha256": "55775e7275182445f7725378655345bd16e59f83f5be556992a5f67bdf562fa1"
+ },
+ "495": {
+  "text": "The baby is crying.",
+  "duration": 2.236,
+  "bytes": 7384,
+  "sha256": "e56c317d8957de83cedf5aaa45cfbaeb66fd50a8566b370b91a9fb014e38fed9"
+ },
+ "496": {
+  "text": "I read every day.",
+  "duration": 2.027,
+  "bytes": 6766,
+  "sha256": "5226cb609e313f87ad8582f2787f8ef9ac850dce12beeb1ab4f3a7a67fff86a1"
+ },
+ "497": {
+  "text": "We have English on Mondays.",
+  "duration": 2.654,
+  "bytes": 9359,
+  "sha256": "b0c28ec0af7149a4bc63ee0756d335ed4b384b142546bccd88b90c1deaf28668"
+ },
+ "498": {
+  "text": "I drink milk.",
+  "duration": 1.818,
+  "bytes": 5877,
+  "sha256": "14806d07946d6ebee2802000931c4fe875ee1460620a887592b2b2f095af9962"
+ },
+ "499": {
+  "text": "I get up early.",
+  "duration": 1.887,
+  "bytes": 6072,
+  "sha256": "74a440eae0c70bee9a97b988dd4719f515286ec6c4434aaf5f4d4d8bc4e75dcb"
+ },
+ "500": {
+  "text": "He eats an apple.",
+  "duration": 2.166,
+  "bytes": 7112,
+  "sha256": "b5cf09f43df46b54834d0e2f4098389e7e12c4bb2f1626e7cb32f0b865715a89"
+ },
+ "501": {
+  "text": "She eats rice.",
+  "duration": 1.887,
+  "bytes": 6202,
+  "sha256": "ef853b89ea49297cc65bfeef73b17f78a9c21ccf79457593e982bc59bd70ee64"
+ },
+ "502": {
+  "text": "I study English.",
+  "duration": 2.027,
+  "bytes": 6702,
+  "sha256": "a0d6ea37471fb6d9961b613ab18c42eb9ec5219d5095da0bec8c2e3f45913826"
+ },
+ "503": {
+  "text": "I study in the evening.",
+  "duration": 2.514,
+  "bytes": 8413,
+  "sha256": "281e286762942d95ba69b8f2e7347be81f345c769c47ad4a6bf7a45d88ab2637"
+ },
+ "504": {
+  "text": "Every day I read.",
+  "duration": 2.096,
+  "bytes": 6827,
+  "sha256": "4fb28de3761f687e67dc83ba2b2f5b670a39012b0a01f472f14dab263d16b106"
+ },
+ "505": {
+  "text": "My father works in a bank.",
+  "duration": 2.723,
+  "bytes": 9186,
+  "sha256": "bb4a9ec9d891cf393b714807db0f5d3073a63f611c7eeb644707b6f6bae8728c"
+ },
+ "506": {
+  "text": "Football is my favorite game.",
+  "duration": 3.072,
+  "bytes": 10673,
+  "sha256": "dcb91a7cb04d0f47bc7e88d4c1e2740d173933ff72f57717235e8cb2e0a78d1c"
+ },
+ "507": {
+  "text": "This film is interesting.",
+  "duration": 2.654,
+  "bytes": 8676,
+  "sha256": "0118cf93327b7013064f8085dc9866e6daea9b1b77f3ba78a31e3494147d965d"
+ },
+ "508": {
+  "text": "I am fine, thank you.",
+  "duration": 2.305,
+  "bytes": 7680,
+  "sha256": "fe29c25dd5e08ff0bacc35fb32dc730d947b4a254e3285896c5fa4eec9e16be9"
+ },
+ "509": {
+  "text": "I have five books.",
+  "duration": 2.166,
+  "bytes": 7425,
+  "sha256": "6a8e33e311664d151851c6a63534ea54cc72a137a86a159d0f899fdffa8dd10c"
+ },
+ "510": {
+  "text": "I like food.",
+  "duration": 1.748,
+  "bytes": 5664,
+  "sha256": "584f347d1ab0460941c0a1e64fee1680c42b8ca7b790795377abcf00934b434f"
+ },
+ "511": {
+  "text": "I like Uzbek foods.",
+  "duration": 2.375,
+  "bytes": 8161,
+  "sha256": "11fc2e7f14bc3e3d547cc4bf673850bf1af12f21079b8efb8244c868e12ea7f4"
+ },
+ "512": {
+  "text": "Are you free today?",
+  "duration": 2.027,
+  "bytes": 6516,
+  "sha256": "20e536c2544db2f3a92cf00a8d059012eba713658e5950a0ded2b8fdfe73b75e"
+ },
+ "513": {
+  "text": "She is my friend.",
+  "duration": 2.096,
+  "bytes": 6881,
+  "sha256": "7d5db9ce2a487a43f062210c4635c399608553c1fc6d70c0451633688bd90428"
+ },
+ "514": {
+  "text": "They are my friends.",
+  "duration": 2.305,
+  "bytes": 7625,
+  "sha256": "a7c3ff5a36cb6fe85ff2b405bd5118f22d5ed2f910d197c58984e48e05aef1f1"
+ },
+ "515": {
+  "text": "I get up at seven.",
+  "duration": 2.166,
+  "bytes": 7167,
+  "sha256": "5acfb490f9bf6219aa0ffa20cb6ea89365ad12d133b060a8bcfbdd4c37d93144"
+ },
+ "516": {
+  "text": "I go to school.",
+  "duration": 1.957,
+  "bytes": 6199,
+  "sha256": "b1d1b5fbd37b2e7e03c02f3ad13e4542d48688ba1f5ca7d6b1babd420af591ed"
+ },
+ "517": {
+  "text": "The book is good.",
+  "duration": 2.027,
+  "bytes": 6892,
+  "sha256": "a90d31e163ed87d08be95e45d11ddff9d4dcb954ae206de2a42a13bd921c725e"
+ },
+ "518": {
+  "text": "My grandmother is kind.",
+  "duration": 2.514,
+  "bytes": 8549,
+  "sha256": "485bd482578b4aca7f98d776a09909855784c18b5dfe59576e1c363b8e870139"
+ },
+ "519": {
+  "text": "She is happy.",
+  "duration": 1.818,
+  "bytes": 5822,
+  "sha256": "70a9afe0068096c712b25f9a0847662787411b85cf567dc74d40b083f507cc81"
+ },
+ "520": {
+  "text": "I have a pen.",
+  "duration": 1.818,
+  "bytes": 5686,
+  "sha256": "2212ec226c8bf2b11926d0a78577ccd0471a9a6ec3737abd6bd62bd8fbfc8bdf"
+ },
+ "521": {
+  "text": "I need help.",
+  "duration": 1.748,
+  "bytes": 5568,
+  "sha256": "b6db512ce7ecea7dca7e06ecaab3699d17f1738b5d29d644a1d7c752d72429a5"
+ },
+ "522": {
+  "text": "I am here.",
+  "duration": 1.678,
+  "bytes": 5315,
+  "sha256": "4223b03a4b902932566cfb2299cd33abac6546777ec4ae67de4c6cc596f0c1e3"
+ },
+ "523": {
+  "text": "We have holidays in summer.",
+  "duration": 2.723,
+  "bytes": 9224,
+  "sha256": "e2f102c6592bc5b4f0ceb570e512fe6e8ad3801125b52f9d317003a5967e3503"
+ },
+ "524": {
+  "text": "I am at home.",
+  "duration": 1.818,
+  "bytes": 5850,
+  "sha256": "80b9768dc40d32a41563cd3a95f4a9b1e94ac2651fc69da47a63ebb96d4390ec"
+ },
+ "525": {
+  "text": "The lesson is two hours long.",
+  "duration": 2.793,
+  "bytes": 9454,
+  "sha256": "7a093b72dcfa6e83662796566782e32f7e0715f597ac973f04eb8a3b879289c9"
+ },
+ "526": {
+  "text": "How are you?",
+  "duration": 1.748,
+  "bytes": 5571,
+  "sha256": "e22806fc81180bf5be635578fa704597b803845539eef6926cdb23f24756b07a"
+ },
+ "527": {
+  "text": "Last night we watched a film.",
+  "duration": 2.793,
+  "bytes": 9319,
+  "sha256": "e4da2db1f33983b924667de2d8a8922c7f57b0ccc318e6ab28dd829f7c8b421b"
+ },
+ "528": {
+  "text": "We are late.",
+  "duration": 1.748,
+  "bytes": 5466,
+  "sha256": "88c9e25e8a1870450c0ae3b6729a57187993297f4866e6d27df17b8c3c46fffb"
+ },
+ "529": {
+  "text": "I learn English.",
+  "duration": 2.027,
+  "bytes": 6818,
+  "sha256": "e5e8a480816e1dc15fb6917d125e9bdaacc1928903c8acf5b65cd9c008dcc547"
+ },
+ "530": {
+  "text": "The lesson starts at nine.",
+  "duration": 2.723,
+  "bytes": 9147,
+  "sha256": "c82beb9e7421edbf4e6fad86918db4f7f5f5b7502ba6157515b473d3238d799d"
+ },
+ "531": {
+  "text": "I like music.",
+  "duration": 1.818,
+  "bytes": 6020,
+  "sha256": "aa442e71d74555839b4fb7be0b533bfc6b1795411594da44fad2004293d24e62"
+ },
+ "532": {
+  "text": "I live in Tashkent.",
+  "duration": 2.236,
+  "bytes": 7267,
+  "sha256": "4b178423b7a454654faf92fb5a33978cd8baa16cd117c5170a6e40e19ee60ff7"
+ },
+ "533": {
+  "text": "He lives here.",
+  "duration": 1.887,
+  "bytes": 5984,
+  "sha256": "dacaf827d23cf886c872bf1f23582361fdf621d2b6b023e1d45ada1292c3ce69"
+ },
+ "534": {
+  "text": "The road is long.",
+  "duration": 2.027,
+  "bytes": 6561,
+  "sha256": "8f29a321b077d3f356fa0dab938f7b39d06fffacb96a590b513dce7ae908dd79"
+ },
+ "535": {
+  "text": "How many books do you have?",
+  "duration": 2.514,
+  "bytes": 8869,
+  "sha256": "fc6123a9f965a78e18ce541d17bd86d4d51b7240444bbd93497c4e686e5308f3"
+ },
+ "536": {
+  "text": "The meeting is at ten.",
+  "duration": 2.375,
+  "bytes": 7731,
+  "sha256": "d69571804ca2937594fcfcc26fe25ebed9d72f3fddfa0a37930a730001b229c8"
+ },
+ "537": {
+  "text": "The river is ten metres long.",
+  "duration": 2.723,
+  "bytes": 9212,
+  "sha256": "09320dc68f8512ccfbcaa1b81f41f8e2f0f3ba9716e40a1a5eb2532f1267f8e1"
+ },
+ "538": {
+  "text": "The lesson is thirty minutes long.",
+  "duration": 3.141,
+  "bytes": 11130,
+  "sha256": "7561ebe589a00045390ed5d2f74cdbdc855ea1c3c87572eddc32e10ba1c0b567"
+ },
+ "539": {
+  "text": "I go to school on Monday.",
+  "duration": 2.584,
+  "bytes": 8732,
+  "sha256": "0057a7ec80bac51042f59710b5804a9cc7edc3d3204c19303de8438f302e9d3a"
+ },
+ "540": {
+  "text": "How much money do you need?",
+  "duration": 2.375,
+  "bytes": 8179,
+  "sha256": "71f477960c614d22215eab2fcc47b4f1b01d38fdffb21eed8b14337285eb97dd"
+ },
+ "541": {
+  "text": "I get up in the morning.",
+  "duration": 2.375,
+  "bytes": 8178,
+  "sha256": "05a7c9b0605ca54c827308b11c3638570f899a65361d0e2418d8e7e3e50496a6"
+ },
+ "542": {
+  "text": "She is my mother.",
+  "duration": 2.096,
+  "bytes": 6792,
+  "sha256": "7a4f5f88b8ba013f67ba604f75e640d2836eb9540a73100ec752c23ae3b555bc"
+ },
+ "543": {
+  "text": "Mr Ali is a teacher.",
+  "duration": 2.375,
+  "bytes": 8026,
+  "sha256": "9b8b6627bbbbdb70acdf569b7cd91b49123fdaf76e2af29d46cca45d6dd5f77f"
+ },
+ "544": {
+  "text": "How much water is there?",
+  "duration": 2.375,
+  "bytes": 8115,
+  "sha256": "574f591ffc642dc05fcbbd977523c537dd3ad90249d149334687d410a20829ef"
+ },
+ "545": {
+  "text": "My name is Ali.",
+  "duration": 2.027,
+  "bytes": 6633,
+  "sha256": "d3b85faa7dac10d39a3fc6fe33a70f8f5cc12cdc7f39a63a62d8b5f435a8dd91"
+ },
+ "546": {
+  "text": "I need a pen.",
+  "duration": 1.818,
+  "bytes": 5832,
+  "sha256": "9ba0c55e1f1df7240c2460cc2cbaf9fa55341162f01799da07638f6df0567992"
+ },
+ "547": {
+  "text": "The night is dark.",
+  "duration": 2.096,
+  "bytes": 6752,
+  "sha256": "8cac834e82b2f67e2c1bbaf0281d990cad5f5484bbeef0ef0c802f3d7d29e39c"
+ },
+ "548": {
+  "text": "How old are you?",
+  "duration": 1.887,
+  "bytes": 6204,
+  "sha256": "7c8e9c253407178e37d861873ffdca9e3645df8b3e5d562376dedbc6ee735bef"
+ },
+ "549": {
+  "text": "I have one pen.",
+  "duration": 1.887,
+  "bytes": 6326,
+  "sha256": "5e03fa2befe9d043a3e79cd93244448c4cf607a79c585a9d9c388491d2d190b1"
+ },
+ "550": {
+  "text": "The park is green.",
+  "duration": 2.096,
+  "bytes": 6934,
+  "sha256": "16b746df3b9e33fc30fc03ca0656af539043180b415ee21cb67701868df6a903"
+ },
+ "551": {
+  "text": "This is my pen.",
+  "duration": 2.027,
+  "bytes": 6650,
+  "sha256": "e64c7ce223bcf555928d6c9cbeb3f37e7cac811816d36c8e3a9a9218d35328e2"
+ },
+ "552": {
+  "text": "The phone is new.",
+  "duration": 2.027,
+  "bytes": 6490,
+  "sha256": "230077b6d780df4878497b15dfda5cd23253009807ae6444f3c683325db0e265"
+ },
+ "553": {
+  "text": "I read a book.",
+  "duration": 1.818,
+  "bytes": 5770,
+  "sha256": "d941a0e7d5cec28c90e2a82c131ffd7d8ab439cc2cec4434cf4203b425d081e4"
+ },
+ "554": {
+  "text": "I like rice.",
+  "duration": 1.748,
+  "bytes": 5631,
+  "sha256": "3c992e59c85637ec1a1362041d1448854381b1abd84c582a7ad785e7de02f843"
+ },
+ "555": {
+  "text": "The river is long.",
+  "duration": 2.096,
+  "bytes": 6782,
+  "sha256": "3ac6c53002dd9a65c808d3fc919d934e103fe04700dac70efe5421204667e135"
+ },
+ "556": {
+  "text": "I live in Samarkand.",
+  "duration": 2.305,
+  "bytes": 7965,
+  "sha256": "9dab1b35a0ee0429d98deadcf93be525f6df3efc6a2ad4c0d935a0d3ed706475"
+ },
+ "557": {
+  "text": "Sara is kind.",
+  "duration": 1.887,
+  "bytes": 6410,
+  "sha256": "47fcd46a24d2aaf840004d881efe3bed2912194c7c45ec701cc3e2be7cd46e40"
+ },
+ "558": {
+  "text": "They are at school.",
+  "duration": 2.236,
+  "bytes": 7241,
+  "sha256": "56748519364cdc37a9f1536a98053a93318601bd560691fcf9caae439c14705b"
+ },
+ "559": {
+  "text": "I wake up at seven.",
+  "duration": 2.305,
+  "bytes": 7714,
+  "sha256": "34c6fa613fd2716b20046bc9bbbfd2495cf7bd803e94ef29009141387b70f740"
+ },
+ "560": {
+  "text": "My shoes are new.",
+  "duration": 2.166,
+  "bytes": 7095,
+  "sha256": "04577705c955394b13bba57f9eae0423e037bbe21958bf74c27cda0feabe313d"
+ },
+ "561": {
+  "text": "My sister is kind.",
+  "duration": 2.305,
+  "bytes": 7731,
+  "sha256": "242dfe7298c61862e43e76317c945e24e9751bc7b3376f649bbb1ba364a55501"
+ },
+ "562": {
+  "text": "How do you spell your name?",
+  "duration": 2.514,
+  "bytes": 8449,
+  "sha256": "6c5b282b6bbfbd5665adc5d22ed709ef28a830c3f6ffc4f635e420e1fc000efa"
+ },
+ "563": {
+  "text": "The bus stops here.",
+  "duration": 2.236,
+  "bytes": 7289,
+  "sha256": "98a401fd1ae0e31ea10ba94555a776fad5d885bee8c116e28257af90d8e007de"
+ },
+ "564": {
+  "text": "He is a student.",
+  "duration": 2.096,
+  "bytes": 6826,
+  "sha256": "329a5a798f66aec175c60629d3ea2ab60dc0516107c3d8722d174f8bab4169c5"
+ },
+ "565": {
+  "text": "They are students.",
+  "duration": 2.166,
+  "bytes": 7434,
+  "sha256": "f7432cf06587da85d5e33a88a842cfddbbe98cb388112f963ad39b43a96cd0ea"
+ },
+ "566": {
+  "text": "They play on Sundays.",
+  "duration": 2.375,
+  "bytes": 7976,
+  "sha256": "213586b5e904cdac0f7aa2b4914552106a536f9365acb8b6dc05b723d4d5206e"
+ },
+ "567": {
+  "text": "The book is on the table.",
+  "duration": 2.514,
+  "bytes": 8190,
+  "sha256": "2783803c1696009106a1fc3a4dd529ae224f38ccef342f0ed59b5e561849259e"
+ },
+ "568": {
+  "text": "I drink tea.",
+  "duration": 1.748,
+  "bytes": 5995,
+  "sha256": "31ae0b2b895ae2cb27ce4e54c8093d68033b6f5ae80b8db75be70d1271918c13"
+ },
+ "569": {
+  "text": "She is a teacher.",
+  "duration": 2.166,
+  "bytes": 7056,
+  "sha256": "4da8c568f3afd318b4ff7114512b801dffd6dc3c9dfc3208037f716a4cc22266"
+ },
+ "570": {
+  "text": "I have ten pens.",
+  "duration": 1.957,
+  "bytes": 6692,
+  "sha256": "fc9a5a18f0a38ba305a47a3b459e48285f89d03016e671830b820f437d528a47"
+ },
+ "571": {
+  "text": "Thank you very much.",
+  "duration": 2.236,
+  "bytes": 7027,
+  "sha256": "a94a4d23034a67508c074c1f09ef78f342190b30ba30498796bd1517a9cbfdfb"
+ },
+ "572": {
+  "text": "That is my book.",
+  "duration": 2.027,
+  "bytes": 6428,
+  "sha256": "c321457a28c5ad9217f93f225db2ee28bcb8b7e05646cb06a1e4bf4fa93f1534"
+ },
+ "573": {
+  "text": "These are my keys.",
+  "duration": 2.166,
+  "bytes": 7112,
+  "sha256": "d5a280268574973a9b56c67bbe59fc0d0484115a7dccb625f1b8ed7237b19120"
+ },
+ "574": {
+  "text": "This is a pen.",
+  "duration": 1.957,
+  "bytes": 6190,
+  "sha256": "141a3e16c4327d6fb9a88a3286fe45f24eedefe002d5e4d9275b8d178858687d"
+ },
+ "575": {
+  "text": "She has three boxes.",
+  "duration": 2.305,
+  "bytes": 7806,
+  "sha256": "838c45acf4d1f189499045f8d3037fd573ac191fcc86b0b786ed33000ad0c627"
+ },
+ "576": {
+  "text": "The ticket is cheap.",
+  "duration": 2.305,
+  "bytes": 7382,
+  "sha256": "b48b4ece455bdbb03ee042da646387a7e45065e82cf1c9dee427cdcfbcc25715"
+ },
+ "577": {
+  "text": "What time is it?",
+  "duration": 1.957,
+  "bytes": 6119,
+  "sha256": "061b8d7178909d78d66df5bcb1dc69078096beca04f837b7521fa1f5c27a4bac"
+ },
+ "578": {
+  "text": "We are tired.",
+  "duration": 1.818,
+  "bytes": 5852,
+  "sha256": "5e1e59df230259f1978f0e512c3f65c0c7e9a1e6fc89a0a359285566557f0556"
+ },
+ "579": {
+  "text": "Today is sunny.",
+  "duration": 1.957,
+  "bytes": 6451,
+  "sha256": "e850f475bf46b9c8492a5fc7300202126b9a8deeb5b72f32c3f384d8452c61af"
+ },
+ "580": {
+  "text": "The train arrives at eight.",
+  "duration": 2.723,
+  "bytes": 9065,
+  "sha256": "ad498a5c4b54c821ab8e443f1e9eed9fc28ff183c8f4786632c4daf2079f6b87"
+ },
+ "581": {
+  "text": "I travel by bus.",
+  "duration": 2.096,
+  "bytes": 7058,
+  "sha256": "c6b51720c3dd6fbe0660e196996f90ac63bc000d4230440d3326e686a0d30be0"
+ },
+ "582": {
+  "text": "I have two sisters.",
+  "duration": 2.305,
+  "bytes": 7713,
+  "sha256": "6c9346ba3903aedf9382e2343e94be308fe8adb0cc17b398e596126e5885d4ea"
+ },
+ "583": {
+  "text": "The keys are under the book.",
+  "duration": 2.654,
+  "bytes": 8642,
+  "sha256": "603a7e31d5136c50104c3804fc1171a816ca11b2403eb9202d2296df2d38a0cf"
+ },
+ "584": {
+  "text": "Get up early.",
+  "duration": 1.818,
+  "bytes": 5716,
+  "sha256": "9bffd92925ca533b9583c07a5b7aaebb083b49bd2353ba38ada26fe6b05ea33f"
+ },
+ "585": {
+  "text": "I visit my aunt.",
+  "duration": 2.096,
+  "bytes": 6927,
+  "sha256": "ddeb119f88b62fb1f18566f949a3abd729ab8f62db58a3edcdf06f415f2c5ec4"
+ },
+ "586": {
+  "text": "I walk to school.",
+  "duration": 2.096,
+  "bytes": 6753,
+  "sha256": "c621841d66bc316c474cb10b53d5db7b7df73091adfa60ef6e8440aa238bc9e8"
+ },
+ "587": {
+  "text": "She wants tea.",
+  "duration": 1.887,
+  "bytes": 6207,
+  "sha256": "49b96848ef2009bfd214a043a07684112408427d54bfb64a7057212783b7b747"
+ },
+ "588": {
+  "text": "I drink water.",
+  "duration": 1.818,
+  "bytes": 5950,
+  "sha256": "9e9cb6e15ccb6f97cef773b2fe1c07fffe08723f64532efd874e54391ea1bad6"
+ },
+ "589": {
+  "text": "What is this?",
+  "duration": 1.818,
+  "bytes": 5774,
+  "sha256": "0863378e840b14a244775648911f7cc76d3d344b97e82fae1a3d68990cf75bc2"
+ },
+ "590": {
+  "text": "When do you get up?",
+  "duration": 1.957,
+  "bytes": 6173,
+  "sha256": "a8cbe0c8358fd20a74630e17d708b68381b0f6fe2bb907e5ef5521b3428aecbd"
+ },
+ "591": {
+  "text": "Where do you live?",
+  "duration": 1.957,
+  "bytes": 6360,
+  "sha256": "5a1018e2a9ded426f48deeba584e8aff63b7e5252aa97274fc7402d2d8ae3d65"
+ },
+ "592": {
+  "text": "Who is your teacher?",
+  "duration": 2.096,
+  "bytes": 6839,
+  "sha256": "56c748a7d01dd07cdb0f7e1dbaf3e1e63564c5844050bc158eefdcc7519e2c17"
+ },
+ "593": {
+  "text": "Why are you late?",
+  "duration": 1.957,
+  "bytes": 6215,
+  "sha256": "abe0c0bfe0266076462968f68dd1d492b98ec059721fe70adbc3ee43d7d62a46"
+ },
+ "594": {
+  "text": "She is a woman.",
+  "duration": 1.957,
+  "bytes": 6389,
+  "sha256": "1d6ff45e3f8a5b9396c56d5d349d6aaa0ebd4a9cc937a62482b1396b8e368782"
+ },
+ "595": {
+  "text": "We work at school.",
+  "duration": 2.166,
+  "bytes": 7141,
+  "sha256": "84b15e49abdabc9391d65eb001ea5c79baaeb6a3daaf2de10b2180b151d5e56f"
+ },
+ "596": {
+  "text": "He works here.",
+  "duration": 1.818,
+  "bytes": 6122,
+  "sha256": "69e61419f257b88a3d5100840c64d5bc83ff84831b72ea2dbefe7e9750762f20"
+ },
+ "597": {
+  "text": "I am ten years old.",
+  "duration": 2.236,
+  "bytes": 7536,
+  "sha256": "09065af62421368b0840385292e55910472350182fd7098fb4a5755d84f0bca6"
+ },
+ "598": {
+  "text": "This is your book.",
+  "duration": 2.166,
+  "bytes": 6778,
+  "sha256": "a52fa502d771dd940d9a672d321f35ce23084ce7d4d3b1b8bbface3510e1a1ad"
+ },
+ "599": {
+  "text": "He is an adult.",
+  "duration": 2.027,
+  "bytes": 6616,
+  "sha256": "3252e199f07176ca9ef60577b166bdde16c2f7f3c5aadc8fad138e345e48842b"
+ },
+ "600": {
+  "text": "I study in the afternoon.",
+  "duration": 2.584,
+  "bytes": 9290,
+  "sha256": "c1eed64f109f5651ecf663af962c5fb47fd0df75e131f10b02ebd3e91a076ca5"
+ },
+ "601": {
+  "text": "Ali is my friend.",
+  "duration": 2.166,
+  "bytes": 7156,
+  "sha256": "ce2cbeb39d4353a19472c73066dac1dff8ab48310ba15a8e37088a1fa0ba9a21"
+ },
+ "602": {
+  "text": "Do you have any questions?",
+  "duration": 2.445,
+  "bytes": 8152,
+  "sha256": "9fcd3e202a27bf4ccada577377547f7dd1967d7a551a1e40b3fee2049519534f"
+ },
+ "603": {
+  "text": "This is an apple.",
+  "duration": 2.236,
+  "bytes": 7015,
+  "sha256": "13ff079531639394f433d90c0d019ff4afd9aaaa5e3a279f119588f09970c2a6"
+ },
+ "604": {
+  "text": "These apples are sweet.",
+  "duration": 2.584,
+  "bytes": 9074,
+  "sha256": "34fc0a64276090e83d629a39652c17fc2c06fa5c9c356b0c285844d0382f44bf"
+ },
+ "605": {
+  "text": "The baby sleeps.",
+  "duration": 2.096,
+  "bytes": 6766,
+  "sha256": "4907889dbca4c4d1fda060dd230f1fdc8100a54cd876ac9afe8097aa9ffa7352"
+ },
+ "606": {
+  "text": "This is my bag.",
+  "duration": 2.027,
+  "bytes": 6598,
+  "sha256": "5674b932a1615afd3d5002d5064c4699ea92a3fc92dc9faa923c26eec561093a"
+ },
+ "607": {
+  "text": "The bank is near the school.",
+  "duration": 2.723,
+  "bytes": 8881,
+  "sha256": "8289b6cc10bb966db12f0dfee36b449a6c00c0081e9b428420b691dd48785271"
+ },
+ "608": {
+  "text": "I can swim.",
+  "duration": 1.748,
+  "bytes": 5519,
+  "sha256": "930689e65ce61da16c6cd4a68cda2f015917f9f64b796361389e74c7d7e18992"
+ },
+ "609": {
+  "text": "I go to bed at ten.",
+  "duration": 2.027,
+  "bytes": 6817,
+  "sha256": "b64d69692fd48d011b83980ee2577b43537c9ee446754282e7b1028c22949e3f"
+ },
+ "610": {
+  "text": "The house is big.",
+  "duration": 2.027,
+  "bytes": 6694,
+  "sha256": "18f37b6f65dcfb14ce25f5e898c097bb48546f5914c8fbab7f51c9a8e9a86b20"
+ },
+ "611": {
+  "text": "Birds can fly.",
+  "duration": 1.887,
+  "bytes": 6270,
+  "sha256": "f3e734bcafd7824712ffde5ef15e881ab1634d615ba2c00614079b4cad2d4790"
+ },
+ "612": {
+  "text": "My birthday is in May.",
+  "duration": 2.514,
+  "bytes": 8634,
+  "sha256": "7b9d52dc86c2d98536f4e5d231312db019bef12fb0669f2f2c7d0352b193bcb6"
+ },
+ "613": {
+  "text": "The cat is black.",
+  "duration": 2.096,
+  "bytes": 6689,
+  "sha256": "558f0e1a7d04bb62fdfc1f33866c716a8889155812c60f872bea058a233e0a25"
+ },
+ "614": {
+  "text": "The ball is blue.",
+  "duration": 2.096,
+  "bytes": 6748,
+  "sha256": "93ae0894fd2416b315da67f6bcc694779f8440d0aaafaa725b3aa725a0e2743b"
+ },
+ "615": {
+  "text": "Look at the board.",
+  "duration": 2.096,
+  "bytes": 6380,
+  "sha256": "f0146e0e64c807f8302bfdce00c3139cffc76448b4df54bf98120df0613cf309"
+ },
+ "616": {
+  "text": "This is a book.",
+  "duration": 2.027,
+  "bytes": 6230,
+  "sha256": "3e3c722c2b4b5d4d0319c2e0f07a4afbbefe314a9618490f0b0faa65eaa18592"
+ },
+ "617": {
+  "text": "These books are new.",
+  "duration": 2.305,
+  "bytes": 7451,
+  "sha256": "bd291cbe8651902391d4f867c29b3900a9f94fbaa02a8ff89fdd38d6eae681b5"
+ },
+ "618": {
+  "text": "She was born in Tashkent.",
+  "duration": 2.584,
+  "bytes": 8610,
+  "sha256": "12548f3caa755d7b4a57a3b682d8be175c660bec3021d0077b3dbb1ccc2ac8f5"
+ },
+ "619": {
+  "text": "A bottle of water is on the table.",
+  "duration": 3.141,
+  "bytes": 10837,
+  "sha256": "81012ad6698316b009eee9be368e8592fec0e7cbfdf6f63fd438019e775a9654"
+ },
+ "620": {
+  "text": "Two bottles of milk are in the fridge.",
+  "duration": 3.35,
+  "bytes": 11588,
+  "sha256": "205b81a3855e13e5ddaa3929522b6d0e688ef6f99bbc6eb92da067f93a3bbdf4"
+ },
+ "621": {
+  "text": "I eat bread every morning.",
+  "duration": 2.584,
+  "bytes": 8772,
+  "sha256": "e7555bfd1e342e92b6fef7a1e80b99d0ad2a8def4e1b65d2ee9c98a84755b335"
+ },
+ "622": {
+  "text": "My brother is tall.",
+  "duration": 2.236,
+  "bytes": 7297,
+  "sha256": "9e7f199bffbbd20d625d157594ad484e557fdc54cd9bd68ffe30b4e52dd0db42"
+ },
+ "623": {
+  "text": "My brothers are students.",
+  "duration": 2.723,
+  "bytes": 9054,
+  "sha256": "0acd68b064d7d2d36d914bd16fb0dbc4957855c8b6ec773a459a51c9f1197c9b"
+ },
+ "624": {
+  "text": "The café is between the bank and the shop.",
+  "duration": 3.629,
+  "bytes": 12564,
+  "sha256": "19639ceb1615fdc3d0706f263b0205737852824e5cce7bdcb6adf716a53e30c4"
+ },
+ "625": {
+  "text": "She calls me every day.",
+  "duration": 2.445,
+  "bytes": 8212,
+  "sha256": "901ba1ef804a130a8c6e18db55608da4f38045eacf94a8df740bdc25bfdd69c9"
+ },
+ "626": {
+  "text": "She cannot come today.",
+  "duration": 2.375,
+  "bytes": 8000,
+  "sha256": "29f0e634cda2fbc81e02f816844c9c1faf62375f02eba86931cce88835c371a8"
+ },
+ "627": {
+  "text": "I can't drive a bus.",
+  "duration": 2.166,
+  "bytes": 7390,
+  "sha256": "bc3e19e6b3d42943793257161bbd528c06e80977fe4b69e426fc8227f3825027"
+ },
+ "628": {
+  "text": "My parents have a car.",
+  "duration": 2.514,
+  "bytes": 8878,
+  "sha256": "0082110cf2418b118e46532a98062e03899bb8666b619df1f9b19fe51750447a"
+ },
+ "629": {
+  "text": "Listen carefully.",
+  "duration": 2.096,
+  "bytes": 6989,
+  "sha256": "758eac120948f33f798f789ee1cb36ab832cda2d28a0cd43d85f2fd548f1f4ed"
+ },
+ "630": {
+  "text": "The cat is small.",
+  "duration": 2.166,
+  "bytes": 7018,
+  "sha256": "5bba0c896b8a173ec15cbde1271dcd15b9a346d57564450ad5081d271bcb796f"
+ },
+ "631": {
+  "text": "Sit on the chair.",
+  "duration": 2.027,
+  "bytes": 6486,
+  "sha256": "fb623c99ce58aab6cbd9a763ff3ad7f1d638fc0eaab16253cdd4da8c3c566c6a"
+ },
+ "632": {
+  "text": "These chairs are new.",
+  "duration": 2.375,
+  "bytes": 8020,
+  "sha256": "3bd64951ef225343bd6a018912554706ec10e0600f81b45eabc3045b314fe4da"
+ },
+ "633": {
+  "text": "I like chicken.",
+  "duration": 1.887,
+  "bytes": 5947,
+  "sha256": "dbcf9fa455c25ff6f5584128f665e7078e1ae513ffdc0f0a56000fc1233a3734"
+ },
+ "634": {
+  "text": "She has a child.",
+  "duration": 2.027,
+  "bytes": 6934,
+  "sha256": "7e99382a81da261af61fbb434d8d9b8249cb8abf9b60a16a309a7eb815b79c51"
+ },
+ "635": {
+  "text": "These children are happy.",
+  "duration": 2.514,
+  "bytes": 8488,
+  "sha256": "2b6501de1fa8f8fded9ce1e8a5c1ba81d002ba29441469554f943b5592630a47"
+ },
+ "636": {
+  "text": "My room is clean.",
+  "duration": 2.166,
+  "bytes": 7294,
+  "sha256": "0aa3a7adebfe29eec932a96c21d29230fd49d0b26c07563d24e7a02f3b996075"
+ },
+ "637": {
+  "text": "The clock is on the wall.",
+  "duration": 2.584,
+  "bytes": 9075,
+  "sha256": "2f3994b3af4b30aef93b552214ca48e17ae29c02bbe5c71a845aa77cf0487ce7"
+ },
+ "638": {
+  "text": "Close the window, please.",
+  "duration": 2.514,
+  "bytes": 8353,
+  "sha256": "03891526fee89906a2782af85340d4f9a251b94e4dbec27fd871064f863e50ab"
+ },
+ "639": {
+  "text": "Come here, please.",
+  "duration": 2.027,
+  "bytes": 6518,
+  "sha256": "daee68df9314732f3f70ac04030b18ed49b2dc99f0c31ca953bc4390c6937518"
+ },
+ "640": {
+  "text": "She cooks dinner.",
+  "duration": 2.096,
+  "bytes": 6664,
+  "sha256": "8db3b53af9e68e8d998b3f285230637483d03d141a61b646c806aab94be3b83e"
+ },
+ "641": {
+  "text": "A cup of tea, please.",
+  "duration": 2.375,
+  "bytes": 8011,
+  "sha256": "9bb1cdb34ef1657942d6d5488c47380ab12c87d0454e6ba3e35cf37e9e8f0c58"
+ },
+ "642": {
+  "text": "Two cups of tea, please.",
+  "duration": 2.584,
+  "bytes": 8857,
+  "sha256": "888b811792bd72a07023f0469d4bb0a39ea419a99310101d00b6fa93ce91a474"
+ },
+ "643": {
+  "text": "My books are on the desk.",
+  "duration": 2.654,
+  "bytes": 8777,
+  "sha256": "cc44bb82987abc5cb58b357c1995cc8de6f332c23f142acdec6a5aa6e3d583aa"
+ },
+ "644": {
+  "text": "The dog is big.",
+  "duration": 1.887,
+  "bytes": 5989,
+  "sha256": "c348d2c593b52292f80f27f28fbe37a0907d14bcc2d24b8a40e3cdfd2597d674"
+ },
+ "645": {
+  "text": "These dogs are small.",
+  "duration": 2.514,
+  "bytes": 8386,
+  "sha256": "228bfec8f58d1cd1c0f4feff62bf805ba1479e809e0a957d4a07a44666878a80"
+ },
+ "646": {
+  "text": "Open the door, please.",
+  "duration": 2.514,
+  "bytes": 8282,
+  "sha256": "e11a45f5dfe55e7d6be0f576d5cf32b7deda325401989cabebc00e51017aba74"
+ },
+ "647": {
+  "text": "Sit down, please.",
+  "duration": 2.096,
+  "bytes": 7086,
+  "sha256": "6393d0de21af19100f9ea0b14ba3015269ac90a52ef63df9c5a1e1027b027b86"
+ },
+ "648": {
+  "text": "I drink water.",
+  "duration": 1.818,
+  "bytes": 6081,
+  "sha256": "0e1d380e9f2f21227671cca8b588b2fd91f702a05bfe9cd52119628334f8788d"
+ },
+ "649": {
+  "text": "He can drive a car.",
+  "duration": 2.236,
+  "bytes": 7449,
+  "sha256": "26995cc7a759748590dbf7c76a61d8212d9b83985bfb7cca6d2a30a8ba5ce968"
+ },
+ "650": {
+  "text": "I have two eggs.",
+  "duration": 1.957,
+  "bytes": 6374,
+  "sha256": "783d0607c12574fdd4d2ca0fb2d0d68ab8205f501aef062b99fbe2cea990477f"
+ },
+ "651": {
+  "text": "I study English.",
+  "duration": 2.027,
+  "bytes": 6743,
+  "sha256": "8d6d908621ca4a07939b3ee7f33323c972753aaa4e6ab23be148a1ac6770db58"
+ },
+ "652": {
+  "text": "I study in the evening.",
+  "duration": 2.514,
+  "bytes": 8250,
+  "sha256": "34c8aa86a9671774ffe5fc493827b731aa56224f9a0e727f66d9fb071efe31de"
+ },
+ "653": {
+  "text": "Every day I read.",
+  "duration": 2.096,
+  "bytes": 6903,
+  "sha256": "c1750f6d9438f25b5ef6ee10f69c573d182bcac9678b34e7456f68ba7c9b6b67"
+ },
+ "654": {
+  "text": "My family is big.",
+  "duration": 2.166,
+  "bytes": 7275,
+  "sha256": "212459ac26b14bb95fe5f1b70ddd6b53da79b282a8e07b4a96dca8cd572ee863"
+ },
+ "655": {
+  "text": "We watch a film.",
+  "duration": 1.957,
+  "bytes": 6321,
+  "sha256": "c1ca0cb80cb8ec20a597268c0b6ced2da78f356f7b1aa9952e00b30397eb6e12"
+ },
+ "656": {
+  "text": "The fish is small.",
+  "duration": 2.305,
+  "bytes": 7468,
+  "sha256": "7b2e96267b3eded04e5bafd867165ac9c5dbf7504aa9803fb5ab2a029d18c830"
+ },
+ "657": {
+  "text": "I have four pens.",
+  "duration": 2.027,
+  "bytes": 6630,
+  "sha256": "9ac9fcf2da651453121469b4a10d6dd1228c71d8c4091baf6f9b823539acee92"
+ },
+ "658": {
+  "text": "Are you free today?",
+  "duration": 2.027,
+  "bytes": 6536,
+  "sha256": "876fb7ef1ef3094a3a5173472a2548005ee405a411d63b0342559ddf43f743b3"
+ },
+ "659": {
+  "text": "I study on Friday.",
+  "duration": 2.236,
+  "bytes": 7431,
+  "sha256": "7fdc17f86fc3d0ccfaadc4498df54a03d7ef71d8e9ab92f9090ed2ba806d56f6"
+ },
+ "660": {
+  "text": "We play football on Fridays.",
+  "duration": 2.932,
+  "bytes": 10219,
+  "sha256": "161896299f588e81211792f4709d410fbdc48fda674f72bdc6c06ac4bc5c0857"
+ },
+ "661": {
+  "text": "The milk is in the fridge.",
+  "duration": 2.514,
+  "bytes": 8391,
+  "sha256": "b4a5d5e761a1545f3b274da07b79e5069367c2987d1a04a78b5486151bc1c08e"
+ },
+ "662": {
+  "text": "They are my friends.",
+  "duration": 2.305,
+  "bytes": 7581,
+  "sha256": "b96ecfbf30a2e710491ca7ddb5a58c580e1949c3166733ed48c5cf38e551436c"
+ },
+ "663": {
+  "text": "They are in the garden.",
+  "duration": 2.305,
+  "bytes": 7539,
+  "sha256": "49262329cf8d056230a3e831e384eb2be412fa68b332dcb05e6e560ecb2728f6"
+ },
+ "664": {
+  "text": "I get up at seven.",
+  "duration": 2.166,
+  "bytes": 7061,
+  "sha256": "3bc1a293f9fad235375deaeec535c32b480812d453380d61e1d13170031afc03"
+ },
+ "665": {
+  "text": "Give me a pen, please.",
+  "duration": 2.584,
+  "bytes": 8507,
+  "sha256": "05a4d27bacc32b4b84002465a1261a7d55b1161b3a0a169c6bd9828b8d557102"
+ },
+ "666": {
+  "text": "A glass of water, please.",
+  "duration": 2.723,
+  "bytes": 9147,
+  "sha256": "dd17afc4413e0314119b47af1f99e3e847a6cbcb5dd7134189354504056aece8"
+ },
+ "667": {
+  "text": "The book is good.",
+  "duration": 2.027,
+  "bytes": 6471,
+  "sha256": "b7bb1be41d030b829840fc14434f5a4752e64ec43445944189d67997bc96f8bc"
+ },
+ "668": {
+  "text": "Give me your hand.",
+  "duration": 2.096,
+  "bytes": 6672,
+  "sha256": "8b9518c0e0f84a6030996dd75e46b5c23eb3baf19a54ea94723b7ede59d4d1fe"
+ },
+ "669": {
+  "text": "She is happy.",
+  "duration": 1.818,
+  "bytes": 5897,
+  "sha256": "ecdf12eff8be81c06054c6a2eaad4b99a1096cfb434288d531ec2a0e764233cb"
+ },
+ "670": {
+  "text": "She has a cat.",
+  "duration": 1.957,
+  "bytes": 6193,
+  "sha256": "d082db09407542e6567524981b0c5c85940552f69d195efa9438084acc46d1aa"
+ },
+ "671": {
+  "text": "I have a book.",
+  "duration": 1.887,
+  "bytes": 5803,
+  "sha256": "01016fd95c26504ab02b7d36cfff8aaef1ae38c59412eaf4c546631d4ae4089d"
+ },
+ "672": {
+  "text": "I need help.",
+  "duration": 1.748,
+  "bytes": 5571,
+  "sha256": "6ca8560af6ba6c32b3cfe9417619d50e24781c5e7dcd8a0550e8fc2a39eac42d"
+ },
+ "673": {
+  "text": "The teacher helps us.",
+  "duration": 2.375,
+  "bytes": 7762,
+  "sha256": "5ed4ff7aa9f4289cbce10978c07dc5daba4345d98c715c03ec8c53f6f6059f31"
+ },
+ "674": {
+  "text": "I know her.",
+  "duration": 1.748,
+  "bytes": 5639,
+  "sha256": "489b1a6fd9d7c22b0f63f65ece8e0e804fd2c4a43cb0e81ef6a70c440cca0e2f"
+ },
+ "675": {
+  "text": "I am here.",
+  "duration": 1.678,
+  "bytes": 5396,
+  "sha256": "5d8cac35acfa85d7dd2bbec3c9455ec96df26e5ef9c940ae2dca9f4664686f2a"
+ },
+ "676": {
+  "text": "I know him.",
+  "duration": 1.748,
+  "bytes": 5437,
+  "sha256": "be31a5ba9c16dcdad307ef54f6f5c6613897f1f39d30289b35e4e08a3ff04850"
+ },
+ "677": {
+  "text": "I am at home.",
+  "duration": 1.818,
+  "bytes": 5822,
+  "sha256": "a1669c70c30ebdc2c95ad98a8c1d03de4cd42f9fddf89c1484dbc1e4263b530e"
+ },
+ "678": {
+  "text": "This is our house.",
+  "duration": 2.236,
+  "bytes": 7188,
+  "sha256": "411723583915f3a6223971d5c5b5bce24a7ec3bf32535673096312b2d067458f"
+ },
+ "679": {
+  "text": "How are you?",
+  "duration": 1.748,
+  "bytes": 5568,
+  "sha256": "de1e9ee11cc2a9cb8c8fc5c9bba84659a8028aaab398865364fb0699986f2bb4"
+ },
+ "680": {
+  "text": "The book is interesting.",
+  "duration": 2.514,
+  "bytes": 8353,
+  "sha256": "5e516dc648f0092eba80436853472aef7ea1de77f948c11bbc206c85d11ad475"
+ },
+ "681": {
+  "text": "These are my keys.",
+  "duration": 2.166,
+  "bytes": 7200,
+  "sha256": "fa1dd40a7c71e50aefba1f820f77050800b655a7ebb90685f9940fc17320ac50"
+ },
+ "682": {
+  "text": "She is kind.",
+  "duration": 1.818,
+  "bytes": 5708,
+  "sha256": "56ca0ff249abc1e7ff0cfde18fdc1af35bcc0c464d34f813b33d16e060f09a1c"
+ },
+ "683": {
+  "text": "I know Ali.",
+  "duration": 1.748,
+  "bytes": 5824,
+  "sha256": "77ded9df4154cc34e85b7cd782f43c172f1fa12303ce0977c390c6053073e768"
+ },
+ "684": {
+  "text": "We are late.",
+  "duration": 1.748,
+  "bytes": 5521,
+  "sha256": "24cbf97d5c749246c0bee4dca577ec2361400d456375e5eee8f4dd48e75891b8"
+ },
+ "685": {
+  "text": "I like music.",
+  "duration": 1.818,
+  "bytes": 5808,
+  "sha256": "2a646ad77403446f452323f41db6338aaadac5d33063775923103cf471d56446"
+ },
+ "686": {
+  "text": "She likes tea.",
+  "duration": 1.887,
+  "bytes": 6173,
+  "sha256": "76e892d21d51d28113f407b7357382cc68e290cad2b727e1727b2044a16b8eae"
+ },
+ "687": {
+  "text": "Listen to me.",
+  "duration": 1.818,
+  "bytes": 5809,
+  "sha256": "29bc8b50a2383209c1d04a487658469350a23f55a499f1664856ba282b914de3"
+ },
+ "688": {
+  "text": "He lives here.",
+  "duration": 1.887,
+  "bytes": 6032,
+  "sha256": "98cd7d3ed5a11553d9b6a3877bd6cd79ffb42709afbcff5064dc3b44528e742b"
+ },
+ "689": {
+  "text": "Look at the picture.",
+  "duration": 2.236,
+  "bytes": 6944,
+  "sha256": "6eb922d0abf4212b1efc3f7ddbb20a35e8e126ceaf852b19a7b04a9750dd68b0"
+ },
+ "690": {
+  "text": "I have a lot of books.",
+  "duration": 2.375,
+  "bytes": 7720,
+  "sha256": "f37e3b2a334ff69e9659755afb07e819d31b9cf563592f9c73fbdcecd0f1afbc"
+ },
+ "691": {
+  "text": "How many books do you have?",
+  "duration": 2.514,
+  "bytes": 8382,
+  "sha256": "ddaba9c1a624071b1b2764bf4ec9c1fb75d9895e73f56b262190a58ebfcd172e"
+ },
+ "692": {
+  "text": "May is warm.",
+  "duration": 1.818,
+  "bytes": 5818,
+  "sha256": "bd77750f56485148e538745f71d81e0a0149b2b503bd9ee5a048a52d221a6745"
+ },
+ "693": {
+  "text": "She helps me.",
+  "duration": 1.818,
+  "bytes": 5933,
+  "sha256": "10e1ab6dd9cc671be47f6111063070aba352dd20bc73fe829efdb7d3a6a658c4"
+ },
+ "694": {
+  "text": "I drink milk.",
+  "duration": 1.818,
+  "bytes": 5779,
+  "sha256": "0686e0f7abba9e65064a7f19ef2ecd7185a92152209e078f6677172af742eb18"
+ },
+ "695": {
+  "text": "I go to school on Monday.",
+  "duration": 2.584,
+  "bytes": 8762,
+  "sha256": "e6c7bf6eb4561c81a5e12b05d071749d1eb09366c6dac7656614f97344e00f76"
+ },
+ "696": {
+  "text": "How much money do you need?",
+  "duration": 2.375,
+  "bytes": 8274,
+  "sha256": "99885785860925a84d621f053a0ed3b4fd7117e4a326be287fb0e7b6b5b40235"
+ },
+ "697": {
+  "text": "I get up in the morning.",
+  "duration": 2.375,
+  "bytes": 7704,
+  "sha256": "ae4ab6365bec991dde6f1cb490569cdce15ae1f30c54ea9e7bf82f97300bd38f"
+ },
+ "698": {
+  "text": "How much water is there?",
+  "duration": 2.375,
+  "bytes": 7983,
+  "sha256": "328eaede3ab6de12be929aa0a53911db0e0e711bda53301e9ec3f5f1de5c387c"
+ },
+ "699": {
+  "text": "This is my book.",
+  "duration": 2.096,
+  "bytes": 6656,
+  "sha256": "344bec5c6ac8074cb0a05ce78dfa4b2448892bc11cec582e9e226b3c2640b85b"
+ },
+ "700": {
+  "text": "My name is Ali.",
+  "duration": 2.027,
+  "bytes": 6692,
+  "sha256": "377491bfc302a140b2e61e28d9dd6bb18bd4fea08b8822551e55d2898006745c"
+ },
+ "701": {
+  "text": "The school is near the park.",
+  "duration": 2.793,
+  "bytes": 9478,
+  "sha256": "f773b28a4b101a6833a4dc2692553d4c41080b5376b2201384f86df79038600e"
+ },
+ "702": {
+  "text": "There is a bank nearby.",
+  "duration": 2.514,
+  "bytes": 8845,
+  "sha256": "f58753ecd54369cea5e1f6dceb15e873bf3548ca6673d65f27c53adf127b052e"
+ },
+ "703": {
+  "text": "Next week we visit Samarkand.",
+  "duration": 2.932,
+  "bytes": 10201,
+  "sha256": "6815f5ef7a4f609d513fe750caf2d74301d5c573978d1194119f0f36a847c31f"
+ },
+ "704": {
+  "text": "The night is dark.",
+  "duration": 2.096,
+  "bytes": 6652,
+  "sha256": "eac23ea3e01a914e0196658c0c8415187236b52027c6eaf3cd399a68f91c0d2d"
+ },
+ "705": {
+  "text": "I eat lunch at noon.",
+  "duration": 2.236,
+  "bytes": 7488,
+  "sha256": "298907d9e499cdc33d80bae7e63f551c93ca0eb868b8e85de269593bf482ae8a"
+ },
+ "706": {
+  "text": "The house is old.",
+  "duration": 2.096,
+  "bytes": 6903,
+  "sha256": "3ee01a36f9bafa90d9c6cf9b84b92ea1e78962c0e8785433abd7bb03952f4fae"
+ },
+ "707": {
+  "text": "I have one pen.",
+  "duration": 1.887,
+  "bytes": 6131,
+  "sha256": "eb14549f567c00189bd95ff472f9aabbf0ef652ff748919cbc3e7dec8af0168f"
+ },
+ "708": {
+  "text": "The window is open.",
+  "duration": 2.166,
+  "bytes": 7292,
+  "sha256": "26c13083feb4c3a0530f2e7a4525c297518b05305df7675d77738ae41c341298"
+ },
+ "709": {
+  "text": "Open your book on page ten.",
+  "duration": 2.654,
+  "bytes": 8990,
+  "sha256": "6655a0e310dfe0e051d4d3ec65f5eca4f58b9581563ffe2c168dfd6dac326fd7"
+ },
+ "710": {
+  "text": "Give me a paper.",
+  "duration": 2.096,
+  "bytes": 6689,
+  "sha256": "55c296448285e6c6d88bbfb946e197137e1cb60c66fb649eb56983148e55336c"
+ },
+ "711": {
+  "text": "The park is green.",
+  "duration": 2.096,
+  "bytes": 6991,
+  "sha256": "8099cadfa0f81f804a8ea5eee565ae38ca9b1275dd262cf51e75874fe39c57d7"
+ },
+ "712": {
+  "text": "This is my pen.",
+  "duration": 2.027,
+  "bytes": 6387,
+  "sha256": "1263a69bc059318d8d1c60f5da97435cad6f32ce04f1aeae87cd43a543597cd7"
+ },
+ "713": {
+  "text": "The phone is new.",
+  "duration": 2.027,
+  "bytes": 6490,
+  "sha256": "de620c1a9c5bb12c3c648877ce31f532f78f9234e5a4b24d44be2f39f27ae9d3"
+ },
+ "714": {
+  "text": "Look at this picture.",
+  "duration": 2.375,
+  "bytes": 7479,
+  "sha256": "14cac2d5ba503ca063d5d3377545f21bd1f7003df97a2a700edb90403414bdb7"
+ },
+ "715": {
+  "text": "A piece of bread, please.",
+  "duration": 2.584,
+  "bytes": 8559,
+  "sha256": "3caa59098de0e263c70591f45f9ebdad05ddc967ea3e149104d66509868511b6"
+ },
+ "716": {
+  "text": "The apples are on the plate.",
+  "duration": 2.723,
+  "bytes": 9147,
+  "sha256": "80baa0b40b4ffbec12390e6b45f5f994c5d8bbffb654c216664ed76308166491"
+ },
+ "717": {
+  "text": "Please sit down.",
+  "duration": 1.957,
+  "bytes": 6218,
+  "sha256": "18c05c76b9c11bd564d4157ecb0a6c7abb44dc18c6e02e0df79ec135f9f97371"
+ },
+ "718": {
+  "text": "How many questions are there?",
+  "duration": 2.654,
+  "bytes": 8981,
+  "sha256": "5cd366ad3228fe0d861534701495ff8b6602f028a256e63a825a06f47f346c31"
+ },
+ "719": {
+  "text": "Raise your hand.",
+  "duration": 1.957,
+  "bytes": 6386,
+  "sha256": "c8d51af0320b8bd3326dfc328db70ae7760d8494adc81a066b00e7138cd73eb5"
+ },
+ "720": {
+  "text": "I read a book.",
+  "duration": 1.818,
+  "bytes": 5664,
+  "sha256": "0a805ea5093d605180030ca84be5da0458c765b19499bed6a53d6525cced27d1"
+ },
+ "721": {
+  "text": "The apple is red.",
+  "duration": 2.096,
+  "bytes": 6905,
+  "sha256": "4e7510ee11c058636b52e40ffb899c6bcfe6648b9787a22ab9cfdf38772b42a5"
+ },
+ "722": {
+  "text": "Please repeat the word.",
+  "duration": 2.375,
+  "bytes": 7827,
+  "sha256": "a85929044c536004b9fbb69a80e83ef5d0541d6278d539803edd3ded54f7bfda"
+ },
+ "723": {
+  "text": "I like rice.",
+  "duration": 1.748,
+  "bytes": 5959,
+  "sha256": "c3bc9d35171f005ac67b1d56f1334ac29c6934f7aa84f3ee800229813025ddce"
+ },
+ "724": {
+  "text": "Our rooms are big.",
+  "duration": 2.236,
+  "bytes": 7330,
+  "sha256": "d4c6e2500d6f1b7a86f0015d862f0c35eb10254405fbddd5b0a7e42a362274aa"
+ },
+ "725": {
+  "text": "Don't run in the classroom.",
+  "duration": 2.514,
+  "bytes": 8956,
+  "sha256": "b8d12635bf6ebbbdd443658a049c34aa27debd85939a415ab2c9ee9483d07d97"
+ },
+ "726": {
+  "text": "Sara is kind.",
+  "duration": 1.887,
+  "bytes": 6138,
+  "sha256": "9c09cd7375f584bb64d2f4f7f81b8729476b1cd598d4993f49aa5adee2821bb7"
+ },
+ "727": {
+  "text": "They are at school.",
+  "duration": 2.236,
+  "bytes": 7147,
+  "sha256": "11496be5e526b68910d301694f15f344b22ceecf1e571d377e4f5bde76b4d7a7"
+ },
+ "728": {
+  "text": "I see a bird.",
+  "duration": 1.818,
+  "bytes": 5816,
+  "sha256": "8315f0657cdf63417d8e6c7ce5232ba09948eaee940982f2b51a58a14e73cec9"
+ },
+ "729": {
+  "text": "This is a good sentence.",
+  "duration": 2.654,
+  "bytes": 9227,
+  "sha256": "df2d16d3dc3d5b54f3051fe3511a46d7fde69d8af5d4cfabde0af8a3fdc4bc1b"
+ },
+ "730": {
+  "text": "I have seven books.",
+  "duration": 2.305,
+  "bytes": 7572,
+  "sha256": "2b9a110a197778991af41ef0f84e135f71db5cfad427658f39b33bf8ffcb0c50"
+ },
+ "731": {
+  "text": "My shoes are new.",
+  "duration": 2.166,
+  "bytes": 7033,
+  "sha256": "38d8b7536e5a0e3a22df88165df75336e832c04b3d954f5361e808141eaf2682"
+ },
+ "732": {
+  "text": "The shop is open.",
+  "duration": 2.096,
+  "bytes": 6789,
+  "sha256": "dcd2aa055b24e3c70f91b6d5bb86272a687bdb754f7824bee777cf5e53dd574b"
+ },
+ "733": {
+  "text": "I sing a song.",
+  "duration": 1.887,
+  "bytes": 6058,
+  "sha256": "6dcb3ef26c5dce6f9e012ec1ede6011a7ccf0285f6af477a75e6a7dc509f287a"
+ },
+ "734": {
+  "text": "He sits next to Sara.",
+  "duration": 2.445,
+  "bytes": 8312,
+  "sha256": "bba28b270d3cc8e1da9e5524ab885da934e2c78f3179d0cb1912c3b3c257f427"
+ },
+ "735": {
+  "text": "The sky is blue.",
+  "duration": 2.027,
+  "bytes": 6564,
+  "sha256": "4bb9b25d6dd4f405aea95198f11e4aa9b4cc880c77b32af8ba977db68f7fc509"
+ },
+ "736": {
+  "text": "I have some books.",
+  "duration": 2.166,
+  "bytes": 7088,
+  "sha256": "a4d1b06cd484033b18896a100e64fab2462955e0216d59ddfb63022bbcec13a7"
+ },
+ "737": {
+  "text": "Sorry, I am late.",
+  "duration": 2.236,
+  "bytes": 7344,
+  "sha256": "79940a8b2e2afbaf27cb226ebe9e1bd2beb7bc12a22ac365825deba7ea01084a"
+ },
+ "738": {
+  "text": "They speak English.",
+  "duration": 2.236,
+  "bytes": 7368,
+  "sha256": "28ccec4d06772c0757d1dccd5b7152e138564b224baaf2479001f79cff28712a"
+ },
+ "739": {
+  "text": "Stand up, please.",
+  "duration": 2.236,
+  "bytes": 7211,
+  "sha256": "ef349f874d3306695c5f85478cb71262ff2398a4584519a4a43ad92b2cb488e6"
+ },
+ "740": {
+  "text": "The lesson starts at nine.",
+  "duration": 2.723,
+  "bytes": 9185,
+  "sha256": "53b7d84581bfcf500a268bd1c1a0b2f7d8884681006e0e1d4f9396ec9b76c622"
+ },
+ "741": {
+  "text": "He is a student.",
+  "duration": 2.096,
+  "bytes": 6741,
+  "sha256": "d32f40fafbfb608a1e9aaa70649bab5972d129c72c37452b666dcda792bb8d46"
+ },
+ "742": {
+  "text": "They are students.",
+  "duration": 2.166,
+  "bytes": 6942,
+  "sha256": "a753026aba17d68324c2f6de929f02c00b4448662b719fbbcf6edd001b61aebb"
+ },
+ "743": {
+  "text": "We visit them in summer.",
+  "duration": 2.445,
+  "bytes": 8061,
+  "sha256": "5d1ec4418d2941917775a6fe5fb882a3f9913b7cbcefd42909945e6a0b6f65d3"
+ },
+ "744": {
+  "text": "Yes, I am sure.",
+  "duration": 1.957,
+  "bytes": 6741,
+  "sha256": "9b7189034adfaed5c9fb17517bfd66aca3f3870a04b31bb9edac34c404173c63"
+ },
+ "745": {
+  "text": "The book is on the table.",
+  "duration": 2.514,
+  "bytes": 8141,
+  "sha256": "dce0b6578550c9af1a01736ec9d1bd7f3a3e6100240ed30895540e2f7cb09375"
+ },
+ "746": {
+  "text": "He is tall.",
+  "duration": 1.748,
+  "bytes": 5655,
+  "sha256": "384579f0c56511cf6c6ca8ebb897c42c5c5a720bd267c2984e215860dce8e817"
+ },
+ "747": {
+  "text": "I live in Tashkent.",
+  "duration": 2.236,
+  "bytes": 7531,
+  "sha256": "95efe7a873f134d2c10c4c964b92c8ea1c82bb0acfc6a1ec813b402c16394624"
+ },
+ "748": {
+  "text": "I drink tea.",
+  "duration": 1.748,
+  "bytes": 5739,
+  "sha256": "a5a06277929908a08cb69bd78989a01081f676d1b2f50c387c8bee8103950511"
+ },
+ "749": {
+  "text": "She is a teacher.",
+  "duration": 2.166,
+  "bytes": 6891,
+  "sha256": "3a3019d14ad21853d17eaa70a8b12859ad7246b80e3ad26867997e1275fe2557"
+ },
+ "750": {
+  "text": "I have ten pens.",
+  "duration": 1.957,
+  "bytes": 6474,
+  "sha256": "4fb5b17c7850dd157220ab29bd1f1b7191b5eddfb15523df2ac7193026dfc946"
+ },
+ "751": {
+  "text": "That is my book.",
+  "duration": 2.027,
+  "bytes": 6504,
+  "sha256": "dbe45c11055dcac7c22aea8489dd7147aa47888e1afdae44d948da3b173b8649"
+ },
+ "752": {
+  "text": "I call them every day.",
+  "duration": 2.375,
+  "bytes": 8397,
+  "sha256": "71fe25bee4a8d8ee13dd8d950a9bcfa65e10185e757294e38e95712da7055906"
+ },
+ "753": {
+  "text": "She has three boxes.",
+  "duration": 2.305,
+  "bytes": 7835,
+  "sha256": "c98d63339387df03ab8bf405540e54b293ba0046f6a1b8e3f671739337ef51d9"
+ },
+ "754": {
+  "text": "We have little time.",
+  "duration": 2.166,
+  "bytes": 7032,
+  "sha256": "2c4583bddf2b2f5c0e8de6dad718ae2e19dce7e9cb7f9c64422398180a6c98b0"
+ },
+ "755": {
+  "text": "We are tired.",
+  "duration": 1.818,
+  "bytes": 5748,
+  "sha256": "f2384d3ea4eae196ce174a69a3b2ce8d34c2dd63308f9c659da5ce93675d8965"
+ },
+ "756": {
+  "text": "Today is sunny.",
+  "duration": 1.957,
+  "bytes": 6337,
+  "sha256": "7a7e7a4191d5fc8625fa0892f0045b84254798b07cf3b25c608aa9e571376892"
+ },
+ "757": {
+  "text": "Tom is a student.",
+  "duration": 2.236,
+  "bytes": 7455,
+  "sha256": "449a90e675c68c07c89d2caa6287af82ccfb3520defb168dcd7ac144d26652ee"
+ },
+ "758": {
+  "text": "Don't touch the picture.",
+  "duration": 2.305,
+  "bytes": 7556,
+  "sha256": "7233841cda41e86b4d0aea1de37c5c10232997dbbb903bb6b6192ca4c00a2b08"
+ },
+ "759": {
+  "text": "I travel by bus.",
+  "duration": 2.096,
+  "bytes": 6921,
+  "sha256": "11a99f812802a4904f6b381315f84d7a171a167877279744e6c2429cac9c3099"
+ },
+ "760": {
+  "text": "I go to school on Tuesday.",
+  "duration": 2.654,
+  "bytes": 9210,
+  "sha256": "dbd5feaa29fee4e455d279eb0694b9025dc1e2dbd2680d0589ad889c35ccc4c7"
+ },
+ "761": {
+  "text": "Turn right at the bank.",
+  "duration": 2.375,
+  "bytes": 7687,
+  "sha256": "c27a77b3cb6145cc08909ea6c9112edcfc75e4ddb64bf9db0039e2aae2f0ac42"
+ },
+ "762": {
+  "text": "I have two sisters.",
+  "duration": 2.305,
+  "bytes": 7744,
+  "sha256": "d5d1c347e7f116de1a280592a9e67d80668f9601dfe8c117b9a039732d8860f2"
+ },
+ "763": {
+  "text": "Get up early.",
+  "duration": 1.818,
+  "bytes": 5793,
+  "sha256": "8daa2017bfa4d5b0bda971ff023e401830e640aa7b9fd7ecc5d779463725a071"
+ },
+ "764": {
+  "text": "I use a pen.",
+  "duration": 1.818,
+  "bytes": 6026,
+  "sha256": "d949aec7248a77cac6ebf8c8a31ede22ad86e7a2f8cda8751a9a4d3ab04c0181"
+ },
+ "765": {
+  "text": "I walk to school.",
+  "duration": 2.096,
+  "bytes": 6657,
+  "sha256": "a5ecf3ae2dc6bb74347b7a0574e78697caf019f66737c0712c427b802d6e96f6"
+ },
+ "766": {
+  "text": "The picture is on the wall.",
+  "duration": 2.654,
+  "bytes": 9399,
+  "sha256": "7b671a61f3db95a2b9f8cda9a27a2f7148ca98ad33ba167285e7436b473a1b7e"
+ },
+ "767": {
+  "text": "She wants tea.",
+  "duration": 1.887,
+  "bytes": 6106,
+  "sha256": "eb9aa1083c81aea9ae21b8370986d4379cf4ebcad6e192b2ba20848e4bee4eff"
+ },
+ "768": {
+  "text": "I was tired yesterday.",
+  "duration": 2.375,
+  "bytes": 8043,
+  "sha256": "60efa451c75e2749b1016955006d0a2032502eaaf8cea285cb0cc6817c0738a1"
+ },
+ "769": {
+  "text": "Where do you live?",
+  "duration": 1.957,
+  "bytes": 6440,
+  "sha256": "aedc85d6144cc8d205becbd852924fb44a56e5a4d66ce95397ead4127e6c8d16"
+ },
+ "770": {
+  "text": "Two windows are open.",
+  "duration": 2.305,
+  "bytes": 7734,
+  "sha256": "91ed7d61ca0a0007dab3048335abb74af156185ddcce8deab124f56553df4400"
+ },
+ "771": {
+  "text": "I learn a new word every day.",
+  "duration": 2.793,
+  "bytes": 9608,
+  "sha256": "94d853505dfb4a2dc9baea6cef7c3c5802001e8076a02bf9fe9e26748d2c02c9"
+ },
+ "772": {
+  "text": "I would like tea.",
+  "duration": 1.957,
+  "bytes": 6336,
+  "sha256": "6f738401c07b28fffdf14e4b361af2c8d835a901a2a40d6bd63df9f01f41e27d"
+ },
+ "773": {
+  "text": "I write my name.",
+  "duration": 2.027,
+  "bytes": 6727,
+  "sha256": "8686251611d9d2d36487b7c22b50aaade87e8c0b370ed5b9158a37c0a4f0fd45"
+ },
+ "774": {
+  "text": "Yes, I do.",
+  "duration": 1.748,
+  "bytes": 5599,
+  "sha256": "8dd7862d5995039aec417d634e61e4c3a87c006f17a3483ba1dc2a6dce4bc2d2"
+ },
+ "775": {
+  "text": "This is your book.",
+  "duration": 2.166,
+  "bytes": 7143,
+  "sha256": "8b3047844ee9245ca3d5d0165863dce6b32f54ad17ca0429682b81478b279bfa"
+ },
+ "776": {
+  "text": "Two days ago we visited Samarkand.",
+  "duration": 3.35,
+  "bytes": 12131,
+  "sha256": "44d26f8e1a02087ffdaa5b5ec9657e54705601f5526e726c936eca1b1adf0aa7"
+ },
+ "777": {
+  "text": "Anna is my friend.",
+  "duration": 2.236,
+  "bytes": 7241,
+  "sha256": "b70327e6cd20e76370f7f7acf02cecf853d5d6237bae4111bd379671a34a3872"
+ },
+ "778": {
+  "text": "This is an apple.",
+  "duration": 2.236,
+  "bytes": 7237,
+  "sha256": "496c370131ef6b4b4aca157264c35464637e8ff189c0dbf38613c62806204ce0"
+ },
+ "779": {
+  "text": "They arrive at six.",
+  "duration": 2.305,
+  "bytes": 7630,
+  "sha256": "de36e0b5f6dd37b96b7e234b6a55d0b3e6b8247ae8863b8b4a2c4926933f6167"
+ },
+ "780": {
+  "text": "She ate an orange.",
+  "duration": 2.096,
+  "bytes": 6989,
+  "sha256": "f30a45315cc7dde4e6114698b3c77a8aed7b444bc08a0280074973ee88a09745"
+ },
+ "781": {
+  "text": "This is a book.",
+  "duration": 2.027,
+  "bytes": 6595,
+  "sha256": "a338feb54690c1cc63a7aab55c565935a5156b3a7c7746dab6c1794a6d8b29ab"
+ },
+ "782": {
+  "text": "They bought a new table.",
+  "duration": 2.445,
+  "bytes": 7975,
+  "sha256": "d31c3c08af15517bc330eed56078905c25ca07dc7ac94f791e27ee009147511e"
+ },
+ "783": {
+  "text": "I eat breakfast at seven.",
+  "duration": 2.584,
+  "bytes": 8515,
+  "sha256": "793b867a571b3a632b63f4caffe8792bd8233dce2d4159f536206d57fb34a21e"
+ },
+ "784": {
+  "text": "The bus is new.",
+  "duration": 1.957,
+  "bytes": 6304,
+  "sha256": "0ce90f8843b701fa37f28cf872f094e05c0edfdd210b6619aad8c778cf8109a3"
+ },
+ "785": {
+  "text": "We were busy yesterday.",
+  "duration": 2.375,
+  "bytes": 7907,
+  "sha256": "f0ed6b086bf9ef288b95c37de2f4e97321d54169cd4941df806d0de8a7fab466"
+ },
+ "786": {
+  "text": "She made a cake last night.",
+  "duration": 2.723,
+  "bytes": 9235,
+  "sha256": "375d163fc5addf341949465c4c552d3b093bb39ddc028d1d9c3abf3bf7ed25e1"
+ },
+ "787": {
+  "text": "She calls me every day.",
+  "duration": 2.445,
+  "bytes": 8227,
+  "sha256": "84ca63e2277aa001d42ba4492a22c3d91d6117404c6596da84d689401da48b7a"
+ },
+ "788": {
+  "text": "My room is clean.",
+  "duration": 2.166,
+  "bytes": 7278,
+  "sha256": "bb66d38fd339ddc07deb792c44012ba34488884b87f41ad1da5fda02c25eb965"
+ },
+ "789": {
+  "text": "We cleaned the room yesterday.",
+  "duration": 2.793,
+  "bytes": 9504,
+  "sha256": "a1a2705172bcbc40f1c4fbb6d4a11220acc4f8aa6ff8a7bd0b0f7f7a986fbbf0"
+ },
+ "790": {
+  "text": "It was cold yesterday.",
+  "duration": 2.375,
+  "bytes": 8067,
+  "sha256": "3ed0681df2fec949470a7c559ab1820fbe089f30a495fd01c2b87e45f25777b6"
+ },
+ "791": {
+  "text": "The baby cried at night.",
+  "duration": 2.514,
+  "bytes": 8316,
+  "sha256": "66aa9d0cee424f1baa3c7151540e7e1d8ae75dc21a134a345126a0a7104907b0"
+ },
+ "792": {
+  "text": "Babies cry.",
+  "duration": 1.748,
+  "bytes": 5649,
+  "sha256": "7eaa5a74d6d94e7a61481f0c844f962fd01ba4d4d48e55398f19660dcf7db236"
+ },
+ "793": {
+  "text": "I read every day.",
+  "duration": 2.027,
+  "bytes": 6814,
+  "sha256": "2ea592532e76742e75d3b63d0e9aa31232ef5f699a56956f7582732e3360d4f5"
+ },
+ "794": {
+  "text": "We stayed two days in Bukhara.",
+  "duration": 2.932,
+  "bytes": 10124,
+  "sha256": "f325991a2b949859d6f05a84ec80727f4aefe9e12a1b1f13dccb9208e13ff5b1"
+ },
+ "795": {
+  "text": "Did you call your friend?",
+  "duration": 2.375,
+  "bytes": 7732,
+  "sha256": "33d3d9ec8a5fc60dd37004d25fde00cc4ceec670b00e71c5653cdc89caa07504"
+ },
+ "796": {
+  "text": "We didn't go to the park.",
+  "duration": 2.375,
+  "bytes": 7864,
+  "sha256": "335a9d82b0fea8b3985ba0aed0b05493dba63f026a4d6ce16d168d759066262d"
+ },
+ "797": {
+  "text": "These dishes are clean.",
+  "duration": 2.514,
+  "bytes": 8830,
+  "sha256": "f30f87f1e5e07f25900e91452bd3cf7846c9f254e76fd33a6485da00796b3b30"
+ },
+ "798": {
+  "text": "He is a doctor.",
+  "duration": 2.027,
+  "bytes": 6363,
+  "sha256": "3ee09463a774f35ff50864e771118acf0580c4c6f37b053b3d2ace407100a1fd"
+ },
+ "799": {
+  "text": "I eat rice.",
+  "duration": 1.748,
+  "bytes": 5639,
+  "sha256": "636cbd82df0f02ef05ae2fc27e48260c7c1d35360a271fee9db8cd9b342ffc58"
+ },
+ "800": {
+  "text": "I enjoy music.",
+  "duration": 1.887,
+  "bytes": 6449,
+  "sha256": "e2f1ecee03dcca6d5100b607a682cdeec4f5adda703ccaa961e3a0f7fdb9523a"
+ },
+ "801": {
+  "text": "We enjoyed the film.",
+  "duration": 2.096,
+  "bytes": 6879,
+  "sha256": "625b51b88b9671db1e78269c0e6fd1038f204340bc3d144800658b5043abd7f8"
+ },
+ "802": {
+  "text": "Every day I read.",
+  "duration": 2.096,
+  "bytes": 6883,
+  "sha256": "da690d4571cb475e53c4e1894d5595424ba6f9985bc627661e74069b9df6075e"
+ },
+ "803": {
+  "text": "We watched a film.",
+  "duration": 2.096,
+  "bytes": 6839,
+  "sha256": "83ce2cce2f7234e49ce20351d2b0e0ac008baa83057632963dc83b110db684ad"
+ },
+ "804": {
+  "text": "They play football on Sundays.",
+  "duration": 2.932,
+  "bytes": 10091,
+  "sha256": "6828ff9e57f5b55ef350c192c7cf7f2a0618cb87ba58c28f909793c16cb170f6"
+ },
+ "805": {
+  "text": "She is my friend.",
+  "duration": 2.096,
+  "bytes": 6853,
+  "sha256": "c28a798b856d01f19b457a9c4fa2ebef6c6b4f473fea17380bd22b1576ff4e37"
+ },
+ "806": {
+  "text": "They are my friends.",
+  "duration": 2.305,
+  "bytes": 7482,
+  "sha256": "7eeb2666d4930b6c3d3d1952a5f1d3274dbc8a08f6e7ea1a2fb60f7a24ac8b37"
+ },
+ "807": {
+  "text": "I go to school.",
+  "duration": 1.957,
+  "bytes": 6236,
+  "sha256": "d414c05a5b3ec6cd4298189b8a07617eb908dc345a95ec87af811e6d232aa60e"
+ },
+ "808": {
+  "text": "My grandmother is kind.",
+  "duration": 2.514,
+  "bytes": 8559,
+  "sha256": "a7e55903729505414403aeb5dc698ec7f325dcee7e7dd3195bf641774b1953f8"
+ },
+ "809": {
+  "text": "She is happy.",
+  "duration": 1.818,
+  "bytes": 6075,
+  "sha256": "634d3956ed4b13a500dbb738cacfc2946534b01fb177dae2545438d68841adca"
+ },
+ "810": {
+  "text": "I know her.",
+  "duration": 1.748,
+  "bytes": 5466,
+  "sha256": "54d71e12291a0fa12849c33c488b53d3041b16222b9ec75ff415ab2437b5ca1e"
+ },
+ "811": {
+  "text": "I am here.",
+  "duration": 1.678,
+  "bytes": 5233,
+  "sha256": "47c92d03468cddcac6790f0e7643d2886800ef48dc5d4072fd975d8e4d3a1245"
+ },
+ "812": {
+  "text": "I know him.",
+  "duration": 1.748,
+  "bytes": 5412,
+  "sha256": "890a1ea06ad2552ddbfe2f6a7fd5ef4fe17eccbef7f301a6e64b952d87aa1a06"
+ },
+ "813": {
+  "text": "This is his book.",
+  "duration": 2.166,
+  "bytes": 6735,
+  "sha256": "733891d7e62f6f5a93b7b5e435cc79fc715bb77acd8963a1930cf867dfeb9693"
+ },
+ "814": {
+  "text": "I was at home yesterday.",
+  "duration": 2.445,
+  "bytes": 8169,
+  "sha256": "502521f43c716908e0dd6ba9f45ef5dbebdd4b0aaa54ac829999cf82c4341c58"
+ },
+ "815": {
+  "text": "I do my homework every day.",
+  "duration": 2.654,
+  "bytes": 9209,
+  "sha256": "b01b1c08a0ba9c21fb31aeded6f2e3c399f3c82fc48c69aff2a8abc0ceecda8e"
+ },
+ "816": {
+  "text": "We visited them last week.",
+  "duration": 2.584,
+  "bytes": 8640,
+  "sha256": "6eb6870ed7d3a424a825e207b5c9cf998ec6b2a1fcfd5a018ee4f6a34f4775af"
+ },
+ "817": {
+  "text": "We are late.",
+  "duration": 1.748,
+  "bytes": 5394,
+  "sha256": "33c26d0f361734f748414a5e65e6eec594c38ce5c89584461444dc3de80d70c5"
+ },
+ "818": {
+  "text": "Don't leave the door open.",
+  "duration": 2.375,
+  "bytes": 7920,
+  "sha256": "83f85c605b791079ff2c58a745e1622ad9cd53b96e8dfeaab57923c791b21844"
+ },
+ "819": {
+  "text": "I like music.",
+  "duration": 1.818,
+  "bytes": 6059,
+  "sha256": "949d770f2fb3ad4dba05b6379f484afc193665f9f15cc1aaa7ccf4f005e3d59d"
+ },
+ "820": {
+  "text": "He liked the film.",
+  "duration": 2.027,
+  "bytes": 6565,
+  "sha256": "cdcd5499ce3afb6719654baa8e3f2ab82303e747309f52ea396a67e77cbc8147"
+ },
+ "821": {
+  "text": "I live in Tashkent.",
+  "duration": 2.236,
+  "bytes": 7485,
+  "sha256": "b200595fd5110df75ea6851849dae687d95d47a0a3e517d9a42b3252204131ef"
+ },
+ "822": {
+  "text": "They lived in a small town.",
+  "duration": 2.654,
+  "bytes": 8959,
+  "sha256": "0bab99ced817f6b78164252df8c9ea6b4b625dff1dec48ad9bff2fdf28ec9fba"
+ },
+ "823": {
+  "text": "She made a cake.",
+  "duration": 2.027,
+  "bytes": 6463,
+  "sha256": "e7d2458272fe4e1b209727801cacd542e1fb3342e70966efecf96e5a525d2c02"
+ },
+ "824": {
+  "text": "She helps me.",
+  "duration": 1.818,
+  "bytes": 5910,
+  "sha256": "679b80c22a1133c95e88c0ba6e64b7e2828f786f5a1ec426d66ddce63f826d02"
+ },
+ "825": {
+  "text": "She sent a message yesterday.",
+  "duration": 2.863,
+  "bytes": 10138,
+  "sha256": "3f22e667e2529e54f0b9d4b6e1c4f83b0359d48d2aec2ed7d7a96d4bc7ca679a"
+ },
+ "826": {
+  "text": "This is my book.",
+  "duration": 2.096,
+  "bytes": 6492,
+  "sha256": "0cdedcb333f68a52d81a729c28310d1c0844b62f8602ba670417c217e097d4c0"
+ },
+ "827": {
+  "text": "The phone is new.",
+  "duration": 2.027,
+  "bytes": 6614,
+  "sha256": "b84258a8c97510529eb5a7d2158a7257e629bacaf455ca052237a02abcf102d3"
+ },
+ "828": {
+  "text": "The night is dark.",
+  "duration": 2.096,
+  "bytes": 6782,
+  "sha256": "e6e09b7c011bcd805b2c1e254c0d51ac10ded0425e5bd7f23026fe53310faeff"
+ },
+ "829": {
+  "text": "He opened the door an hour ago.",
+  "duration": 2.793,
+  "bytes": 9724,
+  "sha256": "114066c7feb403eb98c4a6c0ac24ff1353db6b219566a401fcde098778165a8b"
+ },
+ "830": {
+  "text": "This is our school.",
+  "duration": 2.375,
+  "bytes": 7639,
+  "sha256": "6a3914e23c15239bb2e2165efe53f8b30217fa30718c78d7af42721c4f883063"
+ },
+ "831": {
+  "text": "They went out yesterday.",
+  "duration": 2.375,
+  "bytes": 7951,
+  "sha256": "76ffe8cb31c94a633ef1ef4fb26839c959b6e11848547577cea7d2d83db2c28f"
+ },
+ "832": {
+  "text": "The park is green.",
+  "duration": 2.096,
+  "bytes": 6992,
+  "sha256": "a7d464c7bddaf8fdbdd4fef966e127335448e66174c74268eaec049c32dabc62"
+ },
+ "833": {
+  "text": "Last year was cold.",
+  "duration": 2.236,
+  "bytes": 7400,
+  "sha256": "49f7a7e880e48a0c6e8daef150b7f694d9b10cb3de5901771825a4b01f9f8342"
+ },
+ "834": {
+  "text": "We planned a trip.",
+  "duration": 2.166,
+  "bytes": 6886,
+  "sha256": "ab2bacf48912dc7446342d46ed7be31f093fe443198c0c7f0c89701b0f0f8af7"
+ },
+ "835": {
+  "text": "They planned the trip last month.",
+  "duration": 2.932,
+  "bytes": 9695,
+  "sha256": "0d00ef118f6e76cdd6b6b611a6eb11634c58698f02ab24e5df7148f989a7a993"
+ },
+ "836": {
+  "text": "I play football.",
+  "duration": 2.096,
+  "bytes": 6607,
+  "sha256": "fa9df451394df5a2c30ae1e753f5d25ef64e0f1176684a630f80dbc00286a38e"
+ },
+ "837": {
+  "text": "They played chess yesterday.",
+  "duration": 2.654,
+  "bytes": 8856,
+  "sha256": "d59d545e941fe9ca3663a08d3d064c55e2221eae15f697ee2b1e0448d195a2e2"
+ },
+ "838": {
+  "text": "We are ready.",
+  "duration": 1.818,
+  "bytes": 5813,
+  "sha256": "bfdfb51a2b4281ea945d872a557ec5c76b4b3824f85a1da66c755e75ce0bde31"
+ },
+ "839": {
+  "text": "Sara is kind.",
+  "duration": 1.887,
+  "bytes": 6537,
+  "sha256": "82a0efd05efe9aa140c3b5c99fd896359f3a458f94cfa7d0d5c304a16c6ba933"
+ },
+ "840": {
+  "text": "They saw the film.",
+  "duration": 2.027,
+  "bytes": 6534,
+  "sha256": "765bf2db93ad0d31a86fdcba35e0f19eb8ab093da105b9cc02b9c23801b42a31"
+ },
+ "841": {
+  "text": "They are at school.",
+  "duration": 2.236,
+  "bytes": 7243,
+  "sha256": "67f13f2e1b94b1679c30978f1c287fddbfe04216628e4277b015201ee7b8b4d6"
+ },
+ "842": {
+  "text": "I see a bird.",
+  "duration": 1.818,
+  "bytes": 5927,
+  "sha256": "79df9ca32d15f27ebf086f06ae68436e97911a46c7d284e895634402423b88c8"
+ },
+ "843": {
+  "text": "He was sick two days ago.",
+  "duration": 2.654,
+  "bytes": 9214,
+  "sha256": "e492d571dc625873b031c85e5b266ba5110013bc420bfdf7bb421b4389b7bae5"
+ },
+ "844": {
+  "text": "We stayed home yesterday.",
+  "duration": 2.514,
+  "bytes": 8418,
+  "sha256": "97770ae2b9350e9df1282b31279eb1df873f31f5fa688019c93c6f6948f21991"
+ },
+ "845": {
+  "text": "We stayed in Bukhara last week.",
+  "duration": 2.932,
+  "bytes": 10677,
+  "sha256": "ada9c6231a1971cd3c122548d8b2d40d621fe96d2e728e54b77bb4b15b5d5c78"
+ },
+ "846": {
+  "text": "The bus stops here.",
+  "duration": 2.236,
+  "bytes": 7229,
+  "sha256": "d3d47d860f94bf58591469e88bcf63813546db55c678cc5b06dc95bfe5c4c27e"
+ },
+ "847": {
+  "text": "The bus stopped near the school.",
+  "duration": 3.072,
+  "bytes": 10353,
+  "sha256": "aa53fe67fcf27071d2f6e87e52410a4d8abd64908eee1b25f1a363fab0306b40"
+ },
+ "848": {
+  "text": "He is a student.",
+  "duration": 2.096,
+  "bytes": 6664,
+  "sha256": "d66e7da7776ae583b93ed31673db8b94a67b4bbd27741cac2050b063c564fd4c"
+ },
+ "849": {
+  "text": "She studied English yesterday.",
+  "duration": 2.863,
+  "bytes": 10193,
+  "sha256": "fc24d8054471fa51ba22991a14c6f62924e434e67b58dccb738a6a10f4fb52f7"
+ },
+ "850": {
+  "text": "I study English.",
+  "duration": 2.027,
+  "bytes": 6733,
+  "sha256": "4730144ccd5119227eb888ec41ff30fce430101170bcfa29ceeb0d7f63827d69"
+ },
+ "851": {
+  "text": "They play on Sunday.",
+  "duration": 2.236,
+  "bytes": 7356,
+  "sha256": "084378eb63807f36b3026426a098ba2a66a328b8af1a89f92266f66a7557466f"
+ },
+ "852": {
+  "text": "They play tennis.",
+  "duration": 2.027,
+  "bytes": 6588,
+  "sha256": "fddad5fc24a15fba947f83a7c881c3fadbdab18bd04095680302732657fb3715"
+ },
+ "853": {
+  "text": "What time is it?",
+  "duration": 1.957,
+  "bytes": 6183,
+  "sha256": "1ae05eda54790e8280d1da535d11e563e1d4d5b7cb8e021aa6373f1dc9d9c7b8"
+ },
+ "854": {
+  "text": "We were tired last night.",
+  "duration": 2.514,
+  "bytes": 8552,
+  "sha256": "7ab5fb7cc28197db42132c8cf76dab144037be1e4136acd7c1966f27e63df800"
+ },
+ "855": {
+  "text": "She tried to help me.",
+  "duration": 2.236,
+  "bytes": 7481,
+  "sha256": "8934c32cfe531f4d0b6424751b80b929aac12bcdcdf46577d47cf6570416e858"
+ },
+ "856": {
+  "text": "Try again.",
+  "duration": 1.748,
+  "bytes": 5598,
+  "sha256": "283a1e373654a2088779fcf05193046f953e82cf711292592ee488d5a6b5530b"
+ },
+ "857": {
+  "text": "I have two sisters.",
+  "duration": 2.305,
+  "bytes": 7708,
+  "sha256": "0874355ae9d97ad4830b4db5ccc3ea55e88c888de648fa852e7fc971933898a9"
+ },
+ "858": {
+  "text": "The teacher helps us.",
+  "duration": 2.375,
+  "bytes": 7706,
+  "sha256": "1bd74d50c92610427744cbfe1cfac0fc3fc9b5753b1b9547bcfc3f0859c5ea11"
+ },
+ "859": {
+  "text": "I use a pen.",
+  "duration": 1.818,
+  "bytes": 5821,
+  "sha256": "4ae0f1c903886f53aee8f49e84db0357d7099c473961874764fafaba913d2919"
+ },
+ "860": {
+  "text": "We used the map yesterday.",
+  "duration": 2.584,
+  "bytes": 8717,
+  "sha256": "c00d7c3fadf79687d0b6299aa03428aa4c508328c70ab7fff97dba9e7e8c50f8"
+ },
+ "861": {
+  "text": "I visit my aunt.",
+  "duration": 2.096,
+  "bytes": 6903,
+  "sha256": "7e43400afd5e65165499795264e3497b7ac6fa17814ed04e6541f3133623e6ae"
+ },
+ "862": {
+  "text": "He visited his aunt last week.",
+  "duration": 2.932,
+  "bytes": 10001,
+  "sha256": "a22c37167900071827f83cd80eac696e2f993b4199dd4cc16c59cef41328f53f"
+ },
+ "863": {
+  "text": "I was tired yesterday.",
+  "duration": 2.375,
+  "bytes": 8020,
+  "sha256": "008b6ce5344c6c2acda58cde221966d08d2877d0ae88a66a821f9530eb047f0a"
+ },
+ "864": {
+  "text": "I watch TV.",
+  "duration": 1.748,
+  "bytes": 5765,
+  "sha256": "1ddcdbfcef92f511c2aad1926970c005425fd474198f29ba3dc87425ab1d746e"
+ },
+ "865": {
+  "text": "We watched a film last night.",
+  "duration": 2.863,
+  "bytes": 9753,
+  "sha256": "5a39c96b79b84ff4b7d37268a315e9354e73036a5983c775d270eef719a4cd34"
+ },
+ "866": {
+  "text": "The weather was cold.",
+  "duration": 2.236,
+  "bytes": 7185,
+  "sha256": "fd294efaabba305ca5f82ab4ac98586f011d2bfb3fe721dfb8d7d2f037bbe89e"
+ },
+ "867": {
+  "text": "Next week we visit Samarkand.",
+  "duration": 2.932,
+  "bytes": 10164,
+  "sha256": "7c1ae141641d4c7e65192d3941167e04212c918ebc22e562456c203a62776390"
+ },
+ "868": {
+  "text": "We went to school by bus.",
+  "duration": 2.654,
+  "bytes": 8935,
+  "sha256": "2f887f606590badab9782605c22958bb4ab29f3a6219afc2997488739225aa91"
+ },
+ "869": {
+  "text": "They were friends.",
+  "duration": 2.027,
+  "bytes": 6808,
+  "sha256": "5f53581ab3d884f80fbd16054f032ee9b59bfc0d7bf809812c85de132e05ca3a"
+ },
+ "870": {
+  "text": "When did they arrive?",
+  "duration": 2.166,
+  "bytes": 7087,
+  "sha256": "51a06f71073e00782d2285c39ac59f20816c5554a4fbf9063ee25c3ff634b5e5"
+ },
+ "871": {
+  "text": "Where did she live?",
+  "duration": 2.096,
+  "bytes": 6869,
+  "sha256": "a0706e3cc675b230a6d9e8ad02d4bd712abe2c0ba5b8546a574f151362974c3f"
+ },
+ "872": {
+  "text": "The window is open.",
+  "duration": 2.166,
+  "bytes": 7457,
+  "sha256": "07747a596323e95cc5c8502a25f7fb5240f10029c4a812e743fdb113ff502955"
+ },
+ "873": {
+  "text": "I work every day.",
+  "duration": 2.027,
+  "bytes": 6698,
+  "sha256": "0dd05dd44a76cbd420de7a78b0a519463bdf2c34daf0944735e68c29a4555211"
+ },
+ "874": {
+  "text": "He worked last night.",
+  "duration": 2.305,
+  "bytes": 8023,
+  "sha256": "8cd58aca84749fc5abeddcb2afebe2c7db3c7cea93c49ce47c994da329b68442"
+ },
+ "875": {
+  "text": "He wrote a letter last night.",
+  "duration": 2.723,
+  "bytes": 9221,
+  "sha256": "1748c7fb45cbb54329c994c99b228f66f059a99f4172e5b87dea255c36c7d5c2"
+ },
+ "876": {
+  "text": "Last year we visited Samarkand.",
+  "duration": 3.072,
+  "bytes": 10844,
+  "sha256": "a886bef27f0b9aab1b1419671f0380cd49e82fa1c4d796308e2f585bba0221ca"
+ },
+ "877": {
+  "text": "We worked yesterday.",
+  "duration": 2.166,
+  "bytes": 7297,
+  "sha256": "adfdace34b80d16774c669096be0daa7480cf3a84d7d2549c08279a107687713"
+ },
+ "878": {
+  "text": "This is your book.",
+  "duration": 2.166,
+  "bytes": 6773,
+  "sha256": "408129cb70cd20a8c832167668b5165cb089cc0bd22c7ddf18b27fff9864353e"
+ },
+ "879": {
+  "text": "We talked about the past.",
+  "duration": 2.584,
+  "bytes": 8581,
+  "sha256": "2d213048fbbc584be5e64309575e372f3adada08128308dea44ebfa7f34e9855"
+ },
+ "880": {
+  "text": "Red is an adjective.",
+  "duration": 2.445,
+  "bytes": 8208,
+  "sha256": "7b5bc39103176da2a28e860f58cb839a9969a676cf0647718234632ea06f2165"
+ },
+ "881": {
+  "text": "Ali is my friend.",
+  "duration": 2.166,
+  "bytes": 7211,
+  "sha256": "b519f8e3299903d319ea9a4eddbcee0cc42255622e114acb220eb62768c8b047"
+ },
+ "882": {
+  "text": "I like tea and coffee.",
+  "duration": 2.375,
+  "bytes": 8086,
+  "sha256": "81b97ef93dbece3ec65d40d382f17ca748618d5b6f73691c352a1519a559a880"
+ },
+ "883": {
+  "text": "What is your answer?",
+  "duration": 2.166,
+  "bytes": 7134,
+  "sha256": "0d37ac9217085665ab677546119e60521f538cab86e833d53355cdc6f9af16e6"
+ },
+ "884": {
+  "text": "This is an apple.",
+  "duration": 2.236,
+  "bytes": 7268,
+  "sha256": "c0ef9201a79916e9df61da60d545acd5051f2cfc35bf109a0b9cbe52736e7c7f"
+ },
+ "885": {
+  "text": "These apples are sweet.",
+  "duration": 2.584,
+  "bytes": 8751,
+  "sha256": "030faadd58d011eff4ca041b46d3f159d18d545a99f1b48f089db58632a712a4"
+ },
+ "886": {
+  "text": "My aunt is kind.",
+  "duration": 2.096,
+  "bytes": 7021,
+  "sha256": "60194c0788e402d0d4cb9b79389b60c64b02248f0172350d27a95c76c6d59e7a"
+ },
+ "887": {
+  "text": "This is my bag.",
+  "duration": 2.027,
+  "bytes": 6540,
+  "sha256": "599fba63e8ae5e36fb0e282e21ee574bed4114d78c915b00d50d877b98b9dc19"
+ },
+ "888": {
+  "text": "I like a banana.",
+  "duration": 2.027,
+  "bytes": 6670,
+  "sha256": "4438562947bac16cb3f3a2f3b0ca4fbfbdbfeb4b80a31b2230012b60c812d8d9"
+ },
+ "889": {
+  "text": "I am happy to be here.",
+  "duration": 2.445,
+  "bytes": 8301,
+  "sha256": "703403c610d9039092fae9e47117d268d56516fba09cc4e30263761373dc3b9f"
+ },
+ "890": {
+  "text": "This flower is beautiful.",
+  "duration": 2.584,
+  "bytes": 8743,
+  "sha256": "f70ccfa31ee4bc0ab7f842a6704497f7b029a41138471762c7a3dc82ecc68742"
+ },
+ "891": {
+  "text": "I stayed home because I was sick.",
+  "duration": 3.141,
+  "bytes": 11298,
+  "sha256": "5494dc650287e945be50d0a18c6038780dbb7eebdd254ebc27e53e3d1a68a6f1"
+ },
+ "892": {
+  "text": "This is the best day.",
+  "duration": 2.375,
+  "bytes": 7742,
+  "sha256": "ddf08309d17d787e16da9524b43f31c003193e7b92134cc80201969430f5de3b"
+ },
+ "893": {
+  "text": "Today is better than yesterday.",
+  "duration": 2.932,
+  "bytes": 10036,
+  "sha256": "2cb4351789c98abf2453269e14e3c06a6b0e62b3a4cf63270fba663f648f7aa7"
+ },
+ "894": {
+  "text": "The house is big.",
+  "duration": 2.027,
+  "bytes": 6621,
+  "sha256": "26d2417d212e55c49cbd6ffabdba10e5979de7d6bab01669cab4743c49e9cec5"
+ },
+ "895": {
+  "text": "A bus is bigger than a car.",
+  "duration": 2.723,
+  "bytes": 9218,
+  "sha256": "433373b92d5b15b198292e1a8acaf5fbbf0c84be9d384b015716a1e195a4d4f6"
+ },
+ "896": {
+  "text": "This is the biggest room.",
+  "duration": 2.584,
+  "bytes": 8313,
+  "sha256": "ef700b5ab6aac312a0210ba77983e58405dfc5dd3a7b32ceab44731828077ca1"
+ },
+ "897": {
+  "text": "My birthday is in May.",
+  "duration": 2.514,
+  "bytes": 8416,
+  "sha256": "46f0e393573811e0a16d04f2c520db9d893c381e18e21578b0baaa5cfcf45f33"
+ },
+ "898": {
+  "text": "The cat is black.",
+  "duration": 2.096,
+  "bytes": 6781,
+  "sha256": "c31bf1769017701ad6f22821f834a996dca0592ea62c39610c19cb6a391b6a76"
+ },
+ "899": {
+  "text": "The ball is blue.",
+  "duration": 2.096,
+  "bytes": 6903,
+  "sha256": "1dd1c0428a94311c6f1f18f8d37a80b7141a7f917a1ee40e9f783d67660b09a0"
+ },
+ "900": {
+  "text": "This is a book.",
+  "duration": 2.027,
+  "bytes": 6232,
+  "sha256": "27c7551e505fa2a17f573449427e500bd1c7a951790d3f338c9934bc86b3c0b4"
+ },
+ "901": {
+  "text": "He is a boy.",
+  "duration": 1.818,
+  "bytes": 5704,
+  "sha256": "83c19018b76e692ccd161f104bcae29bc68aa9bc363370b0096886103f204238"
+ },
+ "902": {
+  "text": "The bus is new.",
+  "duration": 1.957,
+  "bytes": 6368,
+  "sha256": "7cc483f534e8bcb4731c6d035fe060188de768e7d375616454b2dc2fe5386bc7"
+ },
+ "903": {
+  "text": "She is busier than me.",
+  "duration": 2.375,
+  "bytes": 8289,
+  "sha256": "171dde81ffd031539ec5c291905add628a05209c8b5d525902d6a4c90eb89464"
+ },
+ "904": {
+  "text": "This week is the busiest.",
+  "duration": 2.584,
+  "bytes": 8989,
+  "sha256": "4fbee8ac22351ba712ed4cb5d1da9cee604dc84855fb753b6972e68327c4064f"
+ },
+ "905": {
+  "text": "We are busy today.",
+  "duration": 2.096,
+  "bytes": 6935,
+  "sha256": "7e5291345df192854a2aa01633bc283c0ec178466771d172e4dda5ad333cb25b"
+ },
+ "906": {
+  "text": "But I like tea.",
+  "duration": 1.887,
+  "bytes": 6172,
+  "sha256": "87057877c693023c102285faae1d21ffc8c16d9e58fe4381002df0a93ab02804"
+ },
+ "907": {
+  "text": "I buy bread every day.",
+  "duration": 2.375,
+  "bytes": 7967,
+  "sha256": "8286852146a862d6a754e34e3efc813831d9d285e80f6b3ecc32f6d10c4e5a95"
+ },
+ "908": {
+  "text": "She calls me every day.",
+  "duration": 2.445,
+  "bytes": 8129,
+  "sha256": "be9f3a7b43382ddcdb5acd04ce68f1fc9f9cbc965ecb5abd46fbd6a85b82ec99"
+ },
+ "909": {
+  "text": "I can swim.",
+  "duration": 1.748,
+  "bytes": 5654,
+  "sha256": "413754c3760e3ed4ffc2d5a87cdb2c2ef5dd9b750d1acee249c5a44f617ac2a8"
+ },
+ "910": {
+  "text": "My parents have a car.",
+  "duration": 2.514,
+  "bytes": 8335,
+  "sha256": "36e9ab54d32dd413c1c5b2701ba540c14a78d4ed0b66784a47bcfb44b4e0ee12"
+ },
+ "911": {
+  "text": "Be careful on the road.",
+  "duration": 2.375,
+  "bytes": 7964,
+  "sha256": "be95b058246b4cf0dc6d1b97ab51844be0729fc8b62bfdaccc13e4602911bfa7"
+ },
+ "912": {
+  "text": "The cat is small.",
+  "duration": 2.166,
+  "bytes": 6906,
+  "sha256": "fe93c44ad434badf9178f8997e40c41d1775aa97aa462bfc1a80da4e6593a87e"
+ },
+ "913": {
+  "text": "Those cats are white.",
+  "duration": 2.375,
+  "bytes": 7938,
+  "sha256": "2fd1ce38a4e221f187f851cfdbee35938290333e60eec0e6753530e3baa8d192"
+ },
+ "914": {
+  "text": "Our class is big.",
+  "duration": 2.236,
+  "bytes": 7272,
+  "sha256": "fba2a2c2e29a584d386ac6dddbc3289857814d4da7e30cd4cadb07947ccc4232"
+ },
+ "915": {
+  "text": "My room is clean.",
+  "duration": 2.166,
+  "bytes": 7328,
+  "sha256": "f3141d3971001009f3ef50d3e96720e0d00488429dcd7b5d1f9e89febb87c58c"
+ },
+ "916": {
+  "text": "Black clouds are in the sky.",
+  "duration": 2.723,
+  "bytes": 9360,
+  "sha256": "9554d2b5d750e76694946233ef2c3abb1c3a8add209ff1c09c49f193a020f82a"
+ },
+ "917": {
+  "text": "My coat is warm.",
+  "duration": 2.096,
+  "bytes": 6912,
+  "sha256": "8fa1dbb1d549e6ed3915b4e212d98871c29f755cd7bab0f113ff432f8cd1ccfb"
+ },
+ "918": {
+  "text": "I drink coffee in the morning.",
+  "duration": 2.654,
+  "bytes": 8881,
+  "sha256": "3146f999b3b9c7774376a148ac60aa312d5b3e961fe93d2a3534c1e9041b0f5e"
+ },
+ "919": {
+  "text": "It is cold today.",
+  "duration": 2.096,
+  "bytes": 7246,
+  "sha256": "62c3629e02c686bcc4542d6b9d35bef7119d1dd86e919a82f0507a720ba220eb"
+ },
+ "920": {
+  "text": "Come here, please.",
+  "duration": 2.027,
+  "bytes": 6682,
+  "sha256": "c4000eb4722e3233797c3fa74c473492ca17f84b11ec346caeacdb2b4162bbac"
+ },
+ "921": {
+  "text": "She cooks dinner.",
+  "duration": 2.096,
+  "bytes": 6652,
+  "sha256": "51582fea5d7d92745906a210657d5c4a5d6f99acff376d42edfd9935c62c9a8e"
+ },
+ "922": {
+  "text": "The room is dark at night.",
+  "duration": 2.654,
+  "bytes": 8870,
+  "sha256": "08cdf9df0e01492cf72cff5d688efedb71a8839fbd17e951e19c75ca1f550bf3"
+ },
+ "923": {
+  "text": "They arrive today.",
+  "duration": 2.096,
+  "bytes": 6880,
+  "sha256": "c439d0eb5d7d42be22acd377cf4bf4e1cc2b5077e163b0852295dd6ae93ad366"
+ },
+ "924": {
+  "text": "We eat dinner at seven.",
+  "duration": 2.445,
+  "bytes": 8023,
+  "sha256": "6662c79dedda147cffd1624922317c15f202742e4359a6afcc097b45f131c866"
+ },
+ "925": {
+  "text": "The dog is big.",
+  "duration": 1.887,
+  "bytes": 5998,
+  "sha256": "de7fb791db8bb28f74fe3fe187b86f5276d1cbe4c0d790136d66f7abf1eb8daf"
+ },
+ "926": {
+  "text": "These dogs are small.",
+  "duration": 2.514,
+  "bytes": 8358,
+  "sha256": "9f0a4aebe7540999a3ffbd955aa6903e1c4cb697dcaf748bd0d1cf977b2cc5b8"
+ },
+ "927": {
+  "text": "Sit down, please.",
+  "duration": 2.096,
+  "bytes": 6921,
+  "sha256": "82182c0d766ff61c70d638e5b4a0fc1f0636e94960b5b0e63e413e2d19820ec0"
+ },
+ "928": {
+  "text": "I drink water.",
+  "duration": 1.818,
+  "bytes": 5968,
+  "sha256": "f3a17e76b20afb5dacf518724604efdd7f046f216a13691912daadaf55684225"
+ },
+ "929": {
+  "text": "This test is easier than that one.",
+  "duration": 3.141,
+  "bytes": 10897,
+  "sha256": "f5955eff6411af9e535b1c956122746391dcfc2e02f00a49816c32b4d6e086b5"
+ },
+ "930": {
+  "text": "This is the easiest question.",
+  "duration": 2.723,
+  "bytes": 9312,
+  "sha256": "08bf3a40d15301c99c49215118936b527a168564b72784e333e9d85e52bf754d"
+ },
+ "931": {
+  "text": "English is easy.",
+  "duration": 2.096,
+  "bytes": 6948,
+  "sha256": "9841ed69ff36d381d94723f2a6f2cfbcece97e9b57c9c7be1a153c92ecccedd2"
+ },
+ "932": {
+  "text": "I eat rice.",
+  "duration": 1.748,
+  "bytes": 5647,
+  "sha256": "4c0e0edb080b6b302e40c8eabf12ede7d387de269d2d021336cc4923384b0003"
+ },
+ "933": {
+  "text": "I study English.",
+  "duration": 2.027,
+  "bytes": 6830,
+  "sha256": "1f5db0f35ea1522947e222f7414f7db85dc22ebc9cd99f5267c608ee6e7adcd2"
+ },
+ "934": {
+  "text": "This watch is expensive.",
+  "duration": 2.654,
+  "bytes": 8873,
+  "sha256": "ea0861a81b72203ec6c732c52cba322402cc0bb31c5049e3997a3c0ebd9c5253"
+ },
+ "935": {
+  "text": "Don't fall down.",
+  "duration": 1.818,
+  "bytes": 6110,
+  "sha256": "e8385d4482dcf87fb0c29811f920da591e7eb44efcf417977d822f01cc2a42c8"
+ },
+ "936": {
+  "text": "He is the fastest runner.",
+  "duration": 2.584,
+  "bytes": 8950,
+  "sha256": "f6509499018e6e590e02c1cbace3db3120eeb614cd085b4a01d766003574e49c"
+ },
+ "937": {
+  "text": "They play football on Sundays.",
+  "duration": 2.932,
+  "bytes": 10020,
+  "sha256": "6b6daf1e5e5e92b82a9c917f4f496b7ae98d8620dcee0cb2e612633823e7bcab"
+ },
+ "938": {
+  "text": "She is my friend.",
+  "duration": 2.096,
+  "bytes": 6909,
+  "sha256": "277aab73426c56fd5e96538e40d2961137b8a248f68ec054763e58ff4aaf7473"
+ },
+ "939": {
+  "text": "They are my friends.",
+  "duration": 2.305,
+  "bytes": 7773,
+  "sha256": "30bc1917146020de5eb5e53301a7e150ed95b8f1b61079b3b70c7c7d27b08b06"
+ },
+ "940": {
+  "text": "I go to school.",
+  "duration": 1.957,
+  "bytes": 6060,
+  "sha256": "a585088d8df17bc2258dd1b90e6d8feb80245986a25696f31722f52d1d40bac8"
+ },
+ "941": {
+  "text": "We are going to travel next week.",
+  "duration": 3.002,
+  "bytes": 10212,
+  "sha256": "03e27b00404f96977fa4eb177f6a015038e8e5faab2763c5949945d1705eefaf"
+ },
+ "942": {
+  "text": "The book is good.",
+  "duration": 2.027,
+  "bytes": 6706,
+  "sha256": "80e082f0c50d997d898ce9f6aab24950c8cee950e101796cab4cee2f5949d13c"
+ },
+ "943": {
+  "text": "My grandmother is kind.",
+  "duration": 2.514,
+  "bytes": 8600,
+  "sha256": "544c696992d6982a2da6cee10479fab3d5647bc7b881e4c0aa4d3913463cc70a"
+ },
+ "944": {
+  "text": "She is happier than her sister.",
+  "duration": 2.932,
+  "bytes": 9982,
+  "sha256": "f282d81e322b660c569d0d5ced8b4f593c3e4b684d9c242aa7fe17589bacf0a6"
+ },
+ "945": {
+  "text": "She is the happiest girl in class.",
+  "duration": 3.281,
+  "bytes": 11439,
+  "sha256": "e3fc636e74ddc628c69f6e8caf1025cce9ece36911b8a46e3db5d368a08abb6f"
+ },
+ "946": {
+  "text": "She is happy.",
+  "duration": 1.818,
+  "bytes": 5714,
+  "sha256": "fb89a75482b4ec06304911a0a2d99ceab8751d0bfeff5499bb690d211c2799cc"
+ },
+ "947": {
+  "text": "I have a pen.",
+  "duration": 1.818,
+  "bytes": 5702,
+  "sha256": "342b9c50fc899d58dfda31797c945a48a1cf9198231540cc9b6238514394ad48"
+ },
+ "948": {
+  "text": "This bag is heavier than mine.",
+  "duration": 2.793,
+  "bytes": 9522,
+  "sha256": "036a422cdab9dba97ea0764ac48ff2742086b55716f1380eff0921f619b8aa6e"
+ },
+ "949": {
+  "text": "This box is heavy.",
+  "duration": 2.305,
+  "bytes": 8022,
+  "sha256": "626a3a2a49ca2a41f6daa78c2233defa28d88b67bde8ffc4b82eac895cc21bf3"
+ },
+ "950": {
+  "text": "I need help.",
+  "duration": 1.748,
+  "bytes": 5562,
+  "sha256": "3d2a61c89664640ccf929ed4299dd2325c2126e5f141451bc9bf31d1bdf62de2"
+ },
+ "951": {
+  "text": "I know her.",
+  "duration": 1.748,
+  "bytes": 5586,
+  "sha256": "e373647709a0c3ba15758c40c40d9c4ce59dc08a683baeb1a8f1bac6500b9b13"
+ },
+ "952": {
+  "text": "I am here.",
+  "duration": 1.678,
+  "bytes": 5272,
+  "sha256": "6584f08738bc55f67caf3680bc441b814c76fba55b196b9ef6fca2b379bd65fc"
+ },
+ "953": {
+  "text": "I am at home.",
+  "duration": 1.818,
+  "bytes": 5906,
+  "sha256": "1b4e31c12d25e29c369e6c2305de535a20a8483629ce68b7a7a14d9dafef0842"
+ },
+ "954": {
+  "text": "The soup is hot.",
+  "duration": 2.027,
+  "bytes": 6488,
+  "sha256": "e34451425afdf7f6b20913af071aa806c7d3844ed879f0172ff8ddb1a43b6529"
+ },
+ "955": {
+  "text": "Today is hotter than yesterday.",
+  "duration": 2.932,
+  "bytes": 10106,
+  "sha256": "0c0a07b87d95dbff11bb1cf0be89a64de4c9ec9882d674da643703fa105bd616"
+ },
+ "956": {
+  "text": "July is the hottest month.",
+  "duration": 2.584,
+  "bytes": 8768,
+  "sha256": "1562184d80f82ff046ecaaadd390850267f924f36a39d3f45acd20a2c276193e"
+ },
+ "957": {
+  "text": "This is our house.",
+  "duration": 2.236,
+  "bytes": 7232,
+  "sha256": "e590bf5c29b0d0c4e897667af7e1071c6cd6a1d268b747b3e8789fa0bfbeeadd"
+ },
+ "958": {
+  "text": "I am hungry, so I eat.",
+  "duration": 2.514,
+  "bytes": 8778,
+  "sha256": "519703740a988bf5ae6fbace1fd5649a4c5bbfdd927f21d0975ec0445e0f8d2a"
+ },
+ "959": {
+  "text": "The book is interesting.",
+  "duration": 2.514,
+  "bytes": 8237,
+  "sha256": "f99e545e6bc971dc75e1e35a83bd0049c73912817d7f522e4debc100e1b21118"
+ },
+ "960": {
+  "text": "I drink juice.",
+  "duration": 1.887,
+  "bytes": 6194,
+  "sha256": "804280f18ec60e890edea9e9a83353c869e512e2811572b751d4ab90f56c8675"
+ },
+ "961": {
+  "text": "She is kind.",
+  "duration": 1.818,
+  "bytes": 5864,
+  "sha256": "39340d61a1b0ac630d16fbc798811c774092f858425fa7f87fcfbfca2c4bffc1"
+ },
+ "962": {
+  "text": "The house is large.",
+  "duration": 2.166,
+  "bytes": 7125,
+  "sha256": "5dc5232d3638d540267e9a44ac891571a8f57324c877de90be6f9dcffda4d532"
+ },
+ "963": {
+  "text": "My house is larger than yours.",
+  "duration": 2.932,
+  "bytes": 10123,
+  "sha256": "8a7037fecd25bce205e03a29be6911fe9c015ae061263873d8eae182850eb95f"
+ },
+ "964": {
+  "text": "This is the largest city.",
+  "duration": 2.584,
+  "bytes": 8858,
+  "sha256": "1efaefff9e7259cafd629a14f4bc13545d27bc328b2641e94016910e73c0673f"
+ },
+ "965": {
+  "text": "We are late.",
+  "duration": 1.748,
+  "bytes": 5576,
+  "sha256": "0dae4c0594504e340d0045136638b68513010d7157c1b4143a15304b57779e90"
+ },
+ "966": {
+  "text": "Call me later.",
+  "duration": 1.818,
+  "bytes": 5898,
+  "sha256": "c70758df608f1dbd06e8cc982d5ebf78fb8fbfa4031856c54b5e76fa498be11a"
+ },
+ "967": {
+  "text": "I learn English.",
+  "duration": 2.027,
+  "bytes": 6669,
+  "sha256": "c4dd091d09079ef9c6395e70fa1231cc06b57a835418ddf3f5412cc218db8e9d"
+ },
+ "968": {
+  "text": "I like music.",
+  "duration": 1.818,
+  "bytes": 5895,
+  "sha256": "e6601b4593c1d7646b95eb2a8ad2eb76e0160fb744fd59fa79354ba6931eab51"
+ },
+ "969": {
+  "text": "This road is longer than that one.",
+  "duration": 3.072,
+  "bytes": 10385,
+  "sha256": "5b941cdfc5d6482d6c049ec4c18eb8b85c40f17e8de5c07bb0d3d79827a5beac"
+ },
+ "970": {
+  "text": "Look at the picture.",
+  "duration": 2.236,
+  "bytes": 7229,
+  "sha256": "fd0d1f4182c2f93d264fa4b2e96956571d551a4a7e0d74537cbb0815ca53090e"
+ },
+ "971": {
+  "text": "She made a cake.",
+  "duration": 2.027,
+  "bytes": 6424,
+  "sha256": "626ca18ee70cc43ff551ef5c655c9b124d2c3a1170e4f9b16d0d9c903da6b8b3"
+ },
+ "972": {
+  "text": "Maybe it will rain.",
+  "duration": 2.166,
+  "bytes": 7237,
+  "sha256": "0ccba9411daae91b4b1fb0c7f930ac0fc957bc1952b62453b5fc52759426bfc0"
+ },
+ "973": {
+  "text": "She helps me.",
+  "duration": 1.818,
+  "bytes": 5870,
+  "sha256": "e9590eb83d85bb12c769e34d2a302c2548f78e7179426200c1cd16d31d76fee3"
+ },
+ "974": {
+  "text": "Take this medicine twice a day.",
+  "duration": 2.932,
+  "bytes": 10179,
+  "sha256": "7bb2e2e5774055ee7188d64c52cc36e472e825a2143aae2b4535daa9d63009a4"
+ },
+ "975": {
+  "text": "Look at the menu, please.",
+  "duration": 2.514,
+  "bytes": 8269,
+  "sha256": "dccbc2ccf81ddf1749cb046e81fb8adeafc6a39e592e04c7848209d9677c1dfa"
+ },
+ "976": {
+  "text": "Next month we visit Samarkand.",
+  "duration": 3.002,
+  "bytes": 10386,
+  "sha256": "0e79f4311c4e542513c1e903830b0ce5dd481b8db4bc5e9021cd314476d6da44"
+ },
+ "977": {
+  "text": "I want more tea.",
+  "duration": 1.887,
+  "bytes": 6285,
+  "sha256": "782ffc3fe3aa65632bef805cd7f879e04b4abcb8fb4d50297739d0ced907bfd0"
+ },
+ "978": {
+  "text": "We are going to move next year.",
+  "duration": 2.863,
+  "bytes": 9709,
+  "sha256": "74f565091fd48ec3d1c5e94fcfefd1126526c2cd5c43a1371b9f8be9e55b72c4"
+ },
+ "979": {
+  "text": "My mum is kind.",
+  "duration": 1.957,
+  "bytes": 6542,
+  "sha256": "529a629972bf3c796779f88078c9478fbf4726194a143a491a840f50a7b404da"
+ },
+ "980": {
+  "text": "This is my book.",
+  "duration": 2.096,
+  "bytes": 7111,
+  "sha256": "eb5e70504447399b896213a2162e16de1550cba7b0e3b1eb3376d4fca2367be8"
+ },
+ "981": {
+  "text": "The phone is new.",
+  "duration": 2.027,
+  "bytes": 6510,
+  "sha256": "703c004667aed03b3ac81dcb4c0b68a53282523b699187fbbc0d0120b24bf813"
+ },
+ "982": {
+  "text": "Next week we visit Samarkand.",
+  "duration": 2.932,
+  "bytes": 10206,
+  "sha256": "f68812a19b79c34c058c7ddb1ce3c35645981267f68101c16f90dea2039dc51d"
+ },
+ "983": {
+  "text": "She is nice.",
+  "duration": 1.818,
+  "bytes": 5928,
+  "sha256": "eaf158bf608e09d61044863ba5d401c8fafd52e4bfaf5ebe2e05618123758b81"
+ },
+ "984": {
+  "text": "My bag is nicer than yours.",
+  "duration": 2.723,
+  "bytes": 9533,
+  "sha256": "86e8ab973bab58f7b909cf82d8c29a55941bad1410dc903e69b56b7c844ef7d0"
+ },
+ "985": {
+  "text": "This is the nicest picture.",
+  "duration": 2.723,
+  "bytes": 9134,
+  "sha256": "e4d1ccf401707eaf02891efce0b4dcedd1ab5909b99031eab0f10e77163d9412"
+ },
+ "986": {
+  "text": "I am reading now.",
+  "duration": 1.957,
+  "bytes": 6398,
+  "sha256": "7d8f70faffa2ae5f384ce82ff49415e1b3596264c182862cb34cd04a2f5a9039"
+ },
+ "987": {
+  "text": "The house is old.",
+  "duration": 2.096,
+  "bytes": 6930,
+  "sha256": "6330bc949d2dcfe420428f150a4e7c816d2e7282a2ab7b7fb203b488c892fd08"
+ },
+ "988": {
+  "text": "I have one pen.",
+  "duration": 1.887,
+  "bytes": 6380,
+  "sha256": "45a0e2ae29629ae4acd9b77d5adc72c0b231fc604fb0cd97e57b0840c23b1db2"
+ },
+ "989": {
+  "text": "Tea or coffee?",
+  "duration": 1.818,
+  "bytes": 5993,
+  "sha256": "701d286d082f8426ee88ebf122ebf9a1554eb774217a283543768da50658c31f"
+ },
+ "990": {
+  "text": "This orange is sweet.",
+  "duration": 2.445,
+  "bytes": 8041,
+  "sha256": "a2fce78a56344a4b31441034dd8351f85918b105e410f84b4c183e8f3d9128b0"
+ },
+ "991": {
+  "text": "I want to order dinner.",
+  "duration": 2.305,
+  "bytes": 7861,
+  "sha256": "210a73189b247d07f3844578f1c4ed0b603d96248b4494982bd1588186ff134d"
+ },
+ "992": {
+  "text": "This is our school.",
+  "duration": 2.375,
+  "bytes": 7545,
+  "sha256": "0b46e40e030bbe1d8c090ee05a1988e0fe51418b616d5c274ee63da59a61412d"
+ },
+ "993": {
+  "text": "This is my pen.",
+  "duration": 2.027,
+  "bytes": 6740,
+  "sha256": "33fb885cbc8a4519fb2e50fb673ea04df35f0714e37d5af5427f35350cef7862"
+ },
+ "994": {
+  "text": "I play football.",
+  "duration": 2.096,
+  "bytes": 6633,
+  "sha256": "f87c2615a084612933be6a6cf76c27773d7ab3660731b3117987e8cfb5232a9b"
+ },
+ "995": {
+  "text": "Please sit down.",
+  "duration": 1.957,
+  "bytes": 6267,
+  "sha256": "4595f4f969679e5afc2e71f9a6bc201c7854b1b44ea7da6e848ee2adc61e5055"
+ },
+ "996": {
+  "text": "It will rain tomorrow.",
+  "duration": 2.375,
+  "bytes": 7804,
+  "sha256": "72761224c5845dc871760822bd94da77c321531c1b0a25659ec4f70d715be70e"
+ },
+ "997": {
+  "text": "It is raining now.",
+  "duration": 2.166,
+  "bytes": 7212,
+  "sha256": "c5a5015234d2b7397b659bb88a845793803e15ee1512339975cb486f47c7ab36"
+ },
+ "998": {
+  "text": "I read a book.",
+  "duration": 1.818,
+  "bytes": 5681,
+  "sha256": "42cc7bfd74e675b86bb4d7ef91574c85e646a8158ef660560c1219676fdb0ee1"
+ },
+ "999": {
+  "text": "The apple is red.",
+  "duration": 2.096,
+  "bytes": 6711,
+  "sha256": "252c6763bafe676f8c4477a68ae8e066ae4a7dd310aa88d18354b8922b0fa9d0"
+ },
+ "1000": {
+  "text": "I am tired, so I rest now.",
+  "duration": 2.723,
+  "bytes": 9495,
+  "sha256": "87296b3dac33cafeefc16e06364147b5ef6d9ea6027df959139bba8b3ad117b6"
+ },
+ "1001": {
+  "text": "The restaurant is near the park.",
+  "duration": 3.002,
+  "bytes": 10304,
+  "sha256": "bdb726d08880daa5ce69d5180809bfacbe1ee985a35ca0235637906b2df893a3"
+ },
+ "1002": {
+  "text": "The phone is ringing.",
+  "duration": 2.305,
+  "bytes": 7840,
+  "sha256": "8af4328c500a0693c4fb3bae8937de76bb660bb77ab724e24453bfc35f4a6ba7"
+ },
+ "1003": {
+  "text": "The road is long.",
+  "duration": 2.027,
+  "bytes": 6687,
+  "sha256": "4324485d7fc6551787f594b5c9104f1731f17960a51b7eb840f4713aae9e4900"
+ },
+ "1004": {
+  "text": "He is a fast runner.",
+  "duration": 2.375,
+  "bytes": 7749,
+  "sha256": "a3e4d7118e07983d9359c70ed67952050c94a23f0eed3f1dbefd1b1d9f60c216"
+ },
+ "1005": {
+  "text": "This park is safe for children.",
+  "duration": 2.932,
+  "bytes": 10181,
+  "sha256": "131822593ab487f92e1b090188973779de78782daac2e6242997f0ec3b2c5ee2"
+ },
+ "1006": {
+  "text": "Walking is safer than running here.",
+  "duration": 3.072,
+  "bytes": 10581,
+  "sha256": "162bd165769a176b9cde757a0ecdbdcb6f295fe24daa977947fe5d7c5f3befd0"
+ },
+ "1007": {
+  "text": "This is the safest road.",
+  "duration": 2.584,
+  "bytes": 8729,
+  "sha256": "e7aabe65511832a6bdde6cc530082b6e8daa687817ba6013fdd3e75da8bdd934"
+ },
+ "1008": {
+  "text": "Sam is my friend.",
+  "duration": 2.166,
+  "bytes": 7268,
+  "sha256": "71b3d0d1dbc362d4576e2828fbd9c0c17fcad64414b2db83d8f194823e2949bb"
+ },
+ "1009": {
+  "text": "I would like a sandwich.",
+  "duration": 2.514,
+  "bytes": 8418,
+  "sha256": "807dd026bc9eb8084f2eb48e91f4032257b4541a61a68b610d380108ee014abc"
+ },
+ "1010": {
+  "text": "Sara is kind.",
+  "duration": 1.887,
+  "bytes": 6554,
+  "sha256": "82d3d2fd40bddbdea13bae34b2e50f39efd33047fc5936f633dd982430d42ee3"
+ },
+ "1011": {
+  "text": "I visit them on Saturday.",
+  "duration": 2.584,
+  "bytes": 8758,
+  "sha256": "5fa8b2772e8c57308b66fc9cd9bb0c7bcb38ebaca131d6f45c16f571279c5d91"
+ },
+ "1012": {
+  "text": "He was sick yesterday.",
+  "duration": 2.445,
+  "bytes": 8080,
+  "sha256": "7198030f284af8b9d6f63f7bc32b274ef65b740d4a50ff010082caa8351f178d"
+ },
+ "1013": {
+  "text": "The bus is slow.",
+  "duration": 2.096,
+  "bytes": 6851,
+  "sha256": "ab38b2b4b02469a30eafb0365b56dd16a08ff7842c2490a0ecb2087500941fd2"
+ },
+ "1014": {
+  "text": "This is the smallest room.",
+  "duration": 2.723,
+  "bytes": 9074,
+  "sha256": "5900d8bd8c88980c79592e4cc4a7ae12740192ed2399d3ba0de6f385764b8205"
+ },
+ "1015": {
+  "text": "I like snow in winter.",
+  "duration": 2.305,
+  "bytes": 7855,
+  "sha256": "8a80e27b2e50682b2aafceaf279a132dd153664fdd76f798ce75b478d57981c8"
+ },
+ "1016": {
+  "text": "It is cold, so I wear a coat.",
+  "duration": 3.002,
+  "bytes": 10428,
+  "sha256": "7348e86f34ec13353c9d2a2218d563a4f34b7c1912df4928db33398c5386fe69"
+ },
+ "1017": {
+  "text": "I have some books.",
+  "duration": 2.166,
+  "bytes": 7172,
+  "sha256": "ad54b945486c055ff92ec3141d82ef29415c48b2ea1b370f524e5c38f6efdee0"
+ },
+ "1018": {
+  "text": "We stayed home yesterday.",
+  "duration": 2.514,
+  "bytes": 8543,
+  "sha256": "b7c9f65218d01d0fe47c579dceb9d034e8dd8d1c0cfc217f92207efad7c98ba1"
+ },
+ "1019": {
+  "text": "Today is sunny.",
+  "duration": 1.957,
+  "bytes": 6522,
+  "sha256": "b7891daab124b13cd37b44d9d9880789b4906df7198a02487dfcea62c6ede9a1"
+ },
+ "1020": {
+  "text": "The book is on the table.",
+  "duration": 2.514,
+  "bytes": 8704,
+  "sha256": "8bbe130009124b310e40acd5fe1cdc66a4861c38278f69506589811bbc34fa57"
+ },
+ "1021": {
+  "text": "He is tall.",
+  "duration": 1.748,
+  "bytes": 5477,
+  "sha256": "d051b3254774b1a03e405f73524b0bce19f9011249f87547aa3392f338b32070"
+ },
+ "1022": {
+  "text": "He is taller than his brother.",
+  "duration": 2.793,
+  "bytes": 9475,
+  "sha256": "23750210634263672f90b299a6d10d8678a617b6f32b6e8a42f1041b76596a77"
+ },
+ "1023": {
+  "text": "He is the tallest boy in class.",
+  "duration": 3.072,
+  "bytes": 11146,
+  "sha256": "d0e01f408e620a8f68610f2023fd41fc9a71b53095b2088da2f92659be2440b2"
+ },
+ "1024": {
+  "text": "Take a taxi, please.",
+  "duration": 2.445,
+  "bytes": 8670,
+  "sha256": "03bea904bd0c431d2b6078467307c13fd7d5b8d512e98c0cda187faa10399b18"
+ },
+ "1025": {
+  "text": "I drink tea.",
+  "duration": 1.748,
+  "bytes": 5720,
+  "sha256": "ceb4ac8a730ba8636d558c91193f92dc02ba085b452d01041c5e91b7c789679e"
+ },
+ "1026": {
+  "text": "She is a teacher.",
+  "duration": 2.166,
+  "bytes": 7038,
+  "sha256": "84a44e93a21412c933ef2a2728b8636cdae556cc47bc0f211828e383a791a17e"
+ },
+ "1027": {
+  "text": "Our teachers are kind.",
+  "duration": 2.445,
+  "bytes": 8079,
+  "sha256": "ab4a4796c6050d1f4a53d49e3e0b81e57d4e70c5301d59cfebb21322e4e11743"
+ },
+ "1028": {
+  "text": "Our team will win.",
+  "duration": 2.096,
+  "bytes": 7025,
+  "sha256": "e606e04457b6ecb99eef4ba247cb9b1ee77eed3b45b95a8e2194956b5a16b969"
+ },
+ "1029": {
+  "text": "Read the text again.",
+  "duration": 2.305,
+  "bytes": 7593,
+  "sha256": "bdda0425dacd258b5b47c3abe61b28982c95c00d86a816de2ff07304bae51458"
+ },
+ "1030": {
+  "text": "That is my book.",
+  "duration": 2.027,
+  "bytes": 6391,
+  "sha256": "7a54efc6ed4a907ba1297a1dc8453f5c91f7086fdafdd32c681b1fadaee7996e"
+ },
+ "1031": {
+  "text": "He is thin.",
+  "duration": 1.748,
+  "bytes": 5689,
+  "sha256": "ed8811ed5d215f0dbe4a1ee402d34660230ff351f4b8feb263a0e98849f8a8cb"
+ },
+ "1032": {
+  "text": "I think it will rain.",
+  "duration": 2.236,
+  "bytes": 7298,
+  "sha256": "9a3c4c45387354ef580d138eaabbd32fad2226889d873027a2c62c88ba3d5559"
+ },
+ "1033": {
+  "text": "He is thinner than his brother.",
+  "duration": 2.793,
+  "bytes": 9400,
+  "sha256": "5df25164ed1f3b5294a21fb941250b00bb14249277848681398d3adc9334e3aa"
+ },
+ "1034": {
+  "text": "He is the thinnest boy in class.",
+  "duration": 3.072,
+  "bytes": 10560,
+  "sha256": "3b729a8ecec2895e32bd7bd3cc8bd79c29f91fe4c15aeceab5d6688cd9c29085"
+ },
+ "1035": {
+  "text": "Those are birds.",
+  "duration": 2.027,
+  "bytes": 6540,
+  "sha256": "c4da1f5973a1e31aa96341e6d6f724734d5ca357a572de7e44ad208cbb374ba5"
+ },
+ "1036": {
+  "text": "We are tired.",
+  "duration": 1.818,
+  "bytes": 5909,
+  "sha256": "0e264da57cb95e920edda3467aeda2cb238dc57fb67f0b0291302bf4fa48f62e"
+ },
+ "1037": {
+  "text": "I will call you tomorrow.",
+  "duration": 2.445,
+  "bytes": 8046,
+  "sha256": "11f41a77280ede114d12c42d127a90e889f0800bcabab1996a30a89fe85b4654"
+ },
+ "1038": {
+  "text": "She studies tonight.",
+  "duration": 2.305,
+  "bytes": 7570,
+  "sha256": "0ad481cfa47966b38aa96845049f8c7081849aa43528ceff7159df72de5c37b3"
+ },
+ "1039": {
+  "text": "He took my pen.",
+  "duration": 1.887,
+  "bytes": 6326,
+  "sha256": "1272e94196d3d842ce8013fb770a0889b6a528867155e8d3a6730f9dd54dbbb3"
+ },
+ "1040": {
+  "text": "I travel by bus.",
+  "duration": 2.096,
+  "bytes": 6947,
+  "sha256": "3496e2964b920541e349886bdb972e7ece4c5035e2fbb26bb7d617f1500f28ef"
+ },
+ "1041": {
+  "text": "The teacher helps us.",
+  "duration": 2.375,
+  "bytes": 7812,
+  "sha256": "055e842c3ae847a883fde142830316af97249e7914f9f7412f95f24710cb8381"
+ },
+ "1042": {
+  "text": "I visit my aunt.",
+  "duration": 2.096,
+  "bytes": 6853,
+  "sha256": "47875719c41a09a54810aa497a8993300a6f2f7413ed5e3efe5e6d7c04772255"
+ },
+ "1043": {
+  "text": "I want tea.",
+  "duration": 1.748,
+  "bytes": 5615,
+  "sha256": "34fb33783fc3cbaeab69bb7ac21b4a8270887d67093957918e94656b4a9fe438"
+ },
+ "1044": {
+  "text": "I was tired yesterday.",
+  "duration": 2.375,
+  "bytes": 8005,
+  "sha256": "8a906fe0c789ed6b12ae5a3a3d2369e5ead65c789f5edaec0071e9575f365074"
+ },
+ "1045": {
+  "text": "The weather is nice today.",
+  "duration": 2.584,
+  "bytes": 8696,
+  "sha256": "3cbac817409890e28ea36c56d83548078d58508862cffce8ac752cfb0c4b7ffe"
+ },
+ "1046": {
+  "text": "I rest on weekends.",
+  "duration": 2.166,
+  "bytes": 7372,
+  "sha256": "07647b8304c3d102c713ac70d75eae8b46c6767aca9d4a3296887b0ed3391676"
+ },
+ "1047": {
+  "text": "What is this?",
+  "duration": 1.818,
+  "bytes": 5839,
+  "sha256": "7f4a0320c0c2ea839cf3fb66a7fa37db8677dd9c978ac6290af6025340588f5c"
+ },
+ "1048": {
+  "text": "I will help you.",
+  "duration": 1.887,
+  "bytes": 6182,
+  "sha256": "ccdbadc7569e38a230a180adbab12c78b960161eedfe997b4807848d6f7d9cb0"
+ },
+ "1049": {
+  "text": "Our team will win tomorrow.",
+  "duration": 2.654,
+  "bytes": 8824,
+  "sha256": "09fd5d2ba7933d294f2fe2c7cf5ca79d9b7307a463ff2baacd7b73da3953bb07"
+ },
+ "1050": {
+  "text": "The window is open.",
+  "duration": 2.166,
+  "bytes": 7304,
+  "sha256": "4e50300837afe2dcbafb30e2eeadc2b081fac1957b2c88029213df136597a3a4"
+ },
+ "1051": {
+  "text": "Our team won the game.",
+  "duration": 2.305,
+  "bytes": 7734,
+  "sha256": "8c468dbe8a8d26bde0b7645a80a7e83085c0e3e19aa449283017682c52a0552c"
+ },
+ "1052": {
+  "text": "She wore a red dress yesterday.",
+  "duration": 2.932,
+  "bytes": 10249,
+  "sha256": "3b98c17ee60996ecb8b5fe51878dadf5bade8cc80b3d5d97505c3819b5e08ce9"
+ },
+ "1053": {
+  "text": "I work every day.",
+  "duration": 2.027,
+  "bytes": 6769,
+  "sha256": "0a52e6839d6077b9788b9e6d026b6fa0ee6d2939b6757dfdd8b393bac47bc2e0"
+ },
+ "1054": {
+  "text": "He worked last night.",
+  "duration": 2.305,
+  "bytes": 7685,
+  "sha256": "878dee2d211a154be980760b8269de6e0aab06e6ec72d1adfb4496ec5c881735"
+ },
+ "1055": {
+  "text": "Today is worse than yesterday.",
+  "duration": 2.932,
+  "bytes": 10106,
+  "sha256": "17d437657ced42c49804a1394e76cf1fc109ef6e80c43ee7d3cc7e16264c3486"
+ },
+ "1056": {
+  "text": "This is the worst film.",
+  "duration": 2.514,
+  "bytes": 8363,
+  "sha256": "0b46b5dde17f8519d20fd4c6f663ab8d6eade361a1213884e4c266efc2081d1c"
+ },
+ "1057": {
+  "text": "I would like tea.",
+  "duration": 1.957,
+  "bytes": 6397,
+  "sha256": "086829d96953dfc9c419b4f38f37a6171de84d734bc0164751f6f38a332cc61a"
+ },
+ "1058": {
+  "text": "I write my name.",
+  "duration": 2.027,
+  "bytes": 6837,
+  "sha256": "323c99e9a5c6d4c1e82d84479844470377bd35e4a1838bdfe015c14b2580e94e"
+ },
+ "1059": {
+  "text": "Last year we visited Samarkand.",
+  "duration": 3.072,
+  "bytes": 10785,
+  "sha256": "0781d17d26eff88b339154cf65fe8b81ea2f73b6f2cbc4269ac7a6f200905128"
+ },
+ "1060": {
+  "text": "We worked yesterday.",
+  "duration": 2.166,
+  "bytes": 7358,
+  "sha256": "40827a407aaefdbc176caa6122e6f72387940aee7106be9f83e8b162807d5630"
+ },
+ "1061": {
+  "text": "This is your book.",
+  "duration": 2.166,
+  "bytes": 6946,
+  "sha256": "deda11d5ed37c148dfced27e182c0dc7c9f56b1acbbaba81f044fd5910744b49"
+ },
+ "1062": {
+  "text": "She ate an orange.",
+  "duration": 2.096,
+  "bytes": 7025,
+  "sha256": "ea81865399e4fb75609edd605aabb31c9fbc16697d34be77f2169407d79e6d7b"
+ },
+ "1063": {
+  "text": "My aunt is kind.",
+  "duration": 2.096,
+  "bytes": 6912,
+  "sha256": "1df74796b3124502cc9c10609edbcddd5f1824c5449d49617a2e0d225cd6ee2f"
+ },
+ "1064": {
+  "text": "My mother is cooking dinner.",
+  "duration": 2.723,
+  "bytes": 9284,
+  "sha256": "b6bc916cd435563f977d2351202f57423291e77f34c3a785d1f9ab93efcb0a64"
+ },
+ "1065": {
+  "text": "I read every day.",
+  "duration": 2.027,
+  "bytes": 6624,
+  "sha256": "67b930fa0d162a6208f5f6d531472ad88f0ef352160d522ad323753d689d5f44"
+ },
+ "1066": {
+  "text": "I drink milk.",
+  "duration": 1.818,
+  "bytes": 5808,
+  "sha256": "a51e35fdcece2e70d782aa2a76814a699cbe974348d629814dd53642eca99a10"
+ },
+ "1067": {
+  "text": "The sun rises in the east.",
+  "duration": 2.654,
+  "bytes": 9143,
+  "sha256": "8c97456659055483d9fedd1b95696dcac265ab39106ab94b6e310011ce526fa0"
+ },
+ "1068": {
+  "text": "I eat rice.",
+  "duration": 1.748,
+  "bytes": 5656,
+  "sha256": "d54b752ae8a4185101f45e5659464b46cd7ff7c7c142ded11dfbf1095a7522c4"
+ },
+ "1069": {
+  "text": "Every day I read.",
+  "duration": 2.096,
+  "bytes": 6922,
+  "sha256": "6a3db4e5989b6db7d1bf46913a308b1792e4b5494e81c1fcb3da78e0158f07b0"
+ },
+ "1070": {
+  "text": "I go to school.",
+  "duration": 1.957,
+  "bytes": 6194,
+  "sha256": "7af7e181d2f35c67dc181b56906f6e1929b5ea0372c524c39f52f044a420616a"
+ },
+ "1071": {
+  "text": "They had a good day.",
+  "duration": 2.166,
+  "bytes": 6936,
+  "sha256": "0c290af5932fd85154105a63033c5e913b3ff9a4a50c54d12fdcef24e35eddbc"
+ },
+ "1072": {
+  "text": "She is happy.",
+  "duration": 1.818,
+  "bytes": 5764,
+  "sha256": "15ed6f54ba9a2b8b1d017bd25c672db512b78766314eec72bb0184513b9ad6de"
+ },
+ "1073": {
+  "text": "I have a pen.",
+  "duration": 1.818,
+  "bytes": 5903,
+  "sha256": "e4c4860ae5a194019affd230c47d8cca0e213fe253cfc3752ac7afb95b0196e6"
+ },
+ "1074": {
+  "text": "I need help.",
+  "duration": 1.748,
+  "bytes": 5472,
+  "sha256": "fef96eda65b1da26d5232cbb54110087615ea0f203133f9fae47b4a6df0ee1c7"
+ },
+ "1075": {
+  "text": "I am at home.",
+  "duration": 1.818,
+  "bytes": 6041,
+  "sha256": "072caa1eb3a965a77b88bc4a713bb1724129d0d76570296f67c962df6dd827e1"
+ },
+ "1076": {
+  "text": "They are playing at the moment.",
+  "duration": 2.793,
+  "bytes": 9217,
+  "sha256": "42c7394e6cbb56f146f6e5976cbecf8a2fc9eef3a8a15d39b9ab3eeacbaded43"
+ },
+ "1077": {
+  "text": "I get up in the morning.",
+  "duration": 2.375,
+  "bytes": 7702,
+  "sha256": "e20e8fcd92e225c8848362f19decc4c96fe87f5c93c05fb0a3270b0b2de30f2e"
+ },
+ "1078": {
+  "text": "This is my book.",
+  "duration": 2.096,
+  "bytes": 6647,
+  "sha256": "aa9ef2df92013a14602a502c5d374f3e869a3b318b279d1e1ffcf4580229cfe9"
+ },
+ "1079": {
+  "text": "I am reading now.",
+  "duration": 1.957,
+  "bytes": 6464,
+  "sha256": "bf99c85f37d6b9f5f8f7681f6b8d69d69e79579da726ac022d3b802137bc6e16"
+ },
+ "1080": {
+  "text": "They play football.",
+  "duration": 2.236,
+  "bytes": 7106,
+  "sha256": "02edb89b776a553e9a8d2faa59b91c7927bc00330f2c1fba3509dcb66d8ef9f7"
+ },
+ "1081": {
+  "text": "They played chess yesterday.",
+  "duration": 2.654,
+  "bytes": 9246,
+  "sha256": "da13d361e41f214a4e46d6f89cf55b3168c71defc549875c88469ec5302d181f"
+ },
+ "1082": {
+  "text": "They are playing now.",
+  "duration": 2.236,
+  "bytes": 7247,
+  "sha256": "a0940db414e9f5beaaf44065644e480a11036cfd204bc45d18b1ee15b1e285f6"
+ },
+ "1083": {
+  "text": "I like rain.",
+  "duration": 1.748,
+  "bytes": 5809,
+  "sha256": "0f8e1d18f82f0393491103a93752a78cfe69d7e4155195eb6fbc9ba891a20dc4"
+ },
+ "1084": {
+  "text": "She is reading now.",
+  "duration": 2.166,
+  "bytes": 7148,
+  "sha256": "04369263d528816334e5d67ef9ecab36babf8f3e896e3a3ecc4ee37987b9679a"
+ },
+ "1085": {
+  "text": "The sun rises early.",
+  "duration": 2.375,
+  "bytes": 8023,
+  "sha256": "3456bdbd0bc3a94a353d4a6a84ac7c68749dae98d2cb2d2a309979e0502de6cc"
+ },
+ "1086": {
+  "text": "They saw the film.",
+  "duration": 2.027,
+  "bytes": 6671,
+  "sha256": "ccc8a57fdf51e4d7352b071ff7fd421b8c6899d36187a70b5a57ff80ad5cad21"
+ },
+ "1087": {
+  "text": "I see a bird.",
+  "duration": 1.818,
+  "bytes": 5846,
+  "sha256": "d77b95784520bb5eaedfb65e2a03763ca61879e86b9157725d6449b5c4aae025"
+ },
+ "1088": {
+  "text": "The baby is sleeping.",
+  "duration": 2.445,
+  "bytes": 8058,
+  "sha256": "bfb5c3a8a98846385754e635ee72af2433ff4a1d0c5de2f07a7e05ee26e95dd9"
+ },
+ "1089": {
+  "text": "She studied English yesterday.",
+  "duration": 2.863,
+  "bytes": 9863,
+  "sha256": "9efb5a651a975e6d4c42772352d3fca36a01ed94386b834dd5cf15a97f80560e"
+ },
+ "1090": {
+  "text": "I study English.",
+  "duration": 2.027,
+  "bytes": 6651,
+  "sha256": "5667ca757972e36a74ec52b7ccf45b2da2df5c5bce2181c45cf1ec8f86664901"
+ },
+ "1091": {
+  "text": "The sun is hot.",
+  "duration": 1.957,
+  "bytes": 6227,
+  "sha256": "c32f55984140533dffb4f42c0113c789936615b945b2c1aceccef7af44959ec2"
+ },
+ "1092": {
+  "text": "I drink tea.",
+  "duration": 1.748,
+  "bytes": 6134,
+  "sha256": "5f2c2748923b49c2dc46f6f66b8476c43e44d5075ee969e6f9895126a23f431c"
+ },
+ "1093": {
+  "text": "I think it will rain.",
+  "duration": 2.236,
+  "bytes": 7387,
+  "sha256": "d7cea5686432f349c973011de40da8589408ec810ae7a3ae463b6b5a1dabee7a"
+ },
+ "1094": {
+  "text": "We were tired last night.",
+  "duration": 2.514,
+  "bytes": 8425,
+  "sha256": "3ad00c0992ea661433f1265872976140c18ccce7e02e1a6d3672d0725997873c"
+ },
+ "1095": {
+  "text": "I will call you tomorrow.",
+  "duration": 2.445,
+  "bytes": 8253,
+  "sha256": "78f8fe9b709881f6f52a8a9d295125892995330f9e70e2570038d697c1fdc89a"
+ },
+ "1096": {
+  "text": "She studies tonight.",
+  "duration": 2.305,
+  "bytes": 7536,
+  "sha256": "50efaa3f2ebae012751ae3a5f0a37f122096fcbcca26b9a58c868baa7080db90"
+ },
+ "1097": {
+  "text": "I visit my aunt.",
+  "duration": 2.096,
+  "bytes": 7106,
+  "sha256": "60d6909255c4c55cd5812a176b82a810109c518785c9f453814b8bd7c88df4a8"
+ },
+ "1098": {
+  "text": "We went to school by bus.",
+  "duration": 2.654,
+  "bytes": 9250,
+  "sha256": "b8998980eeee72f277722bf19ec92c48e8b661df4e784506ad4eeff0658bcc8e"
+ },
+ "1099": {
+  "text": "I work every day.",
+  "duration": 2.027,
+  "bytes": 6673,
+  "sha256": "0ecffcafe08131cc94c0bc8d3e9d814db2844e71239522cae4fa48fa61e76bd7"
+ },
+ "1100": {
+  "text": "He worked last night.",
+  "duration": 2.305,
+  "bytes": 7962,
+  "sha256": "7701ab722b3548661e71871eeb7d721389120e8187a0ffe91e92f1cf6ca7743a"
+ },
+ "1101": {
+  "text": "She is working now.",
+  "duration": 2.166,
+  "bytes": 7253,
+  "sha256": "45dd8dba692abd23a386f8a3f72c923e844336379183fd6b9d363e964d1154c8"
+ },
+ "1102": {
+  "text": "He works here.",
+  "duration": 1.818,
+  "bytes": 6085,
+  "sha256": "32a43a32ab2a57d61e5df291a1b5f16a85b9553a510839635c3a5ec4c18b269a"
+ },
+ "1103": {
+  "text": "We worked yesterday.",
+  "duration": 2.166,
+  "bytes": 7270,
+  "sha256": "ad5ae11bfae379139958d2768983fb9873a8534a8749b9520d075fdb8d3ae261"
+ },
+ "1104": {
+  "text": "I have eight pens.",
+  "duration": 2.096,
+  "bytes": 6833,
+  "sha256": "29e485ae62d81ac8c6fdac18527b9838316be0f7399ae4b8dbc8d2853f1a8142"
+ },
+ "1105": {
+  "text": "He is eighteen years old.",
+  "duration": 2.584,
+  "bytes": 8651,
+  "sha256": "ba8f5d0df22d861cf066f26c092b178eb3b9816b5a55530340d337b158eba369"
+ },
+ "1106": {
+  "text": "My father is eighty years old.",
+  "duration": 2.932,
+  "bytes": 9980,
+  "sha256": "6269e137315ab3781a459e5515e5729f6807b33de88ff5da2b936ef4d4dae66f"
+ },
+ "1107": {
+  "text": "He is eleven years old.",
+  "duration": 2.514,
+  "bytes": 8742,
+  "sha256": "cfb97e798ba554d2e5e2763d06b88b48ab9db8b8a52f8fb0fc08cd7a8a993324"
+ },
+ "1108": {
+  "text": "There are fifteen students in class.",
+  "duration": 3.35,
+  "bytes": 12418,
+  "sha256": "86ad6ca815043428e636d0bd1e18b335c625d1acacaff75899a77b8d90229f4e"
+ },
+ "1109": {
+  "text": "My grandmother is fifty years old.",
+  "duration": 3.211,
+  "bytes": 11568,
+  "sha256": "c79a78ebd985b1f4b3867fa2d8442fbe2f2703450e59c9843dc868cbb8e67c5a"
+ },
+ "1110": {
+  "text": "I have five books.",
+  "duration": 2.166,
+  "bytes": 7066,
+  "sha256": "0cd1e75c191622679cc26d32ec949f0d4e57d5126cd3feb65346b3dcd275659a"
+ },
+ "1111": {
+  "text": "He is forty years old.",
+  "duration": 2.445,
+  "bytes": 8207,
+  "sha256": "4ba9e9d0f805d8ca998d596952ef9b53ceec9aa8213887b659e6ae3fb78db956"
+ },
+ "1112": {
+  "text": "I am forty-seven years old.",
+  "duration": 2.863,
+  "bytes": 9986,
+  "sha256": "21497fde948b76f2d5974bbd4996c64a921d62dbfd7c741fb2fd1065e373924e"
+ },
+ "1113": {
+  "text": "I have four pens.",
+  "duration": 2.027,
+  "bytes": 6815,
+  "sha256": "8793f6546efcce85b6a3784504f61fb89ca2e4a19177cd629e584976e304e998"
+ },
+ "1114": {
+  "text": "She is fourteen years old.",
+  "duration": 2.654,
+  "bytes": 8760,
+  "sha256": "4e177bcea8c2bfc7996416ab0651a017f98ccc2c9f0e1c569b2c67248508ac95"
+ },
+ "1115": {
+  "text": "I have nine books.",
+  "duration": 2.166,
+  "bytes": 7066,
+  "sha256": "9f2c57f22c826ebcc803df6b0ba2e909ae64d2a937af7364cd2b535b9d51d4c5"
+ },
+ "1116": {
+  "text": "She is nineteen years old.",
+  "duration": 2.654,
+  "bytes": 8972,
+  "sha256": "0989f61c53e01fbb59966f5a086fc1fd9ae876b26d5627128cc278fe64326648"
+ },
+ "1117": {
+  "text": "He is ninety years old.",
+  "duration": 2.445,
+  "bytes": 8483,
+  "sha256": "4a572bf2a9930ec023eb7e483803b3bfd0f2cd288685b52d642202086c4d9de6"
+ },
+ "1118": {
+  "text": "I have ninety-nine books.",
+  "duration": 2.584,
+  "bytes": 8842,
+  "sha256": "95d2d89c99d26f66e78fe3ea0a66b59239becb64a80b6eb7f6d1005c7f6f2dfa"
+ },
+ "1119": {
+  "text": "My number is nine-oh-five.",
+  "duration": 2.793,
+  "bytes": 9658,
+  "sha256": "b4fb4f4ce1fee12dc341582553bf6c691a7933fa9bd80cec807d5bb6b985bea4"
+ },
+ "1120": {
+  "text": "I have one pen.",
+  "duration": 1.887,
+  "bytes": 6213,
+  "sha256": "7ec505384e587b240e9ef77e4aecfc2dfbeff3e4d1b3cbcc9bfd6adca262c676"
+ },
+ "1121": {
+  "text": "I have one hundred books.",
+  "duration": 2.514,
+  "bytes": 8271,
+  "sha256": "564e8ae77337499cf0a6485549d0704abc2a334264076c6266d4af0ab104d466"
+ },
+ "1122": {
+  "text": "I have seven books.",
+  "duration": 2.305,
+  "bytes": 7564,
+  "sha256": "0e6d5fc75e9662b6d51a77a136d296c51eb6e0addb447f5710e82d403a3404ca"
+ },
+ "1123": {
+  "text": "She is seventeen years old.",
+  "duration": 2.723,
+  "bytes": 9249,
+  "sha256": "6e9f86f86210b0addce31f07f486c545d167d8433a54ca6c7d49e79191976f5c"
+ },
+ "1124": {
+  "text": "He is seventy years old.",
+  "duration": 2.584,
+  "bytes": 8638,
+  "sha256": "447262c510c43ce00d53d2e38cc381a537913faf9f6fbaf1cf69b2b883426f75"
+ },
+ "1125": {
+  "text": "I have six pens.",
+  "duration": 2.166,
+  "bytes": 7033,
+  "sha256": "a26e9b23925a83ef561ce75e4ad89c5c0f0ad0bab56870a9347f74cedc26b7aa"
+ },
+ "1126": {
+  "text": "She is sixteen years old.",
+  "duration": 2.654,
+  "bytes": 8846,
+  "sha256": "6dcbcd05f755355f25d01ab56e4770452445413fc3ef5651932a425a918ecef7"
+ },
+ "1127": {
+  "text": "He is sixty years old.",
+  "duration": 2.514,
+  "bytes": 8330,
+  "sha256": "8edfd810eb8919d611199390f889cc13dc040998a0faa58acd2992ad755d4639"
+ },
+ "1128": {
+  "text": "I have ten pens.",
+  "duration": 1.957,
+  "bytes": 6693,
+  "sha256": "71acc2f55479e013ac8972d9bd77ab6df6aa13f907c61d0f7a9c768da583887d"
+ },
+ "1129": {
+  "text": "She is thirteen years old.",
+  "duration": 2.584,
+  "bytes": 8869,
+  "sha256": "ef995a2a6fa7174b5e0438c094281b512276d3399900798bbaffdbe67e5712ea"
+ },
+ "1130": {
+  "text": "He is thirty years old.",
+  "duration": 2.445,
+  "bytes": 8290,
+  "sha256": "3738b473fb9847f6c00886a4096413f1cf97d555db5779d0bcd6f57b313f7cfe"
+ },
+ "1131": {
+  "text": "I have thirty-three books.",
+  "duration": 2.584,
+  "bytes": 8605,
+  "sha256": "00f8f5e026571ffbb889f16264b8b7c06436abdf812c8d31358668dc703a54e4"
+ },
+ "1132": {
+  "text": "I have three boxes.",
+  "duration": 2.166,
+  "bytes": 7368,
+  "sha256": "a93d085926ee9078dfda0704a2eeffe266ebc6fc91d76ead9e8785332d3b21d7"
+ },
+ "1133": {
+  "text": "She is twelve years old.",
+  "duration": 2.514,
+  "bytes": 8380,
+  "sha256": "85ae6b61526d3b0db0748bf4242d5ad2df8ec1f482a6b43259e2bf6dfc96e6aa"
+ },
+ "1134": {
+  "text": "He is twenty years old.",
+  "duration": 2.445,
+  "bytes": 8235,
+  "sha256": "e5520c999857f6f36234245cc8fc3d4e0651ec03f7b28e09d46c189b4098deb6"
+ },
+ "1135": {
+  "text": "I am twenty-one years old.",
+  "duration": 2.654,
+  "bytes": 9213,
+  "sha256": "edc0d127278b368fb6a878739751d4c0d814a9cffddfb241f05c7529e96b0508"
+ },
+ "1136": {
+  "text": "I have two sisters.",
+  "duration": 2.305,
+  "bytes": 7743,
+  "sha256": "9b55174e49216efd163c751db6225b68758ebb3db16c2aae7b254a703d80fa03"
+ },
+ "1137": {
+  "text": "Zero is a number.",
+  "duration": 2.166,
+  "bytes": 7295,
+  "sha256": "bf3834a1a06b289427c2dacada1c063ff6a3f8c3e8a901b975d633b0b0206a2e"
+ }
+}

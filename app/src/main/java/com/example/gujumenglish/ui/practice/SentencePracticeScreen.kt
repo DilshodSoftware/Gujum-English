@@ -826,21 +826,21 @@ private fun SpeedSelector(
         SpeedSegment(
             speed = SentenceAudioSpeed.SLOW,
             selectedSpeed = selectedSpeed,
-            label = "0.75×",
+            label = "0.65×",
             onSpeedSelected = onSpeedSelected,
             modifier = Modifier.weight(1f)
         )
         SpeedSegment(
             speed = SentenceAudioSpeed.NORMAL,
             selectedSpeed = selectedSpeed,
-            label = "1.0×",
+            label = "0.80×",
             onSpeedSelected = onSpeedSelected,
             modifier = Modifier.weight(1f)
         )
         SpeedSegment(
             speed = SentenceAudioSpeed.FAST,
             selectedSpeed = selectedSpeed,
-            label = "1.25×",
+            label = "0.90×",
             onSpeedSelected = onSpeedSelected,
             modifier = Modifier.weight(1f)
         )

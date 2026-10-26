@@ -8,7 +8,7 @@ import android.util.Log
  * Kartalar uchun audio player.
  *
  * Kartalar `audioFile` maydonida to'liq asset yo'lini saqlaydi
- * (masalan `grammar/UnitAllLessons/unit_0/unit_0_sentence_opus/s002_075.opus`).
+ * (masalan `audio/s002_080.opus`).
  */
 class CardAudioPlayer(context: Context) : AutoCloseable {
     private val appContext = context.applicationContext

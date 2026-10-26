@@ -7,9 +7,9 @@ private const val AUDIO_ASSET_ROOT = "audio"
 private const val AUDIO_STORAGE_DIRECTORY = "audio"
 
 enum class SentenceAudioSpeed(val code: String) {
-    SLOW("070"),
+    SLOW("065"),
     NORMAL("080"),
-    FAST("095")
+    FAST("090")
 }
 
 sealed interface SentenceAudioSource {

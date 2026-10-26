@@ -16,10 +16,12 @@ import json
 import os
 import re
 import shutil
+import sqlite3
 
 PROJ = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 GR = f"{PROJ}/app/src/main/assets/grammar/UnitAllLessons"
 OUT = f"{PROJ}/app/src/main/assets/cards_content.json"
+DB = f"{PROJ}/app/src/main/assets/dictionary.db"
 
 BE = {"am", "is", "are"}
 PREPS = {"in", "on", "at", "to", "for", "with", "from", "by"}
@@ -161,11 +163,33 @@ def he_she_blank(en):
 
 # ---------------------------------------------------------------- audio
 
-def audio_path(unit, line_no):
-    """unit_0/s002_075.opus -> grammar/UnitAllLessons/unit_0/unit_0_sentence_opus/s002_075.opus"""
-    p = f"{GR}/unit_{unit}/unit_{unit}_sentence_opus/s{line_no:03d}_075.opus"
-    if os.path.exists(p):
-        return p.replace(f"{PROJ}/app/src/main/assets/", "")
+_DB_BY_TEXT = None
+
+
+def normalize_sentence(s):
+    s = re.sub(r"<[^>]+>", "", s or "")
+    return re.sub(r"[^a-z0-9 ]", "", s.lower()).strip()
+
+
+def db_by_text():
+    global _DB_BY_TEXT
+    if _DB_BY_TEXT is None:
+        con = sqlite3.connect(DB)
+        _DB_BY_TEXT = {}
+        for i, t in con.execute("SELECT id, sentence FROM dictionary ORDER BY id"):
+            _DB_BY_TEXT.setdefault(normalize_sentence(t), []).append(i)
+        con.close()
+    return _DB_BY_TEXT
+
+
+def audio_path(en):
+    """Gap matniga mos DB id bo'yicha korpus audiosi: audio/sNNN_080.opus."""
+    ids = db_by_text().get(normalize_sentence(en))
+    if not ids:
+        return None
+    rel = f"audio/s{ids[0]:03d}_080.opus"
+    if os.path.exists(f"{PROJ}/app/src/main/assets/{rel}"):
+        return rel
     return None
 
 
@@ -212,7 +236,7 @@ def main():
         for line_no, en, uz in load_sentences(unit):
             # Darsni topish: unit_0 = 1..6, unit_1 = 7..18, unit_2 = 19..28 ...
             lesson = unit_to_lesson(unit, line_no)
-            au = audio_path(unit, line_no)
+            au = audio_path(en)
             for fn, tag in (
                 (be_blank, "verb_to_be"),
                 (aan_blank, "article"),

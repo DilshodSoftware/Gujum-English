@@ -22,3 +22,7 @@ session-*.md
 .~lock.*.docx#
 .~lock.*.xlsx#
 .~lock.*.pptx#
+
+# Python keshi
+__pycache__/
+*.pyc
