@@ -341,14 +341,6 @@ private fun SoftGrammarLessonRow(
     val available = topic.assetName != null
     val practice = topic.isPractice
     val test = topic.isTest
-    val context = LocalContext.current
-    // Nazariya darslar uchun qiyinlik darajasi (0-10); amaliyot/test uchun yo'q.
-    val lessonNumber = topic.number.substringBefore(".").toIntOrNull()
-    val difficulty = if (!practice && !test && lessonNumber != null) {
-        LessonDifficulty.of(context, lessonNumber)?.difficulty
-    } else {
-        null
-    }
 
     Surface(
         modifier = Modifier
@@ -400,38 +392,13 @@ private fun SoftGrammarLessonRow(
                     style = MaterialTheme.typography.labelSmall,
                     color = MaterialTheme.colorScheme.onSurfaceVariant
                 )
-            } else if (difficulty != null) {
-                Spacer(modifier = Modifier.width(8.dp))
-                DifficultyBadge(difficulty = difficulty)
             }
         }
     }
 }
 
-/** Qiyinlik darajasi nishoni: rangli doira + ball. */
-@Composable
-private fun DifficultyBadge(difficulty: Float) {
-    val color = Color(LessonDifficulty.colorFor(difficulty))
-    Row(verticalAlignment = Alignment.CenterVertically) {
-        Box(
-            modifier = Modifier
-                .size(9.dp)
-                .clip(CircleShape)
-                .background(color)
-        )
-        Spacer(modifier = Modifier.width(5.dp))
-        Text(
-            text = String.format("%.1f", difficulty),
-            style = MaterialTheme.typography.labelSmall,
-            fontWeight = FontWeight.Bold,
-            color = color
-        )
-    }
-}
-
 /**
- * 4-darajali to'plamlar: darslar bo'limlari qiyinlik bo'yicha aralashtirilib,
- * har bir to'plamning o'rtacha qiyinligi 4.0 ga yaqin bo'lib guruhlangan.
+ * O'quv to'plamlari: darslar bo'limlari muvozanatlab guruhlangan.
  */
 @Composable
 private fun SoftGrammarGroupsIntro(groupCount: Int) {
@@ -448,26 +415,24 @@ private fun SoftGrammarGroupsIntro(groupCount: Int) {
             letterSpacing = 1.8.sp
         )
         Text(
-            text = "4-darajali o‘quv to‘plamlari",
+            text = "O‘quv to‘plamlari",
             style = MaterialTheme.typography.headlineSmall,
             fontWeight = FontWeight.Bold,
             color = scheme.onSurface
         )
         Text(
-            text = "$groupCount ta to‘plam. Har birida oson va qiyin bo‘limlar " +
-                "muvozanatlanadi, shuning uchun barcha to‘plamlar bir xil (4.0) " +
-                "darajada o‘qiladi.",
+            text = "$groupCount ta to‘plam. Har birida bo‘limlar muvozanatlab " +
+                "guruhlangan.",
             style = MaterialTheme.typography.bodyMedium,
             color = scheme.onSurfaceVariant
         )
     }
 }
 
-/** Bitta to‘plam: sarlavha (daraja + ball) va uning bo‘limlari. */
+/** Bitta to‘plam: sarlavha va uning bo‘limlari. */
 @Composable
 private fun SoftGrammarGroupCard(group: LessonGroups.Group) {
     val scheme = MaterialTheme.colorScheme
-    val color = Color(LessonDifficulty.colorFor(group.difficulty))
     Surface(
         shape = RoundedCornerShape(16.dp),
         color = scheme.surfaceContainerLow
@@ -489,18 +454,9 @@ private fun SoftGrammarGroupCard(group: LessonGroups.Group) {
                     style = MaterialTheme.typography.labelSmall,
                     color = scheme.onSurfaceVariant
                 )
-                Spacer(modifier = Modifier.width(10.dp))
-                DifficultyBadge(difficulty = group.difficulty)
             }
             group.sections.forEach { s ->
                 Row(verticalAlignment = Alignment.CenterVertically) {
-                    Box(
-                        modifier = Modifier
-                            .size(7.dp)
-                            .clip(CircleShape)
-                            .background(Color(LessonDifficulty.colorFor(s.difficulty)))
-                    )
-                    Spacer(modifier = Modifier.width(8.dp))
                     Text(
                         text = "${s.lesson}-dars",
                         style = MaterialTheme.typography.labelSmall,
@@ -514,12 +470,6 @@ private fun SoftGrammarGroupCard(group: LessonGroups.Group) {
                         maxLines = 2,
                         overflow = TextOverflow.Ellipsis,
                         modifier = Modifier.weight(1f)
-                    )
-                    Spacer(modifier = Modifier.width(8.dp))
-                    Text(
-                        text = String.format("%.1f", s.difficulty),
-                        style = MaterialTheme.typography.labelSmall,
-                        color = scheme.onSurfaceVariant
                     )
                 }
             }
